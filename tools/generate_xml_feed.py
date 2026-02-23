@@ -116,9 +116,11 @@ def resolve_image(product: dict) -> str:
 
 
 def clean_title(title: str) -> str:
-    """Remove price suffix and apply proper Title Case."""
+    """Remove price suffix, strip product codes (MM852 etc.), apply proper Title Case."""
     # Strip "from US$X,XXX" / "desde US$X,XXX" / "desde $X,XXX"
     title = re.sub(r'\s+(?:from|desde)\s+(?:US\$|\$)[\d,\.]+.*$', '', title, flags=re.I).strip()
+    # Strip leading product codes like MM852, MM849, MM801, etc.
+    title = re.sub(r'^MM\d+\s*', '', title, flags=re.I).strip()
     # Words that stay lowercase unless they start the title
     LOWERCASE = {
         'de', 'del', 'la', 'el', 'los', 'las', 'y', 'e', 'o', 'u',
@@ -127,10 +129,7 @@ def clean_title(title: str) -> str:
     words = title.split()
     result = []
     for i, word in enumerate(words):
-        # Keep product codes like MM852, MM833 uppercase
-        if re.match(r'^MM\d+$', word, re.I):
-            result.append(word.upper())
-        elif i > 0 and word.lower() in LOWERCASE:
+        if i > 0 and word.lower() in LOWERCASE:
             result.append(word.lower())
         else:
             result.append(word.capitalize())
