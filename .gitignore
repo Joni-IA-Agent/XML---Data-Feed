@@ -1,0 +1,19 @@
+# Temporary scrape outputs (regenerated daily)
+.tmp/
+
+# Environment variables & credentials
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# macOS
+.DS_Store
