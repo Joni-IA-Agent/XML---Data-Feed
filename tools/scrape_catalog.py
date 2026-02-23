@@ -231,7 +231,7 @@ def discover_idea_urls(session: requests.Session, max_ideas: int) -> List[str]:
 
 # ── Scraping individual idea pages ────────────────────────────────────────────
 def scrape_idea_page(session: requests.Session, url: str) -> Optional[dict]:
-    """Fetch an idea page and extract title, description, og:image, price."""
+    """Fetch an idea page and extract title, description, og:image, price, nights, dates."""
     resp = fetch_with_retry(session, url)
     if not resp:
         return None
@@ -253,19 +253,45 @@ def scrape_idea_page(session: requests.Session, url: str) -> Optional[dict]:
             price = p
             break
 
+    # Nights: "Nights 17" or "17 Nights"
+    nights: Optional[int] = None
+    nights_node = soup.find(string=re.compile(r'Nights?\s+\d+|\d+\s+Nights?', re.I))
+    if nights_node:
+        m = re.search(r'Nights?\s+(\d+)|(\d+)\s+Nights?', nights_node, re.I)
+        if m:
+            nights = int(m.group(1) or m.group(2))
+
+    # Dates: "15 Apr 2026 - 19 Apr 2026"
+    departure_date: Optional[str] = None
+    return_date: Optional[str] = None
+    date_range_node = soup.find(
+        string=re.compile(r'\d{1,2}\s+\w+\s+\d{4}\s*[-–]\s*\d{1,2}\s+\w+\s+\d{4}')
+    )
+    if date_range_node:
+        m = re.search(
+            r'(\d{1,2}\s+\w+\s+\d{4})\s*[-–]\s*(\d{1,2}\s+\w+\s+\d{4})',
+            date_range_node
+        )
+        if m:
+            departure_date = m.group(1)
+            return_date    = m.group(2)
+
     slug   = url.rstrip("/").split("/")[-1]
     region = infer_region(slug + " " + title)
     ptype  = infer_product_type(slug, title)
 
     return {
-        "title":       title[:150],
-        "description": description[:1000] if description else title,
-        "image_link":  image_link,
-        "price":       price,
-        "link":        url,
-        "region":      region,
-        "slug":        slug,
-        "type":        ptype,
+        "title":          title[:150],
+        "description":    description[:1000] if description else title,
+        "image_link":     image_link,
+        "price":          price,
+        "link":           url,
+        "region":         region,
+        "slug":           slug,
+        "type":           ptype,
+        "nights":         nights,
+        "departure_date": departure_date,
+        "return_date":    return_date,
     }
 
 
@@ -294,15 +320,18 @@ def main():
             continue
 
         products.append({
-            "id":          idea_id,
-            "type":        data["type"],
-            "title":       data["title"],
-            "description": data["description"],
-            "link":        data["link"],         # real idea URL → g:link
-            "image_link":  data["image_link"],   # og:image      → g:image_link
-            "price":       data["price"],
-            "region":      data["region"],
-            "slug":        data["slug"],
+            "id":             idea_id,
+            "type":           data["type"],
+            "title":          data["title"],
+            "description":    data["description"],
+            "link":           data["link"],           # real idea URL → g:link
+            "image_link":     data["image_link"],     # og:image      → g:image_link
+            "price":          data["price"],
+            "region":         data["region"],
+            "slug":           data["slug"],
+            "nights":         data["nights"],
+            "departure_date": data["departure_date"],
+            "return_date":    data["return_date"],
         })
 
     # 3. Save

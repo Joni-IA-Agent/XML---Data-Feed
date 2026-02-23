@@ -115,28 +115,26 @@ def resolve_image(product: dict) -> str:
     return DESTINATION_IMAGES["DEFAULT"]
 
 
-def price_range_label(price: Optional[float]) -> str:
-    if price is None:
-        return "Consultar"
-    if price < 500:
-        return "Hasta $500"
-    elif price < 1000:
-        return "$500-$1000"
-    elif price < 3000:
-        return "$1000-$3000"
-    else:
-        return "+$3000"
-
-
-def infer_season(title: str, slug: str) -> str:
-    combined = (title + " " + slug).lower()
-    if "semana santa" in combined or "semana-santa" in combined:
-        return "Semana Santa"
-    if "2026" in combined:
-        return "2026"
-    if "navidad" in combined or "fin-de-año" in combined or "fin-de-ano" in combined:
-        return "Navidad / Fin de Año"
-    return "Todo el año"
+def clean_title(title: str) -> str:
+    """Remove price suffix and apply proper Title Case."""
+    # Strip "from US$X,XXX" / "desde US$X,XXX" / "desde $X,XXX"
+    title = re.sub(r'\s+(?:from|desde)\s+(?:US\$|\$)[\d,\.]+.*$', '', title, flags=re.I).strip()
+    # Words that stay lowercase unless they start the title
+    LOWERCASE = {
+        'de', 'del', 'la', 'el', 'los', 'las', 'y', 'e', 'o', 'u',
+        'con', 'a', 'en', 'por', 'para', 'sin', 'and', 'the', 'of', 'with',
+    }
+    words = title.split()
+    result = []
+    for i, word in enumerate(words):
+        # Keep product codes like MM852, MM833 uppercase
+        if re.match(r'^MM\d+$', word, re.I):
+            result.append(word.upper())
+        elif i > 0 and word.lower() in LOWERCASE:
+            result.append(word.lower())
+        else:
+            result.append(word.capitalize())
+    return ' '.join(result)
 
 
 # ── XML helpers ───────────────────────────────────────────────────────────────
@@ -244,7 +242,11 @@ def main():
         price  = product.get("price") or 299.00
         ptype  = product.get("type", "Paquete")
         region = product.get("region", "Internacional")
-        season = infer_season(product.get("title", ""), product.get("slug", ""))
+
+        nights         = product.get("nights")
+        departure_date = product.get("departure_date") or ""
+        return_date    = product.get("return_date") or ""
+        nights_label   = f"{nights} noches" if nights else ""
 
         # product_type path for Google taxonomy
         type_path = {
@@ -268,7 +270,7 @@ def main():
         parts.append(
             build_item(
                 product_id   = product["id"],
-                title        = product["title"],
+                title        = clean_title(product["title"]),
                 description  = product.get("description") or product["title"],
                 link         = product["link"],
                 image_link   = image,
@@ -277,9 +279,9 @@ def main():
                 item_group_id= item_group,
                 cl0          = ptype,
                 cl1          = region,
-                cl2          = price_range_label(price),
-                cl3          = product["id"],   # idea ID → GTM reads this for remarketing
-                cl4          = season,
+                cl2          = departure_date,   # departure date
+                cl3          = return_date,       # return date
+                cl4          = nights_label,      # e.g. "17 noches"
             )
         )
 
