@@ -54,17 +54,18 @@ FONT_SEMI_PATH  = FONTS_DIR / "Poppins-SemiBold.ttf"
 
 DELAY_SECONDS   = 0.3   # polite rate limit between image downloads
 
-# ── Curated destination photos (Unsplash — free commercial use) ───────────────
+# ── Curated destination photos (Unsplash + Pexels — free commercial use) ──────
 # Ordered list of (slug_keyword, url). First match wins — put more specific first.
-# All IDs verified live. Format: w=1200&q=90&fit=crop gives best ad quality.
-_BASE = "https://images.unsplash.com"
+# Unsplash: w=1200&q=90&fit=crop  |  Pexels: auto=compress&cs=tinysrgb&w=1200&h=1200
+_BASE   = "https://images.unsplash.com"
+_PEXELS = "https://images.pexels.com/photos"
 DESTINATION_PHOTOS = [
     # ── Southeast Asia ────────────────────────────────────────────────────────
-    ("vietnam",    f"{_BASE}/photo-1528360983277-13d401cdc186?w=1200&q=90&fit=crop"),  # Ha Long Bay
-    ("laos",       f"{_BASE}/photo-1555217851-6141535bd771?w=1200&q=90&fit=crop"),     # Luang Prabang monks
-    ("angkor",     f"{_BASE}/photo-1540575467063-178a50c2df87?w=1200&q=90&fit=crop"),  # Angkor Wat sunrise
-    ("camboya",    f"{_BASE}/photo-1540575467063-178a50c2df87?w=1200&q=90&fit=crop"),
-    ("cambodia",   f"{_BASE}/photo-1540575467063-178a50c2df87?w=1200&q=90&fit=crop"),
+    ("vietnam",    f"{_PEXELS}/6348785/pexels-photo-6348785.jpeg?auto=compress&cs=tinysrgb&w=1200&h=1200"),   # Ha Long Bay aerial ✓
+    ("laos",       f"{_PEXELS}/6871179/pexels-photo-6871179.jpeg?auto=compress&cs=tinysrgb&w=1200&h=1200"),   # Tropical waterfall ✓
+    ("angkor",     f"{_PEXELS}/15928697/pexels-photo-15928697.jpeg?auto=compress&cs=tinysrgb&w=1200&h=1200"), # Bayon Temple ✓
+    ("camboya",    f"{_PEXELS}/15928697/pexels-photo-15928697.jpeg?auto=compress&cs=tinysrgb&w=1200&h=1200"),
+    ("cambodia",   f"{_PEXELS}/15928697/pexels-photo-15928697.jpeg?auto=compress&cs=tinysrgb&w=1200&h=1200"),
     ("phi-phi",    f"{_BASE}/photo-1589394815804-964ed0be2eb5?w=1200&q=90&fit=crop"),  # Phi Phi turquoise bay
     ("phuket",     f"{_BASE}/photo-1537956965359-7573183d1f57?w=1200&q=90&fit=crop"),  # Phuket white-sand beach
     ("tailandia",  f"{_BASE}/photo-1506665531195-3566af2b4dfa?w=1200&q=90&fit=crop"),  # Bangkok Wat Arun
@@ -114,7 +115,7 @@ DESTINATION_PHOTOS = [
     ("australia",  f"{_BASE}/photo-1523482580672-f109ba8cb9be?w=1200&q=90&fit=crop"),  # Sydney Opera House
     ("zelanda",    f"{_BASE}/photo-1507699622108-4be3abd695ad?w=1200&q=90&fit=crop"),  # Milford Sound fjord
     # ── Generic Asia fallbacks ────────────────────────────────────────────────
-    ("indochina",  f"{_BASE}/photo-1528360983277-13d401cdc186?w=1200&q=90&fit=crop"),  # Ha Long Bay
+    ("indochina",  f"{_PEXELS}/6348785/pexels-photo-6348785.jpeg?auto=compress&cs=tinysrgb&w=1200&h=1200"),  # Ha Long Bay aerial ✓
     ("asiaticos",  f"{_BASE}/photo-1525625293386-3f8f99389edd?w=1200&q=90&fit=crop"),  # Singapore skyline
     ("oriente",    f"{_BASE}/photo-1506665531195-3566af2b4dfa?w=1200&q=90&fit=crop"),  # Bangkok
 ]
@@ -124,9 +125,16 @@ FALLBACK_PHOTO = f"{_BASE}/photo-1436491865332-7a61a109cc05?w=1200&q=90&fit=crop
 
 
 def _photo_cache_key(url: str) -> str:
-    """Extract Unsplash photo ID from URL for use as a stable cache key."""
+    """Extract photo ID from URL for use as a stable cache key (Unsplash or Pexels)."""
+    # Unsplash: photo-XXXXXXXX-XXXXXXXX
     m = re.search(r'photo-[a-z0-9]+-[a-z0-9]+', url)
-    return m.group(0) if m else re.sub(r'[^\w]', '_', url)[:80]
+    if m:
+        return m.group(0)
+    # Pexels: /photos/12345/ or pexels-photo-12345
+    m = re.search(r'/photos/(\d+)/', url)
+    if m:
+        return f"pexels-{m.group(1)}"
+    return re.sub(r'[^\w]', '_', url)[:80]
 
 
 def resolve_destination_photo(slug: str, title: str) -> str:
@@ -384,7 +392,7 @@ def main():
         out_path  = OUTPUT_DIR / f"{pid}.jpg"
 
         dest_label = extract_destination(slug, title)
-        public_url = f"{GITHUB_PAGES_BASE}/{pid}.jpg"
+        public_url = f"{GITHUB_PAGES_BASE}/{pid}.jpg?v=2"
 
         manifest[pid] = public_url
 
