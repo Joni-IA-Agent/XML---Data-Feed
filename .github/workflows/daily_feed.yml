@@ -36,38 +36,42 @@ jobs:
 
       # 3. Install dependencies
       - name: Install Python dependencies
-        run: pip install requests beautifulsoup4 lxml
+        run: pip install requests beautifulsoup4 lxml Pillow
 
       # 4. Create .tmp directory (gitignored, exists only in runner)
       - name: Prepare temp directory
-        run: mkdir -p .tmp docs
+        run: mkdir -p .tmp docs docs/images
 
       # 5. Scrape estropical.com → .tmp/products_raw.json
       - name: Scrape product catalog
         run: python tools/scrape_catalog.py
 
-      # 6. Generate XML feed → docs/estropical_catalog.xml
+      # 6. Generate branded product images → docs/images/{id}.jpg
+      - name: Generate branded images
+        run: python tools/generate_branded_images.py
+
+      # 7. Generate XML feed → docs/estropical_catalog.xml
       - name: Generate XML feed
         run: python tools/generate_xml_feed.py
 
-      # 7. Validate XML is well-formed before committing
+      # 8. Validate XML is well-formed before committing
       - name: Validate XML
         run: |
           sudo apt-get install -y -q libxml2-utils
           xmllint --noout docs/estropical_catalog.xml
           echo "✅ XML is well-formed"
 
-      # 8. Commit and push the updated feed
-      - name: Commit updated feed
+      # 9. Commit and push the updated feed and images
+      - name: Commit updated feed and images
         run: |
           git config user.name  "feed-bot[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/estropical_catalog.xml
+          git add docs/estropical_catalog.xml docs/images/
           # Only commit if there are actual changes
           if git diff --cached --quiet; then
             echo "No changes to the feed — skipping commit."
           else
             git commit -m "chore: refresh product feed $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
-            echo "✅ Feed committed and pushed"
+            echo "✅ Feed and images committed and pushed"
           fi
