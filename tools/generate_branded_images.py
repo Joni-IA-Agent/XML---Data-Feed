@@ -7,7 +7,7 @@ and composites it with:
   • Destination city/country name  — bottom-right of white strip, Persian Blue
   • Professional travel-ad layout matching the brand manual
 
-Output:  docs/images/{product_id}.jpg  (1200 × 628 px)
+Output:  docs/images/{product_id}.jpg  (1080 × 1080 px)
 Manifest: .tmp/image_manifest.json    (product_id → public GitHub Pages URL)
 
 Run:  python tools/generate_branded_images.py
@@ -35,8 +35,8 @@ GITHUB_PAGES_BASE = "https://joni-ia-agent.github.io/XML---Data-Feed/images"
 
 # Canvas dimensions — square format for Instagram/Meta/TikTok catalog ads
 IMG_W, IMG_H    = 1080, 1080
-STRIP_H         = 130   # white brand strip at bottom
-PHOTO_H         = IMG_H - STRIP_H  # 950 px for the photo
+STRIP_H         = 150   # white brand strip at bottom (taller = bigger logo)
+PHOTO_H         = IMG_H - STRIP_H  # 930 px for the photo
 
 # Brand colours (from brand manual)
 PERSIAN_BLUE    = (29, 46, 194)     # #1d2ec2  — primary
@@ -184,7 +184,7 @@ def extract_destination(slug: str, title: str) -> str:
         dest = re.sub(r'^(?:lo mejor de|colores de|complete|joyas de)\s+', '', title, flags=re.I)
         dest = re.sub(r'\s+\d{4}.*$', '', dest).strip()
 
-    return dest[:28]
+    return dest[:50]
 
 
 # ── Font loader ───────────────────────────────────────────────────────────────
@@ -317,8 +317,8 @@ def compose_branded_image(
     logo_orig_w, logo_orig_h = logo.size
 
     # Scale logo to fit within left portion of strip
-    max_logo_w = 280
-    max_logo_h = STRIP_H - 30   # 15px padding top + bottom
+    max_logo_w = 380             # wider → logo renders at ~1.27x its native 300px
+    max_logo_h = STRIP_H - 24   # tighter padding to maximize logo height
     scale = min(max_logo_w / logo_orig_w, max_logo_h / logo_orig_h)
     logo_w = int(logo_orig_w * scale)
     logo_h = int(logo_orig_h * scale)
@@ -334,9 +334,12 @@ def compose_branded_image(
     # Measure text width to right-align with margin
     MARGIN_RIGHT = 28
     dest_upper = destination_label.upper()
+    available_w = IMG_W - logo_x - logo_w - 60
 
-    # Try fitting at size 36, reduce if too wide
-    for font_size in [38, 34, 30, 26]:
+    # Try fitting — reduce font size until it fits, down to minimum
+    fnt = font_bold
+    text_w = text_h = 0
+    for font_size in [38, 34, 30, 26, 22, 18]:
         try:
             fnt = ImageFont.truetype(str(FONT_BOLD_PATH), font_size)
         except Exception:
@@ -344,8 +347,21 @@ def compose_branded_image(
         bbox = draw.textbbox((0, 0), dest_upper, font=fnt)
         text_w = bbox[2] - bbox[0]
         text_h = bbox[3] - bbox[1]
-        if text_w <= IMG_W - logo_x - logo_w - 60:
+        if text_w <= available_w:
             break
+
+    # If still too wide at minimum size, truncate with ellipsis
+    if text_w > available_w:
+        while len(dest_upper) > 3:
+            dest_upper = dest_upper[:-1].rstrip()
+            test = dest_upper + "…"
+            bbox = draw.textbbox((0, 0), test, font=fnt)
+            if bbox[2] - bbox[0] <= available_w:
+                dest_upper = test
+                bbox = draw.textbbox((0, 0), dest_upper, font=fnt)
+                break
+        text_w = bbox[2] - bbox[0]
+        text_h = bbox[3] - bbox[1]
 
     text_x = IMG_W - text_w - MARGIN_RIGHT
     text_y = strip_y + (STRIP_H - text_h) // 2 - 2
@@ -353,7 +369,7 @@ def compose_branded_image(
     draw.text((text_x, text_y), dest_upper, font=fnt, fill=PERSIAN_BLUE)
 
     # ── 6. Thin separator line between logo and text (optional visual anchor) ─
-    sep_x = logo_x + logo_w + 18
+    sep_x = logo_x + logo_w + 20
     sep_y1 = strip_y + 18
     sep_y2 = strip_y + STRIP_H - 18
     draw.rectangle([(sep_x, sep_y1), (sep_x + 2, sep_y2)], fill=LIGHT_GRAY)
@@ -392,7 +408,7 @@ def main():
         out_path  = OUTPUT_DIR / f"{pid}.jpg"
 
         dest_label = extract_destination(slug, title)
-        public_url = f"{GITHUB_PAGES_BASE}/{pid}.jpg?v=2"
+        public_url = f"{GITHUB_PAGES_BASE}/{pid}.jpg?v=3"
 
         manifest[pid] = public_url
 
@@ -404,16 +420,18 @@ def main():
 
         print(f"  [{generated+1+skipped}/{len(products)}] {pid} — {dest_label}")
 
-        # Resolve destination photo: curated Unsplash → scraped og:image → placeholder
-        photo_url  = resolve_destination_photo(slug, title)
-        cache_key  = _photo_cache_key(photo_url)
-        source_img = download_image(photo_url, cache_key)
-        if source_img is None and src_url and src_url.startswith("http"):
-            # Fallback to scraped TravelConLine image
-            print(f"    ⚠ Unsplash failed — trying scraped image")
+        # Resolve photo: scraped TravelConLine image first → curated Unsplash/Pexels fallback
+        source_img = None
+        if src_url and src_url.startswith("http") and "no-photo" not in src_url:
             source_img = download_image(src_url, pid)
         if source_img is None:
-            source_img = Image.new("RGB", (1200, 628), (29, 46, 194))
+            # Fall back to curated destination photo (Unsplash / Pexels)
+            print(f"    ⚠ No scraped image — using curated destination photo")
+            photo_url  = resolve_destination_photo(slug, title)
+            cache_key  = _photo_cache_key(photo_url)
+            source_img = download_image(photo_url, cache_key)
+        if source_img is None:
+            source_img = Image.new("RGB", (1080, 1080), PERSIAN_BLUE)
         time.sleep(DELAY_SECONDS)
 
         # Compose branded image
