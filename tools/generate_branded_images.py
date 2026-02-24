@@ -33,10 +33,10 @@ CACHE_DIR       = Path(".tmp/img_cache")
 # GitHub Pages base URL — update if repo or username changes
 GITHUB_PAGES_BASE = "https://joni-ia-agent.github.io/XML---Data-Feed/images"
 
-# Canvas dimensions (Facebook/Meta recommended landscape)
-IMG_W, IMG_H    = 1200, 628
+# Canvas dimensions — square format for Instagram/Meta/TikTok catalog ads
+IMG_W, IMG_H    = 1080, 1080
 STRIP_H         = 130   # white brand strip at bottom
-PHOTO_H         = IMG_H - STRIP_H  # 498 px for the photo
+PHOTO_H         = IMG_H - STRIP_H  # 950 px for the photo
 
 # Brand colours (from brand manual)
 PERSIAN_BLUE    = (29, 46, 194)     # #1d2ec2  — primary
@@ -274,9 +274,9 @@ def compose_branded_image(
     font_semi: ImageFont.FreeTypeFont,
 ) -> Image.Image:
     """
-    Compose a 1200×628 branded product image:
+    Compose a 1080×1080 branded product image (square — Instagram/Meta/TikTok):
       ┌─────────────────────────────────────┐
-      │  Destination photo (1200 × 498)     │
+      │  Destination photo (1080 × 950)     │
       │  with subtle bottom gradient        │
       ├─────────────────────────────────────┤
       │ [estropical logo]  DESTINATION NAME │  ← white strip, 130 px
