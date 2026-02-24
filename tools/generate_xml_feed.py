@@ -165,6 +165,10 @@ def build_item(
     price_str = f"{price:.2f} USD"
     lines  = "    <item>\n"
     lines += x("id",           product_id)
+    # Plain RSS title/description (required by some TikTok parser versions)
+    lines += f"      <title>{escape(title[:150])}</title>\n"
+    lines += f"      <description>{escape(description[:4990])}</description>\n"
+    # Google Base / Meta / TikTok namespace fields
     lines += x("title",        title[:150])
     lines += x("description",  description[:4990])
     lines += x("link",         link)
@@ -216,24 +220,11 @@ def main():
 
     parts.append('<?xml version="1.0" encoding="UTF-8"?>\n')
     parts.append(f'''<!--
-  ================================================================
-  CATÁLOGO DE PRODUCTOS — ESTROPICAL.COM
-  ================================================================
-  Generado : {generated_at}
-  Fuente   : {INPUT_PATH} (scraped {scraped_at})
-
-  COMPATIBILIDAD:
-    ✅ Google Merchant Center  — RSS 2.0 + Google Base namespace
-    ✅ Meta Ads                — RSS 2.0 catalog feed
-    ✅ TikTok Ads              — Google Shopping XML
-
-  ESQUEMA DE IDs (para Dynamic Remarketing via GTM-MR5PGKT):
-    Todos los productos → {{IDEA_NUMERIC_ID}}  ej: 46865178
-    GTM debe disparar ese ID como content_ids / item_id
-    cuando el usuario visita /idea/{{ID}}/ en el sitio.
-
-  Total: {len(products)} ideas
-  ================================================================
+  Estropical.com Product Catalog
+  Generated : {generated_at}
+  Source    : {INPUT_PATH} (scraped {scraped_at})
+  Total     : {len(products)} products
+  Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->\n''')
 
     parts.append('<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">\n')
