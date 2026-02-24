@@ -36,7 +36,7 @@ jobs:
 
       # 3. Install dependencies
       - name: Install Python dependencies
-        run: pip install requests beautifulsoup4 lxml Pillow
+        run: pip install -r requirements.txt
 
       # 4. Create .tmp directory (gitignored, exists only in runner)
       - name: Prepare temp directory
@@ -66,7 +66,7 @@ jobs:
         run: |
           git config user.name  "feed-bot[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/estropical_catalog.xml docs/images/
+          git add docs/estropical_catalog.xml docs/estropical_catalog.csv docs/images/
           # Only commit if there are actual changes
           if git diff --cached --quiet; then
             echo "No changes to the feed — skipping commit."
