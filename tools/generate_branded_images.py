@@ -54,6 +54,90 @@ FONT_SEMI_PATH  = FONTS_DIR / "Poppins-SemiBold.ttf"
 
 DELAY_SECONDS   = 0.3   # polite rate limit between image downloads
 
+# ── Curated destination photos (Unsplash — free commercial use) ───────────────
+# Ordered list of (slug_keyword, url). First match wins — put more specific first.
+# All IDs verified live. Format: w=1200&q=90&fit=crop gives best ad quality.
+_BASE = "https://images.unsplash.com"
+DESTINATION_PHOTOS = [
+    # ── Southeast Asia ────────────────────────────────────────────────────────
+    ("vietnam",    f"{_BASE}/photo-1528360983277-13d401cdc186?w=1200&q=90&fit=crop"),  # Ha Long Bay
+    ("laos",       f"{_BASE}/photo-1555217851-6141535bd771?w=1200&q=90&fit=crop"),     # Luang Prabang monks
+    ("angkor",     f"{_BASE}/photo-1540575467063-178a50c2df87?w=1200&q=90&fit=crop"),  # Angkor Wat sunrise
+    ("camboya",    f"{_BASE}/photo-1540575467063-178a50c2df87?w=1200&q=90&fit=crop"),
+    ("cambodia",   f"{_BASE}/photo-1540575467063-178a50c2df87?w=1200&q=90&fit=crop"),
+    ("phi-phi",    f"{_BASE}/photo-1589394815804-964ed0be2eb5?w=1200&q=90&fit=crop"),  # Phi Phi turquoise bay
+    ("phuket",     f"{_BASE}/photo-1537956965359-7573183d1f57?w=1200&q=90&fit=crop"),  # Phuket white-sand beach
+    ("tailandia",  f"{_BASE}/photo-1506665531195-3566af2b4dfa?w=1200&q=90&fit=crop"),  # Bangkok Wat Arun
+    ("thailand",   f"{_BASE}/photo-1506665531195-3566af2b4dfa?w=1200&q=90&fit=crop"),
+    ("bali",       f"{_BASE}/photo-1555400038-63f5ba517a47?w=1200&q=90&fit=crop"),     # Tegalalang rice terraces
+    # ── East Asia ─────────────────────────────────────────────────────────────
+    ("nakasendo",  f"{_BASE}/photo-1493976040374-85c8e12f0c0e?w=1200&q=90&fit=crop"),  # Kyoto historic street
+    ("japon",      f"{_BASE}/photo-1492571350019-22de08371fd3?w=1200&q=90&fit=crop"),  # Mount Fuji + lake
+    ("japan",      f"{_BASE}/photo-1492571350019-22de08371fd3?w=1200&q=90&fit=crop"),
+    ("corea",      f"{_BASE}/photo-1517154421773-0529f29ea451?w=1200&q=90&fit=crop"),  # Gyeongbokgung Palace
+    ("korea",      f"{_BASE}/photo-1517154421773-0529f29ea451?w=1200&q=90&fit=crop"),
+    ("avatar",     f"{_BASE}/photo-1536599018102-9f803c140fc1?w=1200&q=90&fit=crop"),  # Zhangjiajie pillars
+    ("china",      f"{_BASE}/photo-1508804185872-d7badad00f7d?w=1200&q=90&fit=crop"),  # Great Wall at sunrise
+    ("singapur",   f"{_BASE}/photo-1525625293386-3f8f99389edd?w=1200&q=90&fit=crop"),  # Marina Bay Sands
+    ("singapore",  f"{_BASE}/photo-1525625293386-3f8f99389edd?w=1200&q=90&fit=crop"),
+    ("borneo",     f"{_BASE}/photo-1549576490-b0b4831ef60a?w=1200&q=90&fit=crop"),     # Borneo rainforest
+    ("kuala",      f"{_BASE}/photo-1596422846543-75c6fc197f07?w=1200&q=90&fit=crop"),  # Petronas Towers
+    ("malasia",    f"{_BASE}/photo-1596422846543-75c6fc197f07?w=1200&q=90&fit=crop"),
+    ("filipinas",  f"{_BASE}/photo-1518509562904-e7ef99cdcc86?w=1200&q=90&fit=crop"),  # El Nido lagoon
+    ("philippines",f"{_BASE}/photo-1518509562904-e7ef99cdcc86?w=1200&q=90&fit=crop"),
+    ("hong-kong",  f"{_BASE}/photo-1512453979798-5ea266f8880c?w=1200&q=90&fit=crop"),  # Victoria Harbour night
+    # ── South Asia ────────────────────────────────────────────────────────────
+    ("triangulo",  f"{_BASE}/photo-1524492412937-b28074a5d7da?w=1200&q=90&fit=crop"),  # Taj Mahal at dawn
+    ("india",      f"{_BASE}/photo-1524492412937-b28074a5d7da?w=1200&q=90&fit=crop"),
+    ("nepal",      f"{_BASE}/photo-1544735716-392fe2489ffa?w=1200&q=90&fit=crop"),     # Himalaya peaks
+    # ── Africa — rocosas BEFORE victoria to avoid matching "Victoria, BC" ─────
+    ("rocosas",    f"{_BASE}/photo-1503614472-8c93d56e92ce?w=1200&q=90&fit=crop"),     # Moraine Lake / Rockies
+    ("cataratas",  f"{_BASE}/photo-1566837945700-30057527ade0?w=1200&q=90&fit=crop"),  # Victoria Falls
+    ("victoria",   f"{_BASE}/photo-1566837945700-30057527ade0?w=1200&q=90&fit=crop"),
+    ("zimbawe",    f"{_BASE}/photo-1566837945700-30057527ade0?w=1200&q=90&fit=crop"),
+    ("zimbabwe",   f"{_BASE}/photo-1566837945700-30057527ade0?w=1200&q=90&fit=crop"),
+    ("botswana",   f"{_BASE}/photo-1574068468668-a05a11f871da?w=1200&q=90&fit=crop"),  # Okavango elephants
+    ("uganda",     f"{_BASE}/photo-1546182990-dffeafbe841d?w=1200&q=90&fit=crop"),     # Mountain gorillas
+    ("tanzania",   f"{_BASE}/photo-1535941339077-2dd1c7963098?w=1200&q=90&fit=crop"),  # Serengeti
+    ("kenya",      f"{_BASE}/photo-1547970810-dc1eac37d174?w=1200&q=90&fit=crop"),     # Maasai Mara lions
+    ("kenia",      f"{_BASE}/photo-1547970810-dc1eac37d174?w=1200&q=90&fit=crop"),
+    ("sudafrica",  f"{_BASE}/photo-1580060839134-75a5edca2e99?w=1200&q=90&fit=crop"),  # Cape Town/Table Mtn
+    ("safari",     f"{_BASE}/photo-1547970810-dc1eac37d174?w=1200&q=90&fit=crop"),
+    # ── Americas ──────────────────────────────────────────────────────────────
+    ("buenos-aires",f"{_BASE}/photo-1523731407965-2430cd12f5e4?w=1200&q=90&fit=crop"), # La Boca
+    ("nueva-york", f"{_BASE}/photo-1496442226666-8d4d0e62e6e9?w=1200&q=90&fit=crop"),  # Manhattan skyline
+    ("new-york",   f"{_BASE}/photo-1496442226666-8d4d0e62e6e9?w=1200&q=90&fit=crop"),
+    ("canada",     f"{_BASE}/photo-1503614472-8c93d56e92ce?w=1200&q=90&fit=crop"),     # Moraine Lake / Banff
+    ("mexico",     f"{_BASE}/photo-1518105779142-d975f22f1b0a?w=1200&q=90&fit=crop"),  # Chichen Itza
+    ("cuba",       f"{_BASE}/photo-1516466723877-e4ec1d736c8a?w=1200&q=90&fit=crop"),  # Havana vintage cars
+    # ── Oceania ───────────────────────────────────────────────────────────────
+    ("australia",  f"{_BASE}/photo-1523482580672-f109ba8cb9be?w=1200&q=90&fit=crop"),  # Sydney Opera House
+    ("zelanda",    f"{_BASE}/photo-1507699622108-4be3abd695ad?w=1200&q=90&fit=crop"),  # Milford Sound fjord
+    # ── Generic Asia fallbacks ────────────────────────────────────────────────
+    ("indochina",  f"{_BASE}/photo-1528360983277-13d401cdc186?w=1200&q=90&fit=crop"),  # Ha Long Bay
+    ("asiaticos",  f"{_BASE}/photo-1525625293386-3f8f99389edd?w=1200&q=90&fit=crop"),  # Singapore skyline
+    ("oriente",    f"{_BASE}/photo-1506665531195-3566af2b4dfa?w=1200&q=90&fit=crop"),  # Bangkok
+]
+
+# Generic travel fallback (airplane above clouds)
+FALLBACK_PHOTO = f"{_BASE}/photo-1436491865332-7a61a109cc05?w=1200&q=90&fit=crop"
+
+
+def _photo_cache_key(url: str) -> str:
+    """Extract Unsplash photo ID from URL for use as a stable cache key."""
+    m = re.search(r'photo-[a-z0-9]+-[a-z0-9]+', url)
+    return m.group(0) if m else re.sub(r'[^\w]', '_', url)[:80]
+
+
+def resolve_destination_photo(slug: str, title: str) -> str:
+    """Return the best Unsplash photo URL by matching keywords in the slug."""
+    text = (slug + " " + title).lower()
+    for keyword, url in DESTINATION_PHOTOS:
+        if keyword in text:
+            return url
+    return FALLBACK_PHOTO
+
+
 # ── Destination label extraction ──────────────────────────────────────────────
 # Patterns to remove from slug before converting to destination label
 _SLUG_STRIP = re.compile(
@@ -312,15 +396,17 @@ def main():
 
         print(f"  [{generated+1+skipped}/{len(products)}] {pid} — {dest_label}")
 
-        # Download source image
-        if not src_url or not src_url.startswith("http"):
-            print(f"    ⚠ No source image URL — using placeholder")
-            source_img = Image.new("RGB", (800, 600), (100, 130, 200))
-        else:
+        # Resolve destination photo: curated Unsplash → scraped og:image → placeholder
+        photo_url  = resolve_destination_photo(slug, title)
+        cache_key  = _photo_cache_key(photo_url)
+        source_img = download_image(photo_url, cache_key)
+        if source_img is None and src_url and src_url.startswith("http"):
+            # Fallback to scraped TravelConLine image
+            print(f"    ⚠ Unsplash failed — trying scraped image")
             source_img = download_image(src_url, pid)
-            if source_img is None:
-                source_img = Image.new("RGB", (800, 600), (100, 130, 200))
-            time.sleep(DELAY_SECONDS)
+        if source_img is None:
+            source_img = Image.new("RGB", (1200, 628), (29, 46, 194))
+        time.sleep(DELAY_SECONDS)
 
         # Compose branded image
         branded = compose_branded_image(source_img, dest_label, font_bold, font_semi)
