@@ -17,6 +17,8 @@ Run:    python tools/generate_xml_feed.py
 Output: docs/estropical_catalog.xml
 """
 
+import csv
+import io
 import json
 import re
 from datetime import datetime, timezone
@@ -25,9 +27,10 @@ from typing import Optional
 from xml.sax.saxutils import escape
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
-INPUT_PATH     = Path(".tmp/products_raw.json")
-MANIFEST_PATH  = Path(".tmp/image_manifest.json")   # branded image URLs
-OUTPUT_PATH    = Path("docs/estropical_catalog.xml")
+INPUT_PATH      = Path(".tmp/products_raw.json")
+MANIFEST_PATH   = Path(".tmp/image_manifest.json")   # branded image URLs
+OUTPUT_PATH     = Path("docs/estropical_catalog.xml")
+CSV_OUTPUT_PATH = Path("docs/estropical_catalog.csv")
 
 # ── Fallback destination images (Unsplash — free commercial use) ──────────────
 # Used only when og:image is absent or a placeholder.
@@ -294,13 +297,72 @@ def main():
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         f.writelines(parts)
 
+    # ── Build CSV (TikTok requires CSV format) ────────────────────────────────
+    CSV_COLUMNS = [
+        "id", "title", "description", "availability", "condition",
+        "price", "link", "image_link", "brand",
+        "product_type", "item_group_id",
+        "custom_label_0", "custom_label_1", "custom_label_2",
+        "custom_label_3", "custom_label_4",
+    ]
+
+    csv_rows = []
+    for product in products:
+        pid    = product["id"]
+        image  = image_manifest.get(pid) or resolve_image(product)
+        price  = product.get("price") or 299.00
+        ptype  = product.get("type", "Paquete")
+        region = product.get("region", "Internacional")
+        nights         = product.get("nights")
+        departure_date = product.get("departure_date") or ""
+        return_date    = product.get("return_date") or ""
+        nights_label   = f"{nights} noches" if nights else ""
+        type_path = {
+            "Vuelo":   f"Viajes > Vuelos > {region}",
+            "Hotel":   f"Viajes > Hoteles > {region}",
+            "Paquete": f"Viajes > Paquetes > {region}",
+        }.get(ptype, f"Viajes > {ptype} > {region}")
+        safe_region = (
+            region.upper()
+            .replace(" ", "-")
+            .replace("É", "E").replace("Á", "A")
+            .replace("Ú", "U").replace("Ó", "O")
+            .replace("Í", "I")
+        )
+        item_group = f"{ptype.upper()}-{safe_region}"
+        csv_rows.append({
+            "id":              pid,
+            "title":           clean_title(product["title"])[:150],
+            "description":     (product.get("description") or product["title"])[:4990],
+            "availability":    "in stock",
+            "condition":       "new",
+            "price":           f"{price:.2f} USD",
+            "link":            product["link"],
+            "image_link":      image,
+            "brand":           "Estropical",
+            "product_type":    type_path,
+            "item_group_id":   item_group,
+            "custom_label_0":  ptype,
+            "custom_label_1":  region,
+            "custom_label_2":  departure_date,
+            "custom_label_3":  return_date,
+            "custom_label_4":  nights_label,
+        })
+
+    with open(CSV_OUTPUT_PATH, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=CSV_COLUMNS)
+        writer.writeheader()
+        writer.writerows(csv_rows)
+
     print(f"✅ Feed generated: {OUTPUT_PATH}")
+    print(f"✅ CSV generated : {CSV_OUTPUT_PATH}")
     print(f"   Vuelos  : {counters.get('Vuelo', 0)}")
     print(f"   Hoteles : {counters.get('Hotel', 0)}")
     print(f"   Paquetes: {counters.get('Paquete', 0)}")
     print(f"   Total   : {len(products)} productos")
-    print(f"\n📡 Public URL (after GitHub Pages setup):")
-    print(f"   https://[your-github-username].github.io/XML---Data-Feed/estropical_catalog.xml")
+    print(f"\n📡 Public URLs:")
+    print(f"   XML : https://joni-ia-agent.github.io/XML---Data-Feed/estropical_catalog.xml")
+    print(f"   CSV : https://joni-ia-agent.github.io/XML---Data-Feed/estropical_catalog.csv")
 
 
 if __name__ == "__main__":
