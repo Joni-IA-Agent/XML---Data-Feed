@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-02-24 21:31 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-02-24T21:26:50.893355Z)
+  Generated : 2026-02-25 12:09 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-02-25T12:09:20.918786Z)
   Total     : 494 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,42 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>47147691</g:id>
+      <title>Lo Mejor del Este de Canada 2026</title>
+      <description>LO MEJOR DEL ESTE DE CANADA 2026 from US$6,640</description>
+      <g:title>Lo Mejor del Este de Canada 2026</g:title>
+      <g:description>LO MEJOR DEL ESTE DE CANADA 2026 from US$6,640</g:description>
+      <g:link>https://www.estropical.com/en/idea/47147691/lo-mejor-del-este-de-canada-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47147691.jpg?v=3</g:image_link>
+      <g:price>6640.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>47147688</g:id>
+      <title>Lo Mejor de Tanzania y Zanzibar 2026</title>
+      <description>LO MEJOR DE TANZANIA Y ZANZIBAR 2026 from US$4,596</description>
+      <g:title>Lo Mejor de Tanzania y Zanzibar 2026</g:title>
+      <g:description>LO MEJOR DE TANZANIA Y ZANZIBAR 2026 from US$4,596</g:description>
+      <g:link>https://www.estropical.com/en/idea/47147688/lo-mejor-de-tanzania-y-zanzibar-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47147688.jpg?v=3</g:image_link>
+      <g:price>4596.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
 
     <item>
       <g:id>47048091</g:id>
@@ -1785,12 +1821,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,762</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,764</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,762</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,764</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6762.00 USD</g:price>
+      <g:price>6764.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9089,42 +9125,6 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41259494</g:id>
-      <title>Ib138 - Portugal Eterno 2026</title>
-      <description>IB138 - PORTUGAL ETERNO 2026 from US$2,596</description>
-      <g:title>Ib138 - Portugal Eterno 2026</g:title>
-      <g:description>IB138 - PORTUGAL ETERNO 2026 from US$2,596</g:description>
-      <g:link>https://www.estropical.com/en/idea/41259494/ib138-portugal-eterno-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259494.jpg?v=3</g:image_link>
-      <g:price>2596.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41259491</g:id>
-      <title>Oc328 - Europa Soñada 9 Dias Par/ams 26/27</title>
-      <description>OC328 - EUROPA SOÑADA 9 DIAS PAR/AMS 26/27 from US$2,563</description>
-      <g:title>Oc328 - Europa Soñada 9 Dias Par/ams 26/27</g:title>
-      <g:description>OC328 - EUROPA SOÑADA 9 DIAS PAR/AMS 26/27 from US$2,563</g:description>
-      <g:link>https://www.estropical.com/en/idea/41259491/oc328-europa-sonada-9-dias-par-ams-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259491.jpg?v=3</g:image_link>
-      <g:price>2563.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
     </item>
 
   </channel>
