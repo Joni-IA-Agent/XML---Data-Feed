@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-02 11:53 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-02T11:53:05.047059Z)
+  Generated : 2026-03-03 12:01 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-03T12:01:08.633238Z)
   Total     : 489 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -13,50 +13,14 @@
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
 
     <item>
-      <g:id>47603448</g:id>
-      <title>París, Alsacia, el Rin y Benelux Elite 2026</title>
-      <description>PARÍS, ALSACIA, EL RIN Y BENELUX ELITE 2026 from US$14,291</description>
-      <g:title>París, Alsacia, el Rin y Benelux Elite 2026</g:title>
-      <g:description>PARÍS, ALSACIA, EL RIN Y BENELUX ELITE 2026 from US$14,291</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603448/paris-alsacia-el-rin-y-benelux-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603448.jpg?v=3</g:image_link>
-      <g:price>14291.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>47603445</g:id>
-      <title>Madrid, Andalucía y Marruecos Elite 2026</title>
-      <description>MADRID, ANDALUCÍA Y MARRUECOS ELITE 2026 from US$11,906</description>
-      <g:title>Madrid, Andalucía y Marruecos Elite 2026</g:title>
-      <g:description>MADRID, ANDALUCÍA Y MARRUECOS ELITE 2026 from US$11,906</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603445/madrid-andalucia-y-marruecos-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603445.jpg?v=3</g:image_link>
-      <g:price>11906.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>47603442</g:id>
-      <title>Dinamarca,noruega,sue,finl Elite 2026</title>
-      <description>DINAMARCA,NORUEGA,SUE,FINL ELITE 2026 from US$11,018</description>
-      <g:title>Dinamarca,noruega,sue,finl Elite 2026</g:title>
-      <g:description>DINAMARCA,NORUEGA,SUE,FINL ELITE 2026 from US$11,018</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603442/dinamarca-noruega-sue-finl-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603442.jpg?v=3</g:image_link>
-      <g:price>11018.00 USD</g:price>
+      <g:id>47665056</g:id>
+      <title>Vendimia Exclusiva en Tarija | 02 Noches y 3 Días</title>
+      <description>Vendimia Exclusiva en Tarija | 02 noches y 3 días  from US$495</description>
+      <g:title>Vendimia Exclusiva en Tarija | 02 Noches y 3 Días</g:title>
+      <g:description>Vendimia Exclusiva en Tarija | 02 noches y 3 días  from US$495</g:description>
+      <g:link>https://www.estropical.com/en/idea/47665056/vendimia-exclusiva-en-tarija-02-noches-y-3-dias-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47665056.jpg?v=3</g:image_link>
+      <g:price>495.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -67,14 +31,14 @@
     </item>
 
     <item>
-      <g:id>47603439</g:id>
-      <title>Turquia y Egipto Elite 2026</title>
-      <description>TURQUIA Y EGIPTO ELITE 2026 from US$10,956</description>
-      <g:title>Turquia y Egipto Elite 2026</g:title>
-      <g:description>TURQUIA Y EGIPTO ELITE 2026 from US$10,956</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603439/turquia-y-egipto-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603439.jpg?v=3</g:image_link>
-      <g:price>10956.00 USD</g:price>
+      <g:id>47663013</g:id>
+      <title>Copacabana + Isla del Sol 2 Días 1 Noche</title>
+      <description>Copacabana + Isla del Sol 2 días 1 noche from US$224</description>
+      <g:title>Copacabana + Isla del Sol 2 Días 1 Noche</g:title>
+      <g:description>Copacabana + Isla del Sol 2 días 1 noche from US$224</g:description>
+      <g:link>https://www.estropical.com/en/idea/47663013/copacabana-isla-del-sol-2-dias-1-noche</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47663013.jpg?v=3</g:image_link>
+      <g:price>224.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -85,14 +49,14 @@
     </item>
 
     <item>
-      <g:id>47603436</g:id>
-      <title>España y Portugal Elite 2026</title>
-      <description>ESPAÑA Y PORTUGAL ELITE 2026 from US$10,305</description>
-      <g:title>España y Portugal Elite 2026</g:title>
-      <g:description>ESPAÑA Y PORTUGAL ELITE 2026 from US$10,305</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603436/espana-y-portugal-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603436.jpg?v=3</g:image_link>
-      <g:price>10305.00 USD</g:price>
+      <g:id>47638215</g:id>
+      <title>Oferta 2x1 Egipto</title>
+      <description>OFERTA 2x1 EGIPTO from US$997</description>
+      <g:title>Oferta 2x1 Egipto</g:title>
+      <g:description>OFERTA 2x1 EGIPTO from US$997</g:description>
+      <g:link>https://www.estropical.com/en/idea/47638215/oferta-2x1-egipto</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47638215.jpg?v=3</g:image_link>
+      <g:price>997.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -103,14 +67,14 @@
     </item>
 
     <item>
-      <g:id>47603433</g:id>
-      <title>Italia Elite 2026</title>
-      <description>ITALIA ELITE 2026 from US$9,458</description>
-      <g:title>Italia Elite 2026</g:title>
-      <g:description>ITALIA ELITE 2026 from US$9,458</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603433/italia-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603433.jpg?v=3</g:image_link>
-      <g:price>9458.00 USD</g:price>
+      <g:id>47632704</g:id>
+      <title>Luna de Miel en Tarija | 3 Noches 4 Dias</title>
+      <description>Luna de Miel en Tarija | 3 noches 4 dias  from US$358</description>
+      <g:title>Luna de Miel en Tarija | 3 Noches 4 Dias</g:title>
+      <g:description>Luna de Miel en Tarija | 3 noches 4 dias  from US$358</g:description>
+      <g:link>https://www.estropical.com/en/idea/47632704/luna-de-miel-en-tarija-3-noches-4-dias-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47632704.jpg?v=3</g:image_link>
+      <g:price>358.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -121,14 +85,14 @@
     </item>
 
     <item>
-      <g:id>47603430</g:id>
-      <title>Alsacia, Benelux y Francia Elite 2026</title>
-      <description>ALSACIA, BENELUX Y FRANCIA ELITE 2026 from US$9,334</description>
-      <g:title>Alsacia, Benelux y Francia Elite 2026</g:title>
-      <g:description>ALSACIA, BENELUX Y FRANCIA ELITE 2026 from US$9,334</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603430/alsacia-benelux-y-francia-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603430.jpg?v=3</g:image_link>
-      <g:price>9334.00 USD</g:price>
+      <g:id>47627349</g:id>
+      <title>Semana Santa Chapaca – Vino, Tradición y Sabor en Tarija (tours Compartido)</title>
+      <description>Semana Santa Chapaca – Vino, Tradición y Sabor en Tarija (TOURS COMPARTIDO) from US$420</description>
+      <g:title>Semana Santa Chapaca – Vino, Tradición y Sabor en Tarija (tours Compartido)</g:title>
+      <g:description>Semana Santa Chapaca – Vino, Tradición y Sabor en Tarija (TOURS COMPARTIDO) from US$420</g:description>
+      <g:link>https://www.estropical.com/en/idea/47627349/semana-santa-chapaca-vino-tradicion-y-sabor-en-tarija-tours-compartido-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47627349.jpg?v=3</g:image_link>
+      <g:price>420.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -139,86 +103,14 @@
     </item>
 
     <item>
-      <g:id>47603427</g:id>
-      <title>Centro Europa Imperial Elite 2026</title>
-      <description>CENTRO EUROPA IMPERIAL ELITE 2026 from US$8,725</description>
-      <g:title>Centro Europa Imperial Elite 2026</g:title>
-      <g:description>CENTRO EUROPA IMPERIAL ELITE 2026 from US$8,725</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603427/centro-europa-imperial-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603427.jpg?v=3</g:image_link>
-      <g:price>8725.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>47603424</g:id>
-      <title>París, Champagne y Alsacia Elite 2026</title>
-      <description>PARÍS, CHAMPAGNE Y ALSACIA ELITE 2026 from US$8,653</description>
-      <g:title>París, Champagne y Alsacia Elite 2026</g:title>
-      <g:description>PARÍS, CHAMPAGNE Y ALSACIA ELITE 2026 from US$8,653</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603424/paris-champagne-y-alsacia-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603424.jpg?v=3</g:image_link>
-      <g:price>8653.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>47603421</g:id>
-      <title>Norte de España, la Rioja y Barcelona Elite 2026</title>
-      <description>NORTE DE ESPAÑA, LA RIOJA Y BARCELONA ELITE 2026 from US$8,560</description>
-      <g:title>Norte de España, la Rioja y Barcelona Elite 2026</g:title>
-      <g:description>NORTE DE ESPAÑA, LA RIOJA Y BARCELONA ELITE 2026 from US$8,560</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603421/norte-de-espana-la-rioja-y-barcelona-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603421.jpg?v=3</g:image_link>
-      <g:price>8560.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>47603418</g:id>
-      <title>Madrid y Andalucia Elite 2026</title>
-      <description>MADRID Y ANDALUCIA ELITE 2026 from US$7,011</description>
-      <g:title>Madrid y Andalucia Elite 2026</g:title>
-      <g:description>MADRID Y ANDALUCIA ELITE 2026 from US$7,011</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603418/madrid-y-andalucia-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603418.jpg?v=3</g:image_link>
-      <g:price>7011.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>47603415</g:id>
-      <title>España Elite 2026</title>
-      <description>ESPAÑA ELITE 2026 from US$6,691</description>
-      <g:title>España Elite 2026</g:title>
-      <g:description>ESPAÑA ELITE 2026 from US$6,691</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603415/espana-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603415.jpg?v=3</g:image_link>
-      <g:price>6691.00 USD</g:price>
+      <g:id>47626341</g:id>
+      <title>Semana Santa L 2 Días / 1 Noche - Toro Toro Desde Cochabamba</title>
+      <description>SEMANA SANTA l 2 Días / 1 Noche - Toro Toro desde Cochabamba from US$169</description>
+      <g:title>Semana Santa L 2 Días / 1 Noche - Toro Toro Desde Cochabamba</g:title>
+      <g:description>SEMANA SANTA l 2 Días / 1 Noche - Toro Toro desde Cochabamba from US$169</g:description>
+      <g:link>https://www.estropical.com/en/idea/47626341/semana-santa-l-2-dias-1-noche-toro-toro-desde-cochabamba</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47626341.jpg?v=3</g:image_link>
+      <g:price>169.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -229,89 +121,14 @@
     </item>
 
     <item>
-      <g:id>36289723</g:id>
-      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
-      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
-      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
-      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
-      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
-      <g:price>849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>47603412</g:id>
-      <title>Portugal Elite 2026</title>
-      <description>PORTUGAL ELITE 2026 from US$6,485</description>
-      <g:title>Portugal Elite 2026</g:title>
-      <g:description>PORTUGAL ELITE 2026 from US$6,485</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603412/portugal-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603412.jpg?v=3</g:image_link>
-      <g:price>6485.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>47603409</g:id>
-      <title>Marruecos Elite 2026</title>
-      <description>MARRUECOS ELITE 2026 from US$5,266</description>
-      <g:title>Marruecos Elite 2026</g:title>
-      <g:description>MARRUECOS ELITE 2026 from US$5,266</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603409/marruecos-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603409.jpg?v=3</g:image_link>
-      <g:price>5266.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>47603406</g:id>
-      <title>Egipto Elite 2026</title>
-      <description>EGIPTO ELITE 2026 from US$4,998</description>
-      <g:title>Egipto Elite 2026</g:title>
-      <g:description>EGIPTO ELITE 2026 from US$4,998</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603406/egipto-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603406.jpg?v=3</g:image_link>
-      <g:price>4998.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>47603403</g:id>
-      <title>Turquia Elite 2026</title>
-      <description>TURQUIA ELITE 2026 from US$4,925</description>
-      <g:title>Turquia Elite 2026</g:title>
-      <g:description>TURQUIA ELITE 2026 from US$4,925</g:description>
-      <g:link>https://www.estropical.com/en/idea/47603403/turquia-elite-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47603403.jpg?v=3</g:image_link>
-      <g:price>4925.00 USD</g:price>
+      <g:id>47538378</g:id>
+      <title>Semana Santa L Potosí + Salar + Sucre | 3 Dias y 2 Noches (servicio Compartido)</title>
+      <description>SEMANA SANTA l Potosí + Salar + Sucre | 3 dias y 2 noches (SERVICIO COMPARTIDO)  from US$647</description>
+      <g:title>Semana Santa L Potosí + Salar + Sucre | 3 Dias y 2 Noches (servicio Compartido)</g:title>
+      <g:description>SEMANA SANTA l Potosí + Salar + Sucre | 3 dias y 2 noches (SERVICIO COMPARTIDO)  from US$647</g:description>
+      <g:link>https://www.estropical.com/en/idea/47538378/semana-santa-l-potosi-salar-sucre-3-dias-y-2-noches-servicio-compartido-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47538378.jpg?v=3</g:image_link>
+      <g:price>647.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -380,6 +197,27 @@
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_2>25 Nov 2026</g:custom_label_2>
       <g:custom_label_3>26 Nov 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>36289723</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
+      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -2524,12 +2362,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,753</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,707</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,753</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,707</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6753.00 USD</g:price>
+      <g:price>6707.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5375,24 +5213,6 @@
     </item>
 
     <item>
-      <g:id>43600584</g:id>
-      <title>Dubai Horizons with Cruise (2025)</title>
-      <description>Dubai Horizons with cruise (2025) from US$6,632</description>
-      <g:title>Dubai Horizons with Cruise (2025)</g:title>
-      <g:description>Dubai Horizons with cruise (2025) from US$6,632</g:description>
-      <g:link>https://www.estropical.com/en/idea/43600584/dubai-horizons-with-cruise-2025-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43600584.jpg?v=3</g:image_link>
-      <g:price>6632.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>43488549</g:id>
       <title>Ce415 - Paris, Crucero Rin y Suiza 2026</title>
       <description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$6,216</description>
@@ -6067,7 +5887,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -6083,11 +5903,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -9054,6 +8874,186 @@
       <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259623</g:id>
+      <title>Ib112 - Gira Andalucia y M.espectacular 26/27</title>
+      <description>IB112 - GIRA ANDALUCIA Y M.ESPECTACULAR 26/27 from US$4,142</description>
+      <g:title>Ib112 - Gira Andalucia y M.espectacular 26/27</g:title>
+      <g:description>IB112 - GIRA ANDALUCIA Y M.ESPECTACULAR 26/27 from US$4,142</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259623/ib112-gira-andalucia-y-m-espectacular-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259623.jpg?v=3</g:image_link>
+      <g:price>4142.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259620</g:id>
+      <title>Oc206 - Europa Estilo Mp 1 15 Dias Rom/mad 26/27</title>
+      <description>OC206 - EUROPA ESTILO MP 1 15 DIAS ROM/MAD 26/27 from US$4,131</description>
+      <g:title>Oc206 - Europa Estilo Mp 1 15 Dias Rom/mad 26/27</g:title>
+      <g:description>OC206 - EUROPA ESTILO MP 1 15 DIAS ROM/MAD 26/27 from US$4,131</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259620/oc206-europa-estilo-mp-1-15-dias-rom-mad-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259620.jpg?v=3</g:image_link>
+      <g:price>4131.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259617</g:id>
+      <title>Oc205 - Mini Circuito Europa Estilo Mp 3 13 Dias 26/27</title>
+      <description>OC205 - MINI CIRCUITO EUROPA ESTILO MP 3 13 DIAS 26/27 from US$4,116</description>
+      <g:title>Oc205 - Mini Circuito Europa Estilo Mp 3 13 Dias 26/27</g:title>
+      <g:description>OC205 - MINI CIRCUITO EUROPA ESTILO MP 3 13 DIAS 26/27 from US$4,116</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259617/oc205-mini-circuito-europa-estilo-mp-3-13-dias-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259617.jpg?v=3</g:image_link>
+      <g:price>4116.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259614</g:id>
+      <title>Oc209 - Europa Estilo Mp 2 14 Dias Bcn/par 26/27</title>
+      <description>OC209 - EUROPA ESTILO MP 2 14 DIAS BCN/PAR 26/27 from US$4,103</description>
+      <g:title>Oc209 - Europa Estilo Mp 2 14 Dias Bcn/par 26/27</g:title>
+      <g:description>OC209 - EUROPA ESTILO MP 2 14 DIAS BCN/PAR 26/27 from US$4,103</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259614/oc209-europa-estilo-mp-2-14-dias-bcn-par-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259614.jpg?v=3</g:image_link>
+      <g:price>4103.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259611</g:id>
+      <title>Ib107 - la Gira Iberica 16 Dias 26/27</title>
+      <description>IB107 - LA GIRA IBERICA 16 DIAS 26/27 from US$4,027</description>
+      <g:title>Ib107 - la Gira Iberica 16 Dias 26/27</g:title>
+      <g:description>IB107 - LA GIRA IBERICA 16 DIAS 26/27 from US$4,027</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259611/ib107-la-gira-iberica-16-dias-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259611.jpg?v=3</g:image_link>
+      <g:price>4027.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259608</g:id>
+      <title>Ib145 - de Lisboa a la Ronda Española 26/27</title>
+      <description>IB145 - DE LISBOA A LA RONDA ESPAÑOLA 26/27 from US$4,049</description>
+      <g:title>Ib145 - de Lisboa a la Ronda Española 26/27</g:title>
+      <g:description>IB145 - DE LISBOA A LA RONDA ESPAÑOLA 26/27 from US$4,049</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259608/ib145-de-lisboa-a-la-ronda-espanola-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259608.jpg?v=3</g:image_link>
+      <g:price>4049.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259605</g:id>
+      <title>Oc305 - Sur de Italia y Sicilia 10 Dias 2026</title>
+      <description>OC305 - SUR DE ITALIA Y SICILIA 10 DIAS 2026 from US$3,870</description>
+      <g:title>Oc305 - Sur de Italia y Sicilia 10 Dias 2026</g:title>
+      <g:description>OC305 - SUR DE ITALIA Y SICILIA 10 DIAS 2026 from US$3,870</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259605/oc305-sur-de-italia-y-sicilia-10-dias-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259605.jpg?v=3</g:image_link>
+      <g:price>2026.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259602</g:id>
+      <title>Oc249 - Gira Mediterranea 13 Dias Rom/mad 26/27</title>
+      <description>OC249 - GIRA MEDITERRANEA 13 DIAS ROM/MAD 26/27 from US$3,868</description>
+      <g:title>Oc249 - Gira Mediterranea 13 Dias Rom/mad 26/27</g:title>
+      <g:description>OC249 - GIRA MEDITERRANEA 13 DIAS ROM/MAD 26/27 from US$3,868</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259602/oc249-gira-mediterranea-13-dias-rom-mad-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259602.jpg?v=3</g:image_link>
+      <g:price>3868.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259599</g:id>
+      <title>Ib141 - Gran Tour Portugal y And. 15 Dias Mad/cds 26/27</title>
+      <description>IB141 - GRAN TOUR PORTUGAL Y AND. 15 DIAS MAD/CDS 26/27 from US$3,848</description>
+      <g:title>Ib141 - Gran Tour Portugal y And. 15 Dias Mad/cds 26/27</g:title>
+      <g:description>IB141 - GRAN TOUR PORTUGAL Y AND. 15 DIAS MAD/CDS 26/27 from US$3,848</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259599/ib141-gran-tour-portugal-y-and-15-dias-mad-cds-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259599.jpg?v=3</g:image_link>
+      <g:price>3848.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41259596</g:id>
+      <title>Ib162 - Norte de España y Portugal 14 Dias 26/27</title>
+      <description>IB162 - NORTE DE ESPAÑA Y PORTUGAL 14 DIAS 26/27 from US$3,807</description>
+      <g:title>Ib162 - Norte de España y Portugal 14 Dias 26/27</g:title>
+      <g:description>IB162 - NORTE DE ESPAÑA Y PORTUGAL 14 DIAS 26/27 from US$3,807</g:description>
+      <g:link>https://www.estropical.com/en/idea/41259596/ib162-norte-de-espana-y-portugal-14-dias-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259596.jpg?v=3</g:image_link>
+      <g:price>3807.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
   </channel>
