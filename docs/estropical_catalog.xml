@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-07 10:56 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-07T10:55:10.549387Z)
+  Generated : 2026-03-08 10:57 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-08T10:57:43.846992Z)
   Total     : 157 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -202,27 +202,6 @@
     </item>
 
     <item>
-      <g:id>48040905</g:id>
-      <title>Tours Gastronómicos en Lima</title>
-      <description>TOURS GASTRONÓMICOS en Lima from US$372</description>
-      <g:title>Tours Gastronómicos en Lima</g:title>
-      <g:description>TOURS GASTRONÓMICOS en Lima from US$372</g:description>
-      <g:link>https://www.estropical.com/en/idea/48040905/tours-gastronomicos-en-lima</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48040905.jpg?v=3</g:image_link>
-      <g:price>372.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Jul 2026</g:custom_label_2>
-      <g:custom_label_3>19 Jul 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>36289723</g:id>
       <title>Paquete a Buenos Aires Desde Santa Cruz</title>
       <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
@@ -240,6 +219,27 @@
       <g:custom_label_1>Sudamérica</g:custom_label_1>
       <g:custom_label_2>15 Apr 2026</g:custom_label_2>
       <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>48040905</g:id>
+      <title>Tours Gastronómicos en Lima</title>
+      <description>TOURS GASTRONÓMICOS en Lima from US$372</description>
+      <g:title>Tours Gastronómicos en Lima</g:title>
+      <g:description>TOURS GASTRONÓMICOS en Lima from US$372</g:description>
+      <g:link>https://www.estropical.com/en/idea/48040905/tours-gastronomicos-en-lima</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48040905.jpg?v=3</g:image_link>
+      <g:price>372.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Jul 2026</g:custom_label_2>
+      <g:custom_label_3>19 Jul 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
