@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-10 12:01 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-10T12:01:33.119150Z)
+  Generated : 2026-03-11 12:01 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-11T12:00:59.093078Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,317 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>48370885</g:id>
+      <title>Nakasendo, Japon Imperial 2026</title>
+      <description>MM833 NAKASENDO, JAPON IMPERIAL 2026 from US$6,699</description>
+      <g:title>Nakasendo, Japon Imperial 2026</g:title>
+      <g:description>MM833 NAKASENDO, JAPON IMPERIAL 2026 from US$6,699</g:description>
+      <g:link>https://www.estropical.com/en/idea/48370885/mm833-nakasendo-japon-imperial-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370885.jpg?v=3</g:image_link>
+      <g:price>6699.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>48370882</g:id>
+      <title>Japon y Corea 2026</title>
+      <description>MM850 JAPON Y COREA 2026 from US$6,559</description>
+      <g:title>Japon y Corea 2026</g:title>
+      <g:description>MM850 JAPON Y COREA 2026 from US$6,559</g:description>
+      <g:link>https://www.estropical.com/en/idea/48370882/mm850-japon-y-corea-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370882.jpg?v=3</g:image_link>
+      <g:price>6559.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>48370879</g:id>
+      <title>Maravillas de Vietnam y Tailandia 26/27</title>
+      <description>MM848 MARAVILLAS DE VIETNAM Y TAILANDIA 26/27 from US$3,288</description>
+      <g:title>Maravillas de Vietnam y Tailandia 26/27</g:title>
+      <g:description>MM848 MARAVILLAS DE VIETNAM Y TAILANDIA 26/27 from US$3,288</g:description>
+      <g:link>https://www.estropical.com/en/idea/48370879/mm848-maravillas-de-vietnam-y-tailandia-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370879.jpg?v=3</g:image_link>
+      <g:price>3288.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>48370876</g:id>
+      <title>Kenia, Safari Tembo 26/27</title>
+      <description>MM864 KENIA, SAFARI TEMBO 26/27 from US$3,148</description>
+      <g:title>Kenia, Safari Tembo 26/27</g:title>
+      <g:description>MM864 KENIA, SAFARI TEMBO 26/27 from US$3,148</g:description>
+      <g:link>https://www.estropical.com/en/idea/48370876/mm864-kenia-safari-tembo-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370876.jpg?v=3</g:image_link>
+      <g:price>3148.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>48370873</g:id>
+      <title>Singapur, Malasia y Bali 26/27</title>
+      <description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$2,785</description>
+      <g:title>Singapur, Malasia y Bali 26/27</g:title>
+      <g:description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$2,785</g:description>
+      <g:link>https://www.estropical.com/en/idea/48370873/mm835-singapur-malasia-y-bali-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370873.jpg?v=3</g:image_link>
+      <g:price>2785.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>48355813</g:id>
+      <title>Boleto a Cartagena de Indias Desde Santa Cruz</title>
+      <description>Boleto a Cartagena de Indias desde Santa Cruz from US$637</description>
+      <g:title>Boleto a Cartagena de Indias Desde Santa Cruz</g:title>
+      <g:description>Boleto a Cartagena de Indias desde Santa Cruz from US$637</g:description>
+      <g:link>https://www.estropical.com/en/idea/48355813/boleto-a-cartagena-de-indias-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48355813.jpg?v=3</g:image_link>
+      <g:price>637.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>25 May 2026</g:custom_label_2>
+      <g:custom_label_3>30 May 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48355549</g:id>
+      <title>Boleto a Punta Cana Desde Santa Cruz</title>
+      <description>Boleto a Punta Cana desde Santa Cruz from US$855</description>
+      <g:title>Boleto a Punta Cana Desde Santa Cruz</g:title>
+      <g:description>Boleto a Punta Cana desde Santa Cruz from US$855</g:description>
+      <g:link>https://www.estropical.com/en/idea/48355549/boleto-a-punta-cana-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48355549.jpg?v=3</g:image_link>
+      <g:price>855.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Caribe</g:product_type>
+      <g:item_group_id>VUELO-CARIBE</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>25 May 2026</g:custom_label_2>
+      <g:custom_label_3>30 May 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48355213</g:id>
+      <title>Boleto a Cancún Desde Santa Cruz</title>
+      <description>Boleto a Cancún desde Santa Cruz from US$844</description>
+      <g:title>Boleto a Cancún Desde Santa Cruz</g:title>
+      <g:description>Boleto a Cancún desde Santa Cruz from US$844</g:description>
+      <g:link>https://www.estropical.com/en/idea/48355213/boleto-a-cancun-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48355213.jpg?v=3</g:image_link>
+      <g:price>844.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Caribe</g:product_type>
+      <g:item_group_id>VUELO-CARIBE</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>7 May 2026</g:custom_label_2>
+      <g:custom_label_3>12 May 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48354829</g:id>
+      <title>Boleto a Asunción Desde Santa Cruz</title>
+      <description>Boleto a Asunción desde Santa Cruz from US$331</description>
+      <g:title>Boleto a Asunción Desde Santa Cruz</g:title>
+      <g:description>Boleto a Asunción desde Santa Cruz from US$331</g:description>
+      <g:link>https://www.estropical.com/en/idea/48354829/boleto-a-asuncion-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48354829.jpg?v=3</g:image_link>
+      <g:price>331.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>14 May 2026</g:custom_label_2>
+      <g:custom_label_3>19 May 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48354475</g:id>
+      <title>Boleto a Lima Desde Santa Cruz</title>
+      <description>Boleto a Lima desde Santa Cruz  from US$492</description>
+      <g:title>Boleto a Lima Desde Santa Cruz</g:title>
+      <g:description>Boleto a Lima desde Santa Cruz  from US$492</g:description>
+      <g:link>https://www.estropical.com/en/idea/48354475/boleto-a-lima-desde-santa-cruz-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48354475.jpg?v=3</g:image_link>
+      <g:price>492.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>10 May 2026</g:custom_label_2>
+      <g:custom_label_3>14 May 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48354106</g:id>
+      <title>Boleto a Santiago de Chile Desde Santa Cruz</title>
+      <description>Boleto a Santiago de Chile desde Santa Cruz  from US$527</description>
+      <g:title>Boleto a Santiago de Chile Desde Santa Cruz</g:title>
+      <g:description>Boleto a Santiago de Chile desde Santa Cruz  from US$527</g:description>
+      <g:link>https://www.estropical.com/en/idea/48354106/boleto-a-santiago-de-chile-desde-santa-cruz-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48354106.jpg?v=3</g:image_link>
+      <g:price>527.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>16 May 2026</g:custom_label_2>
+      <g:custom_label_3>23 May 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48353680</g:id>
+      <title>Boleto a Madrid Desde Santa Cruz</title>
+      <description>Boleto a Madrid desde Santa Cruz  from US$1,197</description>
+      <g:title>Boleto a Madrid Desde Santa Cruz</g:title>
+      <g:description>Boleto a Madrid desde Santa Cruz  from US$1,197</g:description>
+      <g:link>https://www.estropical.com/en/idea/48353680/boleto-a-madrid-desde-santa-cruz-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48353680.jpg?v=3</g:image_link>
+      <g:price>1197.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Europa</g:product_type>
+      <g:item_group_id>VUELO-EUROPA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+      <g:custom_label_2>12 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>21 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>36289723</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
+      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>48353155</g:id>
+      <title>Boleto a Miami Desde Santa Cruz</title>
+      <description>Boleto a Miami desde Santa Cruz  from US$828</description>
+      <g:title>Boleto a Miami Desde Santa Cruz</g:title>
+      <g:description>Boleto a Miami desde Santa Cruz  from US$828</g:description>
+      <g:link>https://www.estropical.com/en/idea/48353155/boleto-a-miami-desde-santa-cruz-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48353155.jpg?v=3</g:image_link>
+      <g:price>828.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Norteamérica</g:product_type>
+      <g:item_group_id>VUELO-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>10 May 2026</g:custom_label_2>
+      <g:custom_label_3>18 May 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48352690</g:id>
+      <title>Boleto a Sao Paulo Desde Santa Cruz</title>
+      <description>Boleto a Sao Paulo desde Santa Cruz from US$470</description>
+      <g:title>Boleto a Sao Paulo Desde Santa Cruz</g:title>
+      <g:description>Boleto a Sao Paulo desde Santa Cruz from US$470</g:description>
+      <g:link>https://www.estropical.com/en/idea/48352690/boleto-a-sao-paulo-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48352690.jpg?v=3</g:image_link>
+      <g:price>470.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>10 May 2026</g:custom_label_2>
+      <g:custom_label_3>14 May 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48351901</g:id>
+      <title>Boleto a Buenos Aires Desde Santa Cruz</title>
+      <description>Boleto a Buenos Aires desde Santa Cruz from US$433</description>
+      <g:title>Boleto a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Boleto a Buenos Aires desde Santa Cruz from US$433</g:description>
+      <g:link>https://www.estropical.com/en/idea/48351901/boleto-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48351901.jpg?v=3</g:image_link>
+      <g:price>433.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>12 May 2026</g:custom_label_2>
+      <g:custom_label_3>19 May 2026</g:custom_label_3>
+    </item>
 
     <item>
       <g:id>48047010</g:id>
@@ -157,27 +468,6 @@
       <g:custom_label_2>18 Jun 2026</g:custom_label_2>
       <g:custom_label_3>23 Jun 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>36289723</g:id>
-      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
-      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
-      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
-      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
-      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
-      <g:price>849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -2568,11 +2858,11 @@
 
     <item>
       <g:id>46235732</g:id>
-      <title>Descubriendo Tanzania y Kenya 26/27</title>
-      <description>MM880 DESCUBRIENDO TANZANIA Y KENYA 26/27 from US$8,891</description>
-      <g:title>Descubriendo Tanzania y Kenya 26/27</g:title>
-      <g:description>MM880 DESCUBRIENDO TANZANIA Y KENYA 26/27 from US$8,891</g:description>
-      <g:link>https://www.estropical.com/en/idea/46235732/mm880-descubriendo-tanzania-y-kenya-26-27</g:link>
+      <title>Descubriendo Tanzania y Kenia 26/27</title>
+      <description>MM880 DESCUBRIENDO TANZANIA Y KENIA 26/27 from US$8,891</description>
+      <g:title>Descubriendo Tanzania y Kenia 26/27</g:title>
+      <g:description>MM880 DESCUBRIENDO TANZANIA Y KENIA 26/27 from US$8,891</g:description>
+      <g:link>https://www.estropical.com/en/idea/46235732/mm880-descubriendo-tanzania-y-kenia-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235732.jpg?v=3</g:image_link>
       <g:price>8891.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -2640,11 +2930,11 @@
 
     <item>
       <g:id>46235720</g:id>
-      <title>Kenya en Esencia y Uganda 26/27</title>
-      <description>MM875 KENYA EN ESENCIA Y UGANDA 26/27 from US$6,584</description>
-      <g:title>Kenya en Esencia y Uganda 26/27</g:title>
-      <g:description>MM875 KENYA EN ESENCIA Y UGANDA 26/27 from US$6,584</g:description>
-      <g:link>https://www.estropical.com/en/idea/46235720/mm875-kenya-en-esencia-y-uganda-26-27</g:link>
+      <title>Kenia en Esencia y Uganda 26/27</title>
+      <description>MM875 KENIA EN ESENCIA Y UGANDA 26/27 from US$6,584</description>
+      <g:title>Kenia en Esencia y Uganda 26/27</g:title>
+      <g:description>MM875 KENIA EN ESENCIA Y UGANDA 26/27 from US$6,584</g:description>
+      <g:link>https://www.estropical.com/en/idea/46235720/mm875-kenia-en-esencia-y-uganda-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235720.jpg?v=3</g:image_link>
       <g:price>6584.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -2730,11 +3020,11 @@
 
     <item>
       <g:id>46235705</g:id>
-      <title>Kenya en Esencia y Zimbawe 26/27</title>
-      <description>MM870 KENYA EN ESENCIA Y ZIMBAWE 26/27 from US$4,911</description>
-      <g:title>Kenya en Esencia y Zimbawe 26/27</g:title>
-      <g:description>MM870 KENYA EN ESENCIA Y ZIMBAWE 26/27 from US$4,911</g:description>
-      <g:link>https://www.estropical.com/en/idea/46235705/mm870-kenya-en-esencia-y-zimbawe-26-27</g:link>
+      <title>Kenia en Esencia y Zimbawe 26/27</title>
+      <description>MM870 KENIA EN ESENCIA Y ZIMBAWE 26/27 from US$4,911</description>
+      <g:title>Kenia en Esencia y Zimbawe 26/27</g:title>
+      <g:description>MM870 KENIA EN ESENCIA Y ZIMBAWE 26/27 from US$4,911</g:description>
+      <g:link>https://www.estropical.com/en/idea/46235705/mm870-kenia-en-esencia-y-zimbawe-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235705.jpg?v=3</g:image_link>
       <g:price>4911.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -2856,11 +3146,11 @@
 
     <item>
       <g:id>46235684</g:id>
-      <title>Kenya en Esencia 26/27</title>
-      <description>MM865 KENYA EN ESENCIA 26/27 from US$3,584</description>
-      <g:title>Kenya en Esencia 26/27</g:title>
-      <g:description>MM865 KENYA EN ESENCIA 26/27 from US$3,584</g:description>
-      <g:link>https://www.estropical.com/en/idea/46235684/mm865-kenya-en-esencia-26-27</g:link>
+      <title>Kenia en Esencia 26/27</title>
+      <description>MM865 KENIA EN ESENCIA 26/27 from US$3,584</description>
+      <g:title>Kenia en Esencia 26/27</g:title>
+      <g:description>MM865 KENIA EN ESENCIA 26/27 from US$3,584</g:description>
+      <g:link>https://www.estropical.com/en/idea/46235684/mm865-kenia-en-esencia-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235684.jpg?v=3</g:image_link>
       <g:price>3584.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -3829,12 +4119,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,260</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,257</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,260</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,257</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6260.00 USD</g:price>
+      <g:price>6257.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4374,12 +4664,12 @@
     <item>
       <g:id>44870184</g:id>
       <title>Boleto a Bogotá Desde Santa Cruz</title>
-      <description>Boleto a Bogotá desde Santa Cruz  from US$806</description>
+      <description>Boleto a Bogotá desde Santa Cruz  from US$899</description>
       <g:title>Boleto a Bogotá Desde Santa Cruz</g:title>
-      <g:description>Boleto a Bogotá desde Santa Cruz  from US$806</g:description>
+      <g:description>Boleto a Bogotá desde Santa Cruz  from US$899</g:description>
       <g:link>https://www.estropical.com/en/idea/44870184/boleto-a-bogota-desde-santa-cruz-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44870184.jpg?v=3</g:image_link>
-      <g:price>806.00 USD</g:price>
+      <g:price>899.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4387,19 +4677,19 @@
       <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
       <g:custom_label_0>Vuelo</g:custom_label_0>
       <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>22 Sep 2026</g:custom_label_3>
+      <g:custom_label_2>14 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>19 Jun 2026</g:custom_label_3>
     </item>
 
     <item>
       <g:id>44864913</g:id>
       <title>Boleto a Punta Cana Desde Santa Cruz</title>
-      <description>Boleto a Punta Cana desde Santa Cruz  from US$930</description>
+      <description>Boleto a Punta Cana desde Santa Cruz  from US$938</description>
       <g:title>Boleto a Punta Cana Desde Santa Cruz</g:title>
-      <g:description>Boleto a Punta Cana desde Santa Cruz  from US$930</g:description>
+      <g:description>Boleto a Punta Cana desde Santa Cruz  from US$938</g:description>
       <g:link>https://www.estropical.com/en/idea/44864913/boleto-a-punta-cana-desde-santa-cruz-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44864913.jpg?v=3</g:image_link>
-      <g:price>930.00 USD</g:price>
+      <g:price>938.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4407,8 +4697,8 @@
       <g:item_group_id>VUELO-CARIBE</g:item_group_id>
       <g:custom_label_0>Vuelo</g:custom_label_0>
       <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>22 Apr 2026</g:custom_label_3>
+      <g:custom_label_2>16 May 2026</g:custom_label_2>
+      <g:custom_label_3>21 May 2026</g:custom_label_3>
     </item>
 
     <item>
@@ -4434,12 +4724,12 @@
     <item>
       <g:id>44858247</g:id>
       <title>Boleto a Cartagena Desde Santa Cruz</title>
-      <description>Boleto a Cartagena desde Santa Cruz  from US$824</description>
+      <description>Boleto a Cartagena desde Santa Cruz  from US$687</description>
       <g:title>Boleto a Cartagena Desde Santa Cruz</g:title>
-      <g:description>Boleto a Cartagena desde Santa Cruz  from US$824</g:description>
+      <g:description>Boleto a Cartagena desde Santa Cruz  from US$687</g:description>
       <g:link>https://www.estropical.com/en/idea/44858247/boleto-a-cartagena-desde-santa-cruz-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44858247.jpg?v=3</g:image_link>
-      <g:price>824.00 USD</g:price>
+      <g:price>687.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4448,18 +4738,18 @@
       <g:custom_label_0>Vuelo</g:custom_label_0>
       <g:custom_label_1>Sudamérica</g:custom_label_1>
       <g:custom_label_2>13 May 2026</g:custom_label_2>
-      <g:custom_label_3>21 May 2026</g:custom_label_3>
+      <g:custom_label_3>20 May 2026</g:custom_label_3>
     </item>
 
     <item>
       <g:id>44856468</g:id>
       <title>Boleto a Cancun Desde Santa Cruz</title>
-      <description>Boleto a Cancun desde Santa Cruz from US$945</description>
+      <description>Boleto a Cancun desde Santa Cruz from US$844</description>
       <g:title>Boleto a Cancun Desde Santa Cruz</g:title>
-      <g:description>Boleto a Cancun desde Santa Cruz from US$945</g:description>
+      <g:description>Boleto a Cancun desde Santa Cruz from US$844</g:description>
       <g:link>https://www.estropical.com/en/idea/44856468/boleto-a-cancun-desde-santa-cruz</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44856468.jpg?v=3</g:image_link>
-      <g:price>945.00 USD</g:price>
+      <g:price>844.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4474,12 +4764,12 @@
     <item>
       <g:id>44846904</g:id>
       <title>Boleto a Miami Desde Santa Cruz</title>
-      <description>Boleto a Miami desde Santa Cruz from US$694</description>
+      <description>Boleto a Miami desde Santa Cruz from US$828</description>
       <g:title>Boleto a Miami Desde Santa Cruz</g:title>
-      <g:description>Boleto a Miami desde Santa Cruz from US$694</g:description>
+      <g:description>Boleto a Miami desde Santa Cruz from US$828</g:description>
       <g:link>https://www.estropical.com/en/idea/44846904/boleto-a-miami-desde-santa-cruz</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44846904.jpg?v=3</g:image_link>
-      <g:price>694.00 USD</g:price>
+      <g:price>828.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4494,12 +4784,12 @@
     <item>
       <g:id>44840952</g:id>
       <title>Boleto a Sao Paulo Desde Santa Cruz</title>
-      <description>Boleto a Sao Paulo desde Santa Cruz  from US$480</description>
+      <description>Boleto a Sao Paulo desde Santa Cruz  from US$443</description>
       <g:title>Boleto a Sao Paulo Desde Santa Cruz</g:title>
-      <g:description>Boleto a Sao Paulo desde Santa Cruz  from US$480</g:description>
+      <g:description>Boleto a Sao Paulo desde Santa Cruz  from US$443</g:description>
       <g:link>https://www.estropical.com/en/idea/44840952/boleto-a-sao-paulo-desde-santa-cruz-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44840952.jpg?v=3</g:image_link>
-      <g:price>480.00 USD</g:price>
+      <g:price>443.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4507,8 +4797,8 @@
       <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
       <g:custom_label_0>Vuelo</g:custom_label_0>
       <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Aug 2026</g:custom_label_2>
-      <g:custom_label_3>21 Aug 2026</g:custom_label_3>
+      <g:custom_label_2>10 May 2026</g:custom_label_2>
+      <g:custom_label_3>15 May 2026</g:custom_label_3>
     </item>
 
     <item>
@@ -8912,276 +9202,6 @@
       <g:link>https://www.estropical.com/en/idea/41341883/ce423-gran-tour-de-la-europa-del-este-17-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341883.jpg?v=3</g:image_link>
       <g:price>3869.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341880</g:id>
-      <title>Ce500 - Tesoros de Europa 15 Dias Par/vie 26/27</title>
-      <description>CE500 - TESOROS DE EUROPA 15 DIAS PAR/VIE 26/27 from US$3,772</description>
-      <g:title>Ce500 - Tesoros de Europa 15 Dias Par/vie 26/27</g:title>
-      <g:description>CE500 - TESOROS DE EUROPA 15 DIAS PAR/VIE 26/27 from US$3,772</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341880/ce500-tesoros-de-europa-15-dias-par-vie-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341880.jpg?v=3</g:image_link>
-      <g:price>3772.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341877</g:id>
-      <title>Ce422 - Gran Tour de la Europa del Este 16 Dias 26/27</title>
-      <description>CE422 - GRAN TOUR DE LA EUROPA DEL ESTE 16 DIAS 26/27 from US$3,691</description>
-      <g:title>Ce422 - Gran Tour de la Europa del Este 16 Dias 26/27</g:title>
-      <g:description>CE422 - GRAN TOUR DE LA EUROPA DEL ESTE 16 DIAS 26/27 from US$3,691</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341877/ce422-gran-tour-de-la-europa-del-este-16-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341877.jpg?v=3</g:image_link>
-      <g:price>3691.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341874</g:id>
-      <title>Ce414 - Gira de Alemania y Europa del Este 16 Dias 26/27</title>
-      <description>CE414 - GIRA DE ALEMANIA Y EUROPA DEL ESTE 16 DIAS 26/27 from US$3,629</description>
-      <g:title>Ce414 - Gira de Alemania y Europa del Este 16 Dias 26/27</g:title>
-      <g:description>CE414 - GIRA DE ALEMANIA Y EUROPA DEL ESTE 16 DIAS 26/27 from US$3,629</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341874/ce414-gira-de-alemania-y-europa-del-este-16-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341874.jpg?v=3</g:image_link>
-      <g:price>3629.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341871</g:id>
-      <title>Ce420 - la Gira Magica 15 Dias 26/27</title>
-      <description>CE420 - LA GIRA MAGICA 15 DIAS 26/27 from US$3,551</description>
-      <g:title>Ce420 - la Gira Magica 15 Dias 26/27</g:title>
-      <g:description>CE420 - LA GIRA MAGICA 15 DIAS 26/27 from US$3,551</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341871/ce420-la-gira-magica-15-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341871.jpg?v=3</g:image_link>
-      <g:price>3551.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341868</g:id>
-      <title>Oc231 - Europa en Breve 10 Dias Lon/vce 26/27</title>
-      <description>OC231 - EUROPA EN BREVE 10 DIAS LON/VCE 26/27 from US$3,522</description>
-      <g:title>Oc231 - Europa en Breve 10 Dias Lon/vce 26/27</g:title>
-      <g:description>OC231 - EUROPA EN BREVE 10 DIAS LON/VCE 26/27 from US$3,522</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341868/oc231-europa-en-breve-10-dias-lon-vce-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341868.jpg?v=3</g:image_link>
-      <g:price>3522.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341865</g:id>
-      <title>Ce410 - Paris, Alemania y Europa del Este 15 Dias 26/27</title>
-      <description>CE410 - PARIS, ALEMANIA Y EUROPA DEL ESTE 15 DIAS 26/27 from US$3,511</description>
-      <g:title>Ce410 - Paris, Alemania y Europa del Este 15 Dias 26/27</g:title>
-      <g:description>CE410 - PARIS, ALEMANIA Y EUROPA DEL ESTE 15 DIAS 26/27 from US$3,511</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341865/ce410-paris-alemania-y-europa-del-este-15-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341865.jpg?v=3</g:image_link>
-      <g:price>3511.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341862</g:id>
-      <title>Ce413 - Gira de Alemania y Europa del Este 15 Dias 26/27</title>
-      <description>CE413 - GIRA DE ALEMANIA Y EUROPA DEL ESTE 15 DIAS 26/27 from US$3,420</description>
-      <g:title>Ce413 - Gira de Alemania y Europa del Este 15 Dias 26/27</g:title>
-      <g:description>CE413 - GIRA DE ALEMANIA Y EUROPA DEL ESTE 15 DIAS 26/27 from US$3,420</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341862/ce413-gira-de-alemania-y-europa-del-este-15-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341862.jpg?v=3</g:image_link>
-      <g:price>3420.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341859</g:id>
-      <title>Ce411 - Gira de Alemania y Europa del Este 12 Dias 26/27</title>
-      <description>CE411 - GIRA DE ALEMANIA Y EUROPA DEL ESTE 12 DIAS 26/27 from US$2,863</description>
-      <g:title>Ce411 - Gira de Alemania y Europa del Este 12 Dias 26/27</g:title>
-      <g:description>CE411 - GIRA DE ALEMANIA Y EUROPA DEL ESTE 12 DIAS 26/27 from US$2,863</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341859/ce411-gira-de-alemania-y-europa-del-este-12-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341859.jpg?v=3</g:image_link>
-      <g:price>2863.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341856</g:id>
-      <title>Ce412 - Gira de Alemania y Europa del Este 13 Dias 26/27</title>
-      <description>CE412 - GIRA DE ALEMANIA Y EUROPA DEL ESTE 13 DIAS 26/27 from US$2,820</description>
-      <g:title>Ce412 - Gira de Alemania y Europa del Este 13 Dias 26/27</g:title>
-      <g:description>CE412 - GIRA DE ALEMANIA Y EUROPA DEL ESTE 13 DIAS 26/27 from US$2,820</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341856/ce412-gira-de-alemania-y-europa-del-este-13-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341856.jpg?v=3</g:image_link>
-      <g:price>2820.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341853</g:id>
-      <title>Ce408 - Ciudades Magicas del Este de Europa 26/27</title>
-      <description>CE408 - CIUDADES MAGICAS DEL ESTE DE EUROPA 26/27 from US$2,626</description>
-      <g:title>Ce408 - Ciudades Magicas del Este de Europa 26/27</g:title>
-      <g:description>CE408 - CIUDADES MAGICAS DEL ESTE DE EUROPA 26/27 from US$2,626</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341853/ce408-ciudades-magicas-del-este-de-europa-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341853.jpg?v=3</g:image_link>
-      <g:price>2626.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341850</g:id>
-      <title>Ce409 - Alemania y Europa del Este 12 Dias 26/27</title>
-      <description>CE409 - ALEMANIA Y EUROPA DEL ESTE 12 DIAS 26/27 from US$2,621</description>
-      <g:title>Ce409 - Alemania y Europa del Este 12 Dias 26/27</g:title>
-      <g:description>CE409 - ALEMANIA Y EUROPA DEL ESTE 12 DIAS 26/27 from US$2,621</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341850/ce409-alemania-y-europa-del-este-12-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341850.jpg?v=3</g:image_link>
-      <g:price>2621.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341847</g:id>
-      <title>Ce427 - Polonia con Viena y Berlin 26/27</title>
-      <description>CE427 - POLONIA CON VIENA Y BERLIN 26/27 from US$2,361</description>
-      <g:title>Ce427 - Polonia con Viena y Berlin 26/27</g:title>
-      <g:description>CE427 - POLONIA CON VIENA Y BERLIN 26/27 from US$2,361</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341847/ce427-polonia-con-viena-y-berlin-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341847.jpg?v=3</g:image_link>
-      <g:price>2361.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341844</g:id>
-      <title>Ce406 - el Triangulo Magico 26/27</title>
-      <description>CE406 - EL TRIANGULO MAGICO 26/27 from US$1,757</description>
-      <g:title>Ce406 - el Triangulo Magico 26/27</g:title>
-      <g:description>CE406 - EL TRIANGULO MAGICO 26/27 from US$1,757</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341844/ce406-el-triangulo-magico-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341844.jpg?v=3</g:image_link>
-      <g:price>1757.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41259821</g:id>
-      <title>Oc342 - Maravillas de Inglaterra,escocia e Irlanda 2026</title>
-      <description>OC342 - MARAVILLAS DE INGLATERRA,ESCOCIA E IRLANDA 2026 from US$6,898</description>
-      <g:title>Oc342 - Maravillas de Inglaterra,escocia e Irlanda 2026</g:title>
-      <g:description>OC342 - MARAVILLAS DE INGLATERRA,ESCOCIA E IRLANDA 2026 from US$6,898</g:description>
-      <g:link>https://www.estropical.com/en/idea/41259821/oc342-maravillas-de-inglaterra-escocia-e-irlanda-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259821.jpg?v=3</g:image_link>
-      <g:price>6898.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41259818</g:id>
-      <title>Oc280 - Europa en Bandeja 26 Dias Lon/mad 26/27</title>
-      <description>OC280 - EUROPA EN BANDEJA 26 DIAS LON/MAD 26/27 from US$6,850</description>
-      <g:title>Oc280 - Europa en Bandeja 26 Dias Lon/mad 26/27</g:title>
-      <g:description>OC280 - EUROPA EN BANDEJA 26 DIAS LON/MAD 26/27 from US$6,850</g:description>
-      <g:link>https://www.estropical.com/en/idea/41259818/oc280-europa-en-bandeja-26-dias-lon-mad-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41259818.jpg?v=3</g:image_link>
-      <g:price>6850.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
