@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-12 11:56 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-12T11:56:39.497186Z)
+  Generated : 2026-03-13 11:57 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-13T11:57:35.201042Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -13,50 +13,280 @@
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
 
     <item>
-      <g:id>48370885</g:id>
-      <title>Nakasendo, Japon Imperial 2026</title>
-      <description>MM833 NAKASENDO, JAPON IMPERIAL 2026 from US$6,699</description>
-      <g:title>Nakasendo, Japon Imperial 2026</g:title>
-      <g:description>MM833 NAKASENDO, JAPON IMPERIAL 2026 from US$6,699</g:description>
-      <g:link>https://www.estropical.com/en/idea/48370885/mm833-nakasendo-japon-imperial-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370885.jpg?v=3</g:image_link>
-      <g:price>6699.00 USD</g:price>
+      <g:id>48521830</g:id>
+      <title>Paseo en Canoa Polinesia por la Bahía de Todos los Santos</title>
+      <description>Paseo en canoa polinesia por la bahía de Todos los Santos from US$20</description>
+      <g:title>Paseo en Canoa Polinesia por la Bahía de Todos los Santos</g:title>
+      <g:description>Paseo en canoa polinesia por la bahía de Todos los Santos from US$20</g:description>
+      <g:link>https://www.estropical.com/en/idea/48521830/paseo-en-canoa-polinesia-por-la-bahia-de-todos-los-santos</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48521830.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>13 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>17 Aug 2026</g:custom_label_3>
     </item>
 
     <item>
-      <g:id>48370882</g:id>
-      <title>Japon y Corea 2026</title>
-      <description>MM850 JAPON Y COREA 2026 from US$6,559</description>
-      <g:title>Japon y Corea 2026</g:title>
-      <g:description>MM850 JAPON Y COREA 2026 from US$6,559</g:description>
-      <g:link>https://www.estropical.com/en/idea/48370882/mm850-japon-y-corea-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370882.jpg?v=3</g:image_link>
-      <g:price>6559.00 USD</g:price>
+      <g:id>48521614</g:id>
+      <title>Día Entero en Punta Arena</title>
+      <description>Día entero en Punta Arena from US$24</description>
+      <g:title>Día Entero en Punta Arena</g:title>
+      <g:description>Día entero en Punta Arena from US$24</g:description>
+      <g:link>https://www.estropical.com/en/idea/48521614/dia-entero-en-punta-arena</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48521614.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>19 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48521347</g:id>
+      <title>Alquiler de Bicicletas en Miami Beach</title>
+      <description>Alquiler de bicicletas en Miami Beach from US$29</description>
+      <g:title>Alquiler de Bicicletas en Miami Beach</g:title>
+      <g:description>Alquiler de bicicletas en Miami Beach from US$29</g:description>
+      <g:link>https://www.estropical.com/en/idea/48521347/alquiler-de-bicicletas-en-miami-beach</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48521347.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48520888</g:id>
+      <title>Entrada Al Espectáculo la Bomba de Tiempo</title>
+      <description>Entrada al espectáculo La Bomba de Tiempo from US$20</description>
+      <g:title>Entrada Al Espectáculo la Bomba de Tiempo</g:title>
+      <g:description>Entrada al espectáculo La Bomba de Tiempo from US$20</g:description>
+      <g:link>https://www.estropical.com/en/idea/48520888/entrada-al-espectaculo-la-bomba-de-tiempo</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48520888.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>13 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>18 Aug 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48520558</g:id>
+      <title>Pub Crawl ¡tour de Fiesta por Vila Olímpia!</title>
+      <description>Pub Crawl ¡Tour de fiesta por Vila Olímpia! from US$26</description>
+      <g:title>Pub Crawl ¡tour de Fiesta por Vila Olímpia!</g:title>
+      <g:description>Pub Crawl ¡Tour de fiesta por Vila Olímpia! from US$26</g:description>
+      <g:link>https://www.estropical.com/en/idea/48520558/pub-crawl-tour-de-fiesta-por-vila-olimpia-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48520558.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>17 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>22 Sep 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48520261</g:id>
+      <title>Aventura Esnórquel en Puerto Morelos + Shopping Tour</title>
+      <description>Aventura Esnórquel en Puerto Morelos + Shopping Tour from US$71</description>
+      <g:title>Aventura Esnórquel en Puerto Morelos + Shopping Tour</g:title>
+      <g:description>Aventura Esnórquel en Puerto Morelos + Shopping Tour from US$71</g:description>
+      <g:link>https://www.estropical.com/en/idea/48520261/aventura-esnorquel-en-puerto-morelos-shopping-tour</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48520261.jpg?v=3</g:image_link>
+      <g:price>71.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48519895</g:id>
+      <title>Pub Crawl ¡tour de Fiesta por Punta Cana!</title>
+      <description>Pub Crawl ¡Tour de fiesta por Punta Cana! from US$52</description>
+      <g:title>Pub Crawl ¡tour de Fiesta por Punta Cana!</g:title>
+      <g:description>Pub Crawl ¡Tour de fiesta por Punta Cana! from US$52</g:description>
+      <g:link>https://www.estropical.com/en/idea/48519895/pub-crawl-tour-de-fiesta-por-punta-cana-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48519895.jpg?v=3</g:image_link>
+      <g:price>52.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>13 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>18 Aug 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>48511090</g:id>
+      <title>Vacaciones Diciembre | Gran Palladium Imbassaí Resort &amp; Spa 5*</title>
+      <description>Vacaciones Diciembre | Gran Palladium Imbassaí Resort &amp; Spa 5* from US$1,581</description>
+      <g:title>Vacaciones Diciembre | Gran Palladium Imbassaí Resort &amp; Spa 5*</g:title>
+      <g:description>Vacaciones Diciembre | Gran Palladium Imbassaí Resort &amp; Spa 5* from US$1,581</g:description>
+      <g:link>https://www.estropical.com/en/idea/48511090/vacaciones-diciembre-gran-palladium-imbassai-resort-spa-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48511090.jpg?v=3</g:image_link>
+      <g:price>1581.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>11 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>15 Dec 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>48510610</g:id>
+      <title>Dia del Niño | Gran Palladium Imbassaí Resort &amp; Spa 5*</title>
+      <description>Dia del niño | Gran Palladium Imbassaí Resort &amp; Spa 5* from US$1,604</description>
+      <g:title>Dia del Niño | Gran Palladium Imbassaí Resort &amp; Spa 5*</g:title>
+      <g:description>Dia del niño | Gran Palladium Imbassaí Resort &amp; Spa 5* from US$1,604</g:description>
+      <g:link>https://www.estropical.com/en/idea/48510610/dia-del-nino-gran-palladium-imbassai-resort-spa-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48510610.jpg?v=3</g:image_link>
+      <g:price>1604.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>14 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>48509884</g:id>
+      <title>Dia de la Madre | Gran Palladium Imbassaí Resort &amp; Spa 5</title>
+      <description>Dia de la Madre | Gran Palladium Imbassaí Resort &amp; Spa 5 from US$883</description>
+      <g:title>Dia de la Madre | Gran Palladium Imbassaí Resort &amp; Spa 5</g:title>
+      <g:description>Dia de la Madre | Gran Palladium Imbassaí Resort &amp; Spa 5 from US$883</g:description>
+      <g:link>https://www.estropical.com/en/idea/48509884/dia-de-la-madre-gran-palladium-imbassai-resort-spa-5</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48509884.jpg?v=3</g:image_link>
+      <g:price>883.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>25 May 2026</g:custom_label_2>
+      <g:custom_label_3>30 May 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>48509158</g:id>
+      <title>Semana Palladium | the Signature Level At Grand Palladium Imbassaí Resort &amp; Spa 5*</title>
+      <description>Semana Palladium | The Signature Level at Grand Palladium Imbassaí Resort &amp; Spa 5* from US$1,040</description>
+      <g:title>Semana Palladium | the Signature Level At Grand Palladium Imbassaí Resort &amp; Spa 5*</g:title>
+      <g:description>Semana Palladium | The Signature Level at Grand Palladium Imbassaí Resort &amp; Spa 5* from US$1,040</g:description>
+      <g:link>https://www.estropical.com/en/idea/48509158/semana-palladium-the-signature-level-at-grand-palladium-imbassai-resort-spa-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48509158.jpg?v=3</g:image_link>
+      <g:price>1040.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>15 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>20 Jun 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>48507976</g:id>
+      <title>Semana Palladium | Gran Palladium Imbassaí Resort &amp; Spa 5*</title>
+      <description>Semana Palladium | Gran Palladium Imbassaí Resort &amp; Spa 5* from US$948</description>
+      <g:title>Semana Palladium | Gran Palladium Imbassaí Resort &amp; Spa 5*</g:title>
+      <g:description>Semana Palladium | Gran Palladium Imbassaí Resort &amp; Spa 5* from US$948</g:description>
+      <g:link>https://www.estropical.com/en/idea/48507976/semana-palladium-gran-palladium-imbassai-resort-spa-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48507976.jpg?v=3</g:image_link>
+      <g:price>948.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>30 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>5 Jul 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>36289723</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
+      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
       <g:id>48370879</g:id>
       <title>Maravillas de Vietnam y Tailandia 26/27</title>
-      <description>MM848 MARAVILLAS DE VIETNAM Y TAILANDIA 26/27 from US$3,288</description>
+      <description>MM848 MARAVILLAS DE VIETNAM Y TAILANDIA 26/27 from US$3,409</description>
       <g:title>Maravillas de Vietnam y Tailandia 26/27</g:title>
-      <g:description>MM848 MARAVILLAS DE VIETNAM Y TAILANDIA 26/27 from US$3,288</g:description>
+      <g:description>MM848 MARAVILLAS DE VIETNAM Y TAILANDIA 26/27 from US$3,409</g:description>
       <g:link>https://www.estropical.com/en/idea/48370879/mm848-maravillas-de-vietnam-y-tailandia-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370879.jpg?v=3</g:image_link>
-      <g:price>3288.00 USD</g:price>
+      <g:price>3409.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -69,30 +299,12 @@
     <item>
       <g:id>48370876</g:id>
       <title>Kenia, Safari Tembo 26/27</title>
-      <description>MM864 KENIA, SAFARI TEMBO 26/27 from US$3,148</description>
+      <description>MM864 KENIA, SAFARI TEMBO 26/27 from US$3,264</description>
       <g:title>Kenia, Safari Tembo 26/27</g:title>
-      <g:description>MM864 KENIA, SAFARI TEMBO 26/27 from US$3,148</g:description>
+      <g:description>MM864 KENIA, SAFARI TEMBO 26/27 from US$3,264</g:description>
       <g:link>https://www.estropical.com/en/idea/48370876/mm864-kenia-safari-tembo-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370876.jpg?v=3</g:image_link>
-      <g:price>3148.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>48370873</g:id>
-      <title>Singapur, Malasia y Bali 26/27</title>
-      <description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$2,785</description>
-      <g:title>Singapur, Malasia y Bali 26/27</g:title>
-      <g:description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$2,785</g:description>
-      <g:link>https://www.estropical.com/en/idea/48370873/mm835-singapur-malasia-y-bali-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48370873.jpg?v=3</g:image_link>
-      <g:price>2785.00 USD</g:price>
+      <g:price>3264.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -240,27 +452,6 @@
       <g:custom_label_1>Europa</g:custom_label_1>
       <g:custom_label_2>12 Oct 2026</g:custom_label_2>
       <g:custom_label_3>21 Oct 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>36289723</g:id>
-      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
-      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
-      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
-      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
-      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
-      <g:price>849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -2334,12 +2525,12 @@
     <item>
       <g:id>47147691</g:id>
       <title>Lo Mejor del Este de Canada 2026</title>
-      <description>MM1006 LO MEJOR DEL ESTE DE CANADA 2026 from US$6,238</description>
+      <description>MM1006 LO MEJOR DEL ESTE DE CANADA 2026 from US$6,468</description>
       <g:title>Lo Mejor del Este de Canada 2026</g:title>
-      <g:description>MM1006 LO MEJOR DEL ESTE DE CANADA 2026 from US$6,238</g:description>
+      <g:description>MM1006 LO MEJOR DEL ESTE DE CANADA 2026 from US$6,468</g:description>
       <g:link>https://www.estropical.com/en/idea/47147691/mm1006-lo-mejor-del-este-de-canada-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47147691.jpg?v=3</g:image_link>
-      <g:price>6238.00 USD</g:price>
+      <g:price>6468.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2352,12 +2543,12 @@
     <item>
       <g:id>47147688</g:id>
       <title>Lo Mejor de Tanzania y Zanzibar 2026</title>
-      <description>MM885 LO MEJOR DE TANZANIA Y ZANZIBAR 2026 from US$4,318</description>
+      <description>MM885 LO MEJOR DE TANZANIA Y ZANZIBAR 2026 from US$4,477</description>
       <g:title>Lo Mejor de Tanzania y Zanzibar 2026</g:title>
-      <g:description>MM885 LO MEJOR DE TANZANIA Y ZANZIBAR 2026 from US$4,318</g:description>
+      <g:description>MM885 LO MEJOR DE TANZANIA Y ZANZIBAR 2026 from US$4,477</g:description>
       <g:link>https://www.estropical.com/en/idea/47147688/mm885-lo-mejor-de-tanzania-y-zanzibar-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47147688.jpg?v=3</g:image_link>
-      <g:price>4318.00 USD</g:price>
+      <g:price>4477.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2370,12 +2561,12 @@
     <item>
       <g:id>47048091</g:id>
       <title>Lo Mejor de Kenia, Sabana y Coral 2026</title>
-      <description>MM862 LO MEJOR DE KENIA, SABANA Y CORAL 2026 from US$4,227</description>
+      <description>MM862 LO MEJOR DE KENIA, SABANA Y CORAL 2026 from US$4,383</description>
       <g:title>Lo Mejor de Kenia, Sabana y Coral 2026</g:title>
-      <g:description>MM862 LO MEJOR DE KENIA, SABANA Y CORAL 2026 from US$4,227</g:description>
+      <g:description>MM862 LO MEJOR DE KENIA, SABANA Y CORAL 2026 from US$4,383</g:description>
       <g:link>https://www.estropical.com/en/idea/47048091/mm862-lo-mejor-de-kenia-sabana-y-coral-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47048091.jpg?v=3</g:image_link>
-      <g:price>4227.00 USD</g:price>
+      <g:price>4383.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2481,12 +2672,12 @@
     <item>
       <g:id>46724078</g:id>
       <title>Joyas de Indochina: Vietnam, Camboya, Tailan 26/27</title>
-      <description>MM821 JOYAS DE INDOCHINA: VIETNAM, CAMBOYA, TAILAN 26/27 from US$4,441</description>
+      <description>MM821 JOYAS DE INDOCHINA: VIETNAM, CAMBOYA, TAILAN 26/27 from US$4,605</description>
       <g:title>Joyas de Indochina: Vietnam, Camboya, Tailan 26/27</g:title>
-      <g:description>MM821 JOYAS DE INDOCHINA: VIETNAM, CAMBOYA, TAILAN 26/27 from US$4,441</g:description>
+      <g:description>MM821 JOYAS DE INDOCHINA: VIETNAM, CAMBOYA, TAILAN 26/27 from US$4,605</g:description>
       <g:link>https://www.estropical.com/en/idea/46724078/mm821-joyas-de-indochina-vietnam-camboya-tailan-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46724078.jpg?v=3</g:image_link>
-      <g:price>4441.00 USD</g:price>
+      <g:price>4605.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2499,12 +2690,12 @@
     <item>
       <g:id>46724075</g:id>
       <title>Lo Mejor de China 2026</title>
-      <description>MM845 LO MEJOR DE CHINA 2026 from US$3,749</description>
+      <description>MM845 LO MEJOR DE CHINA 2026 from US$3,888</description>
       <g:title>Lo Mejor de China 2026</g:title>
-      <g:description>MM845 LO MEJOR DE CHINA 2026 from US$3,749</g:description>
+      <g:description>MM845 LO MEJOR DE CHINA 2026 from US$3,888</g:description>
       <g:link>https://www.estropical.com/en/idea/46724075/mm845-lo-mejor-de-china-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46724075.jpg?v=3</g:image_link>
-      <g:price>3749.00 USD</g:price>
+      <g:price>3888.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2517,12 +2708,12 @@
     <item>
       <g:id>46724072</g:id>
       <title>Lo Mejor de Kenia Salvaje 2026</title>
-      <description>MM860 LO MEJOR DE KENIA SALVAJE 2026 from US$3,576</description>
+      <description>MM860 LO MEJOR DE KENIA SALVAJE 2026 from US$3,708</description>
       <g:title>Lo Mejor de Kenia Salvaje 2026</g:title>
-      <g:description>MM860 LO MEJOR DE KENIA SALVAJE 2026 from US$3,576</g:description>
+      <g:description>MM860 LO MEJOR DE KENIA SALVAJE 2026 from US$3,708</g:description>
       <g:link>https://www.estropical.com/en/idea/46724072/mm860-lo-mejor-de-kenia-salvaje-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46724072.jpg?v=3</g:image_link>
-      <g:price>3576.00 USD</g:price>
+      <g:price>3708.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2535,12 +2726,12 @@
     <item>
       <g:id>46724069</g:id>
       <title>Lo Mejor de Bali 2026</title>
-      <description>MM830 LO MEJOR DE BALI 2026 from US$2,414</description>
+      <description>MM830 LO MEJOR DE BALI 2026 from US$2,503</description>
       <g:title>Lo Mejor de Bali 2026</g:title>
-      <g:description>MM830 LO MEJOR DE BALI 2026 from US$2,414</g:description>
+      <g:description>MM830 LO MEJOR DE BALI 2026 from US$2,503</g:description>
       <g:link>https://www.estropical.com/en/idea/46724069/mm830-lo-mejor-de-bali-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46724069.jpg?v=3</g:image_link>
-      <g:price>2414.00 USD</g:price>
+      <g:price>2503.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2553,12 +2744,12 @@
     <item>
       <g:id>46599150</g:id>
       <title>Nueva Zelanda, Aotearoa 26/27</title>
-      <description>MM1035 NUEVA ZELANDA, AOTEAROA 26/27 from US$9,146</description>
+      <description>MM1035 NUEVA ZELANDA, AOTEAROA 26/27 from US$9,484</description>
       <g:title>Nueva Zelanda, Aotearoa 26/27</g:title>
-      <g:description>MM1035 NUEVA ZELANDA, AOTEAROA 26/27 from US$9,146</g:description>
+      <g:description>MM1035 NUEVA ZELANDA, AOTEAROA 26/27 from US$9,484</g:description>
       <g:link>https://www.estropical.com/en/idea/46599150/mm1035-nueva-zelanda-aotearoa-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46599150.jpg?v=3</g:image_link>
-      <g:price>9146.00 USD</g:price>
+      <g:price>9484.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2571,12 +2762,12 @@
     <item>
       <g:id>46599147</g:id>
       <title>Australia, Boomerang 26/27</title>
-      <description>MM1030 AUSTRALIA, BOOMERANG 26/27 from US$7,144</description>
+      <description>MM1030 AUSTRALIA, BOOMERANG 26/27 from US$7,408</description>
       <g:title>Australia, Boomerang 26/27</g:title>
-      <g:description>MM1030 AUSTRALIA, BOOMERANG 26/27 from US$7,144</g:description>
+      <g:description>MM1030 AUSTRALIA, BOOMERANG 26/27 from US$7,408</g:description>
       <g:link>https://www.estropical.com/en/idea/46599147/mm1030-australia-boomerang-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46599147.jpg?v=3</g:image_link>
-      <g:price>7144.00 USD</g:price>
+      <g:price>7408.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2589,12 +2780,12 @@
     <item>
       <g:id>46599144</g:id>
       <title>Reinos de Tailandia y Camboya 26/27</title>
-      <description>MM806 REINOS DE TAILANDIA Y CAMBOYA 26/27 from US$3,280</description>
+      <description>MM806 REINOS DE TAILANDIA Y CAMBOYA 26/27 from US$3,401</description>
       <g:title>Reinos de Tailandia y Camboya 26/27</g:title>
-      <g:description>MM806 REINOS DE TAILANDIA Y CAMBOYA 26/27 from US$3,280</g:description>
+      <g:description>MM806 REINOS DE TAILANDIA Y CAMBOYA 26/27 from US$3,401</g:description>
       <g:link>https://www.estropical.com/en/idea/46599144/mm806-reinos-de-tailandia-y-camboya-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46599144.jpg?v=3</g:image_link>
-      <g:price>3280.00 USD</g:price>
+      <g:price>3401.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2607,12 +2798,12 @@
     <item>
       <g:id>46599141</g:id>
       <title>Lo Mejor de Tailandia con Rio Kwai e Isla Ph 2026</title>
-      <description>MM805 LO MEJOR DE TAILANDIA CON RIO KWAI E ISLA PH 2026 from US$2,958</description>
+      <description>MM805 LO MEJOR DE TAILANDIA CON RIO KWAI E ISLA PH 2026 from US$3,067</description>
       <g:title>Lo Mejor de Tailandia con Rio Kwai e Isla Ph 2026</g:title>
-      <g:description>MM805 LO MEJOR DE TAILANDIA CON RIO KWAI E ISLA PH 2026 from US$2,958</g:description>
+      <g:description>MM805 LO MEJOR DE TAILANDIA CON RIO KWAI E ISLA PH 2026 from US$3,067</g:description>
       <g:link>https://www.estropical.com/en/idea/46599141/mm805-lo-mejor-de-tailandia-con-rio-kwai-e-isla-ph-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46599141.jpg?v=3</g:image_link>
-      <g:price>2958.00 USD</g:price>
+      <g:price>3067.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2625,12 +2816,12 @@
     <item>
       <g:id>46599138</g:id>
       <title>Lo Mejor de Tailandia con Phuket 2026</title>
-      <description>MM804 LO MEJOR DE TAILANDIA CON PHUKET 2026 from US$2,793</description>
+      <description>MM804 LO MEJOR DE TAILANDIA CON PHUKET 2026 from US$2,896</description>
       <g:title>Lo Mejor de Tailandia con Phuket 2026</g:title>
-      <g:description>MM804 LO MEJOR DE TAILANDIA CON PHUKET 2026 from US$2,793</g:description>
+      <g:description>MM804 LO MEJOR DE TAILANDIA CON PHUKET 2026 from US$2,896</g:description>
       <g:link>https://www.estropical.com/en/idea/46599138/mm804-lo-mejor-de-tailandia-con-phuket-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46599138.jpg?v=3</g:image_link>
-      <g:price>2793.00 USD</g:price>
+      <g:price>2896.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2643,12 +2834,12 @@
     <item>
       <g:id>46599135</g:id>
       <title>Lo Mejor de Vietnam 2026</title>
-      <description>MM808 LO MEJOR DE VIETNAM 2026 from US$1,920</description>
+      <description>MM808 LO MEJOR DE VIETNAM 2026 from US$1,991</description>
       <g:title>Lo Mejor de Vietnam 2026</g:title>
-      <g:description>MM808 LO MEJOR DE VIETNAM 2026 from US$1,920</g:description>
+      <g:description>MM808 LO MEJOR DE VIETNAM 2026 from US$1,991</g:description>
       <g:link>https://www.estropical.com/en/idea/46599135/mm808-lo-mejor-de-vietnam-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46599135.jpg?v=3</g:image_link>
-      <g:price>1920.00 USD</g:price>
+      <g:price>1991.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2661,12 +2852,12 @@
     <item>
       <g:id>46494080</g:id>
       <title>Canada Clasico 26/27</title>
-      <description>MM1015 CANADA CLASICO 26/27 from US$3,461</description>
+      <description>MM1015 CANADA CLASICO 26/27 from US$3,589</description>
       <g:title>Canada Clasico 26/27</g:title>
-      <g:description>MM1015 CANADA CLASICO 26/27 from US$3,461</g:description>
+      <g:description>MM1015 CANADA CLASICO 26/27 from US$3,589</g:description>
       <g:link>https://www.estropical.com/en/idea/46494080/mm1015-canada-clasico-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46494080.jpg?v=3</g:image_link>
-      <g:price>3461.00 USD</g:price>
+      <g:price>3589.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2679,12 +2870,12 @@
     <item>
       <g:id>46494056</g:id>
       <title>Lo Mejor de India 2026</title>
-      <description>MM801 LO MEJOR DE INDIA 2026 from US$1,936</description>
+      <description>MM801 LO MEJOR DE INDIA 2026 from US$2,008</description>
       <g:title>Lo Mejor de India 2026</g:title>
-      <g:description>MM801 LO MEJOR DE INDIA 2026 from US$1,936</g:description>
+      <g:description>MM801 LO MEJOR DE INDIA 2026 from US$2,008</g:description>
       <g:link>https://www.estropical.com/en/idea/46494056/mm801-lo-mejor-de-india-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46494056.jpg?v=3</g:image_link>
-      <g:price>1936.00 USD</g:price>
+      <g:price>2008.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2697,12 +2888,12 @@
     <item>
       <g:id>46401308</g:id>
       <title>Colores de Corea del Sur 2026</title>
-      <description>MM832 COLORES DE COREA DEL SUR 2026 from US$7,902</description>
+      <description>MM832 COLORES DE COREA DEL SUR 2026 from US$8,194</description>
       <g:title>Colores de Corea del Sur 2026</g:title>
-      <g:description>MM832 COLORES DE COREA DEL SUR 2026 from US$7,902</g:description>
+      <g:description>MM832 COLORES DE COREA DEL SUR 2026 from US$8,194</g:description>
       <g:link>https://www.estropical.com/en/idea/46401308/mm832-colores-de-corea-del-sur-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46401308.jpg?v=3</g:image_link>
-      <g:price>7902.00 USD</g:price>
+      <g:price>8194.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2715,12 +2906,12 @@
     <item>
       <g:id>46401305</g:id>
       <title>Nakasendo, Japon Imperial 26/27</title>
-      <description>MM833 NAKASENDO, JAPON IMPERIAL 26/27 from US$7,045</description>
+      <description>MM833 NAKASENDO, JAPON IMPERIAL 26/27 from US$7,305</description>
       <g:title>Nakasendo, Japon Imperial 26/27</g:title>
-      <g:description>MM833 NAKASENDO, JAPON IMPERIAL 26/27 from US$7,045</g:description>
+      <g:description>MM833 NAKASENDO, JAPON IMPERIAL 26/27 from US$7,305</g:description>
       <g:link>https://www.estropical.com/en/idea/46401305/mm833-nakasendo-japon-imperial-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46401305.jpg?v=3</g:image_link>
-      <g:price>7045.00 USD</g:price>
+      <g:price>7305.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2733,12 +2924,12 @@
     <item>
       <g:id>46401302</g:id>
       <title>Japon y Corea 26/27</title>
-      <description>MM850 JAPON Y COREA 26/27 from US$6,946</description>
+      <description>MM850 JAPON Y COREA 26/27 from US$7,203</description>
       <g:title>Japon y Corea 26/27</g:title>
-      <g:description>MM850 JAPON Y COREA 26/27 from US$6,946</g:description>
+      <g:description>MM850 JAPON Y COREA 26/27 from US$7,203</g:description>
       <g:link>https://www.estropical.com/en/idea/46401302/mm850-japon-y-corea-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46401302.jpg?v=3</g:image_link>
-      <g:price>6946.00 USD</g:price>
+      <g:price>7203.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2751,12 +2942,12 @@
     <item>
       <g:id>46401299</g:id>
       <title>Paraisos Asiaticos 26/27</title>
-      <description>MM820 PARAISOS ASIATICOS 26/27 from US$5,908</description>
+      <description>MM820 PARAISOS ASIATICOS 26/27 from US$6,126</description>
       <g:title>Paraisos Asiaticos 26/27</g:title>
-      <g:description>MM820 PARAISOS ASIATICOS 26/27 from US$5,908</g:description>
+      <g:description>MM820 PARAISOS ASIATICOS 26/27 from US$6,126</g:description>
       <g:link>https://www.estropical.com/en/idea/46401299/mm820-paraisos-asiaticos-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46401299.jpg?v=3</g:image_link>
-      <g:price>5908.00 USD</g:price>
+      <g:price>6126.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2769,12 +2960,12 @@
     <item>
       <g:id>46401281</g:id>
       <title>Singapur, Vietnam, Camboya y Tailandia 26/27</title>
-      <description>MM837 SINGAPUR, VIETNAM, CAMBOYA Y TAILANDIA 26/27 from US$4,927</description>
+      <description>MM837 SINGAPUR, VIETNAM, CAMBOYA Y TAILANDIA 26/27 from US$5,109</description>
       <g:title>Singapur, Vietnam, Camboya y Tailandia 26/27</g:title>
-      <g:description>MM837 SINGAPUR, VIETNAM, CAMBOYA Y TAILANDIA 26/27 from US$4,927</g:description>
+      <g:description>MM837 SINGAPUR, VIETNAM, CAMBOYA Y TAILANDIA 26/27 from US$5,109</g:description>
       <g:link>https://www.estropical.com/en/idea/46401281/mm837-singapur-vietnam-camboya-y-tailandia-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46401281.jpg?v=3</g:image_link>
-      <g:price>4927.00 USD</g:price>
+      <g:price>5109.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2787,9 +2978,9 @@
     <item>
       <g:id>46401275</g:id>
       <title>Canada con Ballenas 2026</title>
-      <description>MM1005 CANADA CON BALLENAS 2026 from US$3,593</description>
+      <description>MM1005 CANADA CON BALLENAS 2026 from US$3,725</description>
       <g:title>Canada con Ballenas 2026</g:title>
-      <g:description>MM1005 CANADA CON BALLENAS 2026 from US$3,593</g:description>
+      <g:description>MM1005 CANADA CON BALLENAS 2026 from US$3,725</g:description>
       <g:link>https://www.estropical.com/en/idea/46401275/mm1005-canada-con-ballenas-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46401275.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -2805,12 +2996,12 @@
     <item>
       <g:id>46401272</g:id>
       <title>China Clasica 26/27</title>
-      <description>MM825 CHINA CLASICA 26/27 from US$3,288</description>
+      <description>MM825 CHINA CLASICA 26/27 from US$3,409</description>
       <g:title>China Clasica 26/27</g:title>
-      <g:description>MM825 CHINA CLASICA 26/27 from US$3,288</g:description>
+      <g:description>MM825 CHINA CLASICA 26/27 from US$3,409</g:description>
       <g:link>https://www.estropical.com/en/idea/46401272/mm825-china-clasica-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46401272.jpg?v=3</g:image_link>
-      <g:price>3288.00 USD</g:price>
+      <g:price>3409.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2823,12 +3014,12 @@
     <item>
       <g:id>46401269</g:id>
       <title>Filipinas en Esencia 26/27</title>
-      <description>MM840 FILIPINAS EN ESENCIA 26/27 from US$3,288</description>
+      <description>MM840 FILIPINAS EN ESENCIA 26/27 from US$3,409</description>
       <g:title>Filipinas en Esencia 26/27</g:title>
-      <g:description>MM840 FILIPINAS EN ESENCIA 26/27 from US$3,288</g:description>
+      <g:description>MM840 FILIPINAS EN ESENCIA 26/27 from US$3,409</g:description>
       <g:link>https://www.estropical.com/en/idea/46401269/mm840-filipinas-en-esencia-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46401269.jpg?v=3</g:image_link>
-      <g:price>3288.00 USD</g:price>
+      <g:price>3409.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2841,12 +3032,12 @@
     <item>
       <g:id>46401266</g:id>
       <title>Triangulo del Norte y Nepal 26/27</title>
-      <description>MM803 TRIANGULO DEL NORTE Y NEPAL 26/27 from US$2,118</description>
+      <description>MM803 TRIANGULO DEL NORTE Y NEPAL 26/27 from US$2,196</description>
       <g:title>Triangulo del Norte y Nepal 26/27</g:title>
-      <g:description>MM803 TRIANGULO DEL NORTE Y NEPAL 26/27 from US$2,118</g:description>
+      <g:description>MM803 TRIANGULO DEL NORTE Y NEPAL 26/27 from US$2,196</g:description>
       <g:link>https://www.estropical.com/en/idea/46401266/mm803-triangulo-del-norte-y-nepal-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46401266.jpg?v=3</g:image_link>
-      <g:price>2118.00 USD</g:price>
+      <g:price>2196.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2859,12 +3050,12 @@
     <item>
       <g:id>46235732</g:id>
       <title>Descubriendo Tanzania y Kenia 26/27</title>
-      <description>MM880 DESCUBRIENDO TANZANIA Y KENIA 26/27 from US$8,891</description>
+      <description>MM880 DESCUBRIENDO TANZANIA Y KENIA 26/27 from US$9,219</description>
       <g:title>Descubriendo Tanzania y Kenia 26/27</g:title>
-      <g:description>MM880 DESCUBRIENDO TANZANIA Y KENIA 26/27 from US$8,891</g:description>
+      <g:description>MM880 DESCUBRIENDO TANZANIA Y KENIA 26/27 from US$9,219</g:description>
       <g:link>https://www.estropical.com/en/idea/46235732/mm880-descubriendo-tanzania-y-kenia-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235732.jpg?v=3</g:image_link>
-      <g:price>8891.00 USD</g:price>
+      <g:price>9219.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2877,12 +3068,12 @@
     <item>
       <g:id>46235729</g:id>
       <title>Sudafrica y Zimbawe. el Gran Safari 26/27</title>
-      <description>MM890 SUDAFRICA Y ZIMBAWE. EL GRAN SAFARI 26/27 from US$8,685</description>
+      <description>MM890 SUDAFRICA Y ZIMBAWE. EL GRAN SAFARI 26/27 from US$9,005</description>
       <g:title>Sudafrica y Zimbawe. el Gran Safari 26/27</g:title>
-      <g:description>MM890 SUDAFRICA Y ZIMBAWE. EL GRAN SAFARI 26/27 from US$8,685</g:description>
+      <g:description>MM890 SUDAFRICA Y ZIMBAWE. EL GRAN SAFARI 26/27 from US$9,005</g:description>
       <g:link>https://www.estropical.com/en/idea/46235729/mm890-sudafrica-y-zimbawe-el-gran-safari-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235729.jpg?v=3</g:image_link>
-      <g:price>8685.00 USD</g:price>
+      <g:price>9005.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2895,12 +3086,12 @@
     <item>
       <g:id>46235726</g:id>
       <title>Tesoros del Lejano Oriente 26/27</title>
-      <description>MM831 TESOROS DEL LEJANO ORIENTE 26/27 from US$7,902</description>
+      <description>MM831 TESOROS DEL LEJANO ORIENTE 26/27 from US$8,194</description>
       <g:title>Tesoros del Lejano Oriente 26/27</g:title>
-      <g:description>MM831 TESOROS DEL LEJANO ORIENTE 26/27 from US$7,902</g:description>
+      <g:description>MM831 TESOROS DEL LEJANO ORIENTE 26/27 from US$8,194</g:description>
       <g:link>https://www.estropical.com/en/idea/46235726/mm831-tesoros-del-lejano-oriente-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235726.jpg?v=3</g:image_link>
-      <g:price>7902.00 USD</g:price>
+      <g:price>8194.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2913,12 +3104,12 @@
     <item>
       <g:id>46235723</g:id>
       <title>Paisajes de las Rocosas y Victoria 2026</title>
-      <description>MM1020 PAISAJES DE LAS ROCOSAS Y VICTORIA 2026 from US$7,309</description>
+      <description>MM1020 PAISAJES DE LAS ROCOSAS Y VICTORIA 2026 from US$7,579</description>
       <g:title>Paisajes de las Rocosas y Victoria 2026</g:title>
-      <g:description>MM1020 PAISAJES DE LAS ROCOSAS Y VICTORIA 2026 from US$7,309</g:description>
+      <g:description>MM1020 PAISAJES DE LAS ROCOSAS Y VICTORIA 2026 from US$7,579</g:description>
       <g:link>https://www.estropical.com/en/idea/46235723/mm1020-paisajes-de-las-rocosas-y-victoria-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235723.jpg?v=3</g:image_link>
-      <g:price>7309.00 USD</g:price>
+      <g:price>7579.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2931,12 +3122,12 @@
     <item>
       <g:id>46235720</g:id>
       <title>Kenia en Esencia y Uganda 26/27</title>
-      <description>MM875 KENIA EN ESENCIA Y UGANDA 26/27 from US$6,584</description>
+      <description>MM875 KENIA EN ESENCIA Y UGANDA 26/27 from US$6,827</description>
       <g:title>Kenia en Esencia y Uganda 26/27</g:title>
-      <g:description>MM875 KENIA EN ESENCIA Y UGANDA 26/27 from US$6,584</g:description>
+      <g:description>MM875 KENIA EN ESENCIA Y UGANDA 26/27 from US$6,827</g:description>
       <g:link>https://www.estropical.com/en/idea/46235720/mm875-kenia-en-esencia-y-uganda-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235720.jpg?v=3</g:image_link>
-      <g:price>6584.00 USD</g:price>
+      <g:price>6827.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2949,12 +3140,12 @@
     <item>
       <g:id>46235717</g:id>
       <title>China Avatar 26/27</title>
-      <description>MM842 CHINA AVATAR 26/27 from US$6,584</description>
+      <description>MM842 CHINA AVATAR 26/27 from US$6,827</description>
       <g:title>China Avatar 26/27</g:title>
-      <g:description>MM842 CHINA AVATAR 26/27 from US$6,584</g:description>
+      <g:description>MM842 CHINA AVATAR 26/27 from US$6,827</g:description>
       <g:link>https://www.estropical.com/en/idea/46235717/mm842-china-avatar-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235717.jpg?v=3</g:image_link>
-      <g:price>6584.00 USD</g:price>
+      <g:price>6827.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2967,12 +3158,12 @@
     <item>
       <g:id>46235714</g:id>
       <title>Zimbawe y Botswana 26/27</title>
-      <description>MM892 ZIMBAWE Y BOTSWANA 26/27 from US$6,089</description>
+      <description>MM892 ZIMBAWE Y BOTSWANA 26/27 from US$6,314</description>
       <g:title>Zimbawe y Botswana 26/27</g:title>
-      <g:description>MM892 ZIMBAWE Y BOTSWANA 26/27 from US$6,089</g:description>
+      <g:description>MM892 ZIMBAWE Y BOTSWANA 26/27 from US$6,314</g:description>
       <g:link>https://www.estropical.com/en/idea/46235714/mm892-zimbawe-y-botswana-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235714.jpg?v=3</g:image_link>
-      <g:price>6089.00 USD</g:price>
+      <g:price>6314.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2985,12 +3176,12 @@
     <item>
       <g:id>46235711</g:id>
       <title>Paraisos de China 26/27</title>
-      <description>MM828 PARAISOS DE CHINA 26/27 from US$5,570</description>
+      <description>MM828 PARAISOS DE CHINA 26/27 from US$5,776</description>
       <g:title>Paraisos de China 26/27</g:title>
-      <g:description>MM828 PARAISOS DE CHINA 26/27 from US$5,570</g:description>
+      <g:description>MM828 PARAISOS DE CHINA 26/27 from US$5,776</g:description>
       <g:link>https://www.estropical.com/en/idea/46235711/mm828-paraisos-de-china-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235711.jpg?v=3</g:image_link>
-      <g:price>5570.00 USD</g:price>
+      <g:price>5776.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3003,12 +3194,12 @@
     <item>
       <g:id>46235708</g:id>
       <title>Canada Magnifica con Nueva York 26/27</title>
-      <description>MM1009 CANADA MAGNIFICA CON NUEVA YORK 26/27 from US$5,521</description>
+      <description>MM1009 CANADA MAGNIFICA CON NUEVA YORK 26/27 from US$5,725</description>
       <g:title>Canada Magnifica con Nueva York 26/27</g:title>
-      <g:description>MM1009 CANADA MAGNIFICA CON NUEVA YORK 26/27 from US$5,521</g:description>
+      <g:description>MM1009 CANADA MAGNIFICA CON NUEVA YORK 26/27 from US$5,725</g:description>
       <g:link>https://www.estropical.com/en/idea/46235708/mm1009-canada-magnifica-con-nueva-york-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235708.jpg?v=3</g:image_link>
-      <g:price>5521.00 USD</g:price>
+      <g:price>5725.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3021,12 +3212,12 @@
     <item>
       <g:id>46235705</g:id>
       <title>Kenia en Esencia y Zimbawe 26/27</title>
-      <description>MM870 KENIA EN ESENCIA Y ZIMBAWE 26/27 from US$4,911</description>
+      <description>MM870 KENIA EN ESENCIA Y ZIMBAWE 26/27 from US$5,092</description>
       <g:title>Kenia en Esencia y Zimbawe 26/27</g:title>
-      <g:description>MM870 KENIA EN ESENCIA Y ZIMBAWE 26/27 from US$4,911</g:description>
+      <g:description>MM870 KENIA EN ESENCIA Y ZIMBAWE 26/27 from US$5,092</g:description>
       <g:link>https://www.estropical.com/en/idea/46235705/mm870-kenia-en-esencia-y-zimbawe-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235705.jpg?v=3</g:image_link>
-      <g:price>4911.00 USD</g:price>
+      <g:price>5092.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3039,9 +3230,9 @@
     <item>
       <g:id>46235702</g:id>
       <title>Paisajes de las Rocosas 2026</title>
-      <description>MM1019 PAISAJES DE LAS ROCOSAS 2026 from US$4,730</description>
+      <description>MM1019 PAISAJES DE LAS ROCOSAS 2026 from US$4,904</description>
       <g:title>Paisajes de las Rocosas 2026</g:title>
-      <g:description>MM1019 PAISAJES DE LAS ROCOSAS 2026 from US$4,730</g:description>
+      <g:description>MM1019 PAISAJES DE LAS ROCOSAS 2026 from US$4,904</g:description>
       <g:link>https://www.estropical.com/en/idea/46235702/mm1019-paisajes-de-las-rocosas-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235702.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -3057,12 +3248,12 @@
     <item>
       <g:id>46235699</g:id>
       <title>Joyas del Este con Nueva York 26/27</title>
-      <description>MM1026 JOYAS DEL ESTE CON NUEVA YORK 26/27 from US$4,499</description>
+      <description>MM1026 JOYAS DEL ESTE CON NUEVA YORK 26/27 from US$4,665</description>
       <g:title>Joyas del Este con Nueva York 26/27</g:title>
-      <g:description>MM1026 JOYAS DEL ESTE CON NUEVA YORK 26/27 from US$4,499</g:description>
+      <g:description>MM1026 JOYAS DEL ESTE CON NUEVA YORK 26/27 from US$4,665</g:description>
       <g:link>https://www.estropical.com/en/idea/46235699/mm1026-joyas-del-este-con-nueva-york-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235699.jpg?v=3</g:image_link>
-      <g:price>4499.00 USD</g:price>
+      <g:price>4665.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3075,12 +3266,12 @@
     <item>
       <g:id>46235696</g:id>
       <title>Descubriendo Vietnam y Camboya 26/27</title>
-      <description>MM822 DESCUBRIENDO VIETNAM Y CAMBOYA 26/27 from US$4,417</description>
+      <description>MM822 DESCUBRIENDO VIETNAM Y CAMBOYA 26/27 from US$4,580</description>
       <g:title>Descubriendo Vietnam y Camboya 26/27</g:title>
-      <g:description>MM822 DESCUBRIENDO VIETNAM Y CAMBOYA 26/27 from US$4,417</g:description>
+      <g:description>MM822 DESCUBRIENDO VIETNAM Y CAMBOYA 26/27 from US$4,580</g:description>
       <g:link>https://www.estropical.com/en/idea/46235696/mm822-descubriendo-vietnam-y-camboya-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235696.jpg?v=3</g:image_link>
-      <g:price>4417.00 USD</g:price>
+      <g:price>4580.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3093,12 +3284,12 @@
     <item>
       <g:id>46235693</g:id>
       <title>Tailandia Fascinante con Phi Phi 26/27</title>
-      <description>MM807 TAILANDIA FASCINANTE CON PHI PHI 26/27 from US$4,112</description>
+      <description>MM807 TAILANDIA FASCINANTE CON PHI PHI 26/27 from US$4,264</description>
       <g:title>Tailandia Fascinante con Phi Phi 26/27</g:title>
-      <g:description>MM807 TAILANDIA FASCINANTE CON PHI PHI 26/27 from US$4,112</g:description>
+      <g:description>MM807 TAILANDIA FASCINANTE CON PHI PHI 26/27 from US$4,264</g:description>
       <g:link>https://www.estropical.com/en/idea/46235693/mm807-tailandia-fascinante-con-phi-phi-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235693.jpg?v=3</g:image_link>
-      <g:price>4112.00 USD</g:price>
+      <g:price>4264.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3111,12 +3302,12 @@
     <item>
       <g:id>46235690</g:id>
       <title>Sudafrica la Gran Aventura y Cataratas Victo 26/27</title>
-      <description>MM897 SUDAFRICA LA GRAN AVENTURA Y CATARATAS VICTO 26/27 from US$4,005</description>
+      <description>MM897 SUDAFRICA LA GRAN AVENTURA Y CATARATAS VICTO 26/27 from US$4,152</description>
       <g:title>Sudafrica la Gran Aventura y Cataratas Victo 26/27</g:title>
-      <g:description>MM897 SUDAFRICA LA GRAN AVENTURA Y CATARATAS VICTO 26/27 from US$4,005</g:description>
+      <g:description>MM897 SUDAFRICA LA GRAN AVENTURA Y CATARATAS VICTO 26/27 from US$4,152</g:description>
       <g:link>https://www.estropical.com/en/idea/46235690/mm897-sudafrica-la-gran-aventura-y-cataratas-victo-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235690.jpg?v=3</g:image_link>
-      <g:price>4005.00 USD</g:price>
+      <g:price>4152.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3129,12 +3320,12 @@
     <item>
       <g:id>46235687</g:id>
       <title>Descubriendo Kuala Lumpur y Borneo 26/27</title>
-      <description>MM838 DESCUBRIENDO KUALA LUMPUR Y BORNEO 26/27 from US$3,947</description>
+      <description>MM838 DESCUBRIENDO KUALA LUMPUR Y BORNEO 26/27 from US$4,093</description>
       <g:title>Descubriendo Kuala Lumpur y Borneo 26/27</g:title>
-      <g:description>MM838 DESCUBRIENDO KUALA LUMPUR Y BORNEO 26/27 from US$3,947</g:description>
+      <g:description>MM838 DESCUBRIENDO KUALA LUMPUR Y BORNEO 26/27 from US$4,093</g:description>
       <g:link>https://www.estropical.com/en/idea/46235687/mm838-descubriendo-kuala-lumpur-y-borneo-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235687.jpg?v=3</g:image_link>
-      <g:price>3947.00 USD</g:price>
+      <g:price>4093.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3147,12 +3338,12 @@
     <item>
       <g:id>46235684</g:id>
       <title>Kenia en Esencia 26/27</title>
-      <description>MM865 KENIA EN ESENCIA 26/27 from US$3,584</description>
+      <description>MM865 KENIA EN ESENCIA 26/27 from US$3,717</description>
       <g:title>Kenia en Esencia 26/27</g:title>
-      <g:description>MM865 KENIA EN ESENCIA 26/27 from US$3,584</g:description>
+      <g:description>MM865 KENIA EN ESENCIA 26/27 from US$3,717</g:description>
       <g:link>https://www.estropical.com/en/idea/46235684/mm865-kenia-en-esencia-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235684.jpg?v=3</g:image_link>
-      <g:price>3584.00 USD</g:price>
+      <g:price>3717.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3165,12 +3356,12 @@
     <item>
       <g:id>46235681</g:id>
       <title>Hong Kong y Esencia Balinesa 26/27</title>
-      <description>MM836 HONG KONG Y ESENCIA BALINESA 26/27 from US$3,288</description>
+      <description>MM836 HONG KONG Y ESENCIA BALINESA 26/27 from US$3,409</description>
       <g:title>Hong Kong y Esencia Balinesa 26/27</g:title>
-      <g:description>MM836 HONG KONG Y ESENCIA BALINESA 26/27 from US$3,288</g:description>
+      <g:description>MM836 HONG KONG Y ESENCIA BALINESA 26/27 from US$3,409</g:description>
       <g:link>https://www.estropical.com/en/idea/46235681/mm836-hong-kong-y-esencia-balinesa-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235681.jpg?v=3</g:image_link>
-      <g:price>3288.00 USD</g:price>
+      <g:price>3409.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3183,12 +3374,12 @@
     <item>
       <g:id>46235678</g:id>
       <title>Sudafrica, la Gran Aventura 26/27</title>
-      <description>MM895 SUDAFRICA, LA GRAN AVENTURA 26/27 from US$2,958</description>
+      <description>MM895 SUDAFRICA, LA GRAN AVENTURA 26/27 from US$3,067</description>
       <g:title>Sudafrica, la Gran Aventura 26/27</g:title>
-      <g:description>MM895 SUDAFRICA, LA GRAN AVENTURA 26/27 from US$2,958</g:description>
+      <g:description>MM895 SUDAFRICA, LA GRAN AVENTURA 26/27 from US$3,067</g:description>
       <g:link>https://www.estropical.com/en/idea/46235678/mm895-sudafrica-la-gran-aventura-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235678.jpg?v=3</g:image_link>
-      <g:price>2958.00 USD</g:price>
+      <g:price>3067.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3201,12 +3392,12 @@
     <item>
       <g:id>46235675</g:id>
       <title>Singapur, Malasia y Bali 26/27</title>
-      <description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$2,950</description>
+      <description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$3,059</description>
       <g:title>Singapur, Malasia y Bali 26/27</g:title>
-      <g:description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$2,950</g:description>
+      <g:description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$3,059</g:description>
       <g:link>https://www.estropical.com/en/idea/46235675/mm835-singapur-malasia-y-bali-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235675.jpg?v=3</g:image_link>
-      <g:price>2950.00 USD</g:price>
+      <g:price>3059.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3219,12 +3410,12 @@
     <item>
       <g:id>46235672</g:id>
       <title>Safari Sudafricano y Cataratas Victoria 26/27</title>
-      <description>MM891 SAFARI SUDAFRICANO Y CATARATAS VICTORIA 26/27 from US$2,851</description>
+      <description>MM891 SAFARI SUDAFRICANO Y CATARATAS VICTORIA 26/27 from US$2,956</description>
       <g:title>Safari Sudafricano y Cataratas Victoria 26/27</g:title>
-      <g:description>MM891 SAFARI SUDAFRICANO Y CATARATAS VICTORIA 26/27 from US$2,851</g:description>
+      <g:description>MM891 SAFARI SUDAFRICANO Y CATARATAS VICTORIA 26/27 from US$2,956</g:description>
       <g:link>https://www.estropical.com/en/idea/46235672/mm891-safari-sudafricano-y-cataratas-victoria-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235672.jpg?v=3</g:image_link>
-      <g:price>2851.00 USD</g:price>
+      <g:price>2956.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3237,12 +3428,12 @@
     <item>
       <g:id>46235669</g:id>
       <title>Colores de Mexico 2026</title>
-      <description>MM1024 COLORES DE MEXICO 2026 from US$1,846</description>
+      <description>MM1024 COLORES DE MEXICO 2026 from US$1,914</description>
       <g:title>Colores de Mexico 2026</g:title>
-      <g:description>MM1024 COLORES DE MEXICO 2026 from US$1,846</g:description>
+      <g:description>MM1024 COLORES DE MEXICO 2026 from US$1,914</g:description>
       <g:link>https://www.estropical.com/en/idea/46235669/mm1024-colores-de-mexico-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235669.jpg?v=3</g:image_link>
-      <g:price>1846.00 USD</g:price>
+      <g:price>1914.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3255,12 +3446,12 @@
     <item>
       <g:id>46235666</g:id>
       <title>Safari Sudafricano 26/27</title>
-      <description>MM889 SAFARI SUDAFRICANO 26/27 from US$1,772</description>
+      <description>MM889 SAFARI SUDAFRICANO 26/27 from US$1,837</description>
       <g:title>Safari Sudafricano 26/27</g:title>
-      <g:description>MM889 SAFARI SUDAFRICANO 26/27 from US$1,772</g:description>
+      <g:description>MM889 SAFARI SUDAFRICANO 26/27 from US$1,837</g:description>
       <g:link>https://www.estropical.com/en/idea/46235666/mm889-safari-sudafricano-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235666.jpg?v=3</g:image_link>
-      <g:price>1772.00 USD</g:price>
+      <g:price>1837.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3273,12 +3464,12 @@
     <item>
       <g:id>46235663</g:id>
       <title>Triangulo del Norte 26/27</title>
-      <description>MM802 TRIANGULO DEL NORTE 26/27 from US$1,442</description>
+      <description>MM802 TRIANGULO DEL NORTE 26/27 from US$1,495</description>
       <g:title>Triangulo del Norte 26/27</g:title>
-      <g:description>MM802 TRIANGULO DEL NORTE 26/27 from US$1,442</g:description>
+      <g:description>MM802 TRIANGULO DEL NORTE 26/27 from US$1,495</g:description>
       <g:link>https://www.estropical.com/en/idea/46235663/mm802-triangulo-del-norte-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46235663.jpg?v=3</g:image_link>
-      <g:price>1442.00 USD</g:price>
+      <g:price>1495.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3291,9 +3482,9 @@
     <item>
       <g:id>46153814</g:id>
       <title>Paraisos Asiaticos 2026</title>
-      <description>MM820 PARAISOS ASIATICOS 2026 from US$5,908</description>
+      <description>MM820 PARAISOS ASIATICOS 2026 from US$6,126</description>
       <g:title>Paraisos Asiaticos 2026</g:title>
-      <g:description>MM820 PARAISOS ASIATICOS 2026 from US$5,908</g:description>
+      <g:description>MM820 PARAISOS ASIATICOS 2026 from US$6,126</g:description>
       <g:link>https://www.estropical.com/en/idea/46153814/mm820-paraisos-asiaticos-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46153814.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -3911,12 +4102,12 @@
     <item>
       <g:id>45536118</g:id>
       <title>Nr605 - Toda Escandinavia 13d Cph/hel 2026</title>
-      <description>NR605 - TODA ESCANDINAVIA 13D CPH/HEL 2026 from US$7,185</description>
+      <description>NR605 - TODA ESCANDINAVIA 13D CPH/HEL 2026 from US$7,450</description>
       <g:title>Nr605 - Toda Escandinavia 13d Cph/hel 2026</g:title>
-      <g:description>NR605 - TODA ESCANDINAVIA 13D CPH/HEL 2026 from US$7,185</g:description>
+      <g:description>NR605 - TODA ESCANDINAVIA 13D CPH/HEL 2026 from US$7,450</g:description>
       <g:link>https://www.estropical.com/en/idea/45536118/nr605-toda-escandinavia-13d-cph-hel-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45536118.jpg?v=3</g:image_link>
-      <g:price>7185.00 USD</g:price>
+      <g:price>7450.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3929,12 +4120,12 @@
     <item>
       <g:id>45536115</g:id>
       <title>Nr604 - Toda Escandinavia 11d Cph/sto 2026</title>
-      <description>NR604 - TODA ESCANDINAVIA 11D CPH/STO 2026 from US$6,369</description>
+      <description>NR604 - TODA ESCANDINAVIA 11D CPH/STO 2026 from US$6,605</description>
       <g:title>Nr604 - Toda Escandinavia 11d Cph/sto 2026</g:title>
-      <g:description>NR604 - TODA ESCANDINAVIA 11D CPH/STO 2026 from US$6,369</g:description>
+      <g:description>NR604 - TODA ESCANDINAVIA 11D CPH/STO 2026 from US$6,605</g:description>
       <g:link>https://www.estropical.com/en/idea/45536115/nr604-toda-escandinavia-11d-cph-sto-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45536115.jpg?v=3</g:image_link>
-      <g:price>6369.00 USD</g:price>
+      <g:price>6605.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4047,12 +4238,12 @@
     <item>
       <g:id>45410928</g:id>
       <title>Nr603a - Noruega Fascinante I 2026</title>
-      <description>NR603A - NORUEGA FASCINANTE I 2026 from US$5,966</description>
+      <description>NR603A - NORUEGA FASCINANTE I 2026 from US$6,186</description>
       <g:title>Nr603a - Noruega Fascinante I 2026</g:title>
-      <g:description>NR603A - NORUEGA FASCINANTE I 2026 from US$5,966</g:description>
+      <g:description>NR603A - NORUEGA FASCINANTE I 2026 from US$6,186</g:description>
       <g:link>https://www.estropical.com/en/idea/45410928/nr603a-noruega-fascinante-i-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410928.jpg?v=3</g:image_link>
-      <g:price>5966.00 USD</g:price>
+      <g:price>6186.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4065,12 +4256,12 @@
     <item>
       <g:id>45410925</g:id>
       <title>Nr603b - Noruega Fascinante Ii 2026</title>
-      <description>NR603B - NORUEGA FASCINANTE II 2026 from US$5,966</description>
+      <description>NR603B - NORUEGA FASCINANTE II 2026 from US$6,186</description>
       <g:title>Nr603b - Noruega Fascinante Ii 2026</g:title>
-      <g:description>NR603B - NORUEGA FASCINANTE II 2026 from US$5,966</g:description>
+      <g:description>NR603B - NORUEGA FASCINANTE II 2026 from US$6,186</g:description>
       <g:link>https://www.estropical.com/en/idea/45410925/nr603b-noruega-fascinante-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410925.jpg?v=3</g:image_link>
-      <g:price>5966.00 USD</g:price>
+      <g:price>6186.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4083,12 +4274,12 @@
     <item>
       <g:id>45410922</g:id>
       <title>Ce416 - Bellezas de Suiza 2026</title>
-      <description>CE416 - BELLEZAS DE SUIZA 2026 from US$5,168</description>
+      <description>CE416 - BELLEZAS DE SUIZA 2026 from US$5,359</description>
       <g:title>Ce416 - Bellezas de Suiza 2026</g:title>
-      <g:description>CE416 - BELLEZAS DE SUIZA 2026 from US$5,168</g:description>
+      <g:description>CE416 - BELLEZAS DE SUIZA 2026 from US$5,359</g:description>
       <g:link>https://www.estropical.com/en/idea/45410922/ce416-bellezas-de-suiza-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410922.jpg?v=3</g:image_link>
-      <g:price>5168.00 USD</g:price>
+      <g:price>5359.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4101,12 +4292,12 @@
     <item>
       <g:id>45410919</g:id>
       <title>Or726 - Uzbekistan Ruta de la Seda I 2026</title>
-      <description>OR726 - UZBEKISTAN RUTA DE LA SEDA I 2026 from US$5,389</description>
+      <description>OR726 - UZBEKISTAN RUTA DE LA SEDA I 2026 from US$5,588</description>
       <g:title>Or726 - Uzbekistan Ruta de la Seda I 2026</g:title>
-      <g:description>OR726 - UZBEKISTAN RUTA DE LA SEDA I 2026 from US$5,389</g:description>
+      <g:description>OR726 - UZBEKISTAN RUTA DE LA SEDA I 2026 from US$5,588</g:description>
       <g:link>https://www.estropical.com/en/idea/45410919/or726-uzbekistan-ruta-de-la-seda-i-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410919.jpg?v=3</g:image_link>
-      <g:price>5389.00 USD</g:price>
+      <g:price>5588.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4119,12 +4310,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,218</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,437</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,218</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,437</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6218.00 USD</g:price>
+      <g:price>6437.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4137,12 +4328,12 @@
     <item>
       <g:id>45410913</g:id>
       <title>Ce402 - Alsacia, Selva Negra y Rin 2026</title>
-      <description>CE402 - ALSACIA, SELVA NEGRA Y RIN 2026 from US$4,364</description>
+      <description>CE402 - ALSACIA, SELVA NEGRA Y RIN 2026 from US$4,525</description>
       <g:title>Ce402 - Alsacia, Selva Negra y Rin 2026</g:title>
-      <g:description>CE402 - ALSACIA, SELVA NEGRA Y RIN 2026 from US$4,364</g:description>
+      <g:description>CE402 - ALSACIA, SELVA NEGRA Y RIN 2026 from US$4,525</g:description>
       <g:link>https://www.estropical.com/en/idea/45410913/ce402-alsacia-selva-negra-y-rin-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410913.jpg?v=3</g:image_link>
-      <g:price>4364.00 USD</g:price>
+      <g:price>4525.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4155,12 +4346,12 @@
     <item>
       <g:id>45410910</g:id>
       <title>Nr602b - Joyas del Baltico Ii 2026</title>
-      <description>NR602B - JOYAS DEL BALTICO II 2026 from US$3,980</description>
+      <description>NR602B - JOYAS DEL BALTICO II 2026 from US$4,127</description>
       <g:title>Nr602b - Joyas del Baltico Ii 2026</g:title>
-      <g:description>NR602B - JOYAS DEL BALTICO II 2026 from US$3,980</g:description>
+      <g:description>NR602B - JOYAS DEL BALTICO II 2026 from US$4,127</g:description>
       <g:link>https://www.estropical.com/en/idea/45410910/nr602b-joyas-del-baltico-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410910.jpg?v=3</g:image_link>
-      <g:price>3980.00 USD</g:price>
+      <g:price>4127.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4173,12 +4364,12 @@
     <item>
       <g:id>45410907</g:id>
       <title>Nr602a - Joyas del Baltico I 2026</title>
-      <description>NR602A - JOYAS DEL BALTICO I 2026 from US$3,980</description>
+      <description>NR602A - JOYAS DEL BALTICO I 2026 from US$4,127</description>
       <g:title>Nr602a - Joyas del Baltico I 2026</g:title>
-      <g:description>NR602A - JOYAS DEL BALTICO I 2026 from US$3,980</g:description>
+      <g:description>NR602A - JOYAS DEL BALTICO I 2026 from US$4,127</g:description>
       <g:link>https://www.estropical.com/en/idea/45410907/nr602a-joyas-del-baltico-i-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410907.jpg?v=3</g:image_link>
-      <g:price>3980.00 USD</g:price>
+      <g:price>4127.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4191,12 +4382,12 @@
     <item>
       <g:id>45409083</g:id>
       <title>Mendoza Basico 3*</title>
-      <description>MENDOZA BASICO 3* from US$190</description>
+      <description>MENDOZA BASICO 3* from US$197</description>
       <g:title>Mendoza Basico 3*</g:title>
-      <g:description>MENDOZA BASICO 3* from US$190</g:description>
+      <g:description>MENDOZA BASICO 3* from US$197</g:description>
       <g:link>https://www.estropical.com/en/idea/45409083/mendoza-basico-3-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45409083.jpg?v=3</g:image_link>
-      <g:price>190.00 USD</g:price>
+      <g:price>197.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4209,12 +4400,12 @@
     <item>
       <g:id>45409080</g:id>
       <title>Mendoza Basico 4*</title>
-      <description>MENDOZA BASICO 4* from US$259</description>
+      <description>MENDOZA BASICO 4* from US$268</description>
       <g:title>Mendoza Basico 4*</g:title>
-      <g:description>MENDOZA BASICO 4* from US$259</g:description>
+      <g:description>MENDOZA BASICO 4* from US$268</g:description>
       <g:link>https://www.estropical.com/en/idea/45409080/mendoza-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45409080.jpg?v=3</g:image_link>
-      <g:price>259.00 USD</g:price>
+      <g:price>268.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4227,12 +4418,12 @@
     <item>
       <g:id>45409077</g:id>
       <title>Mendoza Basico 5*</title>
-      <description>MENDOZA BASICO 5* from US$341</description>
+      <description>MENDOZA BASICO 5* from US$354</description>
       <g:title>Mendoza Basico 5*</g:title>
-      <g:description>MENDOZA BASICO 5* from US$341</g:description>
+      <g:description>MENDOZA BASICO 5* from US$354</g:description>
       <g:link>https://www.estropical.com/en/idea/45409077/mendoza-basico-5-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45409077.jpg?v=3</g:image_link>
-      <g:price>341.00 USD</g:price>
+      <g:price>354.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4386,12 +4577,12 @@
     <item>
       <g:id>45304305</g:id>
       <title>Md680 - Croacia Espectacular 2026</title>
-      <description>MD680 - CROACIA ESPECTACULAR 2026 from US$3,172</description>
+      <description>MD680 - CROACIA ESPECTACULAR 2026 from US$3,289</description>
       <g:title>Md680 - Croacia Espectacular 2026</g:title>
-      <g:description>MD680 - CROACIA ESPECTACULAR 2026 from US$3,172</g:description>
+      <g:description>MD680 - CROACIA ESPECTACULAR 2026 from US$3,289</g:description>
       <g:link>https://www.estropical.com/en/idea/45304305/md680-croacia-espectacular-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45304305.jpg?v=3</g:image_link>
-      <g:price>3172.00 USD</g:price>
+      <g:price>3289.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4404,12 +4595,12 @@
     <item>
       <g:id>45304302</g:id>
       <title>Md682 - Bellezas de Croacia, Eslovenia y Bosnia 2026</title>
-      <description>MD682 - BELLEZAS DE CROACIA, ESLOVENIA Y BOSNIA 2026 from US$3,115</description>
+      <description>MD682 - BELLEZAS DE CROACIA, ESLOVENIA Y BOSNIA 2026 from US$3,230</description>
       <g:title>Md682 - Bellezas de Croacia, Eslovenia y Bosnia 2026</g:title>
-      <g:description>MD682 - BELLEZAS DE CROACIA, ESLOVENIA Y BOSNIA 2026 from US$3,115</g:description>
+      <g:description>MD682 - BELLEZAS DE CROACIA, ESLOVENIA Y BOSNIA 2026 from US$3,230</g:description>
       <g:link>https://www.estropical.com/en/idea/45304302/md682-bellezas-de-croacia-eslovenia-y-bosnia-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45304302.jpg?v=3</g:image_link>
-      <g:price>3115.00 USD</g:price>
+      <g:price>3230.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4422,12 +4613,12 @@
     <item>
       <g:id>45301041</g:id>
       <title>Iguazu Basico 3*</title>
-      <description>IGUAZU BASICO 3* from US$417</description>
+      <description>IGUAZU BASICO 3* from US$432</description>
       <g:title>Iguazu Basico 3*</g:title>
-      <g:description>IGUAZU BASICO 3* from US$417</g:description>
+      <g:description>IGUAZU BASICO 3* from US$432</g:description>
       <g:link>https://www.estropical.com/en/idea/45301041/iguazu-basico-3-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45301041.jpg?v=3</g:image_link>
-      <g:price>417.00 USD</g:price>
+      <g:price>432.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4440,12 +4631,12 @@
     <item>
       <g:id>45301038</g:id>
       <title>Iguazu Basico 4*</title>
-      <description>IGUAZU BASICO 4* from US$442</description>
+      <description>IGUAZU BASICO 4* from US$458</description>
       <g:title>Iguazu Basico 4*</g:title>
-      <g:description>IGUAZU BASICO 4* from US$442</g:description>
+      <g:description>IGUAZU BASICO 4* from US$458</g:description>
       <g:link>https://www.estropical.com/en/idea/45301038/iguazu-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45301038.jpg?v=3</g:image_link>
-      <g:price>442.00 USD</g:price>
+      <g:price>458.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4458,12 +4649,12 @@
     <item>
       <g:id>45301035</g:id>
       <title>Iguazu Basico 5*</title>
-      <description>IGUAZU BASICO 5* from US$658</description>
+      <description>IGUAZU BASICO 5* from US$682</description>
       <g:title>Iguazu Basico 5*</g:title>
-      <g:description>IGUAZU BASICO 5* from US$658</g:description>
+      <g:description>IGUAZU BASICO 5* from US$682</g:description>
       <g:link>https://www.estropical.com/en/idea/45301035/iguazu-basico-5-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45301035.jpg?v=3</g:image_link>
-      <g:price>658.00 USD</g:price>
+      <g:price>682.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4481,7 +4672,7 @@
       <g:description>Descubre Sicilia en 8 días: Palermo, Agrigento, Ragusa y Catania. Historia, mar, templos y sabor mediterráneo en un viaje inolvidable por la isla italiana.</g:description>
       <g:link>https://www.estropical.com/en/idea/45192288/oc310-gran-tour-de-sicilia-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45192288.jpg?v=3</g:image_link>
-      <g:price>3813.00 USD</g:price>
+      <g:price>3954.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4494,12 +4685,12 @@
     <item>
       <g:id>44982717</g:id>
       <title>Ushuaia Basico 4¨*</title>
-      <description>USHUAIA BASICO 4¨* from US$376</description>
+      <description>USHUAIA BASICO 4¨* from US$390</description>
       <g:title>Ushuaia Basico 4¨*</g:title>
-      <g:description>USHUAIA BASICO 4¨* from US$376</g:description>
+      <g:description>USHUAIA BASICO 4¨* from US$390</g:description>
       <g:link>https://www.estropical.com/en/idea/44982717/ushuaia-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44982717.jpg?v=3</g:image_link>
-      <g:price>376.00 USD</g:price>
+      <g:price>390.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4512,12 +4703,12 @@
     <item>
       <g:id>44982714</g:id>
       <title>Ushuaia Basico 5*</title>
-      <description>USHUAIA BASICO 5* from US$460</description>
+      <description>USHUAIA BASICO 5* from US$477</description>
       <g:title>Ushuaia Basico 5*</g:title>
-      <g:description>USHUAIA BASICO 5* from US$460</g:description>
+      <g:description>USHUAIA BASICO 5* from US$477</g:description>
       <g:link>https://www.estropical.com/en/idea/44982714/ushuaia-basico-5-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44982714.jpg?v=3</g:image_link>
-      <g:price>460.00 USD</g:price>
+      <g:price>477.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4858,9 +5049,9 @@
     <item>
       <g:id>44781741</g:id>
       <title>Md666 - Gran Gira Medio Oriente 13 Dias 2026</title>
-      <description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$4,689</description>
+      <description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$4,862</description>
       <g:title>Md666 - Gran Gira Medio Oriente 13 Dias 2026</g:title>
-      <g:description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$4,689</g:description>
+      <g:description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$4,862</g:description>
       <g:link>https://www.estropical.com/en/idea/44781741/md666-gran-gira-medio-oriente-13-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44781741.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -5116,12 +5307,12 @@
     <item>
       <g:id>44676522</g:id>
       <title>Nr601 - Dinamarca y Suecia 2026</title>
-      <description>NR601 - DINAMARCA Y SUECIA 2026 from US$4,169</description>
+      <description>NR601 - DINAMARCA Y SUECIA 2026 from US$4,323</description>
       <g:title>Nr601 - Dinamarca y Suecia 2026</g:title>
-      <g:description>NR601 - DINAMARCA Y SUECIA 2026 from US$4,169</g:description>
+      <g:description>NR601 - DINAMARCA Y SUECIA 2026 from US$4,323</g:description>
       <g:link>https://www.estropical.com/en/idea/44676522/nr601-dinamarca-y-suecia-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44676522.jpg?v=3</g:image_link>
-      <g:price>4169.00 USD</g:price>
+      <g:price>4323.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5134,12 +5325,12 @@
     <item>
       <g:id>44676519</g:id>
       <title>Ce401 - Austria, Tirol, Castillos Baviera 2026</title>
-      <description>CE401 - AUSTRIA, TIROL, CASTILLOS BAVIERA 2026 from US$3,510</description>
+      <description>CE401 - AUSTRIA, TIROL, CASTILLOS BAVIERA 2026 from US$3,640</description>
       <g:title>Ce401 - Austria, Tirol, Castillos Baviera 2026</g:title>
-      <g:description>CE401 - AUSTRIA, TIROL, CASTILLOS BAVIERA 2026 from US$3,510</g:description>
+      <g:description>CE401 - AUSTRIA, TIROL, CASTILLOS BAVIERA 2026 from US$3,640</g:description>
       <g:link>https://www.estropical.com/en/idea/44676519/ce401-austria-tirol-castillos-baviera-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44676519.jpg?v=3</g:image_link>
-      <g:price>3510.00 USD</g:price>
+      <g:price>3640.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5152,12 +5343,12 @@
     <item>
       <g:id>44676516</g:id>
       <title>Ce404 - Alemania Imperial y Baviera 2026</title>
-      <description>CE404 - ALEMANIA IMPERIAL Y BAVIERA 2026 from US$2,798</description>
+      <description>CE404 - ALEMANIA IMPERIAL Y BAVIERA 2026 from US$2,902</description>
       <g:title>Ce404 - Alemania Imperial y Baviera 2026</g:title>
-      <g:description>CE404 - ALEMANIA IMPERIAL Y BAVIERA 2026 from US$2,798</g:description>
+      <g:description>CE404 - ALEMANIA IMPERIAL Y BAVIERA 2026 from US$2,902</g:description>
       <g:link>https://www.estropical.com/en/idea/44676516/ce404-alemania-imperial-y-baviera-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44676516.jpg?v=3</g:image_link>
-      <g:price>2798.00 USD</g:price>
+      <g:price>2902.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5170,12 +5361,12 @@
     <item>
       <g:id>44670336</g:id>
       <title>Bariloche Basico 3*</title>
-      <description>BARILOCHE BASICO 3* from US$218</description>
+      <description>BARILOCHE BASICO 3* from US$226</description>
       <g:title>Bariloche Basico 3*</g:title>
-      <g:description>BARILOCHE BASICO 3* from US$218</g:description>
+      <g:description>BARILOCHE BASICO 3* from US$226</g:description>
       <g:link>https://www.estropical.com/en/idea/44670336/bariloche-basico-3-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44670336.jpg?v=3</g:image_link>
-      <g:price>218.00 USD</g:price>
+      <g:price>226.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5188,12 +5379,12 @@
     <item>
       <g:id>44670333</g:id>
       <title>Bariloche Basico 4*</title>
-      <description>BARILOCHE BASICO 4* from US$255</description>
+      <description>BARILOCHE BASICO 4* from US$265</description>
       <g:title>Bariloche Basico 4*</g:title>
-      <g:description>BARILOCHE BASICO 4* from US$255</g:description>
+      <g:description>BARILOCHE BASICO 4* from US$265</g:description>
       <g:link>https://www.estropical.com/en/idea/44670333/bariloche-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44670333.jpg?v=3</g:image_link>
-      <g:price>255.00 USD</g:price>
+      <g:price>265.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5206,12 +5397,12 @@
     <item>
       <g:id>44670330</g:id>
       <title>Bariloche Basico 5*</title>
-      <description>BARILOCHE BASICO 5* from US$310</description>
+      <description>BARILOCHE BASICO 5* from US$321</description>
       <g:title>Bariloche Basico 5*</g:title>
-      <g:description>BARILOCHE BASICO 5* from US$310</g:description>
+      <g:description>BARILOCHE BASICO 5* from US$321</g:description>
       <g:link>https://www.estropical.com/en/idea/44670330/bariloche-basico-5-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44670330.jpg?v=3</g:image_link>
-      <g:price>310.00 USD</g:price>
+      <g:price>321.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5490,12 +5681,12 @@
     <item>
       <g:id>44559504</g:id>
       <title>El Calafate Basico 3*</title>
-      <description>EL CALAFATE BASICO 3* from US$303</description>
+      <description>EL CALAFATE BASICO 3* from US$314</description>
       <g:title>El Calafate Basico 3*</g:title>
-      <g:description>EL CALAFATE BASICO 3* from US$303</g:description>
+      <g:description>EL CALAFATE BASICO 3* from US$314</g:description>
       <g:link>https://www.estropical.com/en/idea/44559504/el-calafate-basico-3-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44559504.jpg?v=3</g:image_link>
-      <g:price>303.00 USD</g:price>
+      <g:price>314.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5508,12 +5699,12 @@
     <item>
       <g:id>44559501</g:id>
       <title>El Calafate Basico 4*</title>
-      <description>EL CALAFATE BASICO 4* from US$402</description>
+      <description>EL CALAFATE BASICO 4* from US$417</description>
       <g:title>El Calafate Basico 4*</g:title>
-      <g:description>EL CALAFATE BASICO 4* from US$402</g:description>
+      <g:description>EL CALAFATE BASICO 4* from US$417</g:description>
       <g:link>https://www.estropical.com/en/idea/44559501/el-calafate-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44559501.jpg?v=3</g:image_link>
-      <g:price>402.00 USD</g:price>
+      <g:price>417.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5526,12 +5717,12 @@
     <item>
       <g:id>44559498</g:id>
       <title>El Calafate Basico 5*</title>
-      <description>EL CALAFATE BASICO 5* from US$485</description>
+      <description>EL CALAFATE BASICO 5* from US$502</description>
       <g:title>El Calafate Basico 5*</g:title>
-      <g:description>EL CALAFATE BASICO 5* from US$485</g:description>
+      <g:description>EL CALAFATE BASICO 5* from US$502</g:description>
       <g:link>https://www.estropical.com/en/idea/44559498/el-calafate-basico-5-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44559498.jpg?v=3</g:image_link>
-      <g:price>485.00 USD</g:price>
+      <g:price>502.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6696,12 +6887,12 @@
     <item>
       <g:id>44151408</g:id>
       <title>Ce405 - Polonia Al Completo I 2026</title>
-      <description>CE405 - POLONIA AL COMPLETO I 2026 from US$2,942</description>
+      <description>CE405 - POLONIA AL COMPLETO I 2026 from US$3,050</description>
       <g:title>Ce405 - Polonia Al Completo I 2026</g:title>
-      <g:description>CE405 - POLONIA AL COMPLETO I 2026 from US$2,942</g:description>
+      <g:description>CE405 - POLONIA AL COMPLETO I 2026 from US$3,050</g:description>
       <g:link>https://www.estropical.com/en/idea/44151408/ce405-polonia-al-completo-i-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44151408.jpg?v=3</g:image_link>
-      <g:price>2942.00 USD</g:price>
+      <g:price>3050.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6714,12 +6905,12 @@
     <item>
       <g:id>44151405</g:id>
       <title>Ce405b - Polonia Al Completo Ii 2026</title>
-      <description>CE405B - POLONIA AL COMPLETO II 2026 from US$2,942</description>
+      <description>CE405B - POLONIA AL COMPLETO II 2026 from US$3,050</description>
       <g:title>Ce405b - Polonia Al Completo Ii 2026</g:title>
-      <g:description>CE405B - POLONIA AL COMPLETO II 2026 from US$2,942</g:description>
+      <g:description>CE405B - POLONIA AL COMPLETO II 2026 from US$3,050</g:description>
       <g:link>https://www.estropical.com/en/idea/44151405/ce405b-polonia-al-completo-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44151405.jpg?v=3</g:image_link>
-      <g:price>2942.00 USD</g:price>
+      <g:price>3050.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6846,9 +7037,9 @@
     <item>
       <g:id>44026611</g:id>
       <title>Oc332 - Paris, Loira, Extension Paises Bajos 2026</title>
-      <description>OC332 - PARIS, LOIRA, EXTENSION PAISES BAJOS 2026 from US$5,368</description>
+      <description>OC332 - PARIS, LOIRA, EXTENSION PAISES BAJOS 2026 from US$5,566</description>
       <g:title>Oc332 - Paris, Loira, Extension Paises Bajos 2026</g:title>
-      <g:description>OC332 - PARIS, LOIRA, EXTENSION PAISES BAJOS 2026 from US$5,368</g:description>
+      <g:description>OC332 - PARIS, LOIRA, EXTENSION PAISES BAJOS 2026 from US$5,566</g:description>
       <g:link>https://www.estropical.com/en/idea/44026611/oc332-paris-loira-extension-paises-bajos-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44026611.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -6864,12 +7055,12 @@
     <item>
       <g:id>44026608</g:id>
       <title>Oc331 - Paris, Loira, Bretaña y Normandia 2026</title>
-      <description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$3,075</description>
+      <description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$3,189</description>
       <g:title>Oc331 - Paris, Loira, Bretaña y Normandia 2026</g:title>
-      <g:description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$3,075</g:description>
+      <g:description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$3,189</g:description>
       <g:link>https://www.estropical.com/en/idea/44026608/oc331-paris-loira-bretana-y-normandia-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44026608.jpg?v=3</g:image_link>
-      <g:price>3075.00 USD</g:price>
+      <g:price>3189.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6882,12 +7073,12 @@
     <item>
       <g:id>44026416</g:id>
       <title>Buenos Aires Basico 4*</title>
-      <description>BUENOS AIRES BASICO 4* from US$335</description>
+      <description>BUENOS AIRES BASICO 4* from US$347</description>
       <g:title>Buenos Aires Basico 4*</g:title>
-      <g:description>BUENOS AIRES BASICO 4* from US$335</g:description>
+      <g:description>BUENOS AIRES BASICO 4* from US$347</g:description>
       <g:link>https://www.estropical.com/en/idea/44026416/buenos-aires-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44026416.jpg?v=3</g:image_link>
-      <g:price>335.00 USD</g:price>
+      <g:price>347.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6972,12 +7163,12 @@
     <item>
       <g:id>43488549</g:id>
       <title>Ce415 - Paris, Crucero Rin y Suiza 2026</title>
-      <description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$5,839</description>
+      <description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$6,054</description>
       <g:title>Ce415 - Paris, Crucero Rin y Suiza 2026</g:title>
-      <g:description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$5,839</g:description>
+      <g:description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$6,054</g:description>
       <g:link>https://www.estropical.com/en/idea/43488549/ce415-paris-crucero-rin-y-suiza-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43488549.jpg?v=3</g:image_link>
-      <g:price>5839.00 USD</g:price>
+      <g:price>6054.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7008,9 +7199,9 @@
     <item>
       <g:id>43369899</g:id>
       <title>Md688 - Rumania, Bulgaria y Turquia 21 Dias 2026</title>
-      <description>MD688 - RUMANIA, BULGARIA Y TURQUIA 21 DIAS 2026 from US$7,287</description>
+      <description>MD688 - RUMANIA, BULGARIA Y TURQUIA 21 DIAS 2026 from US$7,556</description>
       <g:title>Md688 - Rumania, Bulgaria y Turquia 21 Dias 2026</g:title>
-      <g:description>MD688 - RUMANIA, BULGARIA Y TURQUIA 21 DIAS 2026 from US$7,287</g:description>
+      <g:description>MD688 - RUMANIA, BULGARIA Y TURQUIA 21 DIAS 2026 from US$7,556</g:description>
       <g:link>https://www.estropical.com/en/idea/43369899/md688-rumania-bulgaria-y-turquia-21-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43369899.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -7026,9 +7217,9 @@
     <item>
       <g:id>43369896</g:id>
       <title>Md687 - Rumania, Bulgaria y Turquia 16 Dias 2026</title>
-      <description>MD687 - RUMANIA, BULGARIA Y TURQUIA 16 DIAS 2026 from US$6,304</description>
+      <description>MD687 - RUMANIA, BULGARIA Y TURQUIA 16 DIAS 2026 from US$6,536</description>
       <g:title>Md687 - Rumania, Bulgaria y Turquia 16 Dias 2026</g:title>
-      <g:description>MD687 - RUMANIA, BULGARIA Y TURQUIA 16 DIAS 2026 from US$6,304</g:description>
+      <g:description>MD687 - RUMANIA, BULGARIA Y TURQUIA 16 DIAS 2026 from US$6,536</g:description>
       <g:link>https://www.estropical.com/en/idea/43369896/md687-rumania-bulgaria-y-turquia-16-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43369896.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -7044,12 +7235,12 @@
     <item>
       <g:id>43369890</g:id>
       <title>Md685 - Rumania y Bulgaria Medievales 13 Dias 2026</title>
-      <description>MD685 - RUMANIA Y BULGARIA MEDIEVALES 13 DIAS 2026 from US$4,919</description>
+      <description>MD685 - RUMANIA Y BULGARIA MEDIEVALES 13 DIAS 2026 from US$5,101</description>
       <g:title>Md685 - Rumania y Bulgaria Medievales 13 Dias 2026</g:title>
-      <g:description>MD685 - RUMANIA Y BULGARIA MEDIEVALES 13 DIAS 2026 from US$4,919</g:description>
+      <g:description>MD685 - RUMANIA Y BULGARIA MEDIEVALES 13 DIAS 2026 from US$5,101</g:description>
       <g:link>https://www.estropical.com/en/idea/43369890/md685-rumania-y-bulgaria-medievales-13-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43369890.jpg?v=3</g:image_link>
-      <g:price>4919.00 USD</g:price>
+      <g:price>5101.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7062,12 +7253,12 @@
     <item>
       <g:id>43141701</g:id>
       <title>Ed421 - Europa para Dos: Estilo Mp2 21 Dias 26/27</title>
-      <description>ED421 - EUROPA PARA DOS: ESTILO MP2 21 DIAS 26/27 from US$4,947</description>
+      <description>ED421 - EUROPA PARA DOS: ESTILO MP2 21 DIAS 26/27 from US$5,130</description>
       <g:title>Ed421 - Europa para Dos: Estilo Mp2 21 Dias 26/27</g:title>
-      <g:description>ED421 - EUROPA PARA DOS: ESTILO MP2 21 DIAS 26/27 from US$4,947</g:description>
+      <g:description>ED421 - EUROPA PARA DOS: ESTILO MP2 21 DIAS 26/27 from US$5,130</g:description>
       <g:link>https://www.estropical.com/en/idea/43141701/ed421-europa-para-dos-estilo-mp2-21-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43141701.jpg?v=3</g:image_link>
-      <g:price>4947.00 USD</g:price>
+      <g:price>5130.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7245,9 +7436,9 @@
     <item>
       <g:id>42862206</g:id>
       <title>Md670 - Tunez, Aventura y Playas 2026</title>
-      <description>MD670 - TUNEZ, AVENTURA Y PLAYAS 2026 from US$1,673</description>
+      <description>MD670 - TUNEZ, AVENTURA Y PLAYAS 2026 from US$1,734</description>
       <g:title>Md670 - Tunez, Aventura y Playas 2026</g:title>
-      <g:description>MD670 - TUNEZ, AVENTURA Y PLAYAS 2026 from US$1,673</g:description>
+      <g:description>MD670 - TUNEZ, AVENTURA Y PLAYAS 2026 from US$1,734</g:description>
       <g:link>https://www.estropical.com/en/idea/42862206/md670-tunez-aventura-y-playas-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42862206.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -7263,12 +7454,12 @@
     <item>
       <g:id>42712302</g:id>
       <title>Or724 - Tesoros de Oman 26/27</title>
-      <description>OR724 - TESOROS DE OMAN 26/27 from US$3,873</description>
+      <description>OR724 - TESOROS DE OMAN 26/27 from US$4,016</description>
       <g:title>Or724 - Tesoros de Oman 26/27</g:title>
-      <g:description>OR724 - TESOROS DE OMAN 26/27 from US$3,873</g:description>
+      <g:description>OR724 - TESOROS DE OMAN 26/27 from US$4,016</g:description>
       <g:link>https://www.estropical.com/en/idea/42712302/or724-tesoros-de-oman-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42712302.jpg?v=3</g:image_link>
-      <g:price>3873.00 USD</g:price>
+      <g:price>4016.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7281,12 +7472,12 @@
     <item>
       <g:id>42529185</g:id>
       <title>Or721 - Egipto, Israel y Jordania 18 Dias 26/27</title>
-      <description>OR721 - EGIPTO, ISRAEL Y JORDANIA 18 DIAS 26/27 from US$8,726</description>
+      <description>OR721 - EGIPTO, ISRAEL Y JORDANIA 18 DIAS 26/27 from US$9,048</description>
       <g:title>Or721 - Egipto, Israel y Jordania 18 Dias 26/27</g:title>
-      <g:description>OR721 - EGIPTO, ISRAEL Y JORDANIA 18 DIAS 26/27 from US$8,726</g:description>
+      <g:description>OR721 - EGIPTO, ISRAEL Y JORDANIA 18 DIAS 26/27 from US$9,048</g:description>
       <g:link>https://www.estropical.com/en/idea/42529185/or721-egipto-israel-y-jordania-18-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529185.jpg?v=3</g:image_link>
-      <g:price>8726.00 USD</g:price>
+      <g:price>9048.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7299,12 +7490,12 @@
     <item>
       <g:id>42529182</g:id>
       <title>Or716 - Egipto y Tierra Santa 26/27</title>
-      <description>OR716 - EGIPTO Y TIERRA SANTA 26/27 from US$6,699</description>
+      <description>OR716 - EGIPTO Y TIERRA SANTA 26/27 from US$6,946</description>
       <g:title>Or716 - Egipto y Tierra Santa 26/27</g:title>
-      <g:description>OR716 - EGIPTO Y TIERRA SANTA 26/27 from US$6,699</g:description>
+      <g:description>OR716 - EGIPTO Y TIERRA SANTA 26/27 from US$6,946</g:description>
       <g:link>https://www.estropical.com/en/idea/42529182/or716-egipto-y-tierra-santa-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529182.jpg?v=3</g:image_link>
-      <g:price>6699.00 USD</g:price>
+      <g:price>6946.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7317,12 +7508,12 @@
     <item>
       <g:id>42529179</g:id>
       <title>Or720 - Egipto y Jerusalen 12 Dias 26/27</title>
-      <description>OR720 - EGIPTO Y JERUSALEN 12 DIAS 26/27 from US$5,315</description>
+      <description>OR720 - EGIPTO Y JERUSALEN 12 DIAS 26/27 from US$5,511</description>
       <g:title>Or720 - Egipto y Jerusalen 12 Dias 26/27</g:title>
-      <g:description>OR720 - EGIPTO Y JERUSALEN 12 DIAS 26/27 from US$5,315</g:description>
+      <g:description>OR720 - EGIPTO Y JERUSALEN 12 DIAS 26/27 from US$5,511</g:description>
       <g:link>https://www.estropical.com/en/idea/42529179/or720-egipto-y-jerusalen-12-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529179.jpg?v=3</g:image_link>
-      <g:price>5315.00 USD</g:price>
+      <g:price>5511.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7335,12 +7526,12 @@
     <item>
       <g:id>42529176</g:id>
       <title>Or725 - Arabia Saudita Al Completo 2026</title>
-      <description>OR725 - ARABIA SAUDITA AL COMPLETO 2026 from US$5,265</description>
+      <description>OR725 - ARABIA SAUDITA AL COMPLETO 2026 from US$5,460</description>
       <g:title>Or725 - Arabia Saudita Al Completo 2026</g:title>
-      <g:description>OR725 - ARABIA SAUDITA AL COMPLETO 2026 from US$5,265</g:description>
+      <g:description>OR725 - ARABIA SAUDITA AL COMPLETO 2026 from US$5,460</g:description>
       <g:link>https://www.estropical.com/en/idea/42529176/or725-arabia-saudita-al-completo-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529176.jpg?v=3</g:image_link>
-      <g:price>5265.00 USD</g:price>
+      <g:price>5460.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7353,12 +7544,12 @@
     <item>
       <g:id>42529173</g:id>
       <title>Or707 - Israel Inolvidable y Petra 26/27</title>
-      <description>OR707 - ISRAEL INOLVIDABLE Y PETRA 26/27 from US$4,771</description>
+      <description>OR707 - ISRAEL INOLVIDABLE Y PETRA 26/27 from US$4,947</description>
       <g:title>Or707 - Israel Inolvidable y Petra 26/27</g:title>
-      <g:description>OR707 - ISRAEL INOLVIDABLE Y PETRA 26/27 from US$4,771</g:description>
+      <g:description>OR707 - ISRAEL INOLVIDABLE Y PETRA 26/27 from US$4,947</g:description>
       <g:link>https://www.estropical.com/en/idea/42529173/or707-israel-inolvidable-y-petra-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529173.jpg?v=3</g:image_link>
-      <g:price>4771.00 USD</g:price>
+      <g:price>4947.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7371,12 +7562,12 @@
     <item>
       <g:id>42529170</g:id>
       <title>Or717 - Egipto y Jordania 26/27</title>
-      <description>OR717 - EGIPTO Y JORDANIA 26/27 from US$4,606</description>
+      <description>OR717 - EGIPTO Y JORDANIA 26/27 from US$4,776</description>
       <g:title>Or717 - Egipto y Jordania 26/27</g:title>
-      <g:description>OR717 - EGIPTO Y JORDANIA 26/27 from US$4,606</g:description>
+      <g:description>OR717 - EGIPTO Y JORDANIA 26/27 from US$4,776</g:description>
       <g:link>https://www.estropical.com/en/idea/42529170/or717-egipto-y-jordania-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529170.jpg?v=3</g:image_link>
-      <g:price>4606.00 USD</g:price>
+      <g:price>4776.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7394,7 +7585,7 @@
       <g:description>Descubre Israel en 9 días visitando Tel Aviv, Nazaret y Jerusalén. Cultura, historia y espiritualidad en un viaje organizado con visitas guiadas y tiempo libre.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529167/or718-extension-tierra-santa-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529167.jpg?v=3</g:image_link>
-      <g:price>4202.00 USD</g:price>
+      <g:price>4357.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7412,7 +7603,7 @@
       <g:description>Descubre Jerusalén y Dubái en un viaje de 10 días: historia milenaria, cultura vibrante, desierto, rascacielos y compras de lujo. Reserva tu escapada ideal hoy.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529164/or712-israel-y-dubai-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529164.jpg?v=3</g:image_link>
-      <g:price>3337.00 USD</g:price>
+      <g:price>3460.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7430,7 +7621,7 @@
       <g:description>Descubre Israel en 8 días: modernos contrastes de Tel Aviv, historia sagrada en Nazaret y lugares santos de Jerusalén. Cultura, gastronomía y paisajes inolvidables en un solo viaje.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529161/or702-israel-fuente-de-culturas-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529161.jpg?v=3</g:image_link>
-      <g:price>3123.00 USD</g:price>
+      <g:price>3238.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7448,7 +7639,7 @@
       <g:description>Descubre Beirut en un viaje de 6 días: casco antiguo, vibrante vida nocturna, deliciosa gastronomía libanesa y vistas al mar Mediterráneo. Reserva tu escapada ahora.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529158/or713-libano-esencial-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529158.jpg?v=3</g:image_link>
-      <g:price>2917.00 USD</g:price>
+      <g:price>3025.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7466,7 +7657,7 @@
       <g:description>Descubre Uzbekistán en un viaje de 8 días por Tashkent, Khiva, Bujará y Samarcanda. Cultura, historia y arquitectura en la Ruta de la Seda con guía y traslados.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529155/or722-uzbekistan-esencial-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529155.jpg?v=3</g:image_link>
-      <g:price>2497.00 USD</g:price>
+      <g:price>2589.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7484,7 +7675,7 @@
       <g:description>Descubre Jordania en 8 días: explora Amán, maravíllate con Petra, alójate en Wadi Musa y vive la magia del desierto en Wadi Rum antes de regresar a Amán.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529152/or706-jordania-dunas-y-nabateos-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529152.jpg?v=3</g:image_link>
-      <g:price>1730.00 USD</g:price>
+      <g:price>1794.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7502,7 +7693,7 @@
       <g:description>Descubre El Cairo en un viaje de 8 días: visita las Pirámides de Giza, el Museo Egipcio, bazares tradicionales y el Nilo. Cultura, historia y experiencias únicas en Egipto.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529149/or701-egipto-philae-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529149.jpg?v=3</g:image_link>
-      <g:price>1574.00 USD</g:price>
+      <g:price>1632.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7520,7 +7711,7 @@
       <g:description>Disfruta de un viaje de 8 días en El Cairo: visita las Pirámides de Guiza, la Esfinge, el Museo Egipcio y los bazares tradicionales. Reserva tu experiencia en Egipto.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529146/or700-egipto-karnak-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529146.jpg?v=3</g:image_link>
-      <g:price>1574.00 USD</g:price>
+      <g:price>1632.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7538,7 +7729,7 @@
       <g:description>Descubre Jordania en 7 días: explora Amán, maravíllate con Petra y disfruta de Wadi Musa. Circuito organizado con traslados y visitas esenciales incluidos.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529143/or705-jordania-fascinante-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529143.jpg?v=3</g:image_link>
-      <g:price>1524.00 USD</g:price>
+      <g:price>1581.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7556,7 +7747,7 @@
       <g:description>Disfruta de un viaje de 8 días en Dubái con rascacielos, desierto, compras y experiencias de lujo. Explora la ciudad, sus playas y cultura con un itinerario organizado.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529140/or709-emiratos-arabes-unidos-dubai-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529140.jpg?v=3</g:image_link>
-      <g:price>1475.00 USD</g:price>
+      <g:price>1529.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7574,7 +7765,7 @@
       <g:description>Disfruta de un viaje de 6 días a Dubái con rascacielos futuristas, safari por el desierto, playas, compras en centros comerciales y zocos tradicionales. Reserva tu escapada perfecta a Dubái.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529137/or710-los-7-emiratos-arabes-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529137.jpg?v=3</g:image_link>
-      <g:price>1343.00 USD</g:price>
+      <g:price>1393.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7592,7 +7783,7 @@
       <g:description>Descubre Dubái y Abu Dabi en 6 días: rascacielos, desierto, mezquitas, playas y compras de lujo en un completo itinerario por los Emiratos Árabes Unidos.</g:description>
       <g:link>https://www.estropical.com/en/idea/42529134/or711-combinado-dubai-abu-dhabi-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529134.jpg?v=3</g:image_link>
-      <g:price>1236.00 USD</g:price>
+      <g:price>1282.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7605,12 +7796,12 @@
     <item>
       <g:id>42529131</g:id>
       <title>Or715 - Dubai 5 Dias 26/27</title>
-      <description>OR715 - DUBAI 5 DIAS 26/27 from US$865</description>
+      <description>OR715 - DUBAI 5 DIAS 26/27 from US$897</description>
       <g:title>Or715 - Dubai 5 Dias 26/27</g:title>
-      <g:description>OR715 - DUBAI 5 DIAS 26/27 from US$865</g:description>
+      <g:description>OR715 - DUBAI 5 DIAS 26/27 from US$897</g:description>
       <g:link>https://www.estropical.com/en/idea/42529131/or715-dubai-5-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529131.jpg?v=3</g:image_link>
-      <g:price>865.00 USD</g:price>
+      <g:price>897.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7623,12 +7814,12 @@
     <item>
       <g:id>42529128</g:id>
       <title>Or714 - Dubai 4 Dias 26/27</title>
-      <description>OR714 - DUBAI 4 DIAS 26/27 from US$643</description>
+      <description>OR714 - DUBAI 4 DIAS 26/27 from US$666</description>
       <g:title>Or714 - Dubai 4 Dias 26/27</g:title>
-      <g:description>OR714 - DUBAI 4 DIAS 26/27 from US$643</g:description>
+      <g:description>OR714 - DUBAI 4 DIAS 26/27 from US$666</g:description>
       <g:link>https://www.estropical.com/en/idea/42529128/or714-dubai-4-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42529128.jpg?v=3</g:image_link>
-      <g:price>643.00 USD</g:price>
+      <g:price>666.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7644,7 +7835,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -7660,11 +7851,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -7701,12 +7892,12 @@
     <item>
       <g:id>42284457</g:id>
       <title>Estancia en Madrid (viernes) 26/27</title>
-      <description>ESTANCIA EN MADRID (VIERNES) 26/27 from US$540</description>
+      <description>ESTANCIA EN MADRID (VIERNES) 26/27 from US$560</description>
       <g:title>Estancia en Madrid (viernes) 26/27</g:title>
-      <g:description>ESTANCIA EN MADRID (VIERNES) 26/27 from US$540</g:description>
+      <g:description>ESTANCIA EN MADRID (VIERNES) 26/27 from US$560</g:description>
       <g:link>https://www.estropical.com/en/idea/42284457/estancia-en-madrid-viernes-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42284457.jpg?v=3</g:image_link>
-      <g:price>540.00 USD</g:price>
+      <g:price>560.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7719,12 +7910,12 @@
     <item>
       <g:id>42284454</g:id>
       <title>Estancia en Madrid (miercoles) 26/27</title>
-      <description>ESTANCIA EN MADRID (MIERCOLES) 26/27 from US$540</description>
+      <description>ESTANCIA EN MADRID (MIERCOLES) 26/27 from US$560</description>
       <g:title>Estancia en Madrid (miercoles) 26/27</g:title>
-      <g:description>ESTANCIA EN MADRID (MIERCOLES) 26/27 from US$540</g:description>
+      <g:description>ESTANCIA EN MADRID (MIERCOLES) 26/27 from US$560</g:description>
       <g:link>https://www.estropical.com/en/idea/42284454/estancia-en-madrid-miercoles-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42284454.jpg?v=3</g:image_link>
-      <g:price>540.00 USD</g:price>
+      <g:price>560.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7742,7 +7933,7 @@
       <g:description>Disfruta de una escapada de 3 días a Madrid: museos icónicos, casco histórico, tapas tradicionales y vibrante vida nocturna. Descubre la capital de España en una experiencia intensa y completa.</g:description>
       <g:link>https://www.estropical.com/en/idea/42284451/estancia-en-madrid-lunes-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42284451.jpg?v=3</g:image_link>
-      <g:price>540.00 USD</g:price>
+      <g:price>560.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7760,7 +7951,7 @@
       <g:description>Descubre Madrid en 3 días: museos famosos, barrios con encanto, tapas tradicionales y vibrante vida nocturna. Ideal para una escapada corta llena de cultura y gastronomía.</g:description>
       <g:link>https://www.estropical.com/en/idea/42284448/estancia-en-madrid-sabados-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42284448.jpg?v=3</g:image_link>
-      <g:price>540.00 USD</g:price>
+      <g:price>560.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7778,7 +7969,7 @@
       <g:description>Disfruta de un viaje de 3 días a Madrid: museos, tapas, barrios históricos y noches animadas. Descubre lo mejor de la capital de España en una escapada inolvidable.</g:description>
       <g:link>https://www.estropical.com/en/idea/42284445/estancia-en-madrid-domingos-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42284445.jpg?v=3</g:image_link>
-      <g:price>540.00 USD</g:price>
+      <g:price>560.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7954,12 +8145,12 @@
     <item>
       <g:id>42131868</g:id>
       <title>Ed122 - Europa para Dos 14 25 Dias Lon/waw 26/27</title>
-      <description>ED122 - EUROPA PARA DOS 14 25 DIAS LON/WAW 26/27 from US$6,806</description>
+      <description>ED122 - EUROPA PARA DOS 14 25 DIAS LON/WAW 26/27 from US$7,057</description>
       <g:title>Ed122 - Europa para Dos 14 25 Dias Lon/waw 26/27</g:title>
-      <g:description>ED122 - EUROPA PARA DOS 14 25 DIAS LON/WAW 26/27 from US$6,806</g:description>
+      <g:description>ED122 - EUROPA PARA DOS 14 25 DIAS LON/WAW 26/27 from US$7,057</g:description>
       <g:link>https://www.estropical.com/en/idea/42131868/ed122-europa-para-dos-14-25-dias-lon-waw-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131868.jpg?v=3</g:image_link>
-      <g:price>6806.00 USD</g:price>
+      <g:price>7057.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7972,12 +8163,12 @@
     <item>
       <g:id>42131865</g:id>
       <title>Ed131 - Europa para Dos 13 26/27</title>
-      <description>ED131 - EUROPA PARA DOS 13 26/27 from US$6,218</description>
+      <description>ED131 - EUROPA PARA DOS 13 26/27 from US$6,447</description>
       <g:title>Ed131 - Europa para Dos 13 26/27</g:title>
-      <g:description>ED131 - EUROPA PARA DOS 13 26/27 from US$6,218</g:description>
+      <g:description>ED131 - EUROPA PARA DOS 13 26/27 from US$6,447</g:description>
       <g:link>https://www.estropical.com/en/idea/42131865/ed131-europa-para-dos-13-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131865.jpg?v=3</g:image_link>
-      <g:price>6218.00 USD</g:price>
+      <g:price>6447.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7990,12 +8181,12 @@
     <item>
       <g:id>42131862</g:id>
       <title>Ed722 - Europa para Dos 7 22 Dias Lon/mad 26/27</title>
-      <description>ED722 - EUROPA PARA DOS 7 22 DIAS LON/MAD 26/27 from US$5,989</description>
+      <description>ED722 - EUROPA PARA DOS 7 22 DIAS LON/MAD 26/27 from US$6,210</description>
       <g:title>Ed722 - Europa para Dos 7 22 Dias Lon/mad 26/27</g:title>
-      <g:description>ED722 - EUROPA PARA DOS 7 22 DIAS LON/MAD 26/27 from US$5,989</g:description>
+      <g:description>ED722 - EUROPA PARA DOS 7 22 DIAS LON/MAD 26/27 from US$6,210</g:description>
       <g:link>https://www.estropical.com/en/idea/42131862/ed722-europa-para-dos-7-22-dias-lon-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131862.jpg?v=3</g:image_link>
-      <g:price>5989.00 USD</g:price>
+      <g:price>6210.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8008,12 +8199,12 @@
     <item>
       <g:id>42131859</g:id>
       <title>Ed111 - Europa para Dos 12 24 Dias Par/mad 26/27</title>
-      <description>ED111 - EUROPA PARA DOS 12 24 DIAS PAR/MAD 26/27 from US$5,969</description>
+      <description>ED111 - EUROPA PARA DOS 12 24 DIAS PAR/MAD 26/27 from US$6,189</description>
       <g:title>Ed111 - Europa para Dos 12 24 Dias Par/mad 26/27</g:title>
-      <g:description>ED111 - EUROPA PARA DOS 12 24 DIAS PAR/MAD 26/27 from US$5,969</g:description>
+      <g:description>ED111 - EUROPA PARA DOS 12 24 DIAS PAR/MAD 26/27 from US$6,189</g:description>
       <g:link>https://www.estropical.com/en/idea/42131859/ed111-europa-para-dos-12-24-dias-par-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131859.jpg?v=3</g:image_link>
-      <g:price>5969.00 USD</g:price>
+      <g:price>6189.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8026,12 +8217,12 @@
     <item>
       <g:id>42131856</g:id>
       <title>Ed106 - Europa para Dos 11 22 Dias Lon/mad 26/27</title>
-      <description>ED106 - EUROPA PARA DOS 11 22 DIAS LON/MAD 26/27 from US$5,961</description>
+      <description>ED106 - EUROPA PARA DOS 11 22 DIAS LON/MAD 26/27 from US$6,181</description>
       <g:title>Ed106 - Europa para Dos 11 22 Dias Lon/mad 26/27</g:title>
-      <g:description>ED106 - EUROPA PARA DOS 11 22 DIAS LON/MAD 26/27 from US$5,961</g:description>
+      <g:description>ED106 - EUROPA PARA DOS 11 22 DIAS LON/MAD 26/27 from US$6,181</g:description>
       <g:link>https://www.estropical.com/en/idea/42131856/ed106-europa-para-dos-11-22-dias-lon-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131856.jpg?v=3</g:image_link>
-      <g:price>5961.00 USD</g:price>
+      <g:price>6181.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8044,12 +8235,12 @@
     <item>
       <g:id>42131853</g:id>
       <title>Ed112 - Europa para Dos 12 26 Dias Lon/mad 26/27</title>
-      <description>ED112 - EUROPA PARA DOS 12 26 DIAS LON/MAD 26/27 from US$6,933</description>
+      <description>ED112 - EUROPA PARA DOS 12 26 DIAS LON/MAD 26/27 from US$7,189</description>
       <g:title>Ed112 - Europa para Dos 12 26 Dias Lon/mad 26/27</g:title>
-      <g:description>ED112 - EUROPA PARA DOS 12 26 DIAS LON/MAD 26/27 from US$6,933</g:description>
+      <g:description>ED112 - EUROPA PARA DOS 12 26 DIAS LON/MAD 26/27 from US$7,189</g:description>
       <g:link>https://www.estropical.com/en/idea/42131853/ed112-europa-para-dos-12-26-dias-lon-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131853.jpg?v=3</g:image_link>
-      <g:price>6933.00 USD</g:price>
+      <g:price>7189.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8062,12 +8253,12 @@
     <item>
       <g:id>42131850</g:id>
       <title>Ed121 - Europa para Dos 14 23 Dias Par/waw 26/27</title>
-      <description>ED121 - EUROPA PARA DOS 14 23 DIAS PAR/WAW 26/27 from US$5,644</description>
+      <description>ED121 - EUROPA PARA DOS 14 23 DIAS PAR/WAW 26/27 from US$5,853</description>
       <g:title>Ed121 - Europa para Dos 14 23 Dias Par/waw 26/27</g:title>
-      <g:description>ED121 - EUROPA PARA DOS 14 23 DIAS PAR/WAW 26/27 from US$5,644</g:description>
+      <g:description>ED121 - EUROPA PARA DOS 14 23 DIAS PAR/WAW 26/27 from US$5,853</g:description>
       <g:link>https://www.estropical.com/en/idea/42131850/ed121-europa-para-dos-14-23-dias-par-waw-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131850.jpg?v=3</g:image_link>
-      <g:price>5644.00 USD</g:price>
+      <g:price>5853.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8080,12 +8271,12 @@
     <item>
       <g:id>42131847</g:id>
       <title>Ed217 - Europa para Dos 2 17 Dias Mil/pmo 2026</title>
-      <description>ED217 - EUROPA PARA DOS 2 17 DIAS MIL/PMO 2026 from US$5,527</description>
+      <description>ED217 - EUROPA PARA DOS 2 17 DIAS MIL/PMO 2026 from US$5,731</description>
       <g:title>Ed217 - Europa para Dos 2 17 Dias Mil/pmo 2026</g:title>
-      <g:description>ED217 - EUROPA PARA DOS 2 17 DIAS MIL/PMO 2026 from US$5,527</g:description>
+      <g:description>ED217 - EUROPA PARA DOS 2 17 DIAS MIL/PMO 2026 from US$5,731</g:description>
       <g:link>https://www.estropical.com/en/idea/42131847/ed217-europa-para-dos-2-17-dias-mil-pmo-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131847.jpg?v=3</g:image_link>
-      <g:price>5527.00 USD</g:price>
+      <g:price>5731.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8098,12 +8289,12 @@
     <item>
       <g:id>42131844</g:id>
       <title>Ed718 - Europa para Dos 7 18 Dias Lon/rom 26/27</title>
-      <description>ED718 - EUROPA PARA DOS 7 18 DIAS LON/ROM 26/27 from US$5,435</description>
+      <description>ED718 - EUROPA PARA DOS 7 18 DIAS LON/ROM 26/27 from US$5,636</description>
       <g:title>Ed718 - Europa para Dos 7 18 Dias Lon/rom 26/27</g:title>
-      <g:description>ED718 - EUROPA PARA DOS 7 18 DIAS LON/ROM 26/27 from US$5,435</g:description>
+      <g:description>ED718 - EUROPA PARA DOS 7 18 DIAS LON/ROM 26/27 from US$5,636</g:description>
       <g:link>https://www.estropical.com/en/idea/42131844/ed718-europa-para-dos-7-18-dias-lon-rom-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131844.jpg?v=3</g:image_link>
-      <g:price>5435.00 USD</g:price>
+      <g:price>5636.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8116,12 +8307,12 @@
     <item>
       <g:id>42131841</g:id>
       <title>Ed922 - Europa para Dos 10 22 Dias Mad/mad 26/27</title>
-      <description>ED922 - EUROPA PARA DOS 10 22 DIAS MAD/MAD 26/27 from US$5,277</description>
+      <description>ED922 - EUROPA PARA DOS 10 22 DIAS MAD/MAD 26/27 from US$5,472</description>
       <g:title>Ed922 - Europa para Dos 10 22 Dias Mad/mad 26/27</g:title>
-      <g:description>ED922 - EUROPA PARA DOS 10 22 DIAS MAD/MAD 26/27 from US$5,277</g:description>
+      <g:description>ED922 - EUROPA PARA DOS 10 22 DIAS MAD/MAD 26/27 from US$5,472</g:description>
       <g:link>https://www.estropical.com/en/idea/42131841/ed922-europa-para-dos-10-22-dias-mad-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131841.jpg?v=3</g:image_link>
-      <g:price>5277.00 USD</g:price>
+      <g:price>5472.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8134,12 +8325,12 @@
     <item>
       <g:id>42131838</g:id>
       <title>Ed822 - Europa para Dos 8 22 Dias Mad/mad 26/27</title>
-      <description>ED822 - EUROPA PARA DOS 8 22 DIAS MAD/MAD 26/27 from US$5,255</description>
+      <description>ED822 - EUROPA PARA DOS 8 22 DIAS MAD/MAD 26/27 from US$5,449</description>
       <g:title>Ed822 - Europa para Dos 8 22 Dias Mad/mad 26/27</g:title>
-      <g:description>ED822 - EUROPA PARA DOS 8 22 DIAS MAD/MAD 26/27 from US$5,255</g:description>
+      <g:description>ED822 - EUROPA PARA DOS 8 22 DIAS MAD/MAD 26/27 from US$5,449</g:description>
       <g:link>https://www.estropical.com/en/idea/42131838/ed822-europa-para-dos-8-22-dias-mad-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131838.jpg?v=3</g:image_link>
-      <g:price>5255.00 USD</g:price>
+      <g:price>5449.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8152,12 +8343,12 @@
     <item>
       <g:id>42131835</g:id>
       <title>Ed216 - Europa para Dos 2 16 Dias Vce/pmo 2026</title>
-      <description>ED216 - EUROPA PARA DOS 2 16 DIAS VCE/PMO 2026 from US$5,229</description>
+      <description>ED216 - EUROPA PARA DOS 2 16 DIAS VCE/PMO 2026 from US$5,422</description>
       <g:title>Ed216 - Europa para Dos 2 16 Dias Vce/pmo 2026</g:title>
-      <g:description>ED216 - EUROPA PARA DOS 2 16 DIAS VCE/PMO 2026 from US$5,229</g:description>
+      <g:description>ED216 - EUROPA PARA DOS 2 16 DIAS VCE/PMO 2026 from US$5,422</g:description>
       <g:link>https://www.estropical.com/en/idea/42131835/ed216-europa-para-dos-2-16-dias-vce-pmo-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131835.jpg?v=3</g:image_link>
-      <g:price>5229.00 USD</g:price>
+      <g:price>5422.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8170,12 +8361,12 @@
     <item>
       <g:id>42131832</g:id>
       <title>Ed921 - Europa para Dos 10 21 Dias Mad/bcn 26/27</title>
-      <description>ED921 - EUROPA PARA DOS 10 21 DIAS MAD/BCN 26/27 from US$5,186</description>
+      <description>ED921 - EUROPA PARA DOS 10 21 DIAS MAD/BCN 26/27 from US$5,378</description>
       <g:title>Ed921 - Europa para Dos 10 21 Dias Mad/bcn 26/27</g:title>
-      <g:description>ED921 - EUROPA PARA DOS 10 21 DIAS MAD/BCN 26/27 from US$5,186</g:description>
+      <g:description>ED921 - EUROPA PARA DOS 10 21 DIAS MAD/BCN 26/27 from US$5,378</g:description>
       <g:link>https://www.estropical.com/en/idea/42131832/ed921-europa-para-dos-10-21-dias-mad-bcn-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131832.jpg?v=3</g:image_link>
-      <g:price>5186.00 USD</g:price>
+      <g:price>5378.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8188,12 +8379,12 @@
     <item>
       <g:id>42131829</g:id>
       <title>Ed105 - Europa para Dos 11 20 Dias Par/mad 26/27</title>
-      <description>ED105 - EUROPA PARA DOS 11 20 DIAS PAR/MAD 26/27 from US$5,104</description>
+      <description>ED105 - EUROPA PARA DOS 11 20 DIAS PAR/MAD 26/27 from US$5,292</description>
       <g:title>Ed105 - Europa para Dos 11 20 Dias Par/mad 26/27</g:title>
-      <g:description>ED105 - EUROPA PARA DOS 11 20 DIAS PAR/MAD 26/27 from US$5,104</g:description>
+      <g:description>ED105 - EUROPA PARA DOS 11 20 DIAS PAR/MAD 26/27 from US$5,292</g:description>
       <g:link>https://www.estropical.com/en/idea/42131829/ed105-europa-para-dos-11-20-dias-par-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131829.jpg?v=3</g:image_link>
-      <g:price>5104.00 USD</g:price>
+      <g:price>5292.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8206,12 +8397,12 @@
     <item>
       <g:id>42131826</g:id>
       <title>Ed720 - Europa para Dos 7 20 Dias Par/mad 26/27</title>
-      <description>ED720 - EUROPA PARA DOS 7 20 DIAS PAR/MAD 26/27 from US$5,025</description>
+      <description>ED720 - EUROPA PARA DOS 7 20 DIAS PAR/MAD 26/27 from US$5,210</description>
       <g:title>Ed720 - Europa para Dos 7 20 Dias Par/mad 26/27</g:title>
-      <g:description>ED720 - EUROPA PARA DOS 7 20 DIAS PAR/MAD 26/27 from US$5,025</g:description>
+      <g:description>ED720 - EUROPA PARA DOS 7 20 DIAS PAR/MAD 26/27 from US$5,210</g:description>
       <g:link>https://www.estropical.com/en/idea/42131826/ed720-europa-para-dos-7-20-dias-par-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131826.jpg?v=3</g:image_link>
-      <g:price>5025.00 USD</g:price>
+      <g:price>5210.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8224,12 +8415,12 @@
     <item>
       <g:id>42131823</g:id>
       <title>Ed618 - Europa para Dos: 6 18 Dias Lon/mad 26/27</title>
-      <description>ED618 - EUROPA PARA DOS: 6 18 DIAS LON/MAD 26/27 from US$4,909</description>
+      <description>ED618 - EUROPA PARA DOS: 6 18 DIAS LON/MAD 26/27 from US$5,091</description>
       <g:title>Ed618 - Europa para Dos: 6 18 Dias Lon/mad 26/27</g:title>
-      <g:description>ED618 - EUROPA PARA DOS: 6 18 DIAS LON/MAD 26/27 from US$4,909</g:description>
+      <g:description>ED618 - EUROPA PARA DOS: 6 18 DIAS LON/MAD 26/27 from US$5,091</g:description>
       <g:link>https://www.estropical.com/en/idea/42131823/ed618-europa-para-dos-6-18-dias-lon-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131823.jpg?v=3</g:image_link>
-      <g:price>4909.00 USD</g:price>
+      <g:price>5091.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8242,12 +8433,12 @@
     <item>
       <g:id>42131820</g:id>
       <title>Ed319 - Europa para Dos: 3 19 Dias 26/27</title>
-      <description>ED319 - EUROPA PARA DOS: 3 19 DIAS 26/27 from US$4,842</description>
+      <description>ED319 - EUROPA PARA DOS: 3 19 DIAS 26/27 from US$5,021</description>
       <g:title>Ed319 - Europa para Dos: 3 19 Dias 26/27</g:title>
-      <g:description>ED319 - EUROPA PARA DOS: 3 19 DIAS 26/27 from US$4,842</g:description>
+      <g:description>ED319 - EUROPA PARA DOS: 3 19 DIAS 26/27 from US$5,021</g:description>
       <g:link>https://www.estropical.com/en/idea/42131820/ed319-europa-para-dos-3-19-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131820.jpg?v=3</g:image_link>
-      <g:price>4842.00 USD</g:price>
+      <g:price>5021.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8260,12 +8451,12 @@
     <item>
       <g:id>42131817</g:id>
       <title>Ed420 - Europa para Dos: Estilo Mp2 20 Dias 26/27</title>
-      <description>ED420 - EUROPA PARA DOS: ESTILO MP2 20 DIAS 26/27 from US$4,802</description>
+      <description>ED420 - EUROPA PARA DOS: ESTILO MP2 20 DIAS 26/27 from US$4,979</description>
       <g:title>Ed420 - Europa para Dos: Estilo Mp2 20 Dias 26/27</g:title>
-      <g:description>ED420 - EUROPA PARA DOS: ESTILO MP2 20 DIAS 26/27 from US$4,802</g:description>
+      <g:description>ED420 - EUROPA PARA DOS: ESTILO MP2 20 DIAS 26/27 from US$4,979</g:description>
       <g:link>https://www.estropical.com/en/idea/42131817/ed420-europa-para-dos-estilo-mp2-20-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131817.jpg?v=3</g:image_link>
-      <g:price>4802.00 USD</g:price>
+      <g:price>4979.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8278,12 +8469,12 @@
     <item>
       <g:id>42131814</g:id>
       <title>Ed110 - Europa para Dos 1: Inglaterra-escocia 11d 2026</title>
-      <description>ED110 - EUROPA PARA DOS 1: INGLATERRA-ESCOCIA 11D 2026 from US$4,633</description>
+      <description>ED110 - EUROPA PARA DOS 1: INGLATERRA-ESCOCIA 11D 2026 from US$4,803</description>
       <g:title>Ed110 - Europa para Dos 1: Inglaterra-escocia 11d 2026</g:title>
-      <g:description>ED110 - EUROPA PARA DOS 1: INGLATERRA-ESCOCIA 11D 2026 from US$4,633</g:description>
+      <g:description>ED110 - EUROPA PARA DOS 1: INGLATERRA-ESCOCIA 11D 2026 from US$4,803</g:description>
       <g:link>https://www.estropical.com/en/idea/42131814/ed110-europa-para-dos-1-inglaterra-escocia-11d-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131814.jpg?v=3</g:image_link>
-      <g:price>4633.00 USD</g:price>
+      <g:price>4803.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8296,12 +8487,12 @@
     <item>
       <g:id>42131811</g:id>
       <title>Ed716 - Europa para Dos 7 16 Dias Par/rom 26/27</title>
-      <description>ED716 - EUROPA PARA DOS 7 16 DIAS PAR/ROM 26/27 from US$4,520</description>
+      <description>ED716 - EUROPA PARA DOS 7 16 DIAS PAR/ROM 26/27 from US$4,687</description>
       <g:title>Ed716 - Europa para Dos 7 16 Dias Par/rom 26/27</g:title>
-      <g:description>ED716 - EUROPA PARA DOS 7 16 DIAS PAR/ROM 26/27 from US$4,520</g:description>
+      <g:description>ED716 - EUROPA PARA DOS 7 16 DIAS PAR/ROM 26/27 from US$4,687</g:description>
       <g:link>https://www.estropical.com/en/idea/42131811/ed716-europa-para-dos-7-16-dias-par-rom-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131811.jpg?v=3</g:image_link>
-      <g:price>4520.00 USD</g:price>
+      <g:price>4687.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8314,12 +8505,12 @@
     <item>
       <g:id>42131808</g:id>
       <title>Ed518 - Europa para Dos: 5 18 Dias Mad/mad 26/27</title>
-      <description>ED518 - EUROPA PARA DOS: 5 18 DIAS MAD/MAD 26/27 from US$4,283</description>
+      <description>ED518 - EUROPA PARA DOS: 5 18 DIAS MAD/MAD 26/27 from US$4,441</description>
       <g:title>Ed518 - Europa para Dos: 5 18 Dias Mad/mad 26/27</g:title>
-      <g:description>ED518 - EUROPA PARA DOS: 5 18 DIAS MAD/MAD 26/27 from US$4,283</g:description>
+      <g:description>ED518 - EUROPA PARA DOS: 5 18 DIAS MAD/MAD 26/27 from US$4,441</g:description>
       <g:link>https://www.estropical.com/en/idea/42131808/ed518-europa-para-dos-5-18-dias-mad-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131808.jpg?v=3</g:image_link>
-      <g:price>4283.00 USD</g:price>
+      <g:price>4441.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8332,12 +8523,12 @@
     <item>
       <g:id>42131805</g:id>
       <title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 26/27</title>
-      <description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 26/27 from US$4,232</description>
+      <description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 26/27 from US$4,388</description>
       <g:title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 26/27</g:title>
-      <g:description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 26/27 from US$4,232</g:description>
+      <g:description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 26/27 from US$4,388</g:description>
       <g:link>https://www.estropical.com/en/idea/42131805/ed614-europa-para-dos-6-14-dias-lon-rom-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131805.jpg?v=3</g:image_link>
-      <g:price>4232.00 USD</g:price>
+      <g:price>4388.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8350,12 +8541,12 @@
     <item>
       <g:id>42131802</g:id>
       <title>Ed517 - Europa para Dos: 5 17 Dias Mad/bcn 26/27</title>
-      <description>ED517 - EUROPA PARA DOS: 5 17 DIAS MAD/BCN 26/27 from US$4,201</description>
+      <description>ED517 - EUROPA PARA DOS: 5 17 DIAS MAD/BCN 26/27 from US$4,356</description>
       <g:title>Ed517 - Europa para Dos: 5 17 Dias Mad/bcn 26/27</g:title>
-      <g:description>ED517 - EUROPA PARA DOS: 5 17 DIAS MAD/BCN 26/27 from US$4,201</g:description>
+      <g:description>ED517 - EUROPA PARA DOS: 5 17 DIAS MAD/BCN 26/27 from US$4,356</g:description>
       <g:link>https://www.estropical.com/en/idea/42131802/ed517-europa-para-dos-5-17-dias-mad-bcn-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131802.jpg?v=3</g:image_link>
-      <g:price>4201.00 USD</g:price>
+      <g:price>4356.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8368,12 +8559,12 @@
     <item>
       <g:id>42131799</g:id>
       <title>Ed109 - Europa para Dos 1: Inglaterra - Escocia 9d 2026</title>
-      <description>ED109 - EUROPA PARA DOS 1: INGLATERRA - ESCOCIA 9D 2026 from US$4,080</description>
+      <description>ED109 - EUROPA PARA DOS 1: INGLATERRA - ESCOCIA 9D 2026 from US$4,231</description>
       <g:title>Ed109 - Europa para Dos 1: Inglaterra - Escocia 9d 2026</g:title>
-      <g:description>ED109 - EUROPA PARA DOS 1: INGLATERRA - ESCOCIA 9D 2026 from US$4,080</g:description>
+      <g:description>ED109 - EUROPA PARA DOS 1: INGLATERRA - ESCOCIA 9D 2026 from US$4,231</g:description>
       <g:link>https://www.estropical.com/en/idea/42131799/ed109-europa-para-dos-1-inglaterra-escocia-9d-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131799.jpg?v=3</g:image_link>
-      <g:price>4080.00 USD</g:price>
+      <g:price>4231.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8386,12 +8577,12 @@
     <item>
       <g:id>42131796</g:id>
       <title>Ed418 - Europa para Dos: Estilo Mp1 18 Dias 26/27</title>
-      <description>ED418 - EUROPA PARA DOS: ESTILO MP1 18 DIAS 26/27 from US$4,062</description>
+      <description>ED418 - EUROPA PARA DOS: ESTILO MP1 18 DIAS 26/27 from US$4,212</description>
       <g:title>Ed418 - Europa para Dos: Estilo Mp1 18 Dias 26/27</g:title>
-      <g:description>ED418 - EUROPA PARA DOS: ESTILO MP1 18 DIAS 26/27 from US$4,062</g:description>
+      <g:description>ED418 - EUROPA PARA DOS: ESTILO MP1 18 DIAS 26/27 from US$4,212</g:description>
       <g:link>https://www.estropical.com/en/idea/42131796/ed418-europa-para-dos-estilo-mp1-18-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131796.jpg?v=3</g:image_link>
-      <g:price>4062.00 USD</g:price>
+      <g:price>4212.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8404,12 +8595,12 @@
     <item>
       <g:id>42131793</g:id>
       <title>Ed616 - Europa para Dos: 6 16 Dias Par/mad 26/27</title>
-      <description>ED616 - EUROPA PARA DOS: 6 16 DIAS PAR/MAD 26/27 from US$4,036</description>
+      <description>ED616 - EUROPA PARA DOS: 6 16 DIAS PAR/MAD 26/27 from US$4,185</description>
       <g:title>Ed616 - Europa para Dos: 6 16 Dias Par/mad 26/27</g:title>
-      <g:description>ED616 - EUROPA PARA DOS: 6 16 DIAS PAR/MAD 26/27 from US$4,036</g:description>
+      <g:description>ED616 - EUROPA PARA DOS: 6 16 DIAS PAR/MAD 26/27 from US$4,185</g:description>
       <g:link>https://www.estropical.com/en/idea/42131793/ed616-europa-para-dos-6-16-dias-par-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131793.jpg?v=3</g:image_link>
-      <g:price>4036.00 USD</g:price>
+      <g:price>4185.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8422,12 +8613,12 @@
     <item>
       <g:id>42131790</g:id>
       <title>Ed417 - Europa para Dos: Estilo Mp1 17 Dias 26/27</title>
-      <description>ED417 - EUROPA PARA DOS: ESTILO MP1 17 DIAS 26/27 from US$3,939</description>
+      <description>ED417 - EUROPA PARA DOS: ESTILO MP1 17 DIAS 26/27 from US$4,084</description>
       <g:title>Ed417 - Europa para Dos: Estilo Mp1 17 Dias 26/27</g:title>
-      <g:description>ED417 - EUROPA PARA DOS: ESTILO MP1 17 DIAS 26/27 from US$3,939</g:description>
+      <g:description>ED417 - EUROPA PARA DOS: ESTILO MP1 17 DIAS 26/27 from US$4,084</g:description>
       <g:link>https://www.estropical.com/en/idea/42131790/ed417-europa-para-dos-estilo-mp1-17-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131790.jpg?v=3</g:image_link>
-      <g:price>3939.00 USD</g:price>
+      <g:price>4084.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8440,12 +8631,12 @@
     <item>
       <g:id>42131787</g:id>
       <title>Ed515 - Europa para Dos: 5 15 Dias Mad/rom 26/27</title>
-      <description>ED515 - EUROPA PARA DOS: 5 15 DIAS MAD/ROM 26/27 from US$3,886</description>
+      <description>ED515 - EUROPA PARA DOS: 5 15 DIAS MAD/ROM 26/27 from US$4,029</description>
       <g:title>Ed515 - Europa para Dos: 5 15 Dias Mad/rom 26/27</g:title>
-      <g:description>ED515 - EUROPA PARA DOS: 5 15 DIAS MAD/ROM 26/27 from US$3,886</g:description>
+      <g:description>ED515 - EUROPA PARA DOS: 5 15 DIAS MAD/ROM 26/27 from US$4,029</g:description>
       <g:link>https://www.estropical.com/en/idea/42131787/ed515-europa-para-dos-5-15-dias-mad-rom-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131787.jpg?v=3</g:image_link>
-      <g:price>3886.00 USD</g:price>
+      <g:price>4029.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8458,12 +8649,12 @@
     <item>
       <g:id>42131784</g:id>
       <title>Ed415 - Europa para Dos: Estilo Mp1 15 Dias 26/27</title>
-      <description>ED415 - EUROPA PARA DOS: ESTILO MP1 15 DIAS 26/27 from US$3,673</description>
+      <description>ED415 - EUROPA PARA DOS: ESTILO MP1 15 DIAS 26/27 from US$3,809</description>
       <g:title>Ed415 - Europa para Dos: Estilo Mp1 15 Dias 26/27</g:title>
-      <g:description>ED415 - EUROPA PARA DOS: ESTILO MP1 15 DIAS 26/27 from US$3,673</g:description>
+      <g:description>ED415 - EUROPA PARA DOS: ESTILO MP1 15 DIAS 26/27 from US$3,809</g:description>
       <g:link>https://www.estropical.com/en/idea/42131784/ed415-europa-para-dos-estilo-mp1-15-dias-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131784.jpg?v=3</g:image_link>
-      <g:price>3673.00 USD</g:price>
+      <g:price>3809.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8476,12 +8667,12 @@
     <item>
       <g:id>42131781</g:id>
       <title>Ed817 - Europa para Dos 9 17 Dias Vie/vie 26/27</title>
-      <description>ED817 - EUROPA PARA DOS 9 17 DIAS VIE/VIE 26/27 from US$3,380</description>
+      <description>ED817 - EUROPA PARA DOS 9 17 DIAS VIE/VIE 26/27 from US$3,505</description>
       <g:title>Ed817 - Europa para Dos 9 17 Dias Vie/vie 26/27</g:title>
-      <g:description>ED817 - EUROPA PARA DOS 9 17 DIAS VIE/VIE 26/27 from US$3,380</g:description>
+      <g:description>ED817 - EUROPA PARA DOS 9 17 DIAS VIE/VIE 26/27 from US$3,505</g:description>
       <g:link>https://www.estropical.com/en/idea/42131781/ed817-europa-para-dos-9-17-dias-vie-vie-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131781.jpg?v=3</g:image_link>
-      <g:price>3380.00 USD</g:price>
+      <g:price>3505.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8494,12 +8685,12 @@
     <item>
       <g:id>42131778</g:id>
       <title>Ed612 - Europa para Dos: 6 12 Dias Par/rom 26/27</title>
-      <description>ED612 - EUROPA PARA DOS: 6 12 DIAS PAR/ROM 26/27 from US$3,350</description>
+      <description>ED612 - EUROPA PARA DOS: 6 12 DIAS PAR/ROM 26/27 from US$3,474</description>
       <g:title>Ed612 - Europa para Dos: 6 12 Dias Par/rom 26/27</g:title>
-      <g:description>ED612 - EUROPA PARA DOS: 6 12 DIAS PAR/ROM 26/27 from US$3,350</g:description>
+      <g:description>ED612 - EUROPA PARA DOS: 6 12 DIAS PAR/ROM 26/27 from US$3,474</g:description>
       <g:link>https://www.estropical.com/en/idea/42131778/ed612-europa-para-dos-6-12-dias-par-rom-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131778.jpg?v=3</g:image_link>
-      <g:price>3350.00 USD</g:price>
+      <g:price>3474.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8512,12 +8703,12 @@
     <item>
       <g:id>42131775</g:id>
       <title>Ed816 - Europa para Dos 9 16 Dias Vie/bud 26/27</title>
-      <description>ED816 - EUROPA PARA DOS 9 16 DIAS VIE/BUD 26/27 from US$3,233</description>
+      <description>ED816 - EUROPA PARA DOS 9 16 DIAS VIE/BUD 26/27 from US$3,353</description>
       <g:title>Ed816 - Europa para Dos 9 16 Dias Vie/bud 26/27</g:title>
-      <g:description>ED816 - EUROPA PARA DOS 9 16 DIAS VIE/BUD 26/27 from US$3,233</g:description>
+      <g:description>ED816 - EUROPA PARA DOS 9 16 DIAS VIE/BUD 26/27 from US$3,353</g:description>
       <g:link>https://www.estropical.com/en/idea/42131775/ed816-europa-para-dos-9-16-dias-vie-bud-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131775.jpg?v=3</g:image_link>
-      <g:price>3233.00 USD</g:price>
+      <g:price>3353.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8530,9 +8721,9 @@
     <item>
       <g:id>42037272</g:id>
       <title>Md668 - Gran Gira Medio Oriente 27 Dias 2026</title>
-      <description>MD668 - GRAN GIRA MEDIO ORIENTE 27 DIAS 2026 from US$12,104</description>
+      <description>MD668 - GRAN GIRA MEDIO ORIENTE 27 DIAS 2026 from US$12,551</description>
       <g:title>Md668 - Gran Gira Medio Oriente 27 Dias 2026</g:title>
-      <g:description>MD668 - GRAN GIRA MEDIO ORIENTE 27 DIAS 2026 from US$12,104</g:description>
+      <g:description>MD668 - GRAN GIRA MEDIO ORIENTE 27 DIAS 2026 from US$12,551</g:description>
       <g:link>https://www.estropical.com/en/idea/42037272/md668-gran-gira-medio-oriente-27-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42037272.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -8548,12 +8739,12 @@
     <item>
       <g:id>42037269</g:id>
       <title>Md689 - Italia y Grecia 2026</title>
-      <description>MD689 - ITALIA Y GRECIA 2026 from US$6,444</description>
+      <description>MD689 - ITALIA Y GRECIA 2026 from US$6,681</description>
       <g:title>Md689 - Italia y Grecia 2026</g:title>
-      <g:description>MD689 - ITALIA Y GRECIA 2026 from US$6,444</g:description>
+      <g:description>MD689 - ITALIA Y GRECIA 2026 from US$6,681</g:description>
       <g:link>https://www.estropical.com/en/idea/42037269/md689-italia-y-grecia-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42037269.jpg?v=3</g:image_link>
-      <g:price>6444.00 USD</g:price>
+      <g:price>6681.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8566,12 +8757,12 @@
     <item>
       <g:id>42037266</g:id>
       <title>Md630 - Extension Crucero Egeo 2026</title>
-      <description>MD630 - EXTENSION CRUCERO EGEO 2026 from US$2,694</description>
+      <description>MD630 - EXTENSION CRUCERO EGEO 2026 from US$2,794</description>
       <g:title>Md630 - Extension Crucero Egeo 2026</g:title>
-      <g:description>MD630 - EXTENSION CRUCERO EGEO 2026 from US$2,694</g:description>
+      <g:description>MD630 - EXTENSION CRUCERO EGEO 2026 from US$2,794</g:description>
       <g:link>https://www.estropical.com/en/idea/42037266/md630-extension-crucero-egeo-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42037266.jpg?v=3</g:image_link>
-      <g:price>2694.00 USD</g:price>
+      <g:price>2794.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8584,12 +8775,12 @@
     <item>
       <g:id>42037263</g:id>
       <title>Md669 - Tunez Al Completo 26/27</title>
-      <description>MD669 - TUNEZ AL COMPLETO 26/27 from US$1,903</description>
+      <description>MD669 - TUNEZ AL COMPLETO 26/27 from US$1,974</description>
       <g:title>Md669 - Tunez Al Completo 26/27</g:title>
-      <g:description>MD669 - TUNEZ AL COMPLETO 26/27 from US$1,903</g:description>
+      <g:description>MD669 - TUNEZ AL COMPLETO 26/27 from US$1,974</g:description>
       <g:link>https://www.estropical.com/en/idea/42037263/md669-tunez-al-completo-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42037263.jpg?v=3</g:image_link>
-      <g:price>1903.00 USD</g:price>
+      <g:price>1974.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8602,9 +8793,9 @@
     <item>
       <g:id>41906145</g:id>
       <title>Md665 - Turquia y Grecia Espectacular 16 Dias 2026</title>
-      <description>MD665 - TURQUIA Y GRECIA ESPECTACULAR 16 DIAS 2026 from US$6,411</description>
+      <description>MD665 - TURQUIA Y GRECIA ESPECTACULAR 16 DIAS 2026 from US$6,647</description>
       <g:title>Md665 - Turquia y Grecia Espectacular 16 Dias 2026</g:title>
-      <g:description>MD665 - TURQUIA Y GRECIA ESPECTACULAR 16 DIAS 2026 from US$6,411</g:description>
+      <g:description>MD665 - TURQUIA Y GRECIA ESPECTACULAR 16 DIAS 2026 from US$6,647</g:description>
       <g:link>https://www.estropical.com/en/idea/41906145/md665-turquia-y-grecia-espectacular-16-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906145.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -8620,12 +8811,12 @@
     <item>
       <g:id>41906142</g:id>
       <title>Md634 - Grecia Al Completo con Crucero Egeo 2026</title>
-      <description>MD634 - GRECIA AL COMPLETO CON CRUCERO EGEO 2026 from US$5,018</description>
+      <description>MD634 - GRECIA AL COMPLETO CON CRUCERO EGEO 2026 from US$5,203</description>
       <g:title>Md634 - Grecia Al Completo con Crucero Egeo 2026</g:title>
-      <g:description>MD634 - GRECIA AL COMPLETO CON CRUCERO EGEO 2026 from US$5,018</g:description>
+      <g:description>MD634 - GRECIA AL COMPLETO CON CRUCERO EGEO 2026 from US$5,203</g:description>
       <g:link>https://www.estropical.com/en/idea/41906142/md634-grecia-al-completo-con-crucero-egeo-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906142.jpg?v=3</g:image_link>
-      <g:price>5018.00 USD</g:price>
+      <g:price>5203.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8638,9 +8829,9 @@
     <item>
       <g:id>41906139</g:id>
       <title>Md633 - Atenas y Crucero por el Mar Egeo 11 Dias 2026</title>
-      <description>MD633 - ATENAS Y CRUCERO POR EL MAR EGEO 11 DIAS 2026 from US$4,672</description>
+      <description>MD633 - ATENAS Y CRUCERO POR EL MAR EGEO 11 DIAS 2026 from US$4,845</description>
       <g:title>Md633 - Atenas y Crucero por el Mar Egeo 11 Dias 2026</g:title>
-      <g:description>MD633 - ATENAS Y CRUCERO POR EL MAR EGEO 11 DIAS 2026 from US$4,672</g:description>
+      <g:description>MD633 - ATENAS Y CRUCERO POR EL MAR EGEO 11 DIAS 2026 from US$4,845</g:description>
       <g:link>https://www.estropical.com/en/idea/41906139/md633-atenas-y-crucero-por-el-mar-egeo-11-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906139.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -8656,9 +8847,9 @@
     <item>
       <g:id>41906136</g:id>
       <title>Md664 - Joyas de Turquia,grecia 10 Dias 2026</title>
-      <description>MD664 - JOYAS DE TURQUIA,GRECIA 10 DIAS 2026 from US$4,161</description>
+      <description>MD664 - JOYAS DE TURQUIA,GRECIA 10 DIAS 2026 from US$4,315</description>
       <g:title>Md664 - Joyas de Turquia,grecia 10 Dias 2026</g:title>
-      <g:description>MD664 - JOYAS DE TURQUIA,GRECIA 10 DIAS 2026 from US$4,161</g:description>
+      <g:description>MD664 - JOYAS DE TURQUIA,GRECIA 10 DIAS 2026 from US$4,315</g:description>
       <g:link>https://www.estropical.com/en/idea/41906136/md664-joyas-de-turquia-grecia-10-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906136.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -8674,9 +8865,9 @@
     <item>
       <g:id>41906133</g:id>
       <title>Md632 - Atenas y Crucero Egeo 8 Dias 2026</title>
-      <description>MD632 - ATENAS Y CRUCERO EGEO 8 DIAS 2026 from US$3,560</description>
+      <description>MD632 - ATENAS Y CRUCERO EGEO 8 DIAS 2026 from US$3,691</description>
       <g:title>Md632 - Atenas y Crucero Egeo 8 Dias 2026</g:title>
-      <g:description>MD632 - ATENAS Y CRUCERO EGEO 8 DIAS 2026 from US$3,560</g:description>
+      <g:description>MD632 - ATENAS Y CRUCERO EGEO 8 DIAS 2026 from US$3,691</g:description>
       <g:link>https://www.estropical.com/en/idea/41906133/md632-atenas-y-crucero-egeo-8-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906133.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -8692,9 +8883,9 @@
     <item>
       <g:id>41906130</g:id>
       <title>Md631 - Atenas y Crucero por el Mar Egeo 7 Dias 2026</title>
-      <description>MD631 - ATENAS Y CRUCERO POR EL MAR EGEO 7 DIAS 2026 from US$3,131</description>
+      <description>MD631 - ATENAS Y CRUCERO POR EL MAR EGEO 7 DIAS 2026 from US$3,247</description>
       <g:title>Md631 - Atenas y Crucero por el Mar Egeo 7 Dias 2026</g:title>
-      <g:description>MD631 - ATENAS Y CRUCERO POR EL MAR EGEO 7 DIAS 2026 from US$3,131</g:description>
+      <g:description>MD631 - ATENAS Y CRUCERO POR EL MAR EGEO 7 DIAS 2026 from US$3,247</g:description>
       <g:link>https://www.estropical.com/en/idea/41906130/md631-atenas-y-crucero-por-el-mar-egeo-7-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906130.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -8710,12 +8901,12 @@
     <item>
       <g:id>41906127</g:id>
       <title>Md638 - Grecia y Sus Islas: Mykonos y Santorini 2026</title>
-      <description>MD638 - GRECIA Y SUS ISLAS: MYKONOS Y SANTORINI 2026 from US$3,115</description>
+      <description>MD638 - GRECIA Y SUS ISLAS: MYKONOS Y SANTORINI 2026 from US$3,230</description>
       <g:title>Md638 - Grecia y Sus Islas: Mykonos y Santorini 2026</g:title>
-      <g:description>MD638 - GRECIA Y SUS ISLAS: MYKONOS Y SANTORINI 2026 from US$3,115</g:description>
+      <g:description>MD638 - GRECIA Y SUS ISLAS: MYKONOS Y SANTORINI 2026 from US$3,230</g:description>
       <g:link>https://www.estropical.com/en/idea/41906127/md638-grecia-y-sus-islas-mykonos-y-santorini-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906127.jpg?v=3</g:image_link>
-      <g:price>3115.00 USD</g:price>
+      <g:price>3230.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8733,7 +8924,7 @@
       <g:description>Descubre lo mejor de Grecia visitando Santorini, Mykonos y Atenas. Playas, cultura y paisajes inolvidables en un solo viaje. ¡Reserva ahora tu aventura griega!</g:description>
       <g:link>https://www.estropical.com/en/idea/41906124/grecia-y-sus-islas-santorini-y-mykonos-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906124.jpg?v=3</g:image_link>
-      <g:price>3115.00 USD</g:price>
+      <g:price>3230.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8746,12 +8937,12 @@
     <item>
       <g:id>41906121</g:id>
       <title>Md643 - Ext Peloponeso (arg/oly/del/met) 5d/4n 26/27</title>
-      <description>MD643 - EXT PELOPONESO (ARG/OLY/DEL/MET) 5D/4N 26/27 from US$2,101</description>
+      <description>MD643 - EXT PELOPONESO (ARG/OLY/DEL/MET) 5D/4N 26/27 from US$2,179</description>
       <g:title>Md643 - Ext Peloponeso (arg/oly/del/met) 5d/4n 26/27</g:title>
-      <g:description>MD643 - EXT PELOPONESO (ARG/OLY/DEL/MET) 5D/4N 26/27 from US$2,101</g:description>
+      <g:description>MD643 - EXT PELOPONESO (ARG/OLY/DEL/MET) 5D/4N 26/27 from US$2,179</g:description>
       <g:link>https://www.estropical.com/en/idea/41906121/md643-ext-peloponeso-arg-oly-del-met-5d-4n-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906121.jpg?v=3</g:image_link>
-      <g:price>2101.00 USD</g:price>
+      <g:price>2179.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8764,12 +8955,12 @@
     <item>
       <g:id>41906118</g:id>
       <title>Md637 - Grecia y Sus Islas: Santorini 2026</title>
-      <description>MD637 - GRECIA Y SUS ISLAS: SANTORINI 2026 from US$2,060</description>
+      <description>MD637 - GRECIA Y SUS ISLAS: SANTORINI 2026 from US$2,136</description>
       <g:title>Md637 - Grecia y Sus Islas: Santorini 2026</g:title>
-      <g:description>MD637 - GRECIA Y SUS ISLAS: SANTORINI 2026 from US$2,060</g:description>
+      <g:description>MD637 - GRECIA Y SUS ISLAS: SANTORINI 2026 from US$2,136</g:description>
       <g:link>https://www.estropical.com/en/idea/41906118/md637-grecia-y-sus-islas-santorini-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906118.jpg?v=3</g:image_link>
-      <g:price>2060.00 USD</g:price>
+      <g:price>2136.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8782,9 +8973,9 @@
     <item>
       <g:id>41906115</g:id>
       <title>Md636 - Grecia y Sus Islas: Mykonos 2026</title>
-      <description>MD636 - GRECIA Y SUS ISLAS: MYKONOS 2026 from US$1,969</description>
+      <description>MD636 - GRECIA Y SUS ISLAS: MYKONOS 2026 from US$2,042</description>
       <g:title>Md636 - Grecia y Sus Islas: Mykonos 2026</g:title>
-      <g:description>MD636 - GRECIA Y SUS ISLAS: MYKONOS 2026 from US$1,969</g:description>
+      <g:description>MD636 - GRECIA Y SUS ISLAS: MYKONOS 2026 from US$2,042</g:description>
       <g:link>https://www.estropical.com/en/idea/41906115/md636-grecia-y-sus-islas-mykonos-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906115.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -8800,12 +8991,12 @@
     <item>
       <g:id>41906112</g:id>
       <title>Md661 - Turquia Magica 26/27</title>
-      <description>MD661 - TURQUIA MAGICA 26/27 from US$1,632</description>
+      <description>MD661 - TURQUIA MAGICA 26/27 from US$1,692</description>
       <g:title>Md661 - Turquia Magica 26/27</g:title>
-      <g:description>MD661 - TURQUIA MAGICA 26/27 from US$1,632</g:description>
+      <g:description>MD661 - TURQUIA MAGICA 26/27 from US$1,692</g:description>
       <g:link>https://www.estropical.com/en/idea/41906112/md661-turquia-magica-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906112.jpg?v=3</g:image_link>
-      <g:price>1632.00 USD</g:price>
+      <g:price>1692.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8818,12 +9009,12 @@
     <item>
       <g:id>41906109</g:id>
       <title>Md662 - Turquia Al Completo Domingos 26/27</title>
-      <description>MD662 - TURQUIA AL COMPLETO DOMINGOS 26/27 from US$1,615</description>
+      <description>MD662 - TURQUIA AL COMPLETO DOMINGOS 26/27 from US$1,675</description>
       <g:title>Md662 - Turquia Al Completo Domingos 26/27</g:title>
-      <g:description>MD662 - TURQUIA AL COMPLETO DOMINGOS 26/27 from US$1,615</g:description>
+      <g:description>MD662 - TURQUIA AL COMPLETO DOMINGOS 26/27 from US$1,675</g:description>
       <g:link>https://www.estropical.com/en/idea/41906109/md662-turquia-al-completo-domingos-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906109.jpg?v=3</g:image_link>
-      <g:price>1615.00 USD</g:price>
+      <g:price>1675.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8836,12 +9027,12 @@
     <item>
       <g:id>41906106</g:id>
       <title>Md662 - Turquia Al Completo Sabados 26/27</title>
-      <description>MD662 - TURQUIA AL COMPLETO SABADOS 26/27 from US$1,615</description>
+      <description>MD662 - TURQUIA AL COMPLETO SABADOS 26/27 from US$1,675</description>
       <g:title>Md662 - Turquia Al Completo Sabados 26/27</g:title>
-      <g:description>MD662 - TURQUIA AL COMPLETO SABADOS 26/27 from US$1,615</g:description>
+      <g:description>MD662 - TURQUIA AL COMPLETO SABADOS 26/27 from US$1,675</g:description>
       <g:link>https://www.estropical.com/en/idea/41906106/md662-turquia-al-completo-sabados-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906106.jpg?v=3</g:image_link>
-      <g:price>1615.00 USD</g:price>
+      <g:price>1675.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8854,12 +9045,12 @@
     <item>
       <g:id>41906103</g:id>
       <title>Md642 - Ext Peloponeso (arg/olympia/delfos) 4d/3n 26/27</title>
-      <description>MD642 - EXT PELOPONESO (ARG/OLYMPIA/DELFOS) 4D/3N 26/27 from US$1,557</description>
+      <description>MD642 - EXT PELOPONESO (ARG/OLYMPIA/DELFOS) 4D/3N 26/27 from US$1,615</description>
       <g:title>Md642 - Ext Peloponeso (arg/olympia/delfos) 4d/3n 26/27</g:title>
-      <g:description>MD642 - EXT PELOPONESO (ARG/OLYMPIA/DELFOS) 4D/3N 26/27 from US$1,557</g:description>
+      <g:description>MD642 - EXT PELOPONESO (ARG/OLYMPIA/DELFOS) 4D/3N 26/27 from US$1,615</g:description>
       <g:link>https://www.estropical.com/en/idea/41906103/md642-ext-peloponeso-arg-olympia-delfos-4d-3n-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906103.jpg?v=3</g:image_link>
-      <g:price>1557.00 USD</g:price>
+      <g:price>1615.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8872,12 +9063,12 @@
     <item>
       <g:id>41906100</g:id>
       <title>Md640 - Ext Peloponeso (delfos/meteora (3d/2n) 26/27</title>
-      <description>MD640 - EXT PELOPONESO (DELFOS/METEORA (3D/2N) 26/27 from US$1,038</description>
+      <description>MD640 - EXT PELOPONESO (DELFOS/METEORA (3D/2N) 26/27 from US$1,077</description>
       <g:title>Md640 - Ext Peloponeso (delfos/meteora (3d/2n) 26/27</g:title>
-      <g:description>MD640 - EXT PELOPONESO (DELFOS/METEORA (3D/2N) 26/27 from US$1,038</g:description>
+      <g:description>MD640 - EXT PELOPONESO (DELFOS/METEORA (3D/2N) 26/27 from US$1,077</g:description>
       <g:link>https://www.estropical.com/en/idea/41906100/md640-ext-peloponeso-delfos-meteora-3d-2n-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906100.jpg?v=3</g:image_link>
-      <g:price>1038.00 USD</g:price>
+      <g:price>1077.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8890,9 +9081,9 @@
     <item>
       <g:id>41906097</g:id>
       <title>Md667 - Gran Gira Medio Oriente 20 Dias 2026</title>
-      <description>MD667 - GRAN GIRA MEDIO ORIENTE 20 DIAS 2026 from US$7,564</description>
+      <description>MD667 - GRAN GIRA MEDIO ORIENTE 20 DIAS 2026 from US$7,843</description>
       <g:title>Md667 - Gran Gira Medio Oriente 20 Dias 2026</g:title>
-      <g:description>MD667 - GRAN GIRA MEDIO ORIENTE 20 DIAS 2026 from US$7,564</g:description>
+      <g:description>MD667 - GRAN GIRA MEDIO ORIENTE 20 DIAS 2026 from US$7,843</g:description>
       <g:link>https://www.estropical.com/en/idea/41906097/md667-gran-gira-medio-oriente-20-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906097.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -8908,12 +9099,12 @@
     <item>
       <g:id>41906094</g:id>
       <title>Md635 - Grecia y Sus Islas: Atenas 26/27</title>
-      <description>MD635 - GRECIA Y SUS ISLAS: ATENAS 26/27 from US$651</description>
+      <description>MD635 - GRECIA Y SUS ISLAS: ATENAS 26/27 from US$675</description>
       <g:title>Md635 - Grecia y Sus Islas: Atenas 26/27</g:title>
-      <g:description>MD635 - GRECIA Y SUS ISLAS: ATENAS 26/27 from US$651</g:description>
+      <g:description>MD635 - GRECIA Y SUS ISLAS: ATENAS 26/27 from US$675</g:description>
       <g:link>https://www.estropical.com/en/idea/41906094/md635-grecia-y-sus-islas-atenas-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906094.jpg?v=3</g:image_link>
-      <g:price>651.00 USD</g:price>
+      <g:price>675.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8926,12 +9117,12 @@
     <item>
       <g:id>41844975</g:id>
       <title>Ce400b - Suiza Paraiso Natural 2026</title>
-      <description>CE400B - SUIZA PARAISO NATURAL 2026 from US$3,797</description>
+      <description>CE400B - SUIZA PARAISO NATURAL 2026 from US$3,937</description>
       <g:title>Ce400b - Suiza Paraiso Natural 2026</g:title>
-      <g:description>CE400B - SUIZA PARAISO NATURAL 2026 from US$3,797</g:description>
+      <g:description>CE400B - SUIZA PARAISO NATURAL 2026 from US$3,937</g:description>
       <g:link>https://www.estropical.com/en/idea/41844975/ce400b-suiza-paraiso-natural-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41844975.jpg?v=3</g:image_link>
-      <g:price>3797.00 USD</g:price>
+      <g:price>3937.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9034,174 +9225,12 @@
     <item>
       <g:id>41341910</g:id>
       <title>Ce513 - Europa Fabulosa 25 Dias Lon/waw 26/27</title>
-      <description>CE513 - EUROPA FABULOSA 25 DIAS LON/WAW 26/27 from US$7,548</description>
+      <description>CE513 - EUROPA FABULOSA 25 DIAS LON/WAW 26/27 from US$7,826</description>
       <g:title>Ce513 - Europa Fabulosa 25 Dias Lon/waw 26/27</g:title>
-      <g:description>CE513 - EUROPA FABULOSA 25 DIAS LON/WAW 26/27 from US$7,548</g:description>
+      <g:description>CE513 - EUROPA FABULOSA 25 DIAS LON/WAW 26/27 from US$7,826</g:description>
       <g:link>https://www.estropical.com/en/idea/41341910/ce513-europa-fabulosa-25-dias-lon-waw-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341910.jpg?v=3</g:image_link>
-      <g:price>7548.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341907</g:id>
-      <title>Ce511 - Europa Fabulosa 21 Dias Lon/vie 26/27</title>
-      <description>CE511 - EUROPA FABULOSA 21 DIAS LON/VIE 26/27 from US$6,872</description>
-      <g:title>Ce511 - Europa Fabulosa 21 Dias Lon/vie 26/27</g:title>
-      <g:description>CE511 - EUROPA FABULOSA 21 DIAS LON/VIE 26/27 from US$6,872</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341907/ce511-europa-fabulosa-21-dias-lon-vie-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341907.jpg?v=3</g:image_link>
-      <g:price>6872.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341904</g:id>
-      <title>Ce512 - Europa Fabulosa 23 Dias Par/waw 26/27</title>
-      <description>CE512 - EUROPA FABULOSA 23 DIAS PAR/WAW 26/27 from US$6,320</description>
-      <g:title>Ce512 - Europa Fabulosa 23 Dias Par/waw 26/27</g:title>
-      <g:description>CE512 - EUROPA FABULOSA 23 DIAS PAR/WAW 26/27 from US$6,320</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341904/ce512-europa-fabulosa-23-dias-par-waw-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341904.jpg?v=3</g:image_link>
-      <g:price>6320.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341901</g:id>
-      <title>Ce505 - Tesoros de Europa 22 Dias Lon/ber 26/27</title>
-      <description>CE505 - TESOROS DE EUROPA 22 DIAS LON/BER 26/27 from US$6,251</description>
-      <g:title>Ce505 - Tesoros de Europa 22 Dias Lon/ber 26/27</g:title>
-      <g:description>CE505 - TESOROS DE EUROPA 22 DIAS LON/BER 26/27 from US$6,251</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341901/ce505-tesoros-de-europa-22-dias-lon-ber-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341901.jpg?v=3</g:image_link>
-      <g:price>6251.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341898</g:id>
-      <title>Ce504 - Tesoros de Europa 21 Dias Lon/waw 26/27</title>
-      <description>CE504 - TESOROS DE EUROPA 21 DIAS LON/WAW 26/27 from US$5,890</description>
-      <g:title>Ce504 - Tesoros de Europa 21 Dias Lon/waw 26/27</g:title>
-      <g:description>CE504 - TESOROS DE EUROPA 21 DIAS LON/WAW 26/27 from US$5,890</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341898/ce504-tesoros-de-europa-21-dias-lon-waw-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341898.jpg?v=3</g:image_link>
-      <g:price>5890.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341895</g:id>
-      <title>Ce510 - Europa Fabulosa 19 Dias Par/vie 26/27</title>
-      <description>CE510 - EUROPA FABULOSA 19 DIAS PAR/VIE 26/27 from US$5,743</description>
-      <g:title>Ce510 - Europa Fabulosa 19 Dias Par/vie 26/27</g:title>
-      <g:description>CE510 - EUROPA FABULOSA 19 DIAS PAR/VIE 26/27 from US$5,743</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341895/ce510-europa-fabulosa-19-dias-par-vie-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341895.jpg?v=3</g:image_link>
-      <g:price>5743.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341892</g:id>
-      <title>Ce503 - Tesoros de Europa 20 Dias Par/ber 26/27</title>
-      <description>CE503 - TESOROS DE EUROPA 20 DIAS PAR/BER 26/27 from US$5,105</description>
-      <g:title>Ce503 - Tesoros de Europa 20 Dias Par/ber 26/27</g:title>
-      <g:description>CE503 - TESOROS DE EUROPA 20 DIAS PAR/BER 26/27 from US$5,105</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341892/ce503-tesoros-de-europa-20-dias-par-ber-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341892.jpg?v=3</g:image_link>
-      <g:price>5105.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341889</g:id>
-      <title>Ce501 - Tesoros de Europa 17 Dias Lon/vie 26/27</title>
-      <description>CE501 - TESOROS DE EUROPA 17 DIAS LON/VIE 26/27 from US$4,909</description>
-      <g:title>Ce501 - Tesoros de Europa 17 Dias Lon/vie 26/27</g:title>
-      <g:description>CE501 - TESOROS DE EUROPA 17 DIAS LON/VIE 26/27 from US$4,909</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341889/ce501-tesoros-de-europa-17-dias-lon-vie-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341889.jpg?v=3</g:image_link>
-      <g:price>4909.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341886</g:id>
-      <title>Ce502 - Tesoros de Europa 19 Dias Par/waw 26/27</title>
-      <description>CE502 - TESOROS DE EUROPA 19 DIAS PAR/WAW 26/27 from US$4,802</description>
-      <g:title>Ce502 - Tesoros de Europa 19 Dias Par/waw 26/27</g:title>
-      <g:description>CE502 - TESOROS DE EUROPA 19 DIAS PAR/WAW 26/27 from US$4,802</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341886/ce502-tesoros-de-europa-19-dias-par-waw-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341886.jpg?v=3</g:image_link>
-      <g:price>4802.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41341883</g:id>
-      <title>Ce423 - Gran Tour de la Europa del Este 17 Dias 26/27</title>
-      <description>CE423 - GRAN TOUR DE LA EUROPA DEL ESTE 17 DIAS 26/27 from US$3,869</description>
-      <g:title>Ce423 - Gran Tour de la Europa del Este 17 Dias 26/27</g:title>
-      <g:description>CE423 - GRAN TOUR DE LA EUROPA DEL ESTE 17 DIAS 26/27 from US$3,869</g:description>
-      <g:link>https://www.estropical.com/en/idea/41341883/ce423-gran-tour-de-la-europa-del-este-17-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341883.jpg?v=3</g:image_link>
-      <g:price>3869.00 USD</g:price>
+      <g:price>7826.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
