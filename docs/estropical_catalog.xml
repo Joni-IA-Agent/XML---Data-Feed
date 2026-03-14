@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-13 11:57 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-13T11:57:35.201042Z)
+  Generated : 2026-03-14 11:10 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-14T11:10:45.259857Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -174,6 +174,27 @@
     </item>
 
     <item>
+      <g:id>36289723</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
+      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>48510610</g:id>
       <title>Dia del Niño | Gran Palladium Imbassaí Resort &amp; Spa 5*</title>
       <description>Dia del niño | Gran Palladium Imbassaí Resort &amp; Spa 5* from US$1,604</description>
@@ -255,27 +276,6 @@
       <g:custom_label_2>30 Jun 2026</g:custom_label_2>
       <g:custom_label_3>5 Jul 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>36289723</g:id>
-      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
-      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
-      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
-      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
-      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
-      <g:price>849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -1876,12 +1876,12 @@
     <item>
       <g:id>47825439</g:id>
       <title>La Gran Ruta de la Seda 2 (2026)</title>
-      <description>La gran Ruta de la Seda 2 (2026) from US$3,957</description>
+      <description>La gran Ruta de la Seda 2 (2026) from US$4,103</description>
       <g:title>La Gran Ruta de la Seda 2 (2026)</g:title>
-      <g:description>La gran Ruta de la Seda 2 (2026) from US$3,957</g:description>
+      <g:description>La gran Ruta de la Seda 2 (2026) from US$4,103</g:description>
       <g:link>https://www.estropical.com/en/idea/47825439/la-gran-ruta-de-la-seda-2-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47825439.jpg?v=3</g:image_link>
-      <g:price>3957.00 USD</g:price>
+      <g:price>4103.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1894,12 +1894,12 @@
     <item>
       <g:id>47825436</g:id>
       <title>La Gran Ruta de la Seda 1 (2026)</title>
-      <description>La gran Ruta de la Seda 1 (2026) from US$3,957</description>
+      <description>La gran Ruta de la Seda 1 (2026) from US$4,103</description>
       <g:title>La Gran Ruta de la Seda 1 (2026)</g:title>
-      <g:description>La gran Ruta de la Seda 1 (2026) from US$3,957</g:description>
+      <g:description>La gran Ruta de la Seda 1 (2026) from US$4,103</g:description>
       <g:link>https://www.estropical.com/en/idea/47825436/la-gran-ruta-de-la-seda-1-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/47825436.jpg?v=3</g:image_link>
-      <g:price>3957.00 USD</g:price>
+      <g:price>4103.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2600,12 +2600,12 @@
     <item>
       <g:id>46865178</g:id>
       <title>Complete Vietnam, Thailand &amp; Laos (2026)</title>
-      <description>Complete Vietnam, Thailand &amp; Laos (2026) from US$7,754</description>
+      <description>Complete Vietnam, Thailand &amp; Laos (2026) from US$8,040</description>
       <g:title>Complete Vietnam, Thailand &amp; Laos (2026)</g:title>
-      <g:description>Complete Vietnam, Thailand &amp; Laos (2026) from US$7,754</g:description>
+      <g:description>Complete Vietnam, Thailand &amp; Laos (2026) from US$8,040</g:description>
       <g:link>https://www.estropical.com/en/idea/46865178/complete-vietnam-thailand-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46865178.jpg?v=3</g:image_link>
-      <g:price>7754.00 USD</g:price>
+      <g:price>8040.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2618,12 +2618,12 @@
     <item>
       <g:id>46865175</g:id>
       <title>Vietnam, Scenic Thailand &amp; Spiritual Laos (2026)</title>
-      <description>Vietnam, Scenic Thailand &amp; Spiritual Laos (2026) from US$6,961</description>
+      <description>Vietnam, Scenic Thailand &amp; Spiritual Laos (2026) from US$7,218</description>
       <g:title>Vietnam, Scenic Thailand &amp; Spiritual Laos (2026)</g:title>
-      <g:description>Vietnam, Scenic Thailand &amp; Spiritual Laos (2026) from US$6,961</g:description>
+      <g:description>Vietnam, Scenic Thailand &amp; Spiritual Laos (2026) from US$7,218</g:description>
       <g:link>https://www.estropical.com/en/idea/46865175/vietnam-scenic-thailand-spiritual-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46865175.jpg?v=3</g:image_link>
-      <g:price>6961.00 USD</g:price>
+      <g:price>7218.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2636,12 +2636,12 @@
     <item>
       <g:id>46865166</g:id>
       <title>Complete Thailand with Phuket (2026)</title>
-      <description>Complete Thailand with Phuket (2026) from US$3,509</description>
+      <description>Complete Thailand with Phuket (2026) from US$3,638</description>
       <g:title>Complete Thailand with Phuket (2026)</g:title>
-      <g:description>Complete Thailand with Phuket (2026) from US$3,509</g:description>
+      <g:description>Complete Thailand with Phuket (2026) from US$3,638</g:description>
       <g:link>https://www.estropical.com/en/idea/46865166/complete-thailand-with-phuket-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46865166.jpg?v=3</g:image_link>
-      <g:price>3509.00 USD</g:price>
+      <g:price>3638.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2654,12 +2654,12 @@
     <item>
       <g:id>46865145</g:id>
       <title>Complete Indochina with the Angkor Temples (2026)</title>
-      <description>Complete Indochina with the Angkor Temples (2026) from US$8,113</description>
+      <description>Complete Indochina with the Angkor Temples (2026) from US$8,413</description>
       <g:title>Complete Indochina with the Angkor Temples (2026)</g:title>
-      <g:description>Complete Indochina with the Angkor Temples (2026) from US$8,113</g:description>
+      <g:description>Complete Indochina with the Angkor Temples (2026) from US$8,413</g:description>
       <g:link>https://www.estropical.com/en/idea/46865145/complete-indochina-with-the-angkor-temples-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46865145.jpg?v=3</g:image_link>
-      <g:price>8113.00 USD</g:price>
+      <g:price>8413.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3500,12 +3500,12 @@
     <item>
       <g:id>45986483</g:id>
       <title>Entire Cuba (2026)</title>
-      <description>Entire Cuba (2026) from US$3,149</description>
+      <description>Entire Cuba (2026) from US$3,266</description>
       <g:title>Entire Cuba (2026)</g:title>
-      <g:description>Entire Cuba (2026) from US$3,149</g:description>
+      <g:description>Entire Cuba (2026) from US$3,266</g:description>
       <g:link>https://www.estropical.com/en/idea/45986483/entire-cuba-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986483.jpg?v=3</g:image_link>
-      <g:price>3149.00 USD</g:price>
+      <g:price>3266.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3518,12 +3518,12 @@
     <item>
       <g:id>45986435</g:id>
       <title>Mexico and Cuba (2026)</title>
-      <description>Mexico and Cuba (2026) from US$4,735</description>
+      <description>Mexico and Cuba (2026) from US$4,909</description>
       <g:title>Mexico and Cuba (2026)</g:title>
-      <g:description>Mexico and Cuba (2026) from US$4,735</g:description>
+      <g:description>Mexico and Cuba (2026) from US$4,909</g:description>
       <g:link>https://www.estropical.com/en/idea/45986435/mexico-and-cuba-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986435.jpg?v=3</g:image_link>
-      <g:price>4735.00 USD</g:price>
+      <g:price>4909.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3536,12 +3536,12 @@
     <item>
       <g:id>45986411</g:id>
       <title>Central Mexico and Unforgettable Cuba (2026)</title>
-      <description>Central Mexico and Unforgettable Cuba (2026) from US$6,251</description>
+      <description>Central Mexico and Unforgettable Cuba (2026) from US$6,482</description>
       <g:title>Central Mexico and Unforgettable Cuba (2026)</g:title>
-      <g:description>Central Mexico and Unforgettable Cuba (2026) from US$6,251</g:description>
+      <g:description>Central Mexico and Unforgettable Cuba (2026) from US$6,482</g:description>
       <g:link>https://www.estropical.com/en/idea/45986411/central-mexico-and-unforgettable-cuba-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986411.jpg?v=3</g:image_link>
-      <g:price>6251.00 USD</g:price>
+      <g:price>6482.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3554,12 +3554,12 @@
     <item>
       <g:id>45986408</g:id>
       <title>Central Mexico and Cuba (2026)</title>
-      <description>Central Mexico and Cuba (2026) from US$5,074</description>
+      <description>Central Mexico and Cuba (2026) from US$5,261</description>
       <g:title>Central Mexico and Cuba (2026)</g:title>
-      <g:description>Central Mexico and Cuba (2026) from US$5,074</g:description>
+      <g:description>Central Mexico and Cuba (2026) from US$5,261</g:description>
       <g:link>https://www.estropical.com/en/idea/45986408/central-mexico-and-cuba-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986408.jpg?v=3</g:image_link>
-      <g:price>5074.00 USD</g:price>
+      <g:price>5261.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3572,12 +3572,12 @@
     <item>
       <g:id>45986402</g:id>
       <title>The Best of Cuba and Mexico (2026)</title>
-      <description>The Best of Cuba and Mexico (2026) from US$4,384</description>
+      <description>The Best of Cuba and Mexico (2026) from US$4,545</description>
       <g:title>The Best of Cuba and Mexico (2026)</g:title>
-      <g:description>The Best of Cuba and Mexico (2026) from US$4,384</g:description>
+      <g:description>The Best of Cuba and Mexico (2026) from US$4,545</g:description>
       <g:link>https://www.estropical.com/en/idea/45986402/the-best-of-cuba-and-mexico-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986402.jpg?v=3</g:image_link>
-      <g:price>4384.00 USD</g:price>
+      <g:price>4545.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3590,12 +3590,12 @@
     <item>
       <g:id>45986393</g:id>
       <title>The Great Route of Cuba and Mexico (2026)</title>
-      <description>The Great Route of Cuba and Mexico (2026) from US$6,945</description>
+      <description>The Great Route of Cuba and Mexico (2026) from US$7,201</description>
       <g:title>The Great Route of Cuba and Mexico (2026)</g:title>
-      <g:description>The Great Route of Cuba and Mexico (2026) from US$6,945</g:description>
+      <g:description>The Great Route of Cuba and Mexico (2026) from US$7,201</g:description>
       <g:link>https://www.estropical.com/en/idea/45986393/the-great-route-of-cuba-and-mexico-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986393.jpg?v=3</g:image_link>
-      <g:price>6945.00 USD</g:price>
+      <g:price>7201.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3608,12 +3608,12 @@
     <item>
       <g:id>45986360</g:id>
       <title>Complete Cuba and Mexico (2026)</title>
-      <description>Complete Cuba and Mexico (2026) from US$7,030</description>
+      <description>Complete Cuba and Mexico (2026) from US$7,290</description>
       <g:title>Complete Cuba and Mexico (2026)</g:title>
-      <g:description>Complete Cuba and Mexico (2026) from US$7,030</g:description>
+      <g:description>Complete Cuba and Mexico (2026) from US$7,290</g:description>
       <g:link>https://www.estropical.com/en/idea/45986360/complete-cuba-and-mexico-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986360.jpg?v=3</g:image_link>
-      <g:price>7030.00 USD</g:price>
+      <g:price>7290.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3626,12 +3626,12 @@
     <item>
       <g:id>45986357</g:id>
       <title>Cuba Express (2026)</title>
-      <description>Cuba Express (2026) from US$1,745</description>
+      <description>Cuba Express (2026) from US$1,810</description>
       <g:title>Cuba Express (2026)</g:title>
-      <g:description>Cuba Express (2026) from US$1,745</g:description>
+      <g:description>Cuba Express (2026) from US$1,810</g:description>
       <g:link>https://www.estropical.com/en/idea/45986357/cuba-express-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986357.jpg?v=3</g:image_link>
-      <g:price>1745.00 USD</g:price>
+      <g:price>1810.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3644,12 +3644,12 @@
     <item>
       <g:id>45986351</g:id>
       <title>Cuba From West To East (2026)</title>
-      <description>Cuba from West to East (2026) from US$1,928</description>
+      <description>Cuba from West to East (2026) from US$1,999</description>
       <g:title>Cuba From West To East (2026)</g:title>
-      <g:description>Cuba from West to East (2026) from US$1,928</g:description>
+      <g:description>Cuba from West to East (2026) from US$1,999</g:description>
       <g:link>https://www.estropical.com/en/idea/45986351/cuba-from-west-to-east-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986351.jpg?v=3</g:image_link>
-      <g:price>1928.00 USD</g:price>
+      <g:price>1999.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -3662,12 +3662,12 @@
     <item>
       <g:id>45986342</g:id>
       <title>Colors of Cuba and Mexico (2026)</title>
-      <description>Colors of Cuba and Mexico (2026) from US$4,209</description>
+      <description>Colors of Cuba and Mexico (2026) from US$4,364</description>
       <g:title>Colors of Cuba and Mexico (2026)</g:title>
-      <g:description>Colors of Cuba and Mexico (2026) from US$4,209</g:description>
+      <g:description>Colors of Cuba and Mexico (2026) from US$4,364</g:description>
       <g:link>https://www.estropical.com/en/idea/45986342/colors-of-cuba-and-mexico-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986342.jpg?v=3</g:image_link>
-      <g:price>4209.00 USD</g:price>
+      <g:price>4364.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4310,12 +4310,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,437</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,408</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,437</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,408</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6437.00 USD</g:price>
+      <g:price>6408.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4541,12 +4541,12 @@
     <item>
       <g:id>45341316</g:id>
       <title>Qatar and Thailand (2026)</title>
-      <description>Qatar and Thailand (2026) from US$3,395</description>
+      <description>Qatar and Thailand (2026) from US$3,520</description>
       <g:title>Qatar and Thailand (2026)</g:title>
-      <g:description>Qatar and Thailand (2026) from US$3,395</g:description>
+      <g:description>Qatar and Thailand (2026) from US$3,520</g:description>
       <g:link>https://www.estropical.com/en/idea/45341316/qatar-and-thailand-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45341316.jpg?v=3</g:image_link>
-      <g:price>3395.00 USD</g:price>
+      <g:price>3520.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4559,12 +4559,12 @@
     <item>
       <g:id>45341274</g:id>
       <title>Dubai Express and Thailand (2026)</title>
-      <description>Dubai express and Thailand (2026) from US$2,554</description>
+      <description>Dubai express and Thailand (2026) from US$2,649</description>
       <g:title>Dubai Express and Thailand (2026)</g:title>
-      <g:description>Dubai express and Thailand (2026) from US$2,554</g:description>
+      <g:description>Dubai express and Thailand (2026) from US$2,649</g:description>
       <g:link>https://www.estropical.com/en/idea/45341274/dubai-express-and-thailand-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45341274.jpg?v=3</g:image_link>
-      <g:price>2554.00 USD</g:price>
+      <g:price>2649.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4779,60 +4779,6 @@
     </item>
 
     <item>
-      <g:id>44924079</g:id>
-      <title>Perlas Checas y Danubio Imperial (2026)</title>
-      <description>Perlas Checas y Danubio Imperial (2026) from US$4,529</description>
-      <g:title>Perlas Checas y Danubio Imperial (2026)</g:title>
-      <g:description>Perlas Checas y Danubio Imperial (2026) from US$4,529</g:description>
-      <g:link>https://www.estropical.com/en/idea/44924079/perlas-checas-y-danubio-imperial-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44924079.jpg?v=3</g:image_link>
-      <g:price>4529.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44924061</g:id>
-      <title>Norte de Italia y Alpes con Danubio Imperial (2026)</title>
-      <description>Norte de Italia y Alpes con Danubio Imperial (2026) from US$5,250</description>
-      <g:title>Norte de Italia y Alpes con Danubio Imperial (2026)</g:title>
-      <g:description>Norte de Italia y Alpes con Danubio Imperial (2026) from US$5,250</g:description>
-      <g:link>https://www.estropical.com/en/idea/44924061/norte-de-italia-y-alpes-con-danubio-imperial-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44924061.jpg?v=3</g:image_link>
-      <g:price>5250.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44924037</g:id>
-      <title>Encantos de Bohemia y Danubio Imperial (2026)</title>
-      <description>Encantos de Bohemia y Danubio Imperial (2026) from US$4,544</description>
-      <g:title>Encantos de Bohemia y Danubio Imperial (2026)</g:title>
-      <g:description>Encantos de Bohemia y Danubio Imperial (2026) from US$4,544</g:description>
-      <g:link>https://www.estropical.com/en/idea/44924037/encantos-de-bohemia-y-danubio-imperial-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44924037.jpg?v=3</g:image_link>
-      <g:price>4544.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>44871528</g:id>
       <title>Boleto a Rio de Janeiro Desde Santa Cruz</title>
       <description>Boleto a Rio de Janeiro desde Santa Cruz  from US$492</description>
@@ -4995,12 +4941,12 @@
     <item>
       <g:id>44825835</g:id>
       <title>Morocco, From Tangier To Rabat (2026)</title>
-      <description>Morocco, from Tangier to Rabat (2026) from US$2,424</description>
+      <description>Morocco, from Tangier to Rabat (2026) from US$2,514</description>
       <g:title>Morocco, From Tangier To Rabat (2026)</g:title>
-      <g:description>Morocco, from Tangier to Rabat (2026) from US$2,424</g:description>
+      <g:description>Morocco, from Tangier to Rabat (2026) from US$2,514</g:description>
       <g:link>https://www.estropical.com/en/idea/44825835/morocco-from-tangier-to-rabat-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44825835.jpg?v=3</g:image_link>
-      <g:price>2424.00 USD</g:price>
+      <g:price>2514.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5013,12 +4959,12 @@
     <item>
       <g:id>44825832</g:id>
       <title>Morocco, From Tangier To Marrakech (2026)</title>
-      <description>Morocco, from Tangier to Marrakech (2026) from US$1,663</description>
+      <description>Morocco, from Tangier to Marrakech (2026) from US$1,724</description>
       <g:title>Morocco, From Tangier To Marrakech (2026)</g:title>
-      <g:description>Morocco, from Tangier to Marrakech (2026) from US$1,663</g:description>
+      <g:description>Morocco, from Tangier to Marrakech (2026) from US$1,724</g:description>
       <g:link>https://www.estropical.com/en/idea/44825832/morocco-from-tangier-to-marrakech-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44825832.jpg?v=3</g:image_link>
-      <g:price>1663.00 USD</g:price>
+      <g:price>1724.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5031,12 +4977,12 @@
     <item>
       <g:id>44825829</g:id>
       <title>Surprising Morocco Ending In Casablanca (2026)</title>
-      <description>Surprising Morocco Ending in Casablanca (2026) from US$2,154</description>
+      <description>Surprising Morocco Ending in Casablanca (2026) from US$2,233</description>
       <g:title>Surprising Morocco Ending In Casablanca (2026)</g:title>
-      <g:description>Surprising Morocco Ending in Casablanca (2026) from US$2,154</g:description>
+      <g:description>Surprising Morocco Ending in Casablanca (2026) from US$2,233</g:description>
       <g:link>https://www.estropical.com/en/idea/44825829/surprising-morocco-ending-in-casablanca-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44825829.jpg?v=3</g:image_link>
-      <g:price>2154.00 USD</g:price>
+      <g:price>2233.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5555,12 +5501,12 @@
     <item>
       <g:id>44586234</g:id>
       <title>Viena y Croacia con Islas (2026)</title>
-      <description>Viena y Croacia con islas (2026) from US$4,906</description>
+      <description>Viena y Croacia con islas (2026) from US$5,087</description>
       <g:title>Viena y Croacia con Islas (2026)</g:title>
-      <g:description>Viena y Croacia con islas (2026) from US$4,906</g:description>
+      <g:description>Viena y Croacia con islas (2026) from US$5,087</g:description>
       <g:link>https://www.estropical.com/en/idea/44586234/viena-y-croacia-con-islas-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44586234.jpg?v=3</g:image_link>
-      <g:price>4906.00 USD</g:price>
+      <g:price>5087.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5573,12 +5519,12 @@
     <item>
       <g:id>44586231</g:id>
       <title>Viaje por la Antigua Yugoslavia (2026)</title>
-      <description>Viaje por la antigua Yugoslavia (2026) from US$4,697</description>
+      <description>Viaje por la antigua Yugoslavia (2026) from US$4,870</description>
       <g:title>Viaje por la Antigua Yugoslavia (2026)</g:title>
-      <g:description>Viaje por la antigua Yugoslavia (2026) from US$4,697</g:description>
+      <g:description>Viaje por la antigua Yugoslavia (2026) from US$4,870</g:description>
       <g:link>https://www.estropical.com/en/idea/44586231/viaje-por-la-antigua-yugoslavia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44586231.jpg?v=3</g:image_link>
-      <g:price>4697.00 USD</g:price>
+      <g:price>4870.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5591,12 +5537,12 @@
     <item>
       <g:id>44586228</g:id>
       <title>Viajando por la Costa de Croacia a Grecia (2026)</title>
-      <description>Viajando por la costa de Croacia a Grecia (2026) from US$6,010</description>
+      <description>Viajando por la costa de Croacia a Grecia (2026) from US$6,232</description>
       <g:title>Viajando por la Costa de Croacia a Grecia (2026)</g:title>
-      <g:description>Viajando por la costa de Croacia a Grecia (2026) from US$6,010</g:description>
+      <g:description>Viajando por la costa de Croacia a Grecia (2026) from US$6,232</g:description>
       <g:link>https://www.estropical.com/en/idea/44586228/viajando-por-la-costa-de-croacia-a-grecia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44586228.jpg?v=3</g:image_link>
-      <g:price>6010.00 USD</g:price>
+      <g:price>6232.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5609,12 +5555,12 @@
     <item>
       <g:id>44586183</g:id>
       <title>Dubrovnik e Islas de Costa Dálmata (2026)</title>
-      <description>Dubrovnik e islas de Costa Dálmata (2026) from US$3,833</description>
+      <description>Dubrovnik e islas de Costa Dálmata (2026) from US$3,975</description>
       <g:title>Dubrovnik e Islas de Costa Dálmata (2026)</g:title>
-      <g:description>Dubrovnik e islas de Costa Dálmata (2026) from US$3,833</g:description>
+      <g:description>Dubrovnik e islas de Costa Dálmata (2026) from US$3,975</g:description>
       <g:link>https://www.estropical.com/en/idea/44586183/dubrovnik-e-islas-de-costa-dalmata-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44586183.jpg?v=3</g:image_link>
-      <g:price>3833.00 USD</g:price>
+      <g:price>3975.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5627,12 +5573,12 @@
     <item>
       <g:id>44586177</g:id>
       <title>Croacia e Islas de Costa Dálmata (2026)</title>
-      <description>Croacia e islas de Costa Dálmata (2026) from US$4,548</description>
+      <description>Croacia e islas de Costa Dálmata (2026) from US$4,716</description>
       <g:title>Croacia e Islas de Costa Dálmata (2026)</g:title>
-      <g:description>Croacia e islas de Costa Dálmata (2026) from US$4,548</g:description>
+      <g:description>Croacia e islas de Costa Dálmata (2026) from US$4,716</g:description>
       <g:link>https://www.estropical.com/en/idea/44586177/croacia-e-islas-de-costa-dalmata-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44586177.jpg?v=3</g:image_link>
-      <g:price>4548.00 USD</g:price>
+      <g:price>4716.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5645,12 +5591,12 @@
     <item>
       <g:id>44586174</g:id>
       <title>Conociendo la Costa de Croacia a Grecia (2026)</title>
-      <description>Conociendo la costa de Croacia a Grecia (2026) from US$5,491</description>
+      <description>Conociendo la costa de Croacia a Grecia (2026) from US$5,694</description>
       <g:title>Conociendo la Costa de Croacia a Grecia (2026)</g:title>
-      <g:description>Conociendo la costa de Croacia a Grecia (2026) from US$5,491</g:description>
+      <g:description>Conociendo la costa de Croacia a Grecia (2026) from US$5,694</g:description>
       <g:link>https://www.estropical.com/en/idea/44586174/conociendo-la-costa-de-croacia-a-grecia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44586174.jpg?v=3</g:image_link>
-      <g:price>5491.00 USD</g:price>
+      <g:price>5694.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5663,12 +5609,12 @@
     <item>
       <g:id>44586159</g:id>
       <title>Balcanes e Islas de Costa Dálmata (2026)</title>
-      <description>Balcanes e islas de Costa Dálmata (2026) from US$5,382</description>
+      <description>Balcanes e islas de Costa Dálmata (2026) from US$5,581</description>
       <g:title>Balcanes e Islas de Costa Dálmata (2026)</g:title>
-      <g:description>Balcanes e islas de Costa Dálmata (2026) from US$5,382</g:description>
+      <g:description>Balcanes e islas de Costa Dálmata (2026) from US$5,581</g:description>
       <g:link>https://www.estropical.com/en/idea/44586159/balcanes-e-islas-de-costa-dalmata-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44586159.jpg?v=3</g:image_link>
-      <g:price>5382.00 USD</g:price>
+      <g:price>5581.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5735,12 +5681,12 @@
     <item>
       <g:id>44293293</g:id>
       <title>Balkan Tour Ends In Tirana (2026)</title>
-      <description>Balkan Tour ends in Tirana (2026) from US$4,255</description>
+      <description>Balkan Tour ends in Tirana (2026) from US$4,412</description>
       <g:title>Balkan Tour Ends In Tirana (2026)</g:title>
-      <g:description>Balkan Tour ends in Tirana (2026) from US$4,255</g:description>
+      <g:description>Balkan Tour ends in Tirana (2026) from US$4,412</g:description>
       <g:link>https://www.estropical.com/en/idea/44293293/balkan-tour-ends-in-tirana-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293293.jpg?v=3</g:image_link>
-      <g:price>4255.00 USD</g:price>
+      <g:price>4412.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5753,12 +5699,12 @@
     <item>
       <g:id>44293290</g:id>
       <title>Balkan Tour Ending In Dubrovnik (2026)</title>
-      <description>Balkan Tour ending in Dubrovnik (2026) from US$3,899</description>
+      <description>Balkan Tour ending in Dubrovnik (2026) from US$4,043</description>
       <g:title>Balkan Tour Ending In Dubrovnik (2026)</g:title>
-      <g:description>Balkan Tour ending in Dubrovnik (2026) from US$3,899</g:description>
+      <g:description>Balkan Tour ending in Dubrovnik (2026) from US$4,043</g:description>
       <g:link>https://www.estropical.com/en/idea/44293290/balkan-tour-ending-in-dubrovnik-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293290.jpg?v=3</g:image_link>
-      <g:price>3899.00 USD</g:price>
+      <g:price>4043.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5771,12 +5717,12 @@
     <item>
       <g:id>44293287</g:id>
       <title>Balkan Tour (2026)</title>
-      <description>Balkan Tour (2026) from US$2,459</description>
+      <description>Balkan Tour (2026) from US$2,550</description>
       <g:title>Balkan Tour (2026)</g:title>
-      <g:description>Balkan Tour (2026) from US$2,459</g:description>
+      <g:description>Balkan Tour (2026) from US$2,550</g:description>
       <g:link>https://www.estropical.com/en/idea/44293287/balkan-tour-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293287.jpg?v=3</g:image_link>
-      <g:price>2459.00 USD</g:price>
+      <g:price>2550.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5789,12 +5735,12 @@
     <item>
       <g:id>44293281</g:id>
       <title>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026)</title>
-      <description>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026) from US$8,777</description>
+      <description>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026) from US$9,101</description>
       <g:title>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026)</g:title>
-      <g:description>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026) from US$8,777</g:description>
+      <g:description>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026) from US$9,101</g:description>
       <g:link>https://www.estropical.com/en/idea/44293281/volcanoes-sacred-mountains-of-japan-and-korea-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293281.jpg?v=3</g:image_link>
-      <g:price>8777.00 USD</g:price>
+      <g:price>9101.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5807,12 +5753,12 @@
     <item>
       <g:id>44293269</g:id>
       <title>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026)</title>
-      <description>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026) from US$9,199</description>
+      <description>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026) from US$9,539</description>
       <g:title>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026)</g:title>
-      <g:description>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026) from US$9,199</g:description>
+      <g:description>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026) from US$9,539</g:description>
       <g:link>https://www.estropical.com/en/idea/44293269/tokyo-mount-fuji-kyoto-nagasaki-korea-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293269.jpg?v=3</g:image_link>
-      <g:price>9199.00 USD</g:price>
+      <g:price>9539.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5825,12 +5771,12 @@
     <item>
       <g:id>44293266</g:id>
       <title>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026)</title>
-      <description>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026) from US$5,536</description>
+      <description>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026) from US$5,740</description>
       <g:title>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026)</g:title>
-      <g:description>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026) from US$5,536</g:description>
+      <g:description>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026) from US$5,740</g:description>
       <g:link>https://www.estropical.com/en/idea/44293266/tokyo-mount-fuji-kyoto-treasures-of-kyushu-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293266.jpg?v=3</g:image_link>
-      <g:price>5536.00 USD</g:price>
+      <g:price>5740.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5843,12 +5789,12 @@
     <item>
       <g:id>44293263</g:id>
       <title>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026)</title>
-      <description>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026) from US$4,036</description>
+      <description>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026) from US$4,185</description>
       <g:title>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026)</g:title>
-      <g:description>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026) from US$4,036</g:description>
+      <g:description>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026) from US$4,185</g:description>
       <g:link>https://www.estropical.com/en/idea/44293263/tokyo-mount-fuji-kyoto-nagasaki-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293263.jpg?v=3</g:image_link>
-      <g:price>4036.00 USD</g:price>
+      <g:price>4185.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5861,12 +5807,12 @@
     <item>
       <g:id>44293260</g:id>
       <title>Tokyo, Kyoto, Southern Japan &amp; Korea (2026)</title>
-      <description>Tokyo, Kyoto, Southern Japan &amp; Korea (2026) from US$9,705</description>
+      <description>Tokyo, Kyoto, Southern Japan &amp; Korea (2026) from US$10,063</description>
       <g:title>Tokyo, Kyoto, Southern Japan &amp; Korea (2026)</g:title>
-      <g:description>Tokyo, Kyoto, Southern Japan &amp; Korea (2026) from US$9,705</g:description>
+      <g:description>Tokyo, Kyoto, Southern Japan &amp; Korea (2026) from US$10,063</g:description>
       <g:link>https://www.estropical.com/en/idea/44293260/tokyo-kyoto-southern-japan-korea-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293260.jpg?v=3</g:image_link>
-      <g:price>9705.00 USD</g:price>
+      <g:price>10063.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5879,12 +5825,12 @@
     <item>
       <g:id>44293257</g:id>
       <title>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026)</title>
-      <description>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026) from US$7,975</description>
+      <description>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026) from US$8,269</description>
       <g:title>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026)</g:title>
-      <g:description>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026) from US$7,975</g:description>
+      <g:description>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026) from US$8,269</g:description>
       <g:link>https://www.estropical.com/en/idea/44293257/tokyo-kyoto-kyushu-island-essential-korea-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293257.jpg?v=3</g:image_link>
-      <g:price>7975.00 USD</g:price>
+      <g:price>8269.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5897,12 +5843,12 @@
     <item>
       <g:id>44293254</g:id>
       <title>Tokyo, Kyoto &amp; the Land of Volcanoes (2026)</title>
-      <description>Tokyo, Kyoto &amp; the Land of Volcanoes (2026) from US$4,812</description>
+      <description>Tokyo, Kyoto &amp; the Land of Volcanoes (2026) from US$4,990</description>
       <g:title>Tokyo, Kyoto &amp; the Land of Volcanoes (2026)</g:title>
-      <g:description>Tokyo, Kyoto &amp; the Land of Volcanoes (2026) from US$4,812</g:description>
+      <g:description>Tokyo, Kyoto &amp; the Land of Volcanoes (2026) from US$4,990</g:description>
       <g:link>https://www.estropical.com/en/idea/44293254/tokyo-kyoto-the-land-of-volcanoes-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293254.jpg?v=3</g:image_link>
-      <g:price>4812.00 USD</g:price>
+      <g:price>4990.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5915,12 +5861,12 @@
     <item>
       <g:id>44293251</g:id>
       <title>Tokyo, Kyoto &amp; Nagasaki (2026)</title>
-      <description>Tokyo, Kyoto &amp; Nagasaki (2026) from US$3,289</description>
+      <description>Tokyo, Kyoto &amp; Nagasaki (2026) from US$3,411</description>
       <g:title>Tokyo, Kyoto &amp; Nagasaki (2026)</g:title>
-      <g:description>Tokyo, Kyoto &amp; Nagasaki (2026) from US$3,289</g:description>
+      <g:description>Tokyo, Kyoto &amp; Nagasaki (2026) from US$3,411</g:description>
       <g:link>https://www.estropical.com/en/idea/44293251/tokyo-kyoto-nagasaki-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293251.jpg?v=3</g:image_link>
-      <g:price>3289.00 USD</g:price>
+      <g:price>3411.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5933,12 +5879,12 @@
     <item>
       <g:id>44293248</g:id>
       <title>Tokyo, Kyoto &amp; Legends of Southern Japan (2026)</title>
-      <description>Tokyo, Kyoto &amp; Legends of Southern Japan (2026) from US$6,348</description>
+      <description>Tokyo, Kyoto &amp; Legends of Southern Japan (2026) from US$6,582</description>
       <g:title>Tokyo, Kyoto &amp; Legends of Southern Japan (2026)</g:title>
-      <g:description>Tokyo, Kyoto &amp; Legends of Southern Japan (2026) from US$6,348</g:description>
+      <g:description>Tokyo, Kyoto &amp; Legends of Southern Japan (2026) from US$6,582</g:description>
       <g:link>https://www.estropical.com/en/idea/44293248/tokyo-kyoto-legends-of-southern-japan-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293248.jpg?v=3</g:image_link>
-      <g:price>6348.00 USD</g:price>
+      <g:price>6582.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5951,12 +5897,12 @@
     <item>
       <g:id>44293245</g:id>
       <title>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026)</title>
-      <description>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026) from US$6,239</description>
+      <description>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026) from US$6,470</description>
       <g:title>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026)</g:title>
-      <g:description>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026) from US$6,239</g:description>
+      <g:description>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026) from US$6,470</g:description>
       <g:link>https://www.estropical.com/en/idea/44293245/lands-of-the-mekong-thailand-laos-cambodia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293245.jpg?v=3</g:image_link>
-      <g:price>6239.00 USD</g:price>
+      <g:price>6470.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5969,12 +5915,12 @@
     <item>
       <g:id>44293242</g:id>
       <title>Treasures of Kyushu (2026)</title>
-      <description>Treasures of Kyushu (2026) from US$2,589</description>
+      <description>Treasures of Kyushu (2026) from US$2,685</description>
       <g:title>Treasures of Kyushu (2026)</g:title>
-      <g:description>Treasures of Kyushu (2026) from US$2,589</g:description>
+      <g:description>Treasures of Kyushu (2026) from US$2,685</g:description>
       <g:link>https://www.estropical.com/en/idea/44293242/treasures-of-kyushu-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293242.jpg?v=3</g:image_link>
-      <g:price>2589.00 USD</g:price>
+      <g:price>2685.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5987,12 +5933,12 @@
     <item>
       <g:id>44293239</g:id>
       <title>Temples of Thailand &amp; the Essence of Laos (2026)</title>
-      <description>Temples of Thailand &amp; the Essence of Laos (2026) from US$3,683</description>
+      <description>Temples of Thailand &amp; the Essence of Laos (2026) from US$3,819</description>
       <g:title>Temples of Thailand &amp; the Essence of Laos (2026)</g:title>
-      <g:description>Temples of Thailand &amp; the Essence of Laos (2026) from US$3,683</g:description>
+      <g:description>Temples of Thailand &amp; the Essence of Laos (2026) from US$3,819</g:description>
       <g:link>https://www.estropical.com/en/idea/44293239/temples-of-thailand-the-essence-of-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293239.jpg?v=3</g:image_link>
-      <g:price>3683.00 USD</g:price>
+      <g:price>3819.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6005,12 +5951,12 @@
     <item>
       <g:id>44293236</g:id>
       <title>Thailand &amp; Laos: Treasures of the Mekong (2026)</title>
-      <description>Thailand &amp; Laos: Treasures of the Mekong (2026) from US$4,019</description>
+      <description>Thailand &amp; Laos: Treasures of the Mekong (2026) from US$4,168</description>
       <g:title>Thailand &amp; Laos: Treasures of the Mekong (2026)</g:title>
-      <g:description>Thailand &amp; Laos: Treasures of the Mekong (2026) from US$4,019</g:description>
+      <g:description>Thailand &amp; Laos: Treasures of the Mekong (2026) from US$4,168</g:description>
       <g:link>https://www.estropical.com/en/idea/44293236/thailand-laos-treasures-of-the-mekong-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293236.jpg?v=3</g:image_link>
-      <g:price>4019.00 USD</g:price>
+      <g:price>4168.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6023,12 +5969,12 @@
     <item>
       <g:id>44293233</g:id>
       <title>Thailand &amp; Laos: Ancestral Mekong Route (2026)</title>
-      <description>Thailand &amp; Laos: Ancestral Mekong Route (2026) from US$4,506</description>
+      <description>Thailand &amp; Laos: Ancestral Mekong Route (2026) from US$4,672</description>
       <g:title>Thailand &amp; Laos: Ancestral Mekong Route (2026)</g:title>
-      <g:description>Thailand &amp; Laos: Ancestral Mekong Route (2026) from US$4,506</g:description>
+      <g:description>Thailand &amp; Laos: Ancestral Mekong Route (2026) from US$4,672</g:description>
       <g:link>https://www.estropical.com/en/idea/44293233/thailand-laos-ancestral-mekong-route-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293233.jpg?v=3</g:image_link>
-      <g:price>4506.00 USD</g:price>
+      <g:price>4672.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6041,12 +5987,12 @@
     <item>
       <g:id>44293230</g:id>
       <title>Traditional Thailand &amp; Mystic Laos with the Mekong (2026)</title>
-      <description>Traditional Thailand &amp; Mystic Laos with the Mekong (2026) from US$4,491</description>
+      <description>Traditional Thailand &amp; Mystic Laos with the Mekong (2026) from US$4,657</description>
       <g:title>Traditional Thailand &amp; Mystic Laos with the Mekong (2026)</g:title>
-      <g:description>Traditional Thailand &amp; Mystic Laos with the Mekong (2026) from US$4,491</g:description>
+      <g:description>Traditional Thailand &amp; Mystic Laos with the Mekong (2026) from US$4,657</g:description>
       <g:link>https://www.estropical.com/en/idea/44293230/traditional-thailand-mystic-laos-with-the-mekong-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293230.jpg?v=3</g:image_link>
-      <g:price>4491.00 USD</g:price>
+      <g:price>4657.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6059,12 +6005,12 @@
     <item>
       <g:id>44293227</g:id>
       <title>Exclusive Thailand &amp; Complete Laos (2026)</title>
-      <description>Exclusive Thailand &amp; Complete Laos (2026) from US$6,595</description>
+      <description>Exclusive Thailand &amp; Complete Laos (2026) from US$6,839</description>
       <g:title>Exclusive Thailand &amp; Complete Laos (2026)</g:title>
-      <g:description>Exclusive Thailand &amp; Complete Laos (2026) from US$6,595</g:description>
+      <g:description>Exclusive Thailand &amp; Complete Laos (2026) from US$6,839</g:description>
       <g:link>https://www.estropical.com/en/idea/44293227/exclusive-thailand-complete-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293227.jpg?v=3</g:image_link>
-      <g:price>6595.00 USD</g:price>
+      <g:price>6839.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6077,12 +6023,12 @@
     <item>
       <g:id>44293224</g:id>
       <title>Essential Thailand &amp; Mystical Laos with Cambodia (2026)</title>
-      <description>Essential Thailand &amp; Mystical Laos with Cambodia (2026) from US$6,178</description>
+      <description>Essential Thailand &amp; Mystical Laos with Cambodia (2026) from US$6,406</description>
       <g:title>Essential Thailand &amp; Mystical Laos with Cambodia (2026)</g:title>
-      <g:description>Essential Thailand &amp; Mystical Laos with Cambodia (2026) from US$6,178</g:description>
+      <g:description>Essential Thailand &amp; Mystical Laos with Cambodia (2026) from US$6,406</g:description>
       <g:link>https://www.estropical.com/en/idea/44293224/essential-thailand-mystical-laos-with-cambodia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293224.jpg?v=3</g:image_link>
-      <g:price>6178.00 USD</g:price>
+      <g:price>6406.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6095,12 +6041,12 @@
     <item>
       <g:id>44293221</g:id>
       <title>Classic Thailand, Laos &amp; Cambodia (2026)</title>
-      <description>Classic Thailand, Laos &amp; Cambodia (2026) from US$5,303</description>
+      <description>Classic Thailand, Laos &amp; Cambodia (2026) from US$5,499</description>
       <g:title>Classic Thailand, Laos &amp; Cambodia (2026)</g:title>
-      <g:description>Classic Thailand, Laos &amp; Cambodia (2026) from US$5,303</g:description>
+      <g:description>Classic Thailand, Laos &amp; Cambodia (2026) from US$5,499</g:description>
       <g:link>https://www.estropical.com/en/idea/44293221/classic-thailand-laos-cambodia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293221.jpg?v=3</g:image_link>
-      <g:price>5303.00 USD</g:price>
+      <g:price>5499.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6113,12 +6059,12 @@
     <item>
       <g:id>44293218</g:id>
       <title>Classic Thailand &amp; the Jewels of Laos (2026)</title>
-      <description>Classic Thailand &amp; the Jewels of Laos (2026) from US$3,990</description>
+      <description>Classic Thailand &amp; the Jewels of Laos (2026) from US$4,137</description>
       <g:title>Classic Thailand &amp; the Jewels of Laos (2026)</g:title>
-      <g:description>Classic Thailand &amp; the Jewels of Laos (2026) from US$3,990</g:description>
+      <g:description>Classic Thailand &amp; the Jewels of Laos (2026) from US$4,137</g:description>
       <g:link>https://www.estropical.com/en/idea/44293218/classic-thailand-the-jewels-of-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293218.jpg?v=3</g:image_link>
-      <g:price>3990.00 USD</g:price>
+      <g:price>4137.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6131,12 +6077,12 @@
     <item>
       <g:id>44293215</g:id>
       <title>Complete Thailand with Krabi (2026)</title>
-      <description>Complete Thailand with Krabi (2026) from US$3,766</description>
+      <description>Complete Thailand with Krabi (2026) from US$3,905</description>
       <g:title>Complete Thailand with Krabi (2026)</g:title>
-      <g:description>Complete Thailand with Krabi (2026) from US$3,766</g:description>
+      <g:description>Complete Thailand with Krabi (2026) from US$3,905</g:description>
       <g:link>https://www.estropical.com/en/idea/44293215/complete-thailand-with-krabi-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293215.jpg?v=3</g:image_link>
-      <g:price>3766.00 USD</g:price>
+      <g:price>3905.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6149,12 +6095,12 @@
     <item>
       <g:id>44293212</g:id>
       <title>Complete Thailand with Kanchanaburi – Ending In Chiang Rai (2026)</title>
-      <description>Complete Thailand with Kanchanaburi – Ending in Chiang Rai (2026) from US$2,352</description>
+      <description>Complete Thailand with Kanchanaburi – Ending in Chiang Rai (2026) from US$2,438</description>
       <g:title>Complete Thailand with Kanchanaburi – Ending In Chiang Rai (2026)</g:title>
-      <g:description>Complete Thailand with Kanchanaburi – Ending in Chiang Rai (2026) from US$2,352</g:description>
+      <g:description>Complete Thailand with Kanchanaburi – Ending in Chiang Rai (2026) from US$2,438</g:description>
       <g:link>https://www.estropical.com/en/idea/44293212/complete-thailand-with-kanchanaburi-ending-in-chiang-rai-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293212.jpg?v=3</g:image_link>
-      <g:price>2352.00 USD</g:price>
+      <g:price>2438.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6167,12 +6113,12 @@
     <item>
       <g:id>44293209</g:id>
       <title>Complete Thailand with Kanchanaburi – Ending In Bangkok (2026)</title>
-      <description>Complete Thailand with Kanchanaburi – Ending in Bangkok (2026) from US$2,749</description>
+      <description>Complete Thailand with Kanchanaburi – Ending in Bangkok (2026) from US$2,850</description>
       <g:title>Complete Thailand with Kanchanaburi – Ending In Bangkok (2026)</g:title>
-      <g:description>Complete Thailand with Kanchanaburi – Ending in Bangkok (2026) from US$2,749</g:description>
+      <g:description>Complete Thailand with Kanchanaburi – Ending in Bangkok (2026) from US$2,850</g:description>
       <g:link>https://www.estropical.com/en/idea/44293209/complete-thailand-with-kanchanaburi-ending-in-bangkok-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293209.jpg?v=3</g:image_link>
-      <g:price>2749.00 USD</g:price>
+      <g:price>2850.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6185,12 +6131,12 @@
     <item>
       <g:id>44293206</g:id>
       <title>Southern Japan with Hiroshima and Nagasaki (2026)</title>
-      <description>Southern Japan with Hiroshima and Nagasaki (2026) from US$4,153</description>
+      <description>Southern Japan with Hiroshima and Nagasaki (2026) from US$4,306</description>
       <g:title>Southern Japan with Hiroshima and Nagasaki (2026)</g:title>
-      <g:description>Southern Japan with Hiroshima and Nagasaki (2026) from US$4,153</g:description>
+      <g:description>Southern Japan with Hiroshima and Nagasaki (2026) from US$4,306</g:description>
       <g:link>https://www.estropical.com/en/idea/44293206/southern-japan-with-hiroshima-and-nagasaki-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293206.jpg?v=3</g:image_link>
-      <g:price>4153.00 USD</g:price>
+      <g:price>4306.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6203,12 +6149,12 @@
     <item>
       <g:id>44293203</g:id>
       <title>Singapore, Thailand, Laos &amp; Cambodia (2026)</title>
-      <description>Singapore, Thailand, Laos &amp; Cambodia (2026) from US$6,646</description>
+      <description>Singapore, Thailand, Laos &amp; Cambodia (2026) from US$6,892</description>
       <g:title>Singapore, Thailand, Laos &amp; Cambodia (2026)</g:title>
-      <g:description>Singapore, Thailand, Laos &amp; Cambodia (2026) from US$6,646</g:description>
+      <g:description>Singapore, Thailand, Laos &amp; Cambodia (2026) from US$6,892</g:description>
       <g:link>https://www.estropical.com/en/idea/44293203/singapore-thailand-laos-cambodia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293203.jpg?v=3</g:image_link>
-      <g:price>6646.00 USD</g:price>
+      <g:price>6892.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6221,12 +6167,12 @@
     <item>
       <g:id>44293197</g:id>
       <title>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026)</title>
-      <description>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026) from US$5,377</description>
+      <description>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026) from US$5,576</description>
       <g:title>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026)</g:title>
-      <g:description>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026) from US$5,377</g:description>
+      <g:description>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026) from US$5,576</g:description>
       <g:link>https://www.estropical.com/en/idea/44293197/singapore-the-jewels-of-the-mekong-with-thailand-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293197.jpg?v=3</g:image_link>
-      <g:price>5377.00 USD</g:price>
+      <g:price>5576.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6239,12 +6185,12 @@
     <item>
       <g:id>44293182</g:id>
       <title>Northern Greece, Bulgaria and Romania (2026)</title>
-      <description>Northern Greece, Bulgaria and Romania (2026) from US$3,711</description>
+      <description>Northern Greece, Bulgaria and Romania (2026) from US$3,848</description>
       <g:title>Northern Greece, Bulgaria and Romania (2026)</g:title>
-      <g:description>Northern Greece, Bulgaria and Romania (2026) from US$3,711</g:description>
+      <g:description>Northern Greece, Bulgaria and Romania (2026) from US$3,848</g:description>
       <g:link>https://www.estropical.com/en/idea/44293182/northern-greece-bulgaria-and-romania-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293182.jpg?v=3</g:image_link>
-      <g:price>3711.00 USD</g:price>
+      <g:price>3848.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6257,12 +6203,12 @@
     <item>
       <g:id>44293179</g:id>
       <title>Wonders of Southeast Asia (2026)</title>
-      <description>Wonders of Southeast Asia (2026) from US$6,533</description>
+      <description>Wonders of Southeast Asia (2026) from US$6,774</description>
       <g:title>Wonders of Southeast Asia (2026)</g:title>
-      <g:description>Wonders of Southeast Asia (2026) from US$6,533</g:description>
+      <g:description>Wonders of Southeast Asia (2026) from US$6,774</g:description>
       <g:link>https://www.estropical.com/en/idea/44293179/wonders-of-southeast-asia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293179.jpg?v=3</g:image_link>
-      <g:price>6533.00 USD</g:price>
+      <g:price>6774.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6275,12 +6221,12 @@
     <item>
       <g:id>44293176</g:id>
       <title>Lights of Thailand &amp; Dreamed Laos (2026)</title>
-      <description>Lights of Thailand &amp; Dreamed Laos (2026) from US$4,815</description>
+      <description>Lights of Thailand &amp; Dreamed Laos (2026) from US$4,993</description>
       <g:title>Lights of Thailand &amp; Dreamed Laos (2026)</g:title>
-      <g:description>Lights of Thailand &amp; Dreamed Laos (2026) from US$4,815</g:description>
+      <g:description>Lights of Thailand &amp; Dreamed Laos (2026) from US$4,993</g:description>
       <g:link>https://www.estropical.com/en/idea/44293176/lights-of-thailand-dreamed-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293176.jpg?v=3</g:image_link>
-      <g:price>4815.00 USD</g:price>
+      <g:price>4993.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6293,12 +6239,12 @@
     <item>
       <g:id>44293170</g:id>
       <title>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026)</title>
-      <description>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026) from US$6,869</description>
+      <description>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026) from US$7,122</description>
       <g:title>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026)</g:title>
-      <g:description>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026) from US$6,869</g:description>
+      <g:description>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026) from US$7,122</g:description>
       <g:link>https://www.estropical.com/en/idea/44293170/kyushu-mount-koya-the-japanese-alps-tokyo-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293170.jpg?v=3</g:image_link>
-      <g:price>6869.00 USD</g:price>
+      <g:price>7122.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6311,12 +6257,12 @@
     <item>
       <g:id>44293167</g:id>
       <title>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026)</title>
-      <description>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026) from US$5,227</description>
+      <description>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026) from US$5,420</description>
       <g:title>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026)</g:title>
-      <g:description>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026) from US$5,227</g:description>
+      <g:description>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026) from US$5,420</g:description>
       <g:link>https://www.estropical.com/en/idea/44293167/jewels-of-indochina-thailand-laos-the-angkor-temples-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293167.jpg?v=3</g:image_link>
-      <g:price>5227.00 USD</g:price>
+      <g:price>5420.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6329,12 +6275,12 @@
     <item>
       <g:id>44293158</g:id>
       <title>Dreamed Japan with Kyushu Island &amp; Express Korea (2026)</title>
-      <description>Dreamed Japan with Kyushu Island &amp; Express Korea (2026) from US$7,352</description>
+      <description>Dreamed Japan with Kyushu Island &amp; Express Korea (2026) from US$7,623</description>
       <g:title>Dreamed Japan with Kyushu Island &amp; Express Korea (2026)</g:title>
-      <g:description>Dreamed Japan with Kyushu Island &amp; Express Korea (2026) from US$7,352</g:description>
+      <g:description>Dreamed Japan with Kyushu Island &amp; Express Korea (2026) from US$7,623</g:description>
       <g:link>https://www.estropical.com/en/idea/44293158/dreamed-japan-with-kyushu-island-express-korea-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293158.jpg?v=3</g:image_link>
-      <g:price>7352.00 USD</g:price>
+      <g:price>7623.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6347,12 +6293,12 @@
     <item>
       <g:id>44293155</g:id>
       <title>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026)</title>
-      <description>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026) from US$8,377</description>
+      <description>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026) from US$8,686</description>
       <g:title>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026)</g:title>
-      <g:description>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026) from US$8,377</g:description>
+      <g:description>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026) from US$8,686</g:description>
       <g:link>https://www.estropical.com/en/idea/44293155/dreamed-japan-with-kyushu-island-ancestral-korea-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293155.jpg?v=3</g:image_link>
-      <g:price>8377.00 USD</g:price>
+      <g:price>8686.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6365,12 +6311,12 @@
     <item>
       <g:id>44293152</g:id>
       <title>Deep Japan &amp; South Korea (2026)</title>
-      <description>Deep Japan &amp; South Korea (2026) from US$5,837</description>
+      <description>Deep Japan &amp; South Korea (2026) from US$6,053</description>
       <g:title>Deep Japan &amp; South Korea (2026)</g:title>
-      <g:description>Deep Japan &amp; South Korea (2026) from US$5,837</g:description>
+      <g:description>Deep Japan &amp; South Korea (2026) from US$6,053</g:description>
       <g:link>https://www.estropical.com/en/idea/44293152/deep-japan-south-korea-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293152.jpg?v=3</g:image_link>
-      <g:price>5837.00 USD</g:price>
+      <g:price>6053.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6383,12 +6329,12 @@
     <item>
       <g:id>44293146</g:id>
       <title>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026)</title>
-      <description>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026) from US$9,062</description>
+      <description>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026) from US$9,397</description>
       <g:title>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026)</g:title>
-      <g:description>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026) from US$9,062</g:description>
+      <g:description>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026) from US$9,397</g:description>
       <g:link>https://www.estropical.com/en/idea/44293146/unforgettable-japan-with-kyushu-korean-tradition-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293146.jpg?v=3</g:image_link>
-      <g:price>9062.00 USD</g:price>
+      <g:price>9397.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6401,12 +6347,12 @@
     <item>
       <g:id>44293143</g:id>
       <title>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026)</title>
-      <description>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026) from US$10,122</description>
+      <description>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026) from US$10,496</description>
       <g:title>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026)</g:title>
-      <g:description>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026) from US$10,122</g:description>
+      <g:description>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026) from US$10,496</g:description>
       <g:link>https://www.estropical.com/en/idea/44293143/unforgettable-japan-with-kyushu-korea-s-treasures-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293143.jpg?v=3</g:image_link>
-      <g:price>10122.00 USD</g:price>
+      <g:price>10496.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6419,12 +6365,12 @@
     <item>
       <g:id>44293137</g:id>
       <title>Essential Japan with Hiroshima and Nagasaki (2026)</title>
-      <description>Essential Japan with Hiroshima and Nagasaki (2026) from US$4,863</description>
+      <description>Essential Japan with Hiroshima and Nagasaki (2026) from US$5,043</description>
       <g:title>Essential Japan with Hiroshima and Nagasaki (2026)</g:title>
-      <g:description>Essential Japan with Hiroshima and Nagasaki (2026) from US$4,863</g:description>
+      <g:description>Essential Japan with Hiroshima and Nagasaki (2026) from US$5,043</g:description>
       <g:link>https://www.estropical.com/en/idea/44293137/essential-japan-with-hiroshima-and-nagasaki-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293137.jpg?v=3</g:image_link>
-      <g:price>4863.00 USD</g:price>
+      <g:price>5043.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6437,12 +6383,12 @@
     <item>
       <g:id>44293134</g:id>
       <title>Grand Tour of Japan: From Nagasaki To Sapporo (2026)</title>
-      <description>Grand Tour of Japan: From Nagasaki to Sapporo (2026) from US$10,747</description>
+      <description>Grand Tour of Japan: From Nagasaki to Sapporo (2026) from US$11,143</description>
       <g:title>Grand Tour of Japan: From Nagasaki To Sapporo (2026)</g:title>
-      <g:description>Grand Tour of Japan: From Nagasaki to Sapporo (2026) from US$10,747</g:description>
+      <g:description>Grand Tour of Japan: From Nagasaki to Sapporo (2026) from US$11,143</g:description>
       <g:link>https://www.estropical.com/en/idea/44293134/grand-tour-of-japan-from-nagasaki-to-sapporo-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293134.jpg?v=3</g:image_link>
-      <g:price>10747.00 USD</g:price>
+      <g:price>11143.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6455,12 +6401,12 @@
     <item>
       <g:id>44293131</g:id>
       <title>Grand Tour of Thailand &amp; Timeless Laos (2026)</title>
-      <description>Grand Tour of Thailand &amp; Timeless Laos (2026) from US$4,835</description>
+      <description>Grand Tour of Thailand &amp; Timeless Laos (2026) from US$5,014</description>
       <g:title>Grand Tour of Thailand &amp; Timeless Laos (2026)</g:title>
-      <g:description>Grand Tour of Thailand &amp; Timeless Laos (2026) from US$4,835</g:description>
+      <g:description>Grand Tour of Thailand &amp; Timeless Laos (2026) from US$5,014</g:description>
       <g:link>https://www.estropical.com/en/idea/44293131/grand-tour-of-thailand-timeless-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293131.jpg?v=3</g:image_link>
-      <g:price>4835.00 USD</g:price>
+      <g:price>5014.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6473,12 +6419,12 @@
     <item>
       <g:id>44293128</g:id>
       <title>Unforgettable Grand Tour of Thailand &amp; Laos (2026)</title>
-      <description>Unforgettable Grand Tour of Thailand &amp; Laos (2026) from US$5,112</description>
+      <description>Unforgettable Grand Tour of Thailand &amp; Laos (2026) from US$5,301</description>
       <g:title>Unforgettable Grand Tour of Thailand &amp; Laos (2026)</g:title>
-      <g:description>Unforgettable Grand Tour of Thailand &amp; Laos (2026) from US$5,112</g:description>
+      <g:description>Unforgettable Grand Tour of Thailand &amp; Laos (2026) from US$5,301</g:description>
       <g:link>https://www.estropical.com/en/idea/44293128/unforgettable-grand-tour-of-thailand-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293128.jpg?v=3</g:image_link>
-      <g:price>5112.00 USD</g:price>
+      <g:price>5301.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6491,12 +6437,12 @@
     <item>
       <g:id>44293119</g:id>
       <title>Essences of Thailand, Laos &amp; Cambodia (2026)</title>
-      <description>Essences of Thailand, Laos &amp; Cambodia (2026) from US$4,972</description>
+      <description>Essences of Thailand, Laos &amp; Cambodia (2026) from US$5,156</description>
       <g:title>Essences of Thailand, Laos &amp; Cambodia (2026)</g:title>
-      <g:description>Essences of Thailand, Laos &amp; Cambodia (2026) from US$4,972</g:description>
+      <g:description>Essences of Thailand, Laos &amp; Cambodia (2026) from US$5,156</g:description>
       <g:link>https://www.estropical.com/en/idea/44293119/essences-of-thailand-laos-cambodia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293119.jpg?v=3</g:image_link>
-      <g:price>4972.00 USD</g:price>
+      <g:price>5156.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6509,12 +6455,12 @@
     <item>
       <g:id>44293116</g:id>
       <title>Essence of Thailand – Ending In Chiang Rai (2026)</title>
-      <description>Essence of Thailand – Ending in Chiang Rai (2026) from US$2,004</description>
+      <description>Essence of Thailand – Ending in Chiang Rai (2026) from US$2,078</description>
       <g:title>Essence of Thailand – Ending In Chiang Rai (2026)</g:title>
-      <g:description>Essence of Thailand – Ending in Chiang Rai (2026) from US$2,004</g:description>
+      <g:description>Essence of Thailand – Ending in Chiang Rai (2026) from US$2,078</g:description>
       <g:link>https://www.estropical.com/en/idea/44293116/essence-of-thailand-ending-in-chiang-rai-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293116.jpg?v=3</g:image_link>
-      <g:price>2004.00 USD</g:price>
+      <g:price>2078.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6527,12 +6473,12 @@
     <item>
       <g:id>44293113</g:id>
       <title>Essence of Thailand – Ending In Bangkok (2026)</title>
-      <description>Essence of Thailand – Ending in Bangkok (2026) from US$2,264</description>
+      <description>Essence of Thailand – Ending in Bangkok (2026) from US$2,348</description>
       <g:title>Essence of Thailand – Ending In Bangkok (2026)</g:title>
-      <g:description>Essence of Thailand – Ending in Bangkok (2026) from US$2,264</g:description>
+      <g:description>Essence of Thailand – Ending in Bangkok (2026) from US$2,348</g:description>
       <g:link>https://www.estropical.com/en/idea/44293113/essence-of-thailand-ending-in-bangkok-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293113.jpg?v=3</g:image_link>
-      <g:price>2264.00 USD</g:price>
+      <g:price>2348.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6545,12 +6491,12 @@
     <item>
       <g:id>44293104</g:id>
       <title>From the Kingdom of Siam To the Soul of Laos (2026)</title>
-      <description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,286</description>
+      <description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</description>
       <g:title>From the Kingdom of Siam To the Soul of Laos (2026)</g:title>
-      <g:description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,286</g:description>
+      <g:description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</g:description>
       <g:link>https://www.estropical.com/en/idea/44293104/from-the-kingdom-of-siam-to-the-soul-of-laos-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293104.jpg?v=3</g:image_link>
-      <g:price>4286.00 USD</g:price>
+      <g:price>4445.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6563,12 +6509,12 @@
     <item>
       <g:id>44293101</g:id>
       <title>Contrasts of Japan and Nagasaki (2026)</title>
-      <description>Contrasts of Japan and Nagasaki (2026) from US$5,728</description>
+      <description>Contrasts of Japan and Nagasaki (2026) from US$5,940</description>
       <g:title>Contrasts of Japan and Nagasaki (2026)</g:title>
-      <g:description>Contrasts of Japan and Nagasaki (2026) from US$5,728</g:description>
+      <g:description>Contrasts of Japan and Nagasaki (2026) from US$5,940</g:description>
       <g:link>https://www.estropical.com/en/idea/44293101/contrasts-of-japan-and-nagasaki-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293101.jpg?v=3</g:image_link>
-      <g:price>5728.00 USD</g:price>
+      <g:price>5940.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6581,12 +6527,12 @@
     <item>
       <g:id>44293098</g:id>
       <title>Contrasts of Japan and Kyushu Island (2026)</title>
-      <description>Contrasts of Japan and Kyushu Island (2026) from US$7,278</description>
+      <description>Contrasts of Japan and Kyushu Island (2026) from US$7,546</description>
       <g:title>Contrasts of Japan and Kyushu Island (2026)</g:title>
-      <g:description>Contrasts of Japan and Kyushu Island (2026) from US$7,278</g:description>
+      <g:description>Contrasts of Japan and Kyushu Island (2026) from US$7,546</g:description>
       <g:link>https://www.estropical.com/en/idea/44293098/contrasts-of-japan-and-kyushu-island-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293098.jpg?v=3</g:image_link>
-      <g:price>7278.00 USD</g:price>
+      <g:price>7546.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6599,12 +6545,12 @@
     <item>
       <g:id>44293080</g:id>
       <title>Japan’s Beauties with Nagasaki &amp; South Korea (2026)</title>
-      <description>Japan’s Beauties with Nagasaki &amp; South Korea (2026) from US$8,139</description>
+      <description>Japan’s Beauties with Nagasaki &amp; South Korea (2026) from US$8,440</description>
       <g:title>Japan’s Beauties with Nagasaki &amp; South Korea (2026)</g:title>
-      <g:description>Japan’s Beauties with Nagasaki &amp; South Korea (2026) from US$8,139</g:description>
+      <g:description>Japan’s Beauties with Nagasaki &amp; South Korea (2026) from US$8,440</g:description>
       <g:link>https://www.estropical.com/en/idea/44293080/japan-s-beauties-with-nagasaki-south-korea-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293080.jpg?v=3</g:image_link>
-      <g:price>8139.00 USD</g:price>
+      <g:price>8440.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6617,12 +6563,12 @@
     <item>
       <g:id>44293071</g:id>
       <title>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026)</title>
-      <description>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026) from US$3,688</description>
+      <description>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026) from US$3,824</description>
       <g:title>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026)</g:title>
-      <g:description>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026) from US$3,688</g:description>
+      <g:description>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026) from US$3,824</g:description>
       <g:link>https://www.estropical.com/en/idea/44293071/bangkok-northern-thailand-exclusive-laos-with-the-mekong-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293071.jpg?v=3</g:image_link>
-      <g:price>3688.00 USD</g:price>
+      <g:price>3824.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6965,12 +6911,12 @@
     <item>
       <g:id>44056956</g:id>
       <title>Corazón de Alemania y Chequia Al Completo (2026)</title>
-      <description>Corazón de Alemania y Chequia al completo (2026) from US$3,542</description>
+      <description>Corazón de Alemania y Chequia al completo (2026) from US$3,672</description>
       <g:title>Corazón de Alemania y Chequia Al Completo (2026)</g:title>
-      <g:description>Corazón de Alemania y Chequia al completo (2026) from US$3,542</g:description>
+      <g:description>Corazón de Alemania y Chequia al completo (2026) from US$3,672</g:description>
       <g:link>https://www.estropical.com/en/idea/44056956/corazon-de-alemania-y-chequia-al-completo-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44056956.jpg?v=3</g:image_link>
-      <g:price>3542.00 USD</g:price>
+      <g:price>3672.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6983,12 +6929,12 @@
     <item>
       <g:id>44056947</g:id>
       <title>Berlín y Chequia Al Completo (2026)</title>
-      <description>Berlín y Chequia al completo (2026) from US$2,467</description>
+      <description>Berlín y Chequia al completo (2026) from US$2,558</description>
       <g:title>Berlín y Chequia Al Completo (2026)</g:title>
-      <g:description>Berlín y Chequia al completo (2026) from US$2,467</g:description>
+      <g:description>Berlín y Chequia al completo (2026) from US$2,558</g:description>
       <g:link>https://www.estropical.com/en/idea/44056947/berlin-y-chequia-al-completo-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44056947.jpg?v=3</g:image_link>
-      <g:price>2467.00 USD</g:price>
+      <g:price>2558.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7001,12 +6947,12 @@
     <item>
       <g:id>44056944</g:id>
       <title>Baviera y Triángulo Checo Inicio Berlín (2026)</title>
-      <description>Baviera y Triángulo checo inicio Berlín (2026) from US$2,399</description>
+      <description>Baviera y Triángulo checo inicio Berlín (2026) from US$2,488</description>
       <g:title>Baviera y Triángulo Checo Inicio Berlín (2026)</g:title>
-      <g:description>Baviera y Triángulo checo inicio Berlín (2026) from US$2,399</g:description>
+      <g:description>Baviera y Triángulo checo inicio Berlín (2026) from US$2,488</g:description>
       <g:link>https://www.estropical.com/en/idea/44056944/baviera-y-triangulo-checo-inicio-berlin-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44056944.jpg?v=3</g:image_link>
-      <g:price>2399.00 USD</g:price>
+      <g:price>2488.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7019,12 +6965,12 @@
     <item>
       <g:id>44056941</g:id>
       <title>Austria, Bavaria &amp; Magical Czechia (2026)</title>
-      <description>Austria, Bavaria &amp; Magical Czechia (2026) from US$3,782</description>
+      <description>Austria, Bavaria &amp; Magical Czechia (2026) from US$3,922</description>
       <g:title>Austria, Bavaria &amp; Magical Czechia (2026)</g:title>
-      <g:description>Austria, Bavaria &amp; Magical Czechia (2026) from US$3,782</g:description>
+      <g:description>Austria, Bavaria &amp; Magical Czechia (2026) from US$3,922</g:description>
       <g:link>https://www.estropical.com/en/idea/44056941/austria-bavaria-magical-czechia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44056941.jpg?v=3</g:image_link>
-      <g:price>3782.00 USD</g:price>
+      <g:price>3922.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7145,12 +7091,12 @@
     <item>
       <g:id>43600626</g:id>
       <title>Dubai Horizons with Cruise (2026)</title>
-      <description>Dubai Horizons with cruise (2026) from US$6,683</description>
+      <description>Dubai Horizons with cruise (2026) from US$6,929</description>
       <g:title>Dubai Horizons with Cruise (2026)</g:title>
-      <g:description>Dubai Horizons with cruise (2026) from US$6,683</g:description>
+      <g:description>Dubai Horizons with cruise (2026) from US$6,929</g:description>
       <g:link>https://www.estropical.com/en/idea/43600626/dubai-horizons-with-cruise-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43600626.jpg?v=3</g:image_link>
-      <g:price>6683.00 USD</g:price>
+      <g:price>6929.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7181,12 +7127,12 @@
     <item>
       <g:id>43394448</g:id>
       <title>Dubai and the Entire United Arab Emirates (2026)</title>
-      <description>Dubai and the entire United Arab Emirates (2026) from US$2,566</description>
+      <description>Dubai and the entire United Arab Emirates (2026) from US$2,661</description>
       <g:title>Dubai and the Entire United Arab Emirates (2026)</g:title>
-      <g:description>Dubai and the entire United Arab Emirates (2026) from US$2,566</g:description>
+      <g:description>Dubai and the entire United Arab Emirates (2026) from US$2,661</g:description>
       <g:link>https://www.estropical.com/en/idea/43394448/dubai-and-the-entire-united-arab-emirates-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43394448.jpg?v=3</g:image_link>
-      <g:price>2566.00 USD</g:price>
+      <g:price>2661.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7271,12 +7217,12 @@
     <item>
       <g:id>43068630</g:id>
       <title>North To South India (2026)</title>
-      <description>North to South India (2026) from US$6,663</description>
+      <description>North to South India (2026) from US$6,909</description>
       <g:title>North To South India (2026)</g:title>
-      <g:description>North to South India (2026) from US$6,663</g:description>
+      <g:description>North to South India (2026) from US$6,909</g:description>
       <g:link>https://www.estropical.com/en/idea/43068630/north-to-south-india-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43068630.jpg?v=3</g:image_link>
-      <g:price>6663.00 USD</g:price>
+      <g:price>6909.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7835,7 +7781,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -7851,11 +7797,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -9135,12 +9081,12 @@
     <item>
       <g:id>41746086</g:id>
       <title>Nepal and Bhutan Extension (2026)</title>
-      <description>Nepal and Bhutan Extension (2026) from US$6,193</description>
+      <description>Nepal and Bhutan Extension (2026) from US$6,422</description>
       <g:title>Nepal and Bhutan Extension (2026)</g:title>
-      <g:description>Nepal and Bhutan Extension (2026) from US$6,193</g:description>
+      <g:description>Nepal and Bhutan Extension (2026) from US$6,422</g:description>
       <g:link>https://www.estropical.com/en/idea/41746086/nepal-and-bhutan-extension-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41746086.jpg?v=3</g:image_link>
-      <g:price>6193.00 USD</g:price>
+      <g:price>6422.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9153,12 +9099,12 @@
     <item>
       <g:id>41675483</g:id>
       <title>Golden Triangle and Varanasi (2026)</title>
-      <description>Golden Triangle and Varanasi (2026) from US$2,497</description>
+      <description>Golden Triangle and Varanasi (2026) from US$2,589</description>
       <g:title>Golden Triangle and Varanasi (2026)</g:title>
-      <g:description>Golden Triangle and Varanasi (2026) from US$2,497</g:description>
+      <g:description>Golden Triangle and Varanasi (2026) from US$2,589</g:description>
       <g:link>https://www.estropical.com/en/idea/41675483/golden-triangle-and-varanasi-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41675483.jpg?v=3</g:image_link>
-      <g:price>2497.00 USD</g:price>
+      <g:price>2589.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9171,12 +9117,12 @@
     <item>
       <g:id>41675477</g:id>
       <title>Rajasthan with Khajuraho and Varanasi (2026)</title>
-      <description>Rajasthan with Khajuraho and Varanasi (2026) from US$4,207</description>
+      <description>Rajasthan with Khajuraho and Varanasi (2026) from US$4,363</description>
       <g:title>Rajasthan with Khajuraho and Varanasi (2026)</g:title>
-      <g:description>Rajasthan with Khajuraho and Varanasi (2026) from US$4,207</g:description>
+      <g:description>Rajasthan with Khajuraho and Varanasi (2026) from US$4,363</g:description>
       <g:link>https://www.estropical.com/en/idea/41675477/rajasthan-with-khajuraho-and-varanasi-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41675477.jpg?v=3</g:image_link>
-      <g:price>4207.00 USD</g:price>
+      <g:price>4363.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9189,12 +9135,12 @@
     <item>
       <g:id>41675474</g:id>
       <title>Fascinating India (2026)</title>
-      <description>Fascinating India (2026) from US$2,731</description>
+      <description>Fascinating India (2026) from US$2,832</description>
       <g:title>Fascinating India (2026)</g:title>
-      <g:description>Fascinating India (2026) from US$2,731</g:description>
+      <g:description>Fascinating India (2026) from US$2,832</g:description>
       <g:link>https://www.estropical.com/en/idea/41675474/fascinating-india-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41675474.jpg?v=3</g:image_link>
-      <g:price>2731.00 USD</g:price>
+      <g:price>2832.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9207,12 +9153,12 @@
     <item>
       <g:id>41500025</g:id>
       <title>Extension To White and Black Desert (2026)</title>
-      <description>Extension to white and black desert (2026) from US$1,653</description>
+      <description>Extension to white and black desert (2026) from US$1,714</description>
       <g:title>Extension To White and Black Desert (2026)</g:title>
-      <g:description>Extension to white and black desert (2026) from US$1,653</g:description>
+      <g:description>Extension to white and black desert (2026) from US$1,714</g:description>
       <g:link>https://www.estropical.com/en/idea/41500025/extension-to-white-and-black-desert-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41500025.jpg?v=3</g:image_link>
-      <g:price>1653.00 USD</g:price>
+      <g:price>1714.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9231,6 +9177,60 @@
       <g:link>https://www.estropical.com/en/idea/41341910/ce513-europa-fabulosa-25-dias-lon-waw-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341910.jpg?v=3</g:image_link>
       <g:price>7826.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41341907</g:id>
+      <title>Ce511 - Europa Fabulosa 21 Dias Lon/vie 26/27</title>
+      <description>CE511 - EUROPA FABULOSA 21 DIAS LON/VIE 26/27 from US$7,126</description>
+      <g:title>Ce511 - Europa Fabulosa 21 Dias Lon/vie 26/27</g:title>
+      <g:description>CE511 - EUROPA FABULOSA 21 DIAS LON/VIE 26/27 from US$7,126</g:description>
+      <g:link>https://www.estropical.com/en/idea/41341907/ce511-europa-fabulosa-21-dias-lon-vie-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341907.jpg?v=3</g:image_link>
+      <g:price>7126.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41341904</g:id>
+      <title>Ce512 - Europa Fabulosa 23 Dias Par/waw 26/27</title>
+      <description>CE512 - EUROPA FABULOSA 23 DIAS PAR/WAW 26/27 from US$6,553</description>
+      <g:title>Ce512 - Europa Fabulosa 23 Dias Par/waw 26/27</g:title>
+      <g:description>CE512 - EUROPA FABULOSA 23 DIAS PAR/WAW 26/27 from US$6,553</g:description>
+      <g:link>https://www.estropical.com/en/idea/41341904/ce512-europa-fabulosa-23-dias-par-waw-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341904.jpg?v=3</g:image_link>
+      <g:price>6553.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41341901</g:id>
+      <title>Ce505 - Tesoros de Europa 22 Dias Lon/ber 26/27</title>
+      <description>CE505 - TESOROS DE EUROPA 22 DIAS LON/BER 26/27 from US$6,482</description>
+      <g:title>Ce505 - Tesoros de Europa 22 Dias Lon/ber 26/27</g:title>
+      <g:description>CE505 - TESOROS DE EUROPA 22 DIAS LON/BER 26/27 from US$6,482</g:description>
+      <g:link>https://www.estropical.com/en/idea/41341901/ce505-tesoros-de-europa-22-dias-lon-ber-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41341901.jpg?v=3</g:image_link>
+      <g:price>6482.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
