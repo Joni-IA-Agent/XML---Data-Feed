@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-16 12:16 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-16T12:16:11.822961Z)
+  Generated : 2026-03-17 12:11 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-17T12:11:07.366097Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,24 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>48827241</g:id>
+      <title>Nr605 - Toda Escandinavia 14d Cph/hel 2026</title>
+      <description>NR605 - TODA ESCANDINAVIA 14D CPH/HEL 2026 from US$7,450</description>
+      <g:title>Nr605 - Toda Escandinavia 14d Cph/hel 2026</g:title>
+      <g:description>NR605 - TODA ESCANDINAVIA 14D CPH/HEL 2026 from US$7,450</g:description>
+      <g:link>https://www.estropical.com/en/idea/48827241/nr605-toda-escandinavia-14d-cph-hel-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/48827241.jpg?v=3</g:image_link>
+      <g:price>7450.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
 
     <item>
       <g:id>48691003</g:id>
@@ -4284,24 +4302,6 @@
     </item>
 
     <item>
-      <g:id>45536118</g:id>
-      <title>Nr605 - Toda Escandinavia 13d Cph/hel 2026</title>
-      <description>NR605 - TODA ESCANDINAVIA 13D CPH/HEL 2026 from US$7,450</description>
-      <g:title>Nr605 - Toda Escandinavia 13d Cph/hel 2026</g:title>
-      <g:description>NR605 - TODA ESCANDINAVIA 13D CPH/HEL 2026 from US$7,450</g:description>
-      <g:link>https://www.estropical.com/en/idea/45536118/nr605-toda-escandinavia-13d-cph-hel-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45536118.jpg?v=3</g:image_link>
-      <g:price>7450.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>45536115</g:id>
       <title>Nr604 - Toda Escandinavia 11d Cph/sto 2026</title>
       <description>NR604 - TODA ESCANDINAVIA 11D CPH/STO 2026 from US$6,605</description>
@@ -4494,12 +4494,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,390</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,422</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,390</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,422</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6390.00 USD</g:price>
+      <g:price>6422.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4742,11 +4742,11 @@
 
     <item>
       <g:id>45341274</g:id>
-      <title>Dubai Express and Thailand (2026)</title>
-      <description>Dubai express and Thailand (2026) from US$2,649</description>
-      <g:title>Dubai Express and Thailand (2026)</g:title>
-      <g:description>Dubai express and Thailand (2026) from US$2,649</g:description>
-      <g:link>https://www.estropical.com/en/idea/45341274/dubai-express-and-thailand-2026-</g:link>
+      <title>Dubai and the Exotic East (2026)</title>
+      <description>Dubai and the Exotic East (2026) from US$2,649</description>
+      <g:title>Dubai and the Exotic East (2026)</g:title>
+      <g:description>Dubai and the Exotic East (2026) from US$2,649</g:description>
+      <g:link>https://www.estropical.com/en/idea/45341274/dubai-and-the-exotic-east-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45341274.jpg?v=3</g:image_link>
       <g:price>2649.00 USD</g:price>
       <g:availability>in stock</g:availability>
