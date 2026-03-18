@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-17 12:11 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-17T12:11:07.366097Z)
+  Generated : 2026-03-18 12:16 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-18T12:16:33.489578Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -4494,12 +4494,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,422</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,448</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,422</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,448</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6422.00 USD</g:price>
+      <g:price>6448.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6826,6 +6826,27 @@
     </item>
 
     <item>
+      <g:id>44211183</g:id>
+      <title>Semana Santa en Cancún | Chichén Itzá - Cozumel</title>
+      <description>Semana Santa en Cancún | Chichén Itzá - Cozumel from US$2,673</description>
+      <g:title>Semana Santa en Cancún | Chichén Itzá - Cozumel</g:title>
+      <g:description>Semana Santa en Cancún | Chichén Itzá - Cozumel from US$2,673</g:description>
+      <g:link>https://www.estropical.com/en/idea/44211183/semana-santa-en-cancun-chichen-itza-cozumel</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44211183.jpg?v=3</g:image_link>
+      <g:price>2673.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>31 Mar 2026</g:custom_label_2>
+      <g:custom_label_3>6 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>6 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>44208627</g:id>
       <title>Semana Santa en Lima | Tour por las Iglesias de Lima</title>
       <description>Semana Santa en Lima | Tour por las iglesias de Lima from US$858</description>
@@ -6946,6 +6967,27 @@
       <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>1 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>5 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>44200236</g:id>
+      <title>Semana Santa en Buenos Aires | Tours - Tango</title>
+      <description>Semana Santa en Buenos Aires | Tours - Tango from US$567</description>
+      <g:title>Semana Santa en Buenos Aires | Tours - Tango</g:title>
+      <g:description>Semana Santa en Buenos Aires | Tours - Tango from US$567</g:description>
+      <g:link>https://www.estropical.com/en/idea/44200236/semana-santa-en-buenos-aires-tours-tango</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44200236.jpg?v=3</g:image_link>
+      <g:price>567.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
       <g:custom_label_2>1 Apr 2026</g:custom_label_2>
       <g:custom_label_3>5 Apr 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
@@ -7965,7 +8007,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -7981,11 +8023,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -9217,42 +9259,6 @@
       <g:link>https://www.estropical.com/en/idea/41906097/md667-gran-gira-medio-oriente-20-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906097.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41906094</g:id>
-      <title>Md635 - Grecia y Sus Islas: Atenas 26/27</title>
-      <description>MD635 - GRECIA Y SUS ISLAS: ATENAS 26/27 from US$675</description>
-      <g:title>Md635 - Grecia y Sus Islas: Atenas 26/27</g:title>
-      <g:description>MD635 - GRECIA Y SUS ISLAS: ATENAS 26/27 from US$675</g:description>
-      <g:link>https://www.estropical.com/en/idea/41906094/md635-grecia-y-sus-islas-atenas-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906094.jpg?v=3</g:image_link>
-      <g:price>675.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41844975</g:id>
-      <title>Ce400b - Suiza Paraiso Natural 2026</title>
-      <description>CE400B - SUIZA PARAISO NATURAL 2026 from US$3,937</description>
-      <g:title>Ce400b - Suiza Paraiso Natural 2026</g:title>
-      <g:description>CE400B - SUIZA PARAISO NATURAL 2026 from US$3,937</g:description>
-      <g:link>https://www.estropical.com/en/idea/41844975/ce400b-suiza-paraiso-natural-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41844975.jpg?v=3</g:image_link>
-      <g:price>3937.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
