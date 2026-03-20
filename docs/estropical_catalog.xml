@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-19 12:04 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-19T12:04:25.084018Z)
+  Generated : 2026-03-20 11:57 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-20T11:57:57.330775Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,24 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>49156710</g:id>
+      <title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 2026</title>
+      <description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 2026 from US$4,234</description>
+      <g:title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 2026</g:title>
+      <g:description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 2026 from US$4,234</g:description>
+      <g:link>https://www.estropical.com/en/idea/49156710/ed614-europa-para-dos-6-14-dias-lon-rom-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49156710.jpg?v=3</g:image_link>
+      <g:price>4234.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
 
     <item>
       <g:id>48827241</g:id>
@@ -4494,12 +4512,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,405</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,469</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,405</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,469</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6405.00 USD</g:price>
+      <g:price>6469.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8335,12 +8353,12 @@
     <item>
       <g:id>42131865</g:id>
       <title>Ed131 - Europa para Dos 13 26/27</title>
-      <description>ED131 - EUROPA PARA DOS 13 26/27 from US$6,447</description>
+      <description>ED131 - EUROPA PARA DOS 13 26/27 from US$6,458</description>
       <g:title>Ed131 - Europa para Dos 13 26/27</g:title>
-      <g:description>ED131 - EUROPA PARA DOS 13 26/27 from US$6,447</g:description>
+      <g:description>ED131 - EUROPA PARA DOS 13 26/27 from US$6,458</g:description>
       <g:link>https://www.estropical.com/en/idea/42131865/ed131-europa-para-dos-13-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131865.jpg?v=3</g:image_link>
-      <g:price>6447.00 USD</g:price>
+      <g:price>6458.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8371,12 +8389,12 @@
     <item>
       <g:id>42131859</g:id>
       <title>Ed111 - Europa para Dos 12 24 Dias Par/mad 26/27</title>
-      <description>ED111 - EUROPA PARA DOS 12 24 DIAS PAR/MAD 26/27 from US$6,189</description>
+      <description>ED111 - EUROPA PARA DOS 12 24 DIAS PAR/MAD 26/27 from US$6,227</description>
       <g:title>Ed111 - Europa para Dos 12 24 Dias Par/mad 26/27</g:title>
-      <g:description>ED111 - EUROPA PARA DOS 12 24 DIAS PAR/MAD 26/27 from US$6,189</g:description>
+      <g:description>ED111 - EUROPA PARA DOS 12 24 DIAS PAR/MAD 26/27 from US$6,227</g:description>
       <g:link>https://www.estropical.com/en/idea/42131859/ed111-europa-para-dos-12-24-dias-par-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131859.jpg?v=3</g:image_link>
-      <g:price>6189.00 USD</g:price>
+      <g:price>6227.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8389,12 +8407,12 @@
     <item>
       <g:id>42131856</g:id>
       <title>Ed106 - Europa para Dos 11 22 Dias Lon/mad 26/27</title>
-      <description>ED106 - EUROPA PARA DOS 11 22 DIAS LON/MAD 26/27 from US$6,181</description>
+      <description>ED106 - EUROPA PARA DOS 11 22 DIAS LON/MAD 26/27 from US$6,261</description>
       <g:title>Ed106 - Europa para Dos 11 22 Dias Lon/mad 26/27</g:title>
-      <g:description>ED106 - EUROPA PARA DOS 11 22 DIAS LON/MAD 26/27 from US$6,181</g:description>
+      <g:description>ED106 - EUROPA PARA DOS 11 22 DIAS LON/MAD 26/27 from US$6,261</g:description>
       <g:link>https://www.estropical.com/en/idea/42131856/ed106-europa-para-dos-11-22-dias-lon-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131856.jpg?v=3</g:image_link>
-      <g:price>6181.00 USD</g:price>
+      <g:price>6261.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8407,12 +8425,12 @@
     <item>
       <g:id>42131853</g:id>
       <title>Ed112 - Europa para Dos 12 26 Dias Lon/mad 26/27</title>
-      <description>ED112 - EUROPA PARA DOS 12 26 DIAS LON/MAD 26/27 from US$7,189</description>
+      <description>ED112 - EUROPA PARA DOS 12 26 DIAS LON/MAD 26/27 from US$7,227</description>
       <g:title>Ed112 - Europa para Dos 12 26 Dias Lon/mad 26/27</g:title>
-      <g:description>ED112 - EUROPA PARA DOS 12 26 DIAS LON/MAD 26/27 from US$7,189</g:description>
+      <g:description>ED112 - EUROPA PARA DOS 12 26 DIAS LON/MAD 26/27 from US$7,227</g:description>
       <g:link>https://www.estropical.com/en/idea/42131853/ed112-europa-para-dos-12-26-dias-lon-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131853.jpg?v=3</g:image_link>
-      <g:price>7189.00 USD</g:price>
+      <g:price>7227.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8443,12 +8461,12 @@
     <item>
       <g:id>42131847</g:id>
       <title>Ed217 - Europa para Dos 2 17 Dias Mil/pmo 2026</title>
-      <description>ED217 - EUROPA PARA DOS 2 17 DIAS MIL/PMO 2026 from US$5,731</description>
+      <description>ED217 - EUROPA PARA DOS 2 17 DIAS MIL/PMO 2026 from US$5,750</description>
       <g:title>Ed217 - Europa para Dos 2 17 Dias Mil/pmo 2026</g:title>
-      <g:description>ED217 - EUROPA PARA DOS 2 17 DIAS MIL/PMO 2026 from US$5,731</g:description>
+      <g:description>ED217 - EUROPA PARA DOS 2 17 DIAS MIL/PMO 2026 from US$5,750</g:description>
       <g:link>https://www.estropical.com/en/idea/42131847/ed217-europa-para-dos-2-17-dias-mil-pmo-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131847.jpg?v=3</g:image_link>
-      <g:price>5731.00 USD</g:price>
+      <g:price>5750.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8479,12 +8497,12 @@
     <item>
       <g:id>42131841</g:id>
       <title>Ed922 - Europa para Dos 10 22 Dias Mad/mad 26/27</title>
-      <description>ED922 - EUROPA PARA DOS 10 22 DIAS MAD/MAD 26/27 from US$5,472</description>
+      <description>ED922 - EUROPA PARA DOS 10 22 DIAS MAD/MAD 26/27 from US$5,543</description>
       <g:title>Ed922 - Europa para Dos 10 22 Dias Mad/mad 26/27</g:title>
-      <g:description>ED922 - EUROPA PARA DOS 10 22 DIAS MAD/MAD 26/27 from US$5,472</g:description>
+      <g:description>ED922 - EUROPA PARA DOS 10 22 DIAS MAD/MAD 26/27 from US$5,543</g:description>
       <g:link>https://www.estropical.com/en/idea/42131841/ed922-europa-para-dos-10-22-dias-mad-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131841.jpg?v=3</g:image_link>
-      <g:price>5472.00 USD</g:price>
+      <g:price>5543.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8533,12 +8551,12 @@
     <item>
       <g:id>42131832</g:id>
       <title>Ed921 - Europa para Dos 10 21 Dias Mad/bcn 26/27</title>
-      <description>ED921 - EUROPA PARA DOS 10 21 DIAS MAD/BCN 26/27 from US$5,378</description>
+      <description>ED921 - EUROPA PARA DOS 10 21 DIAS MAD/BCN 26/27 from US$5,449</description>
       <g:title>Ed921 - Europa para Dos 10 21 Dias Mad/bcn 26/27</g:title>
-      <g:description>ED921 - EUROPA PARA DOS 10 21 DIAS MAD/BCN 26/27 from US$5,378</g:description>
+      <g:description>ED921 - EUROPA PARA DOS 10 21 DIAS MAD/BCN 26/27 from US$5,449</g:description>
       <g:link>https://www.estropical.com/en/idea/42131832/ed921-europa-para-dos-10-21-dias-mad-bcn-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131832.jpg?v=3</g:image_link>
-      <g:price>5378.00 USD</g:price>
+      <g:price>5449.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8551,12 +8569,12 @@
     <item>
       <g:id>42131829</g:id>
       <title>Ed105 - Europa para Dos 11 20 Dias Par/mad 26/27</title>
-      <description>ED105 - EUROPA PARA DOS 11 20 DIAS PAR/MAD 26/27 from US$5,292</description>
+      <description>ED105 - EUROPA PARA DOS 11 20 DIAS PAR/MAD 26/27 from US$5,373</description>
       <g:title>Ed105 - Europa para Dos 11 20 Dias Par/mad 26/27</g:title>
-      <g:description>ED105 - EUROPA PARA DOS 11 20 DIAS PAR/MAD 26/27 from US$5,292</g:description>
+      <g:description>ED105 - EUROPA PARA DOS 11 20 DIAS PAR/MAD 26/27 from US$5,373</g:description>
       <g:link>https://www.estropical.com/en/idea/42131829/ed105-europa-para-dos-11-20-dias-par-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131829.jpg?v=3</g:image_link>
-      <g:price>5292.00 USD</g:price>
+      <g:price>5373.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9241,24 +9259,6 @@
       <g:link>https://www.estropical.com/en/idea/41906100/md640-ext-peloponeso-delfos-meteora-3d-2n-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906100.jpg?v=3</g:image_link>
       <g:price>1077.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41906097</g:id>
-      <title>Md667 - Gran Gira Medio Oriente 20 Dias 2026</title>
-      <description>MD667 - GRAN GIRA MEDIO ORIENTE 20 DIAS 2026 from US$7,843</description>
-      <g:title>Md667 - Gran Gira Medio Oriente 20 Dias 2026</g:title>
-      <g:description>MD667 - GRAN GIRA MEDIO ORIENTE 20 DIAS 2026 from US$7,843</g:description>
-      <g:link>https://www.estropical.com/en/idea/41906097/md667-gran-gira-medio-oriente-20-dias-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906097.jpg?v=3</g:image_link>
-      <g:price>2026.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
