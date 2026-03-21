@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-20 11:57 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-20T11:57:57.330775Z)
+  Generated : 2026-03-21 11:08 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-21T11:08:23.233359Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -13,14 +13,68 @@
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
 
     <item>
-      <g:id>49156710</g:id>
-      <title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 2026</title>
-      <description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 2026 from US$4,234</description>
-      <g:title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 2026</g:title>
-      <g:description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 2026 from US$4,234</g:description>
-      <g:link>https://www.estropical.com/en/idea/49156710/ed614-europa-para-dos-6-14-dias-lon-rom-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49156710.jpg?v=3</g:image_link>
-      <g:price>4234.00 USD</g:price>
+      <g:id>49247415</g:id>
+      <title>Ed722 - Europa para Dos 7 22 Dias Lon/mad 2026</title>
+      <description>ED722 - EUROPA PARA DOS 7 22 DIAS LON/MAD 2026 from US$6,627</description>
+      <g:title>Ed722 - Europa para Dos 7 22 Dias Lon/mad 2026</g:title>
+      <g:description>ED722 - EUROPA PARA DOS 7 22 DIAS LON/MAD 2026 from US$6,627</g:description>
+      <g:link>https://www.estropical.com/en/idea/49247415/ed722-europa-para-dos-7-22-dias-lon-mad-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247415.jpg?v=3</g:image_link>
+      <g:price>6627.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49247412</g:id>
+      <title>Ed122 - Europa para Dos 14 25 Dias Lon/waw 2026</title>
+      <description>ED122 - EUROPA PARA DOS 14 25 DIAS LON/WAW 2026 from US$6,478</description>
+      <g:title>Ed122 - Europa para Dos 14 25 Dias Lon/waw 2026</g:title>
+      <g:description>ED122 - EUROPA PARA DOS 14 25 DIAS LON/WAW 2026 from US$6,478</g:description>
+      <g:link>https://www.estropical.com/en/idea/49247412/ed122-europa-para-dos-14-25-dias-lon-waw-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247412.jpg?v=3</g:image_link>
+      <g:price>6478.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49247409</g:id>
+      <title>Ed718 - Europa para Dos 7 18 Dias Lon/rom 2026</title>
+      <description>ED718 - EUROPA PARA DOS 7 18 DIAS LON/ROM 2026 from US$5,747</description>
+      <g:title>Ed718 - Europa para Dos 7 18 Dias Lon/rom 2026</g:title>
+      <g:description>ED718 - EUROPA PARA DOS 7 18 DIAS LON/ROM 2026 from US$5,747</g:description>
+      <g:link>https://www.estropical.com/en/idea/49247409/ed718-europa-para-dos-7-18-dias-lon-rom-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247409.jpg?v=3</g:image_link>
+      <g:price>5747.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49247406</g:id>
+      <title>Ed121 - Europa para Dos 14 23 Dias Par/waw 2026</title>
+      <description>ED121 - EUROPA PARA DOS 14 23 DIAS PAR/WAW 2026 from US$5,470</description>
+      <g:title>Ed121 - Europa para Dos 14 23 Dias Par/waw 2026</g:title>
+      <g:description>ED121 - EUROPA PARA DOS 14 23 DIAS PAR/WAW 2026 from US$5,470</g:description>
+      <g:link>https://www.estropical.com/en/idea/49247406/ed121-europa-para-dos-14-23-dias-par-waw-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247406.jpg?v=3</g:image_link>
+      <g:price>5470.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -191,6 +245,27 @@
     </item>
 
     <item>
+      <g:id>36289723</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
+      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>48686005</g:id>
       <title>Mi Primer Viaje a Punta Cana | Vik Hotel Arena Blanca 3*</title>
       <description>Mi Primer Viaje a Punta Cana | VIK Hotel Arena Blanca 3* from US$1,270</description>
@@ -230,27 +305,6 @@
       <g:custom_label_2>1 Aug 2026</g:custom_label_2>
       <g:custom_label_3>7 Aug 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>36289723</g:id>
-      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
-      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
-      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
-      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
-      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
-      <g:price>849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -4512,12 +4566,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,469</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,466</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,469</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,466</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6469.00 USD</g:price>
+      <g:price>6466.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9205,60 +9259,6 @@
       <g:link>https://www.estropical.com/en/idea/41906109/md662-turquia-al-completo-domingos-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906109.jpg?v=3</g:image_link>
       <g:price>1675.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41906106</g:id>
-      <title>Md662 - Turquia Al Completo Sabados 26/27</title>
-      <description>MD662 - TURQUIA AL COMPLETO SABADOS 26/27 from US$1,675</description>
-      <g:title>Md662 - Turquia Al Completo Sabados 26/27</g:title>
-      <g:description>MD662 - TURQUIA AL COMPLETO SABADOS 26/27 from US$1,675</g:description>
-      <g:link>https://www.estropical.com/en/idea/41906106/md662-turquia-al-completo-sabados-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906106.jpg?v=3</g:image_link>
-      <g:price>1675.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41906103</g:id>
-      <title>Md642 - Ext Peloponeso (arg/olympia/delfos) 4d/3n 26/27</title>
-      <description>MD642 - EXT PELOPONESO (ARG/OLYMPIA/DELFOS) 4D/3N 26/27 from US$1,615</description>
-      <g:title>Md642 - Ext Peloponeso (arg/olympia/delfos) 4d/3n 26/27</g:title>
-      <g:description>MD642 - EXT PELOPONESO (ARG/OLYMPIA/DELFOS) 4D/3N 26/27 from US$1,615</g:description>
-      <g:link>https://www.estropical.com/en/idea/41906103/md642-ext-peloponeso-arg-olympia-delfos-4d-3n-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906103.jpg?v=3</g:image_link>
-      <g:price>1615.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41906100</g:id>
-      <title>Md640 - Ext Peloponeso (delfos/meteora (3d/2n) 26/27</title>
-      <description>MD640 - EXT PELOPONESO (DELFOS/METEORA (3D/2N) 26/27 from US$1,077</description>
-      <g:title>Md640 - Ext Peloponeso (delfos/meteora (3d/2n) 26/27</g:title>
-      <g:description>MD640 - EXT PELOPONESO (DELFOS/METEORA (3D/2N) 26/27 from US$1,077</g:description>
-      <g:link>https://www.estropical.com/en/idea/41906100/md640-ext-peloponeso-delfos-meteora-3d-2n-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906100.jpg?v=3</g:image_link>
-      <g:price>1077.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
