@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-21 11:08 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-21T11:08:23.233359Z)
+  Generated : 2026-03-22 11:08 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-22T11:08:44.812022Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,225 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>49274019</g:id>
+      <title>Temples of Thailand &amp; the Essence of Laos (2026)</title>
+      <description>Temples of Thailand &amp; the Essence of Laos (2026) from US$3,819</description>
+      <g:title>Temples of Thailand &amp; the Essence of Laos (2026)</g:title>
+      <g:description>Temples of Thailand &amp; the Essence of Laos (2026) from US$3,819</g:description>
+      <g:link>https://www.estropical.com/en/idea/49274019/temples-of-thailand-the-essence-of-laos-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49274019.jpg?v=3</g:image_link>
+      <g:price>3819.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49274016</g:id>
+      <title>Thailand &amp; Laos: Treasures of the Mekong (2026)</title>
+      <description>Thailand &amp; Laos: Treasures of the Mekong (2026) from US$4,168</description>
+      <g:title>Thailand &amp; Laos: Treasures of the Mekong (2026)</g:title>
+      <g:description>Thailand &amp; Laos: Treasures of the Mekong (2026) from US$4,168</g:description>
+      <g:link>https://www.estropical.com/en/idea/49274016/thailand-laos-treasures-of-the-mekong-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49274016.jpg?v=3</g:image_link>
+      <g:price>4168.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49274013</g:id>
+      <title>Thailand &amp; Laos: Ancestral Mekong Route (2026)</title>
+      <description>Thailand &amp; Laos: Ancestral Mekong Route (2026) from US$4,672</description>
+      <g:title>Thailand &amp; Laos: Ancestral Mekong Route (2026)</g:title>
+      <g:description>Thailand &amp; Laos: Ancestral Mekong Route (2026) from US$4,672</g:description>
+      <g:link>https://www.estropical.com/en/idea/49274013/thailand-laos-ancestral-mekong-route-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49274013.jpg?v=3</g:image_link>
+      <g:price>4672.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49274010</g:id>
+      <title>Traditional Thailand &amp; Mystic Laos with the Mekong (2026)</title>
+      <description>Traditional Thailand &amp; Mystic Laos with the Mekong (2026) from US$4,657</description>
+      <g:title>Traditional Thailand &amp; Mystic Laos with the Mekong (2026)</g:title>
+      <g:description>Traditional Thailand &amp; Mystic Laos with the Mekong (2026) from US$4,657</g:description>
+      <g:link>https://www.estropical.com/en/idea/49274010/traditional-thailand-mystic-laos-with-the-mekong-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49274010.jpg?v=3</g:image_link>
+      <g:price>4657.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49274007</g:id>
+      <title>Exclusive Thailand &amp; Complete Laos (2026)</title>
+      <description>Exclusive Thailand &amp; Complete Laos (2026) from US$6,839</description>
+      <g:title>Exclusive Thailand &amp; Complete Laos (2026)</g:title>
+      <g:description>Exclusive Thailand &amp; Complete Laos (2026) from US$6,839</g:description>
+      <g:link>https://www.estropical.com/en/idea/49274007/exclusive-thailand-complete-laos-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49274007.jpg?v=3</g:image_link>
+      <g:price>6839.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49274004</g:id>
+      <title>Classic Thailand &amp; the Jewels of Laos (2026)</title>
+      <description>Classic Thailand &amp; the Jewels of Laos (2026) from US$4,137</description>
+      <g:title>Classic Thailand &amp; the Jewels of Laos (2026)</g:title>
+      <g:description>Classic Thailand &amp; the Jewels of Laos (2026) from US$4,137</g:description>
+      <g:link>https://www.estropical.com/en/idea/49274004/classic-thailand-the-jewels-of-laos-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49274004.jpg?v=3</g:image_link>
+      <g:price>4137.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49273995</g:id>
+      <title>Lights of Thailand &amp; Dreamed Laos (2026)</title>
+      <description>Lights of Thailand &amp; Dreamed Laos (2026) from US$4,993</description>
+      <g:title>Lights of Thailand &amp; Dreamed Laos (2026)</g:title>
+      <g:description>Lights of Thailand &amp; Dreamed Laos (2026) from US$4,993</g:description>
+      <g:link>https://www.estropical.com/en/idea/49273995/lights-of-thailand-dreamed-laos-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49273995.jpg?v=3</g:image_link>
+      <g:price>4993.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49273983</g:id>
+      <title>Grand Tour of Thailand &amp; Timeless Laos (2026)</title>
+      <description>Grand Tour of Thailand &amp; Timeless Laos (2026) from US$5,014</description>
+      <g:title>Grand Tour of Thailand &amp; Timeless Laos (2026)</g:title>
+      <g:description>Grand Tour of Thailand &amp; Timeless Laos (2026) from US$5,014</g:description>
+      <g:link>https://www.estropical.com/en/idea/49273983/grand-tour-of-thailand-timeless-laos-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49273983.jpg?v=3</g:image_link>
+      <g:price>5014.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49273980</g:id>
+      <title>Unforgettable Grand Tour of Thailand &amp; Laos (2026)</title>
+      <description>Unforgettable Grand Tour of Thailand &amp; Laos (2026) from US$5,301</description>
+      <g:title>Unforgettable Grand Tour of Thailand &amp; Laos (2026)</g:title>
+      <g:description>Unforgettable Grand Tour of Thailand &amp; Laos (2026) from US$5,301</g:description>
+      <g:link>https://www.estropical.com/en/idea/49273980/unforgettable-grand-tour-of-thailand-laos-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49273980.jpg?v=3</g:image_link>
+      <g:price>5301.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49273971</g:id>
+      <title>From the Kingdom of Siam To the Soul of Laos (2026)</title>
+      <description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</description>
+      <g:title>From the Kingdom of Siam To the Soul of Laos (2026)</g:title>
+      <g:description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</g:description>
+      <g:link>https://www.estropical.com/en/idea/49273971/from-the-kingdom-of-siam-to-the-soul-of-laos-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49273971.jpg?v=3</g:image_link>
+      <g:price>4445.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>36289723</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
+      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>49273947</g:id>
+      <title>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026)</title>
+      <description>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026) from US$3,824</description>
+      <g:title>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026)</g:title>
+      <g:description>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026) from US$3,824</g:description>
+      <g:link>https://www.estropical.com/en/idea/49273947/bangkok-northern-thailand-exclusive-laos-with-the-mekong-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49273947.jpg?v=3</g:image_link>
+      <g:price>3824.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
 
     <item>
       <g:id>49247415</g:id>
@@ -242,27 +461,6 @@
       <g:custom_label_2>11 May 2026</g:custom_label_2>
       <g:custom_label_3>16 May 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>36289723</g:id>
-      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
-      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
-      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
-      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
-      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
-      <g:price>849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -4566,12 +4764,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,466</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,475</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,466</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,475</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6466.00 USD</g:price>
+      <g:price>6475.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6187,96 +6385,6 @@
     </item>
 
     <item>
-      <g:id>44293239</g:id>
-      <title>Temples of Thailand &amp; the Essence of Laos (2026)</title>
-      <description>Temples of Thailand &amp; the Essence of Laos (2026) from US$3,819</description>
-      <g:title>Temples of Thailand &amp; the Essence of Laos (2026)</g:title>
-      <g:description>Temples of Thailand &amp; the Essence of Laos (2026) from US$3,819</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293239/temples-of-thailand-the-essence-of-laos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293239.jpg?v=3</g:image_link>
-      <g:price>3819.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293236</g:id>
-      <title>Thailand &amp; Laos: Treasures of the Mekong (2026)</title>
-      <description>Thailand &amp; Laos: Treasures of the Mekong (2026) from US$4,168</description>
-      <g:title>Thailand &amp; Laos: Treasures of the Mekong (2026)</g:title>
-      <g:description>Thailand &amp; Laos: Treasures of the Mekong (2026) from US$4,168</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293236/thailand-laos-treasures-of-the-mekong-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293236.jpg?v=3</g:image_link>
-      <g:price>4168.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293233</g:id>
-      <title>Thailand &amp; Laos: Ancestral Mekong Route (2026)</title>
-      <description>Thailand &amp; Laos: Ancestral Mekong Route (2026) from US$4,672</description>
-      <g:title>Thailand &amp; Laos: Ancestral Mekong Route (2026)</g:title>
-      <g:description>Thailand &amp; Laos: Ancestral Mekong Route (2026) from US$4,672</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293233/thailand-laos-ancestral-mekong-route-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293233.jpg?v=3</g:image_link>
-      <g:price>4672.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293230</g:id>
-      <title>Traditional Thailand &amp; Mystic Laos with the Mekong (2026)</title>
-      <description>Traditional Thailand &amp; Mystic Laos with the Mekong (2026) from US$4,657</description>
-      <g:title>Traditional Thailand &amp; Mystic Laos with the Mekong (2026)</g:title>
-      <g:description>Traditional Thailand &amp; Mystic Laos with the Mekong (2026) from US$4,657</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293230/traditional-thailand-mystic-laos-with-the-mekong-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293230.jpg?v=3</g:image_link>
-      <g:price>4657.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293227</g:id>
-      <title>Exclusive Thailand &amp; Complete Laos (2026)</title>
-      <description>Exclusive Thailand &amp; Complete Laos (2026) from US$6,839</description>
-      <g:title>Exclusive Thailand &amp; Complete Laos (2026)</g:title>
-      <g:description>Exclusive Thailand &amp; Complete Laos (2026) from US$6,839</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293227/exclusive-thailand-complete-laos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293227.jpg?v=3</g:image_link>
-      <g:price>6839.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>44293224</g:id>
       <title>Essential Thailand &amp; Mystical Laos with Cambodia (2026)</title>
       <description>Essential Thailand &amp; Mystical Laos with Cambodia (2026) from US$6,406</description>
@@ -6303,24 +6411,6 @@
       <g:link>https://www.estropical.com/en/idea/44293221/classic-thailand-laos-cambodia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293221.jpg?v=3</g:image_link>
       <g:price>5499.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293218</g:id>
-      <title>Classic Thailand &amp; the Jewels of Laos (2026)</title>
-      <description>Classic Thailand &amp; the Jewels of Laos (2026) from US$4,137</description>
-      <g:title>Classic Thailand &amp; the Jewels of Laos (2026)</g:title>
-      <g:description>Classic Thailand &amp; the Jewels of Laos (2026) from US$4,137</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293218/classic-thailand-the-jewels-of-laos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293218.jpg?v=3</g:image_link>
-      <g:price>4137.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6472,24 +6562,6 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293176</g:id>
-      <title>Lights of Thailand &amp; Dreamed Laos (2026)</title>
-      <description>Lights of Thailand &amp; Dreamed Laos (2026) from US$4,993</description>
-      <g:title>Lights of Thailand &amp; Dreamed Laos (2026)</g:title>
-      <g:description>Lights of Thailand &amp; Dreamed Laos (2026) from US$4,993</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293176/lights-of-thailand-dreamed-laos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293176.jpg?v=3</g:image_link>
-      <g:price>4993.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
     </item>
 
     <item>
@@ -6655,42 +6727,6 @@
     </item>
 
     <item>
-      <g:id>44293131</g:id>
-      <title>Grand Tour of Thailand &amp; Timeless Laos (2026)</title>
-      <description>Grand Tour of Thailand &amp; Timeless Laos (2026) from US$5,014</description>
-      <g:title>Grand Tour of Thailand &amp; Timeless Laos (2026)</g:title>
-      <g:description>Grand Tour of Thailand &amp; Timeless Laos (2026) from US$5,014</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293131/grand-tour-of-thailand-timeless-laos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293131.jpg?v=3</g:image_link>
-      <g:price>5014.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293128</g:id>
-      <title>Unforgettable Grand Tour of Thailand &amp; Laos (2026)</title>
-      <description>Unforgettable Grand Tour of Thailand &amp; Laos (2026) from US$5,301</description>
-      <g:title>Unforgettable Grand Tour of Thailand &amp; Laos (2026)</g:title>
-      <g:description>Unforgettable Grand Tour of Thailand &amp; Laos (2026) from US$5,301</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293128/unforgettable-grand-tour-of-thailand-laos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293128.jpg?v=3</g:image_link>
-      <g:price>5301.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>44293119</g:id>
       <title>Essences of Thailand, Laos &amp; Cambodia (2026)</title>
       <description>Essences of Thailand, Laos &amp; Cambodia (2026) from US$5,156</description>
@@ -6735,24 +6771,6 @@
       <g:link>https://www.estropical.com/en/idea/44293113/essence-of-thailand-ending-in-bangkok-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293113.jpg?v=3</g:image_link>
       <g:price>2348.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293104</g:id>
-      <title>From the Kingdom of Siam To the Soul of Laos (2026)</title>
-      <description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</description>
-      <g:title>From the Kingdom of Siam To the Soul of Laos (2026)</g:title>
-      <g:description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293104/from-the-kingdom-of-siam-to-the-soul-of-laos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293104.jpg?v=3</g:image_link>
-      <g:price>4445.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6814,24 +6832,6 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293071</g:id>
-      <title>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026)</title>
-      <description>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026) from US$3,824</description>
-      <g:title>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026)</g:title>
-      <g:description>Bangkok, Northern Thailand &amp; Exclusive Laos with the Mekong (2026) from US$3,824</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293071/bangkok-northern-thailand-exclusive-laos-with-the-mekong-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293071.jpg?v=3</g:image_link>
-      <g:price>3824.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
     </item>
 
     <item>
@@ -8079,7 +8079,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -8095,11 +8095,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
