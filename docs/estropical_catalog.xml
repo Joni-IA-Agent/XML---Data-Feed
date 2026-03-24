@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-23 11:03 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-23T11:03:06.121040Z)
+  Generated : 2026-03-24 11:02 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-24T11:02:39.283904Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -3952,24 +3952,6 @@
     </item>
 
     <item>
-      <g:id>46153814</g:id>
-      <title>Paraisos Asiaticos 2026</title>
-      <description>MM820 PARAISOS ASIATICOS 2026 from US$6,126</description>
-      <g:title>Paraisos Asiaticos 2026</g:title>
-      <g:description>MM820 PARAISOS ASIATICOS 2026 from US$6,126</g:description>
-      <g:link>https://www.estropical.com/en/idea/46153814/mm820-paraisos-asiaticos-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/46153814.jpg?v=3</g:image_link>
-      <g:price>2026.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>45986483</g:id>
       <title>Entire Cuba (2026)</title>
       <description>Entire Cuba (2026) from US$3,266</description>
@@ -4764,12 +4746,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,461</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,486</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,461</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,486</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6461.00 USD</g:price>
+      <g:price>6486.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9258,6 +9240,24 @@
       <g:description>MD662 - TURQUIA AL COMPLETO DOMINGOS 26/27 from US$1,675</g:description>
       <g:link>https://www.estropical.com/en/idea/41906109/md662-turquia-al-completo-domingos-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906109.jpg?v=3</g:image_link>
+      <g:price>1675.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41906106</g:id>
+      <title>Md662 - Turquia Al Completo Sabados 26/27</title>
+      <description>MD662 - TURQUIA AL COMPLETO SABADOS 26/27 from US$1,675</description>
+      <g:title>Md662 - Turquia Al Completo Sabados 26/27</g:title>
+      <g:description>MD662 - TURQUIA AL COMPLETO SABADOS 26/27 from US$1,675</g:description>
+      <g:link>https://www.estropical.com/en/idea/41906106/md662-turquia-al-completo-sabados-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906106.jpg?v=3</g:image_link>
       <g:price>1675.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
