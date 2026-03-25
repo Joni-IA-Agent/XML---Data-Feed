@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-03-24 11:02 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-03-24T11:02:39.283904Z)
+  Generated : 2026-03-25 10:58 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-03-25T10:58:54.674102Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,24 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>49460640</g:id>
+      <title>Semana Santa - Sud Este Chiquitano</title>
+      <description>SEMANA SANTA - SUD ESTE CHIQUITANO from US$478</description>
+      <g:title>Semana Santa - Sud Este Chiquitano</g:title>
+      <g:description>SEMANA SANTA - SUD ESTE CHIQUITANO from US$478</g:description>
+      <g:link>https://www.estropical.com/en/idea/49460640/semana-santa-sud-este-chiquitano</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49460640.jpg?v=3</g:image_link>
+      <g:price>478.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
 
     <item>
       <g:id>49274019</g:id>
@@ -175,24 +193,6 @@
     </item>
 
     <item>
-      <g:id>49273971</g:id>
-      <title>From the Kingdom of Siam To the Soul of Laos (2026)</title>
-      <description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</description>
-      <g:title>From the Kingdom of Siam To the Soul of Laos (2026)</g:title>
-      <g:description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</g:description>
-      <g:link>https://www.estropical.com/en/idea/49273971/from-the-kingdom-of-siam-to-the-soul-of-laos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49273971.jpg?v=3</g:image_link>
-      <g:price>4445.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>36289723</g:id>
       <title>Paquete a Buenos Aires Desde Santa Cruz</title>
       <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
@@ -211,6 +211,24 @@
       <g:custom_label_2>15 Apr 2026</g:custom_label_2>
       <g:custom_label_3>19 Apr 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>49273971</g:id>
+      <title>From the Kingdom of Siam To the Soul of Laos (2026)</title>
+      <description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</description>
+      <g:title>From the Kingdom of Siam To the Soul of Laos (2026)</g:title>
+      <g:description>From the Kingdom of Siam to the Soul of Laos (2026) from US$4,445</g:description>
+      <g:link>https://www.estropical.com/en/idea/49273971/from-the-kingdom-of-siam-to-the-soul-of-laos-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49273971.jpg?v=3</g:image_link>
+      <g:price>4445.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
     </item>
 
     <item>
@@ -250,24 +268,6 @@
     </item>
 
     <item>
-      <g:id>49247412</g:id>
-      <title>Ed122 - Europa para Dos 14 25 Dias Lon/waw 2026</title>
-      <description>ED122 - EUROPA PARA DOS 14 25 DIAS LON/WAW 2026 from US$6,478</description>
-      <g:title>Ed122 - Europa para Dos 14 25 Dias Lon/waw 2026</g:title>
-      <g:description>ED122 - EUROPA PARA DOS 14 25 DIAS LON/WAW 2026 from US$6,478</g:description>
-      <g:link>https://www.estropical.com/en/idea/49247412/ed122-europa-para-dos-14-25-dias-lon-waw-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247412.jpg?v=3</g:image_link>
-      <g:price>6478.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>49247409</g:id>
       <title>Ed718 - Europa para Dos 7 18 Dias Lon/rom 2026</title>
       <description>ED718 - EUROPA PARA DOS 7 18 DIAS LON/ROM 2026 from US$5,747</description>
@@ -276,24 +276,6 @@
       <g:link>https://www.estropical.com/en/idea/49247409/ed718-europa-para-dos-7-18-dias-lon-rom-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247409.jpg?v=3</g:image_link>
       <g:price>5747.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>49247406</g:id>
-      <title>Ed121 - Europa para Dos 14 23 Dias Par/waw 2026</title>
-      <description>ED121 - EUROPA PARA DOS 14 23 DIAS PAR/WAW 2026 from US$5,470</description>
-      <g:title>Ed121 - Europa para Dos 14 23 Dias Par/waw 2026</g:title>
-      <g:description>ED121 - EUROPA PARA DOS 14 23 DIAS PAR/WAW 2026 from US$5,470</g:description>
-      <g:link>https://www.estropical.com/en/idea/49247406/ed121-europa-para-dos-14-23-dias-par-waw-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247406.jpg?v=3</g:image_link>
-      <g:price>5470.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4746,12 +4728,12 @@
     <item>
       <g:id>45410916</g:id>
       <title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</title>
-      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,486</description>
+      <description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,490</description>
       <g:title>Or727 - Uzbekistan, Ruta de la Seda Ii 2026</g:title>
-      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,486</g:description>
+      <g:description>OR727 - UZBEKISTAN, RUTA DE LA SEDA II 2026 from US$6,490</g:description>
       <g:link>https://www.estropical.com/en/idea/45410916/or727-uzbekistan-ruta-de-la-seda-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45410916.jpg?v=3</g:image_link>
-      <g:price>6486.00 USD</g:price>
+      <g:price>6490.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8061,7 +8043,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -8077,11 +8059,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -9259,6 +9241,24 @@
       <g:link>https://www.estropical.com/en/idea/41906106/md662-turquia-al-completo-sabados-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906106.jpg?v=3</g:image_link>
       <g:price>1675.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>41906103</g:id>
+      <title>Md642 - Ext Peloponeso (arg/olympia/delfos) 4d/3n 26/27</title>
+      <description>MD642 - EXT PELOPONESO (ARG/OLYMPIA/DELFOS) 4D/3N 26/27 from US$1,615</description>
+      <g:title>Md642 - Ext Peloponeso (arg/olympia/delfos) 4d/3n 26/27</g:title>
+      <g:description>MD642 - EXT PELOPONESO (ARG/OLYMPIA/DELFOS) 4D/3N 26/27 from US$1,615</g:description>
+      <g:link>https://www.estropical.com/en/idea/41906103/md642-ext-peloponeso-arg-olympia-delfos-4d-3n-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41906103.jpg?v=3</g:image_link>
+      <g:price>1615.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
