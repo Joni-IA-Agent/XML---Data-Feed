@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-04-01 11:06 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-04-01T11:06:24.006105Z)
+  Generated : 2026-04-02 11:03 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-04-02T11:03:06.872118Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,42 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>50260266</g:id>
+      <title>Sudafrica, la Gran Aventura Ii 2026</title>
+      <description>MM896 SUDAFRICA, LA GRAN AVENTURA II 2026 from US$3,409</description>
+      <g:title>Sudafrica, la Gran Aventura Ii 2026</g:title>
+      <g:description>MM896 SUDAFRICA, LA GRAN AVENTURA II 2026 from US$3,409</g:description>
+      <g:link>https://www.estropical.com/en/idea/50260266/mm896-sudafrica-la-gran-aventura-ii-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50260266.jpg?v=3</g:image_link>
+      <g:price>3409.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>50260263</g:id>
+      <title>Safari Sudafricano Ii 2026</title>
+      <description>MM893 SAFARI SUDAFRICANO II 2026 from US$2,068</description>
+      <g:title>Safari Sudafricano Ii 2026</g:title>
+      <g:description>MM893 SAFARI SUDAFRICANO II 2026 from US$2,068</g:description>
+      <g:link>https://www.estropical.com/en/idea/50260263/mm893-safari-sudafricano-ii-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50260263.jpg?v=3</g:image_link>
+      <g:price>2068.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
 
     <item>
       <g:id>49613970</g:id>
@@ -160,6 +196,27 @@
     </item>
 
     <item>
+      <g:id>36289723</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
+      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>49607700</g:id>
       <title>Hotel en Riviera Maya | Iberostar Selection Paraíso Maya Suites 4*</title>
       <description>Hotel en Riviera Maya | Iberostar Selection Paraíso Maya Suites 4* from US$1,113</description>
@@ -199,27 +256,6 @@
       <g:custom_label_2>15 Jun 2026</g:custom_label_2>
       <g:custom_label_3>20 Jun 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>36289723</g:id>
-      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
-      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
-      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
-      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
-      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
-      <g:price>849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -6351,12 +6387,12 @@
     <item>
       <g:id>44586228</g:id>
       <title>Viajando por la Costa de Croacia a Grecia (2026)</title>
-      <description>Viajando por la costa de Croacia a Grecia (2026) from US$6,232</description>
+      <description>Viajando por la costa de Croacia a Grecia (2026) from US$5,576</description>
       <g:title>Viajando por la Costa de Croacia a Grecia (2026)</g:title>
-      <g:description>Viajando por la costa de Croacia a Grecia (2026) from US$6,232</g:description>
+      <g:description>Viajando por la costa de Croacia a Grecia (2026) from US$5,576</g:description>
       <g:link>https://www.estropical.com/en/idea/44586228/viajando-por-la-costa-de-croacia-a-grecia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44586228.jpg?v=3</g:image_link>
-      <g:price>6232.00 USD</g:price>
+      <g:price>5576.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9277,42 +9313,6 @@
       <g:link>https://www.estropical.com/en/idea/42131781/ed817-europa-para-dos-9-17-dias-vie-vie-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131781.jpg?v=3</g:image_link>
       <g:price>3505.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131778</g:id>
-      <title>Ed612 - Europa para Dos: 6 12 Dias Par/rom 26/27</title>
-      <description>ED612 - EUROPA PARA DOS: 6 12 DIAS PAR/ROM 26/27 from US$3,474</description>
-      <g:title>Ed612 - Europa para Dos: 6 12 Dias Par/rom 26/27</g:title>
-      <g:description>ED612 - EUROPA PARA DOS: 6 12 DIAS PAR/ROM 26/27 from US$3,474</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131778/ed612-europa-para-dos-6-12-dias-par-rom-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131778.jpg?v=3</g:image_link>
-      <g:price>3474.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131775</g:id>
-      <title>Ed816 - Europa para Dos 9 16 Dias Vie/bud 26/27</title>
-      <description>ED816 - EUROPA PARA DOS 9 16 DIAS VIE/BUD 26/27 from US$3,353</description>
-      <g:title>Ed816 - Europa para Dos 9 16 Dias Vie/bud 26/27</g:title>
-      <g:description>ED816 - EUROPA PARA DOS 9 16 DIAS VIE/BUD 26/27 from US$3,353</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131775/ed816-europa-para-dos-9-16-dias-vie-bud-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131775.jpg?v=3</g:image_link>
-      <g:price>3353.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
