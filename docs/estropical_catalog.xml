@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-04-02 11:03 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-04-02T11:03:06.872118Z)
+  Generated : 2026-04-03 10:53 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-04-03T10:52:53.412501Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,173 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>50308938</g:id>
+      <title>Paquete a Miami + Orlando | Entrada a Epic Universe y Sea Life</title>
+      <description>Paquete a Miami + Orlando | Entrada a Epic Universe y Sea Life from US$1,568</description>
+      <g:title>Paquete a Miami + Orlando | Entrada a Epic Universe y Sea Life</g:title>
+      <g:description>Paquete a Miami + Orlando | Entrada a Epic Universe y Sea Life from US$1,568</g:description>
+      <g:link>https://www.estropical.com/en/idea/50308938/-paquete-a-miami-orlando-entrada-a-epic-universe-y-sea-life</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50308938.jpg?v=3</g:image_link>
+      <g:price>1568.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>17 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>24 Jun 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>50304069</g:id>
+      <title>Paquete a Orlando | Entrada a Universal y Seaworld</title>
+      <description>Paquete a Orlando | Entrada a Universal y SeaWorld from US$1,545</description>
+      <g:title>Paquete a Orlando | Entrada a Universal y Seaworld</g:title>
+      <g:description>Paquete a Orlando | Entrada a Universal y SeaWorld from US$1,545</g:description>
+      <g:link>https://www.estropical.com/en/idea/50304069/paquete-a-orlando-entrada-a-universal-y-seaworld</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50304069.jpg?v=3</g:image_link>
+      <g:price>1545.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>25 Jul 2026</g:custom_label_2>
+      <g:custom_label_3>31 Jul 2026</g:custom_label_3>
+      <g:custom_label_4>6 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>50303691</g:id>
+      <title>Entrada para Disney Magic Kingdom | Orlando</title>
+      <description>Entrada para Disney Magic Kingdom | Orlando from US$309</description>
+      <g:title>Entrada para Disney Magic Kingdom | Orlando</g:title>
+      <g:description>Entrada para Disney Magic Kingdom | Orlando from US$309</g:description>
+      <g:link>https://www.estropical.com/en/idea/50303691/entrada-para-disney-magic-kingdom-orlando</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50303691.jpg?v=3</g:image_link>
+      <g:price>309.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>1 Jul 2026</g:custom_label_2>
+      <g:custom_label_3>2 Jul 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>50303382</g:id>
+      <title>Paquete a Fortaleza + Beach Park</title>
+      <description>Paquete a Fortaleza + Beach Park from US$337</description>
+      <g:title>Paquete a Fortaleza + Beach Park</g:title>
+      <g:description>Paquete a Fortaleza + Beach Park from US$337</g:description>
+      <g:link>https://www.estropical.com/en/idea/50303382/paquete-a-fortaleza-beach-park</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50303382.jpg?v=3</g:image_link>
+      <g:price>337.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>14 May 2026</g:custom_label_2>
+      <g:custom_label_3>18 May 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>50302545</g:id>
+      <title>Paquete a Buenos Aires | Excursión Al Parque de la Costa</title>
+      <description>Paquete a Buenos Aires | Excursión al Parque de la Costa from US$428</description>
+      <g:title>Paquete a Buenos Aires | Excursión Al Parque de la Costa</g:title>
+      <g:description>Paquete a Buenos Aires | Excursión al Parque de la Costa from US$428</g:description>
+      <g:link>https://www.estropical.com/en/idea/50302545/paquete-a-buenos-aires-excursion-al-parque-de-la-costa</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50302545.jpg?v=3</g:image_link>
+      <g:price>428.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>23 Jul 2026</g:custom_label_2>
+      <g:custom_label_3>27 Jul 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>50302242</g:id>
+      <title>Paquete a Riviera Maya | Hotel Xcaret Mexico All Inclusive 5*</title>
+      <description>Paquete a Riviera Maya | Hotel Xcaret Mexico All Inclusive 5* from US$2,222</description>
+      <g:title>Paquete a Riviera Maya | Hotel Xcaret Mexico All Inclusive 5*</g:title>
+      <g:description>Paquete a Riviera Maya | Hotel Xcaret Mexico All Inclusive 5* from US$2,222</g:description>
+      <g:link>https://www.estropical.com/en/idea/50302242/paquete-a-riviera-maya-hotel-xcaret-mexico-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50302242.jpg?v=3</g:image_link>
+      <g:price>2222.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Centroamérica</g:product_type>
+      <g:item_group_id>HOTEL-CENTROAMERICA</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Centroamérica</g:custom_label_1>
+      <g:custom_label_2>10 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>14 Jun 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>50301915</g:id>
+      <title>Paquete a Punta Cana | Paradisus Grand Cana - All Suites 5*</title>
+      <description>Paquete a Punta Cana | Paradisus Grand Cana - All Suites 5* from US$1,671</description>
+      <g:title>Paquete a Punta Cana | Paradisus Grand Cana - All Suites 5*</g:title>
+      <g:description>Paquete a Punta Cana | Paradisus Grand Cana - All Suites 5* from US$1,671</g:description>
+      <g:link>https://www.estropical.com/en/idea/50301915/paquete-a-punta-cana-paradisus-grand-cana-all-suites-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50301915.jpg?v=3</g:image_link>
+      <g:price>1671.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>20 May 2026</g:custom_label_2>
+      <g:custom_label_3>25 May 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>50301444</g:id>
+      <title>Paquete a Punta Cana | Nickelodeon Hotels &amp; Resorts 5*</title>
+      <description>Paquete a Punta Cana | Nickelodeon Hotels &amp; Resorts 5* from US$1,711</description>
+      <g:title>Paquete a Punta Cana | Nickelodeon Hotels &amp; Resorts 5*</g:title>
+      <g:description>Paquete a Punta Cana | Nickelodeon Hotels &amp; Resorts 5* from US$1,711</g:description>
+      <g:link>https://www.estropical.com/en/idea/50301444/paquete-a-punta-cana-nickelodeon-hotels-resorts-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50301444.jpg?v=3</g:image_link>
+      <g:price>1711.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>10 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>15 Jun 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
 
     <item>
       <g:id>50260266</g:id>
@@ -46,6 +213,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>36289723</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
+      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -193,27 +381,6 @@
       <g:custom_label_2>14 Apr 2026</g:custom_label_2>
       <g:custom_label_3>19 Apr 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>36289723</g:id>
-      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
-      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
-      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
-      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
-      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
-      <g:price>849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -9169,150 +9336,6 @@
       <g:link>https://www.estropical.com/en/idea/42131805/ed614-europa-para-dos-6-14-dias-lon-rom-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131805.jpg?v=3</g:image_link>
       <g:price>4388.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131802</g:id>
-      <title>Ed517 - Europa para Dos: 5 17 Dias Mad/bcn 26/27</title>
-      <description>ED517 - EUROPA PARA DOS: 5 17 DIAS MAD/BCN 26/27 from US$4,356</description>
-      <g:title>Ed517 - Europa para Dos: 5 17 Dias Mad/bcn 26/27</g:title>
-      <g:description>ED517 - EUROPA PARA DOS: 5 17 DIAS MAD/BCN 26/27 from US$4,356</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131802/ed517-europa-para-dos-5-17-dias-mad-bcn-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131802.jpg?v=3</g:image_link>
-      <g:price>4356.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131799</g:id>
-      <title>Ed109 - Europa para Dos 1: Inglaterra - Escocia 9d 2026</title>
-      <description>ED109 - EUROPA PARA DOS 1: INGLATERRA - ESCOCIA 9D 2026 from US$4,231</description>
-      <g:title>Ed109 - Europa para Dos 1: Inglaterra - Escocia 9d 2026</g:title>
-      <g:description>ED109 - EUROPA PARA DOS 1: INGLATERRA - ESCOCIA 9D 2026 from US$4,231</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131799/ed109-europa-para-dos-1-inglaterra-escocia-9d-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131799.jpg?v=3</g:image_link>
-      <g:price>4231.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131796</g:id>
-      <title>Ed418 - Europa para Dos: Estilo Mp1 18 Dias 26/27</title>
-      <description>ED418 - EUROPA PARA DOS: ESTILO MP1 18 DIAS 26/27 from US$4,212</description>
-      <g:title>Ed418 - Europa para Dos: Estilo Mp1 18 Dias 26/27</g:title>
-      <g:description>ED418 - EUROPA PARA DOS: ESTILO MP1 18 DIAS 26/27 from US$4,212</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131796/ed418-europa-para-dos-estilo-mp1-18-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131796.jpg?v=3</g:image_link>
-      <g:price>4212.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131793</g:id>
-      <title>Ed616 - Europa para Dos: 6 16 Dias Par/mad 26/27</title>
-      <description>ED616 - EUROPA PARA DOS: 6 16 DIAS PAR/MAD 26/27 from US$4,185</description>
-      <g:title>Ed616 - Europa para Dos: 6 16 Dias Par/mad 26/27</g:title>
-      <g:description>ED616 - EUROPA PARA DOS: 6 16 DIAS PAR/MAD 26/27 from US$4,185</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131793/ed616-europa-para-dos-6-16-dias-par-mad-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131793.jpg?v=3</g:image_link>
-      <g:price>4185.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131790</g:id>
-      <title>Ed417 - Europa para Dos: Estilo Mp1 17 Dias 26/27</title>
-      <description>ED417 - EUROPA PARA DOS: ESTILO MP1 17 DIAS 26/27 from US$4,084</description>
-      <g:title>Ed417 - Europa para Dos: Estilo Mp1 17 Dias 26/27</g:title>
-      <g:description>ED417 - EUROPA PARA DOS: ESTILO MP1 17 DIAS 26/27 from US$4,084</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131790/ed417-europa-para-dos-estilo-mp1-17-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131790.jpg?v=3</g:image_link>
-      <g:price>4084.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131787</g:id>
-      <title>Ed515 - Europa para Dos: 5 15 Dias Mad/rom 26/27</title>
-      <description>ED515 - EUROPA PARA DOS: 5 15 DIAS MAD/ROM 26/27 from US$4,029</description>
-      <g:title>Ed515 - Europa para Dos: 5 15 Dias Mad/rom 26/27</g:title>
-      <g:description>ED515 - EUROPA PARA DOS: 5 15 DIAS MAD/ROM 26/27 from US$4,029</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131787/ed515-europa-para-dos-5-15-dias-mad-rom-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131787.jpg?v=3</g:image_link>
-      <g:price>4029.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131784</g:id>
-      <title>Ed415 - Europa para Dos: Estilo Mp1 15 Dias 26/27</title>
-      <description>ED415 - EUROPA PARA DOS: ESTILO MP1 15 DIAS 26/27 from US$3,809</description>
-      <g:title>Ed415 - Europa para Dos: Estilo Mp1 15 Dias 26/27</g:title>
-      <g:description>ED415 - EUROPA PARA DOS: ESTILO MP1 15 DIAS 26/27 from US$3,809</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131784/ed415-europa-para-dos-estilo-mp1-15-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131784.jpg?v=3</g:image_link>
-      <g:price>3809.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131781</g:id>
-      <title>Ed817 - Europa para Dos 9 17 Dias Vie/vie 26/27</title>
-      <description>ED817 - EUROPA PARA DOS 9 17 DIAS VIE/VIE 26/27 from US$3,505</description>
-      <g:title>Ed817 - Europa para Dos 9 17 Dias Vie/vie 26/27</g:title>
-      <g:description>ED817 - EUROPA PARA DOS 9 17 DIAS VIE/VIE 26/27 from US$3,505</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131781/ed817-europa-para-dos-9-17-dias-vie-vie-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131781.jpg?v=3</g:image_link>
-      <g:price>3505.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
