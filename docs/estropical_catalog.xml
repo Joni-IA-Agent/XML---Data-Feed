@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-04-06 11:05 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-04-06T11:05:58.163546Z)
+  Generated : 2026-04-07 11:05 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-04-07T11:05:16.914116Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,24 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>50493831</g:id>
+      <title>Complete Thailand (2026)</title>
+      <description>Complete Thailand (2026) from US$2,512</description>
+      <g:title>Complete Thailand (2026)</g:title>
+      <g:description>Complete Thailand (2026) from US$2,512</g:description>
+      <g:link>https://www.estropical.com/en/idea/50493831/complete-thailand-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50493831.jpg?v=3</g:image_link>
+      <g:price>2512.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
 
     <item>
       <g:id>50308938</g:id>
@@ -875,6 +893,24 @@
       <g:link>https://www.estropical.com/en/idea/49247409/ed718-europa-para-dos-7-18-dias-lon-rom-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247409.jpg?v=3</g:image_link>
       <g:price>5747.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>49156710</g:id>
+      <title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 2026</title>
+      <description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 2026 from US$4,499</description>
+      <g:title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 2026</g:title>
+      <g:description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 2026 from US$4,499</g:description>
+      <g:link>https://www.estropical.com/en/idea/49156710/ed614-europa-para-dos-6-14-dias-lon-rom-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49156710.jpg?v=3</g:image_link>
+      <g:price>4499.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6306,12 +6342,12 @@
     <item>
       <g:id>44676516</g:id>
       <title>Ce404 - Alemania Imperial y Baviera 2026</title>
-      <description>CE404 - ALEMANIA IMPERIAL Y BAVIERA 2026 from US$2,902</description>
+      <description>CE404 - ALEMANIA IMPERIAL Y BAVIERA 2026 from US$2,615</description>
       <g:title>Ce404 - Alemania Imperial y Baviera 2026</g:title>
-      <g:description>CE404 - ALEMANIA IMPERIAL Y BAVIERA 2026 from US$2,902</g:description>
+      <g:description>CE404 - ALEMANIA IMPERIAL Y BAVIERA 2026 from US$2,615</g:description>
       <g:link>https://www.estropical.com/en/idea/44676516/ce404-alemania-imperial-y-baviera-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44676516.jpg?v=3</g:image_link>
-      <g:price>2902.00 USD</g:price>
+      <g:price>2615.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9300,42 +9336,6 @@
       <g:link>https://www.estropical.com/en/idea/42131811/ed716-europa-para-dos-7-16-dias-par-rom-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131811.jpg?v=3</g:image_link>
       <g:price>4687.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131808</g:id>
-      <title>Ed518 - Europa para Dos: 5 18 Dias Mad/mad 26/27</title>
-      <description>ED518 - EUROPA PARA DOS: 5 18 DIAS MAD/MAD 26/27 from US$4,441</description>
-      <g:title>Ed518 - Europa para Dos: 5 18 Dias Mad/mad 26/27</g:title>
-      <g:description>ED518 - EUROPA PARA DOS: 5 18 DIAS MAD/MAD 26/27 from US$4,441</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131808/ed518-europa-para-dos-5-18-dias-mad-mad-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131808.jpg?v=3</g:image_link>
-      <g:price>4441.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42131805</g:id>
-      <title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 26/27</title>
-      <description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 26/27 from US$4,388</description>
-      <g:title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 26/27</g:title>
-      <g:description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 26/27 from US$4,388</g:description>
-      <g:link>https://www.estropical.com/en/idea/42131805/ed614-europa-para-dos-6-14-dias-lon-rom-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42131805.jpg?v=3</g:image_link>
-      <g:price>4388.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
