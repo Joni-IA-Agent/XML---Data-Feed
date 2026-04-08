@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-04-07 11:05 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-04-07T11:05:16.914116Z)
+  Generated : 2026-04-08 11:06 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-04-08T11:06:05.341751Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,24 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>50576401</g:id>
+      <title>Md660 - Extension a Estambul 2026</title>
+      <description>MD660 - EXTENSION A ESTAMBUL 2026 from US$581</description>
+      <g:title>Md660 - Extension a Estambul 2026</g:title>
+      <g:description>MD660 - EXTENSION A ESTAMBUL 2026 from US$581</g:description>
+      <g:link>https://www.estropical.com/en/idea/50576401/md660-extension-a-estambul-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50576401.jpg?v=3</g:image_link>
+      <g:price>581.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
 
     <item>
       <g:id>50493831</g:id>
@@ -893,24 +911,6 @@
       <g:link>https://www.estropical.com/en/idea/49247409/ed718-europa-para-dos-7-18-dias-lon-rom-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247409.jpg?v=3</g:image_link>
       <g:price>5747.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>49156710</g:id>
-      <title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 2026</title>
-      <description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 2026 from US$4,499</description>
-      <g:title>Ed614 - Europa para Dos: 6 14 Dias Lon/rom 2026</g:title>
-      <g:description>ED614 - EUROPA PARA DOS: 6 14 DIAS LON/ROM 2026 from US$4,499</g:description>
-      <g:link>https://www.estropical.com/en/idea/49156710/ed614-europa-para-dos-6-14-dias-lon-rom-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49156710.jpg?v=3</g:image_link>
-      <g:price>4499.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -6048,9 +6048,9 @@
     <item>
       <g:id>44781741</g:id>
       <title>Md666 - Gran Gira Medio Oriente 13 Dias 2026</title>
-      <description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$4,862</description>
+      <description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$6,647</description>
       <g:title>Md666 - Gran Gira Medio Oriente 13 Dias 2026</g:title>
-      <g:description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$4,862</g:description>
+      <g:description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$6,647</g:description>
       <g:link>https://www.estropical.com/en/idea/44781741/md666-gran-gira-medio-oriente-13-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44781741.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -7898,12 +7898,12 @@
     <item>
       <g:id>44026608</g:id>
       <title>Oc331 - Paris, Loira, Bretaña y Normandia 2026</title>
-      <description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$3,189</description>
+      <description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$4,826</description>
       <g:title>Oc331 - Paris, Loira, Bretaña y Normandia 2026</g:title>
-      <g:description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$3,189</g:description>
+      <g:description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$4,826</g:description>
       <g:link>https://www.estropical.com/en/idea/44026608/oc331-paris-loira-bretana-y-normandia-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44026608.jpg?v=3</g:image_link>
-      <g:price>3189.00 USD</g:price>
+      <g:price>4826.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8006,12 +8006,12 @@
     <item>
       <g:id>43488549</g:id>
       <title>Ce415 - Paris, Crucero Rin y Suiza 2026</title>
-      <description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$6,054</description>
+      <description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$3,763</description>
       <g:title>Ce415 - Paris, Crucero Rin y Suiza 2026</g:title>
-      <g:description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$6,054</g:description>
+      <g:description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$3,763</g:description>
       <g:link>https://www.estropical.com/en/idea/43488549/ce415-paris-crucero-rin-y-suiza-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43488549.jpg?v=3</g:image_link>
-      <g:price>6054.00 USD</g:price>
+      <g:price>3763.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8678,7 +8678,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -8694,11 +8694,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
