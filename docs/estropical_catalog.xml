@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-04-08 11:06 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-04-08T11:06:05.341751Z)
+  Generated : 2026-04-09 11:09 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-04-09T11:09:23.792016Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -13,14 +13,53 @@
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
 
     <item>
-      <g:id>50576401</g:id>
-      <title>Md660 - Extension a Estambul 2026</title>
-      <description>MD660 - EXTENSION A ESTAMBUL 2026 from US$581</description>
-      <g:title>Md660 - Extension a Estambul 2026</g:title>
-      <g:description>MD660 - EXTENSION A ESTAMBUL 2026 from US$581</g:description>
-      <g:link>https://www.estropical.com/en/idea/50576401/md660-extension-a-estambul-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50576401.jpg?v=3</g:image_link>
-      <g:price>581.00 USD</g:price>
+      <g:id>50616555</g:id>
+      <title>Hotel en Cochabamba L Toloma Gran Hotel 4*</title>
+      <description>Hotel en Cochabamba l Toloma Gran Hotel 4* from US$45</description>
+      <g:title>Hotel en Cochabamba L Toloma Gran Hotel 4*</g:title>
+      <g:description>Hotel en Cochabamba l Toloma Gran Hotel 4* from US$45</g:description>
+      <g:link>https://www.estropical.com/en/idea/50616555/hotel-en-cochabamba-l-toloma-gran-hotel-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50616555.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>15 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>16 Dec 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>50585513</g:id>
+      <title>Thailand For Tourists (2026)</title>
+      <description>Thailand for Tourists (2026) from US$2,059</description>
+      <g:title>Thailand For Tourists (2026)</g:title>
+      <g:description>Thailand for Tourists (2026) from US$2,059</g:description>
+      <g:link>https://www.estropical.com/en/idea/50585513/thailand-for-tourists-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50585513.jpg?v=3</g:image_link>
+      <g:price>2059.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>50585507</g:id>
+      <title>Complete Thailand with Krabi (2026)</title>
+      <description>Complete Thailand with Krabi (2026) from US$3,190</description>
+      <g:title>Complete Thailand with Krabi (2026)</g:title>
+      <g:description>Complete Thailand with Krabi (2026) from US$3,190</g:description>
+      <g:link>https://www.estropical.com/en/idea/50585507/complete-thailand-with-krabi-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50585507.jpg?v=3</g:image_link>
+      <g:price>3190.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -174,6 +213,27 @@
     </item>
 
     <item>
+      <g:id>36289723</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
+      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
+      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>50301915</g:id>
       <title>Paquete a Punta Cana | Paradisus Grand Cana - All Suites 5*</title>
       <description>Paquete a Punta Cana | Paradisus Grand Cana - All Suites 5* from US$1,671</description>
@@ -249,27 +309,6 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>36289723</g:id>
-      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
-      <description>Paquete a Buenos Aires desde Santa Cruz from US$849</description>
-      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
-      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$849</g:description>
-      <g:link>https://www.estropical.com/en/idea/36289723/paquete-a-buenos-aires-desde-santa-cruz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36289723.jpg?v=3</g:image_link>
-      <g:price>849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>15 Apr 2026</g:custom_label_2>
-      <g:custom_label_3>19 Apr 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -882,42 +921,6 @@
       <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>49247415</g:id>
-      <title>Ed722 - Europa para Dos 7 22 Dias Lon/mad 2026</title>
-      <description>ED722 - EUROPA PARA DOS 7 22 DIAS LON/MAD 2026 from US$6,627</description>
-      <g:title>Ed722 - Europa para Dos 7 22 Dias Lon/mad 2026</g:title>
-      <g:description>ED722 - EUROPA PARA DOS 7 22 DIAS LON/MAD 2026 from US$6,627</g:description>
-      <g:link>https://www.estropical.com/en/idea/49247415/ed722-europa-para-dos-7-22-dias-lon-mad-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247415.jpg?v=3</g:image_link>
-      <g:price>6627.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>49247409</g:id>
-      <title>Ed718 - Europa para Dos 7 18 Dias Lon/rom 2026</title>
-      <description>ED718 - EUROPA PARA DOS 7 18 DIAS LON/ROM 2026 from US$5,747</description>
-      <g:title>Ed718 - Europa para Dos 7 18 Dias Lon/rom 2026</g:title>
-      <g:description>ED718 - EUROPA PARA DOS 7 18 DIAS LON/ROM 2026 from US$5,747</g:description>
-      <g:link>https://www.estropical.com/en/idea/49247409/ed718-europa-para-dos-7-18-dias-lon-rom-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/49247409.jpg?v=3</g:image_link>
-      <g:price>5747.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
     </item>
 
     <item>
@@ -6048,9 +6051,9 @@
     <item>
       <g:id>44781741</g:id>
       <title>Md666 - Gran Gira Medio Oriente 13 Dias 2026</title>
-      <description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$6,647</description>
+      <description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$4,862</description>
       <g:title>Md666 - Gran Gira Medio Oriente 13 Dias 2026</g:title>
-      <g:description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$6,647</g:description>
+      <g:description>MD666 - GRAN GIRA MEDIO ORIENTE 13 DIAS 2026 from US$4,862</g:description>
       <g:link>https://www.estropical.com/en/idea/44781741/md666-gran-gira-medio-oriente-13-dias-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44781741.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -7898,12 +7901,12 @@
     <item>
       <g:id>44026608</g:id>
       <title>Oc331 - Paris, Loira, Bretaña y Normandia 2026</title>
-      <description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$4,826</description>
+      <description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$3,189</description>
       <g:title>Oc331 - Paris, Loira, Bretaña y Normandia 2026</g:title>
-      <g:description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$4,826</g:description>
+      <g:description>OC331 - PARIS, LOIRA, BRETAÑA Y NORMANDIA 2026 from US$3,189</g:description>
       <g:link>https://www.estropical.com/en/idea/44026608/oc331-paris-loira-bretana-y-normandia-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44026608.jpg?v=3</g:image_link>
-      <g:price>4826.00 USD</g:price>
+      <g:price>3189.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -8006,12 +8009,12 @@
     <item>
       <g:id>43488549</g:id>
       <title>Ce415 - Paris, Crucero Rin y Suiza 2026</title>
-      <description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$3,763</description>
+      <description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$6,054</description>
       <g:title>Ce415 - Paris, Crucero Rin y Suiza 2026</g:title>
-      <g:description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$3,763</g:description>
+      <g:description>CE415 - PARIS, CRUCERO RIN Y SUIZA 2026 from US$6,054</g:description>
       <g:link>https://www.estropical.com/en/idea/43488549/ce415-paris-crucero-rin-y-suiza-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43488549.jpg?v=3</g:image_link>
-      <g:price>3763.00 USD</g:price>
+      <g:price>6054.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
