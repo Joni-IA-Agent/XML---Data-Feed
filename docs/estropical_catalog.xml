@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-04-24 11:16 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-04-24T11:16:46.536531Z)
+  Generated : 2026-04-25 10:53 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-04-25T10:53:36.923073Z)
   Total     : 487 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,27 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>51945194</g:id>
+      <title>Paquete a Punta Cana | Grand Palladium Select Bávaro 5*</title>
+      <description>Paquete a Punta Cana | Grand Palladium Select Bávaro 5* from US$1,146</description>
+      <g:title>Paquete a Punta Cana | Grand Palladium Select Bávaro 5*</g:title>
+      <g:description>Paquete a Punta Cana | Grand Palladium Select Bávaro 5* from US$1,146</g:description>
+      <g:link>https://www.estropical.com/en/idea/51945194/paquete-a-punta-cana-grand-palladium-select-bavaro-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/51945194.jpg?v=3</g:image_link>
+      <g:price>1146.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>22 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>7 noches</g:custom_label_4>
+    </item>
 
     <item>
       <g:id>51558653</g:id>
@@ -4200,9 +4221,9 @@
     <item>
       <g:id>42862206</g:id>
       <title>Md670 - Tunez, Aventura y Playas 2026</title>
-      <description>MD670 - TUNEZ, AVENTURA Y PLAYAS 2026 from US$1,686</description>
+      <description>MD670 - TUNEZ, AVENTURA Y PLAYAS 2026 from US$1,727</description>
       <g:title>Md670 - Tunez, Aventura y Playas 2026</g:title>
-      <g:description>MD670 - TUNEZ, AVENTURA Y PLAYAS 2026 from US$1,686</g:description>
+      <g:description>MD670 - TUNEZ, AVENTURA Y PLAYAS 2026 from US$1,727</g:description>
       <g:link>https://www.estropical.com/en/idea/42862206/md670-tunez-aventura-y-playas-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42862206.jpg?v=3</g:image_link>
       <g:price>2026.00 USD</g:price>
@@ -8849,24 +8870,6 @@
       <g:link>https://www.estropical.com/en/idea/38305057/wonders-of-bulgaria-romania-and-serbia-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305057.jpg?v=3</g:image_link>
       <g:price>5845.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305051</g:id>
-      <title>Best of Austria &amp; Switzerland (2026)</title>
-      <description>Best of Austria &amp; Switzerland (2026) from US$3,988</description>
-      <g:title>Best of Austria &amp; Switzerland (2026)</g:title>
-      <g:description>Best of Austria &amp; Switzerland (2026) from US$3,988</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305051/best-of-austria-switzerland-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305051.jpg?v=3</g:image_link>
-      <g:price>3988.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
