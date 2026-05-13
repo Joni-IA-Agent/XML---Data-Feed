@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-05-12 11:58 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-05-12T11:58:03.117458Z)
-  Total     : 190 products
+  Generated : 2026-05-13 12:06 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-05-13T12:06:24.503875Z)
+  Total     : 159 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -11,6 +11,42 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>53362627</g:id>
+      <title>Paquete a Lima -lima Gastronómica 4d/3n</title>
+      <description>PAQUETE A LIMA -LIMA GASTRONÓMICA  4D/3N from US$502</description>
+      <g:title>Paquete a Lima -lima Gastronómica 4d/3n</g:title>
+      <g:description>PAQUETE A LIMA -LIMA GASTRONÓMICA  4D/3N from US$502</g:description>
+      <g:link>https://www.estropical.com/en/idea/53362627/paquete-a-lima-lima-gastronomica-4d-3n</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53362627.jpg?v=3</g:image_link>
+      <g:price>502.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>53361958</g:id>
+      <title>Paquete a Ica - Desierto y Mar 2d/1n</title>
+      <description>PAQUETE A ICA - DESIERTO Y MAR 2D/1N from US$604</description>
+      <g:title>Paquete a Ica - Desierto y Mar 2d/1n</g:title>
+      <g:description>PAQUETE A ICA - DESIERTO Y MAR 2D/1N from US$604</g:description>
+      <g:link>https://www.estropical.com/en/idea/53361958/paquete-a-ica-desierto-y-mar-2d-1n</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53361958.jpg?v=3</g:image_link>
+      <g:price>604.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
 
     <item>
       <g:id>53092435</g:id>
@@ -441,6 +477,24 @@
       <g:custom_label_2>9 Sep 2026</g:custom_label_2>
       <g:custom_label_3>13 Sep 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>52631568</g:id>
+      <title>Paquete a Cusco - Aventura de Colores, Vinicunca y Humantay 5d/4n</title>
+      <description>PAQUETE A CUSCO - AVENTURA DE COLORES, VINICUNCA Y HUMANTAY 5D/4N from US$907</description>
+      <g:title>Paquete a Cusco - Aventura de Colores, Vinicunca y Humantay 5d/4n</g:title>
+      <g:description>PAQUETE A CUSCO - AVENTURA DE COLORES, VINICUNCA Y HUMANTAY 5D/4N from US$907</g:description>
+      <g:link>https://www.estropical.com/en/idea/52631568/paquete-a-cusco-aventura-de-colores-vinicunca-y-humantay-5d-4n</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/52631568.jpg?v=3</g:image_link>
+      <g:price>907.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
@@ -1347,12 +1401,12 @@
     <item>
       <g:id>45409083</g:id>
       <title>Mendoza Basico 3*</title>
-      <description>MENDOZA BASICO 3* from US$191</description>
+      <description>MENDOZA BASICO 3* from US$202</description>
       <g:title>Mendoza Basico 3*</g:title>
-      <g:description>MENDOZA BASICO 3* from US$191</g:description>
+      <g:description>MENDOZA BASICO 3* from US$202</g:description>
       <g:link>https://www.estropical.com/en/idea/45409083/mendoza-basico-3-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45409083.jpg?v=3</g:image_link>
-      <g:price>191.00 USD</g:price>
+      <g:price>202.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1365,12 +1419,12 @@
     <item>
       <g:id>45409080</g:id>
       <title>Mendoza Basico 4*</title>
-      <description>MENDOZA BASICO 4* from US$261</description>
+      <description>MENDOZA BASICO 4* from US$276</description>
       <g:title>Mendoza Basico 4*</g:title>
-      <g:description>MENDOZA BASICO 4* from US$261</g:description>
+      <g:description>MENDOZA BASICO 4* from US$276</g:description>
       <g:link>https://www.estropical.com/en/idea/45409080/mendoza-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45409080.jpg?v=3</g:image_link>
-      <g:price>261.00 USD</g:price>
+      <g:price>276.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1383,12 +1437,12 @@
     <item>
       <g:id>45409077</g:id>
       <title>Mendoza Basico 5*</title>
-      <description>MENDOZA BASICO 5* from US$344</description>
+      <description>MENDOZA BASICO 5* from US$363</description>
       <g:title>Mendoza Basico 5*</g:title>
-      <g:description>MENDOZA BASICO 5* from US$344</g:description>
+      <g:description>MENDOZA BASICO 5* from US$363</g:description>
       <g:link>https://www.estropical.com/en/idea/45409077/mendoza-basico-5-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45409077.jpg?v=3</g:image_link>
-      <g:price>344.00 USD</g:price>
+      <g:price>363.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1500,12 +1554,12 @@
     <item>
       <g:id>45301041</g:id>
       <title>Iguazu Basico 3*</title>
-      <description>IGUAZU BASICO 3* from US$420</description>
+      <description>IGUAZU BASICO 3* from US$444</description>
       <g:title>Iguazu Basico 3*</g:title>
-      <g:description>IGUAZU BASICO 3* from US$420</g:description>
+      <g:description>IGUAZU BASICO 3* from US$444</g:description>
       <g:link>https://www.estropical.com/en/idea/45301041/iguazu-basico-3-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45301041.jpg?v=3</g:image_link>
-      <g:price>420.00 USD</g:price>
+      <g:price>444.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1518,12 +1572,12 @@
     <item>
       <g:id>45301038</g:id>
       <title>Iguazu Basico 4*</title>
-      <description>IGUAZU BASICO 4* from US$445</description>
+      <description>IGUAZU BASICO 4* from US$470</description>
       <g:title>Iguazu Basico 4*</g:title>
-      <g:description>IGUAZU BASICO 4* from US$445</g:description>
+      <g:description>IGUAZU BASICO 4* from US$470</g:description>
       <g:link>https://www.estropical.com/en/idea/45301038/iguazu-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45301038.jpg?v=3</g:image_link>
-      <g:price>445.00 USD</g:price>
+      <g:price>470.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1536,12 +1590,12 @@
     <item>
       <g:id>45301035</g:id>
       <title>Iguazu Basico 5*</title>
-      <description>IGUAZU BASICO 5* from US$663</description>
+      <description>IGUAZU BASICO 5* from US$700</description>
       <g:title>Iguazu Basico 5*</g:title>
-      <g:description>IGUAZU BASICO 5* from US$663</g:description>
+      <g:description>IGUAZU BASICO 5* from US$700</g:description>
       <g:link>https://www.estropical.com/en/idea/45301035/iguazu-basico-5-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45301035.jpg?v=3</g:image_link>
-      <g:price>663.00 USD</g:price>
+      <g:price>700.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1648,12 +1702,12 @@
     <item>
       <g:id>44670336</g:id>
       <title>Bariloche Basico 3*</title>
-      <description>BARILOCHE BASICO 3* from US$219</description>
+      <description>BARILOCHE BASICO 3* from US$232</description>
       <g:title>Bariloche Basico 3*</g:title>
-      <g:description>BARILOCHE BASICO 3* from US$219</g:description>
+      <g:description>BARILOCHE BASICO 3* from US$232</g:description>
       <g:link>https://www.estropical.com/en/idea/44670336/bariloche-basico-3-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44670336.jpg?v=3</g:image_link>
-      <g:price>219.00 USD</g:price>
+      <g:price>232.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1666,12 +1720,12 @@
     <item>
       <g:id>44670333</g:id>
       <title>Bariloche Basico 4*</title>
-      <description>BARILOCHE BASICO 4* from US$257</description>
+      <description>BARILOCHE BASICO 4* from US$272</description>
       <g:title>Bariloche Basico 4*</g:title>
-      <g:description>BARILOCHE BASICO 4* from US$257</g:description>
+      <g:description>BARILOCHE BASICO 4* from US$272</g:description>
       <g:link>https://www.estropical.com/en/idea/44670333/bariloche-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44670333.jpg?v=3</g:image_link>
-      <g:price>257.00 USD</g:price>
+      <g:price>272.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1684,12 +1738,12 @@
     <item>
       <g:id>44670330</g:id>
       <title>Bariloche Basico 5*</title>
-      <description>BARILOCHE BASICO 5* from US$312</description>
+      <description>BARILOCHE BASICO 5* from US$330</description>
       <g:title>Bariloche Basico 5*</g:title>
-      <g:description>BARILOCHE BASICO 5* from US$312</g:description>
+      <g:description>BARILOCHE BASICO 5* from US$330</g:description>
       <g:link>https://www.estropical.com/en/idea/44670330/bariloche-basico-5-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44670330.jpg?v=3</g:image_link>
-      <g:price>312.00 USD</g:price>
+      <g:price>330.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1848,12 +1902,12 @@
     <item>
       <g:id>44559504</g:id>
       <title>El Calafate Basico 3*</title>
-      <description>EL CALAFATE BASICO 3* from US$306</description>
+      <description>EL CALAFATE BASICO 3* from US$323</description>
       <g:title>El Calafate Basico 3*</g:title>
-      <g:description>EL CALAFATE BASICO 3* from US$306</g:description>
+      <g:description>EL CALAFATE BASICO 3* from US$323</g:description>
       <g:link>https://www.estropical.com/en/idea/44559504/el-calafate-basico-3-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44559504.jpg?v=3</g:image_link>
-      <g:price>306.00 USD</g:price>
+      <g:price>323.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1866,12 +1920,12 @@
     <item>
       <g:id>44559498</g:id>
       <title>El Calafate Basico 5*</title>
-      <description>EL CALAFATE BASICO 5* from US$488</description>
+      <description>EL CALAFATE BASICO 5* from US$516</description>
       <g:title>El Calafate Basico 5*</g:title>
-      <g:description>EL CALAFATE BASICO 5* from US$488</g:description>
+      <g:description>EL CALAFATE BASICO 5* from US$516</g:description>
       <g:link>https://www.estropical.com/en/idea/44559498/el-calafate-basico-5-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44559498.jpg?v=3</g:image_link>
-      <g:price>488.00 USD</g:price>
+      <g:price>516.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2658,12 +2712,12 @@
     <item>
       <g:id>44026416</g:id>
       <title>Buenos Aires Basico 4*</title>
-      <description>BUENOS AIRES BASICO 4* from US$337</description>
+      <description>BUENOS AIRES BASICO 4* from US$356</description>
       <g:title>Buenos Aires Basico 4*</g:title>
-      <g:description>BUENOS AIRES BASICO 4* from US$337</g:description>
+      <g:description>BUENOS AIRES BASICO 4* from US$356</g:description>
       <g:link>https://www.estropical.com/en/idea/44026416/buenos-aires-basico-4-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44026416.jpg?v=3</g:image_link>
-      <g:price>337.00 USD</g:price>
+      <g:price>356.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2733,7 +2787,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -2749,11 +2803,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -2907,618 +2961,6 @@
       <g:link>https://www.estropical.com/en/idea/40397726/wonders-of-bulgaria-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/40397726.jpg?v=3</g:image_link>
       <g:price>2157.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305126</g:id>
-      <title>Balkan Tour Ends In Belgrade (2026)</title>
-      <description>Balkan Tour ends in Belgrade (2026) from US$5,558</description>
-      <g:title>Balkan Tour Ends In Belgrade (2026)</g:title>
-      <g:description>Balkan Tour ends in Belgrade (2026) from US$5,558</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305126/balkan-tour-ends-in-belgrade-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305126.jpg?v=3</g:image_link>
-      <g:price>5558.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305120</g:id>
-      <title>Viena con Historias y Castillos Checos (2026)</title>
-      <description>Viena con historias y castillos checos (2026) from US$1,771</description>
-      <g:title>Viena con Historias y Castillos Checos (2026)</g:title>
-      <g:description>Viena con historias y castillos checos (2026) from US$1,771</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305120/viena-con-historias-y-castillos-checos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305120.jpg?v=3</g:image_link>
-      <g:price>1771.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305117</g:id>
-      <title>Triángulo Checo (2026)</title>
-      <description>Triángulo Checo (2026) from US$1,788</description>
-      <g:title>Triángulo Checo (2026)</g:title>
-      <g:description>Triángulo Checo (2026) from US$1,788</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305117/triangulo-checo-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305117.jpg?v=3</g:image_link>
-      <g:price>1788.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305114</g:id>
-      <title>Todo Chequia y Polonia (2026)</title>
-      <description>Todo Chequia y Polonia (2026) from US$3,926</description>
-      <g:title>Todo Chequia y Polonia (2026)</g:title>
-      <g:description>Todo Chequia y Polonia (2026) from US$3,926</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305114/todo-chequia-y-polonia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305114.jpg?v=3</g:image_link>
-      <g:price>3926.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305105</g:id>
-      <title>Enchanted Routes of Austria, Germany &amp; Czechia (2026)</title>
-      <description>Enchanted Routes of Austria, Germany &amp; Czechia (2026) from US$4,900</description>
-      <g:title>Enchanted Routes of Austria, Germany &amp; Czechia (2026)</g:title>
-      <g:description>Enchanted Routes of Austria, Germany &amp; Czechia (2026) from US$4,900</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305105/enchanted-routes-of-austria-germany-czechia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305105.jpg?v=3</g:image_link>
-      <g:price>4900.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305099</g:id>
-      <title>The Whole of Romania (2026)</title>
-      <description>The whole of Romania (2026) from US$2,597</description>
-      <g:title>The Whole of Romania (2026)</g:title>
-      <g:description>The whole of Romania (2026) from US$2,597</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305099/the-whole-of-romania-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305099.jpg?v=3</g:image_link>
-      <g:price>2597.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305066</g:id>
-      <title>Northern Greece and the Bulgarian Triangle (2026)</title>
-      <description>Northern Greece and the Bulgarian triangle (2026) from US$2,871</description>
-      <g:title>Northern Greece and the Bulgarian Triangle (2026)</g:title>
-      <g:description>Northern Greece and the Bulgarian triangle (2026) from US$2,871</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305066/northern-greece-and-the-bulgarian-triangle-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305066.jpg?v=3</g:image_link>
-      <g:price>2871.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305057</g:id>
-      <title>Wonders of Bulgaria, Romania and Serbia (2026)</title>
-      <description>Wonders of Bulgaria, Romania and Serbia (2026) from US$6,176</description>
-      <g:title>Wonders of Bulgaria, Romania and Serbia (2026)</g:title>
-      <g:description>Wonders of Bulgaria, Romania and Serbia (2026) from US$6,176</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305057/wonders-of-bulgaria-romania-and-serbia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305057.jpg?v=3</g:image_link>
-      <g:price>6176.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305051</g:id>
-      <title>Best of Austria &amp; Switzerland (2026)</title>
-      <description>Best of Austria &amp; Switzerland (2026) from US$4,214</description>
-      <g:title>Best of Austria &amp; Switzerland (2026)</g:title>
-      <g:description>Best of Austria &amp; Switzerland (2026) from US$4,214</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305051/best-of-austria-switzerland-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305051.jpg?v=3</g:image_link>
-      <g:price>4214.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305045</g:id>
-      <title>Greek Islands and Bulgarian Triangle (2026)</title>
-      <description>Greek Islands and Bulgarian Triangle (2026) from US$5,867</description>
-      <g:title>Greek Islands and Bulgarian Triangle (2026)</g:title>
-      <g:description>Greek Islands and Bulgarian Triangle (2026) from US$5,867</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305045/greek-islands-and-bulgarian-triangle-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305045.jpg?v=3</g:image_link>
-      <g:price>5867.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305042</g:id>
-      <title>Must-sees of Czechia &amp; Austria – Ending In Vienna (2026)</title>
-      <description>Must-Sees of Czechia &amp; Austria – Ending in Vienna (2026) from US$3,033</description>
-      <g:title>Must-sees of Czechia &amp; Austria – Ending In Vienna (2026)</g:title>
-      <g:description>Must-Sees of Czechia &amp; Austria – Ending in Vienna (2026) from US$3,033</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305042/must-sees-of-czechia-austria-ending-in-vienna-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305042.jpg?v=3</g:image_link>
-      <g:price>3033.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305039</g:id>
-      <title>Must-sees of Czechia &amp; Austria – Ending In Prague (2026)</title>
-      <description>Must-Sees of Czechia &amp; Austria – Ending in Prague (2026) from US$2,627</description>
-      <g:title>Must-sees of Czechia &amp; Austria – Ending In Prague (2026)</g:title>
-      <g:description>Must-Sees of Czechia &amp; Austria – Ending in Prague (2026) from US$2,627</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305039/must-sees-of-czechia-austria-ending-in-prague-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305039.jpg?v=3</g:image_link>
-      <g:price>2627.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305021</g:id>
-      <title>Entre Historias y Castillos a Polonia Esencial (2026)</title>
-      <description>Entre historias y castillos a Polonia Esencial (2026) from US$2,589</description>
-      <g:title>Entre Historias y Castillos a Polonia Esencial (2026)</g:title>
-      <g:description>Entre historias y castillos a Polonia Esencial (2026) from US$2,589</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305021/entre-historias-y-castillos-a-polonia-esencial-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305021.jpg?v=3</g:image_link>
-      <g:price>2589.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305018</g:id>
-      <title>Entre Historias y Castillos (2026)</title>
-      <description>Entre historias y castillos (2026) from US$1,097</description>
-      <g:title>Entre Historias y Castillos (2026)</g:title>
-      <g:description>Entre historias y castillos (2026) from US$1,097</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305018/entre-historias-y-castillos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305018.jpg?v=3</g:image_link>
-      <g:price>1097.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305006</g:id>
-      <title>Austrian Charms, Bavaria &amp; Alsace (2026)</title>
-      <description>Austrian Charms, Bavaria &amp; Alsace (2026) from US$3,947</description>
-      <g:title>Austrian Charms, Bavaria &amp; Alsace (2026)</g:title>
-      <g:description>Austrian Charms, Bavaria &amp; Alsace (2026) from US$3,947</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305006/austrian-charms-bavaria-alsace-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305006.jpg?v=3</g:image_link>
-      <g:price>3947.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304991</g:id>
-      <title>From Bucharest To Tirana (2026)</title>
-      <description>From Bucharest to Tirana (2026) from US$7,633</description>
-      <g:title>From Bucharest To Tirana (2026)</g:title>
-      <g:description>From Bucharest to Tirana (2026) from US$7,633</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304991/from-bucharest-to-tirana-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304991.jpg?v=3</g:image_link>
-      <g:price>7633.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304988</g:id>
-      <title>Corazón de Alemania y Perlas Checas (2026)</title>
-      <description>Corazón de Alemania y Perlas Checas (2026) from US$3,168</description>
-      <g:title>Corazón de Alemania y Perlas Checas (2026)</g:title>
-      <g:description>Corazón de Alemania y Perlas Checas (2026) from US$3,168</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304988/corazon-de-alemania-y-perlas-checas-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304988.jpg?v=3</g:image_link>
-      <g:price>3168.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304985</g:id>
-      <title>Heart of Albania (2026)</title>
-      <description>Heart of Albania (2026) from US$3,201</description>
-      <g:title>Heart of Albania (2026)</g:title>
-      <g:description>Heart of Albania (2026) from US$3,201</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304985/heart-of-albania-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304985.jpg?v=3</g:image_link>
-      <g:price>3201.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304982</g:id>
-      <title>Czechia, Austria &amp; Fairytale Route with Berlin (2026)</title>
-      <description>Czechia, Austria &amp; Fairytale Route with Berlin (2026) from US$5,019</description>
-      <g:title>Czechia, Austria &amp; Fairytale Route with Berlin (2026)</g:title>
-      <g:description>Czechia, Austria &amp; Fairytale Route with Berlin (2026) from US$5,019</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304982/czechia-austria-fairytale-route-with-berlin-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304982.jpg?v=3</g:image_link>
-      <g:price>5019.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304973</g:id>
-      <title>Chequia Al Completo y Corazón de Polonia (2026)</title>
-      <description>Chequia al completo y Corazón de Polonia (2026) from US$2,652</description>
-      <g:title>Chequia Al Completo y Corazón de Polonia (2026)</g:title>
-      <g:description>Chequia al completo y Corazón de Polonia (2026) from US$2,652</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304973/chequia-al-completo-y-corazon-de-polonia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304973.jpg?v=3</g:image_link>
-      <g:price>2652.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304970</g:id>
-      <title>Bulgaria y Rumanía: Monasterios y Castillos de Leyenda (2026)</title>
-      <description>Bulgaria y Rumanía: Monasterios y Castillos de Leyenda (2026) from US$3,236</description>
-      <g:title>Bulgaria y Rumanía: Monasterios y Castillos de Leyenda (2026)</g:title>
-      <g:description>Bulgaria y Rumanía: Monasterios y Castillos de Leyenda (2026) from US$3,236</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304970/bulgaria-y-rumania-monasterios-y-castillos-de-leyenda-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304970.jpg?v=3</g:image_link>
-      <g:price>3236.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304967</g:id>
-      <title>Bohemia y Moravia Ii (2026)</title>
-      <description>Bohemia y Moravia II (2026) from US$1,420</description>
-      <g:title>Bohemia y Moravia Ii (2026)</g:title>
-      <g:description>Bohemia y Moravia II (2026) from US$1,420</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304967/bohemia-y-moravia-ii-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304967.jpg?v=3</g:image_link>
-      <g:price>1420.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304964</g:id>
-      <title>Bohemia y Moravia con Austria Impactante (2026)</title>
-      <description>Bohemia y Moravia con Austria impactante (2026) from US$2,615</description>
-      <g:title>Bohemia y Moravia con Austria Impactante (2026)</g:title>
-      <g:description>Bohemia y Moravia con Austria impactante (2026) from US$2,615</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304964/bohemia-y-moravia-con-austria-impactante-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304964.jpg?v=3</g:image_link>
-      <g:price>2615.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304961</g:id>
-      <title>Bohemia y Moravia (2026)</title>
-      <description>Bohemia y Moravia (2026) from US$1,787</description>
-      <g:title>Bohemia y Moravia (2026)</g:title>
-      <g:description>Bohemia y Moravia (2026) from US$1,787</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304961/bohemia-y-moravia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304961.jpg?v=3</g:image_link>
-      <g:price>1787.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304955</g:id>
-      <title>Berlín y Perlas Checas (2026)</title>
-      <description>Berlín y Perlas Checas (2026) from US$2,015</description>
-      <g:title>Berlín y Perlas Checas (2026)</g:title>
-      <g:description>Berlín y Perlas Checas (2026) from US$2,015</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304955/berlin-y-perlas-checas-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304955.jpg?v=3</g:image_link>
-      <g:price>2015.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304943</g:id>
-      <title>Austria, Moravia &amp; Unique Poland (2026)</title>
-      <description>Austria, Moravia &amp; Unique Poland (2026) from US$4,245</description>
-      <g:title>Austria, Moravia &amp; Unique Poland (2026)</g:title>
-      <g:description>Austria, Moravia &amp; Unique Poland (2026) from US$4,245</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304943/austria-moravia-unique-poland-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304943.jpg?v=3</g:image_link>
-      <g:price>4245.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304940</g:id>
-      <title>Austria, Moravia &amp; Wonders of Poland (2026)</title>
-      <description>Austria, Moravia &amp; Wonders of Poland (2026) from US$5,862</description>
-      <g:title>Austria, Moravia &amp; Wonders of Poland (2026)</g:title>
-      <g:description>Austria, Moravia &amp; Wonders of Poland (2026) from US$5,862</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304940/austria-moravia-wonders-of-poland-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304940.jpg?v=3</g:image_link>
-      <g:price>5862.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304937</g:id>
-      <title>Austria, Moravia &amp; the Heart of Poland (2026)</title>
-      <description>Austria, Moravia &amp; The Heart of Poland (2026) from US$5,228</description>
-      <g:title>Austria, Moravia &amp; the Heart of Poland (2026)</g:title>
-      <g:description>Austria, Moravia &amp; The Heart of Poland (2026) from US$5,228</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304937/austria-moravia-the-heart-of-poland-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304937.jpg?v=3</g:image_link>
-      <g:price>5228.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304934</g:id>
-      <title>Austria, Bavaria &amp; Moravia (2026)</title>
-      <description>Austria, Bavaria &amp; Moravia (2026) from US$3,615</description>
-      <g:title>Austria, Bavaria &amp; Moravia (2026)</g:title>
-      <g:description>Austria, Bavaria &amp; Moravia (2026) from US$3,615</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304934/austria-bavaria-moravia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304934.jpg?v=3</g:image_link>
-      <g:price>3615.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304931</g:id>
-      <title>Austria, Enchanted Germany &amp; Fairytale Route (2026)</title>
-      <description>Austria, Enchanted Germany &amp; Fairytale Route (2026) from US$4,223</description>
-      <g:title>Austria, Enchanted Germany &amp; Fairytale Route (2026)</g:title>
-      <g:description>Austria, Enchanted Germany &amp; Fairytale Route (2026) from US$4,223</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304931/austria-enchanted-germany-fairytale-route-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304931.jpg?v=3</g:image_link>
-      <g:price>4223.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304928</g:id>
-      <title>Austria and Its Charms (2026)</title>
-      <description>Austria and Its Charms (2026) from US$2,871</description>
-      <g:title>Austria and Its Charms (2026)</g:title>
-      <g:description>Austria and Its Charms (2026) from US$2,871</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304928/austria-and-its-charms-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304928.jpg?v=3</g:image_link>
-      <g:price>2871.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304925</g:id>
-      <title>Complete Austria, Bavaria &amp; Czechia (2026)</title>
-      <description>Complete Austria, Bavaria &amp; Czechia (2026) from US$3,391</description>
-      <g:title>Complete Austria, Bavaria &amp; Czechia (2026)</g:title>
-      <g:description>Complete Austria, Bavaria &amp; Czechia (2026) from US$3,391</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304925/complete-austria-bavaria-czechia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304925.jpg?v=3</g:image_link>
-      <g:price>3391.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304922</g:id>
-      <title>Complete Austria – Ending In Prague (2026)</title>
-      <description>Complete Austria – Ending in Prague (2026) from US$2,378</description>
-      <g:title>Complete Austria – Ending In Prague (2026)</g:title>
-      <g:description>Complete Austria – Ending in Prague (2026) from US$2,378</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304922/complete-austria-ending-in-prague-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304922.jpg?v=3</g:image_link>
-      <g:price>2378.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38304919</g:id>
-      <title>Complete Austria (2026)</title>
-      <description>Complete Austria (2026) from US$2,531</description>
-      <g:title>Complete Austria (2026)</g:title>
-      <g:description>Complete Austria (2026) from US$2,531</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304919/complete-austria-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304919.jpg?v=3</g:image_link>
-      <g:price>2531.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
