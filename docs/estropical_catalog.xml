@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-05-15 12:09 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-05-15T12:05:55.025046Z)
-  Total     : 487 products
+  Generated : 2026-05-16 11:14 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-05-16T11:14:06.223560Z)
+  Total     : 490 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -11,6 +11,538 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>53677216</g:id>
+      <title>Día de los Muertos en Ciudad de México</title>
+      <description>Día de los Muertos en Ciudad de México from US$1,004</description>
+      <g:title>Día de los Muertos en Ciudad de México</g:title>
+      <g:description>Día de los Muertos en Ciudad de México from US$1,004</g:description>
+      <g:link>https://www.estropical.com/en/idea/53677216/dia-de-los-muertos-en-ciudad-de-mexico</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53677216.jpg?v=3</g:image_link>
+      <g:price>1004.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Centroamérica</g:product_type>
+      <g:item_group_id>PAQUETE-CENTROAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Centroamérica</g:custom_label_1>
+      <g:custom_label_2>29 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>3 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53654449</g:id>
+      <title>Boleto Solo Ida a Oruro Desde Santa Cruz</title>
+      <description>Boleto SOLO IDA a Oruro desde Santa Cruz from US$78</description>
+      <g:title>Boleto Solo Ida a Oruro Desde Santa Cruz</g:title>
+      <g:description>Boleto SOLO IDA a Oruro desde Santa Cruz from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/53654449/boleto-solo-ida-a-oruro-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53654449.jpg?v=3</g:image_link>
+      <g:price>78.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Internacional</g:product_type>
+      <g:item_group_id>VUELO-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>10 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53654350</g:id>
+      <title>Boleto Solo Ida a Tarija Desde Santa Cruz</title>
+      <description>Boleto SOLO IDA a Tarija desde Santa Cruz from US$77</description>
+      <g:title>Boleto Solo Ida a Tarija Desde Santa Cruz</g:title>
+      <g:description>Boleto SOLO IDA a Tarija desde Santa Cruz from US$77</g:description>
+      <g:link>https://www.estropical.com/en/idea/53654350/boleto-solo-ida-a-tarija-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53654350.jpg?v=3</g:image_link>
+      <g:price>77.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Internacional</g:product_type>
+      <g:item_group_id>VUELO-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>10 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53654245</g:id>
+      <title>Boleto Solo Ida a Cochabamba Desde Santa Cruz</title>
+      <description>Boleto SOLO IDA a Cochabamba desde Santa Cruz from US$57</description>
+      <g:title>Boleto Solo Ida a Cochabamba Desde Santa Cruz</g:title>
+      <g:description>Boleto SOLO IDA a Cochabamba desde Santa Cruz from US$57</g:description>
+      <g:link>https://www.estropical.com/en/idea/53654245/boleto-solo-ida-a-cochabamba-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53654245.jpg?v=3</g:image_link>
+      <g:price>57.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Internacional</g:product_type>
+      <g:item_group_id>VUELO-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>10 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53654137</g:id>
+      <title>Boleto Solo Ida a la Paz Desde Santa Cruz</title>
+      <description>Boleto SOLO IDA a La Paz desde Santa Cruz from US$85</description>
+      <g:title>Boleto Solo Ida a la Paz Desde Santa Cruz</g:title>
+      <g:description>Boleto SOLO IDA a La Paz desde Santa Cruz from US$85</g:description>
+      <g:link>https://www.estropical.com/en/idea/53654137/boleto-solo-ida-a-la-paz-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53654137.jpg?v=3</g:image_link>
+      <g:price>85.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Internacional</g:product_type>
+      <g:item_group_id>VUELO-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>10 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53653993</g:id>
+      <title>Boleto a Montevideo Desde Santa Cruz</title>
+      <description>Boleto a Montevideo desde Santa Cruz from US$524</description>
+      <g:title>Boleto a Montevideo Desde Santa Cruz</g:title>
+      <g:description>Boleto a Montevideo desde Santa Cruz from US$524</g:description>
+      <g:link>https://www.estropical.com/en/idea/53653993/boleto-a-montevideo-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653993.jpg?v=3</g:image_link>
+      <g:price>524.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Internacional</g:product_type>
+      <g:item_group_id>VUELO-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>3 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>10 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53653870</g:id>
+      <title>Boleto Ida y Vuelta Hacia Asunción</title>
+      <description>Boleto ida y vuelta hacia Asunción from US$560</description>
+      <g:title>Boleto Ida y Vuelta Hacia Asunción</g:title>
+      <g:description>Boleto ida y vuelta hacia Asunción from US$560</g:description>
+      <g:link>https://www.estropical.com/en/idea/53653870/boleto-ida-y-vuelta-hacia-asuncion</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653870.jpg?v=3</g:image_link>
+      <g:price>560.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>10 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>15 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53653708</g:id>
+      <title>Boleto Ida y Vuelta Hacia Roma</title>
+      <description>Boleto ida y vuelta hacia Roma from US$1,192</description>
+      <g:title>Boleto Ida y Vuelta Hacia Roma</g:title>
+      <g:description>Boleto ida y vuelta hacia Roma from US$1,192</g:description>
+      <g:link>https://www.estropical.com/en/idea/53653708/boleto-ida-y-vuelta-hacia-roma</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653708.jpg?v=3</g:image_link>
+      <g:price>1192.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Internacional</g:product_type>
+      <g:item_group_id>VUELO-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>17 Nov 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53653528</g:id>
+      <title>Boleto Ida y Vuelta Hacia Washington Dc</title>
+      <description>Boleto ida y vuelta hacia Washington DC from US$1,330</description>
+      <g:title>Boleto Ida y Vuelta Hacia Washington Dc</g:title>
+      <g:description>Boleto ida y vuelta hacia Washington DC from US$1,330</g:description>
+      <g:link>https://www.estropical.com/en/idea/53653528/boleto-ida-y-vuelta-hacia-washington-dc</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653528.jpg?v=3</g:image_link>
+      <g:price>1330.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Norteamérica</g:product_type>
+      <g:item_group_id>VUELO-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>5 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>13 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53653417</g:id>
+      <title>Boleto Ida y Vuelta Hacia Lima</title>
+      <description>Boleto ida y vuelta hacia Lima from US$492</description>
+      <g:title>Boleto Ida y Vuelta Hacia Lima</g:title>
+      <g:description>Boleto ida y vuelta hacia Lima from US$492</g:description>
+      <g:link>https://www.estropical.com/en/idea/53653417/boleto-ida-y-vuelta-hacia-lima</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653417.jpg?v=3</g:image_link>
+      <g:price>492.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>11 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>15 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53653279</g:id>
+      <title>Boleto Ida y Vuelta Hacia Río de Janeiro</title>
+      <description>Boleto ida y vuelta hacia Río de Janeiro from US$524</description>
+      <g:title>Boleto Ida y Vuelta Hacia Río de Janeiro</g:title>
+      <g:description>Boleto ida y vuelta hacia Río de Janeiro from US$524</g:description>
+      <g:link>https://www.estropical.com/en/idea/53653279/boleto-ida-y-vuelta-hacia-rio-de-janeiro</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653279.jpg?v=3</g:image_link>
+      <g:price>524.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>11 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>16 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53653183</g:id>
+      <title>Boleto Ida y Vuelta Hacia Madrid</title>
+      <description>Boleto ida y vuelta hacia Madrid from US$1,118</description>
+      <g:title>Boleto Ida y Vuelta Hacia Madrid</g:title>
+      <g:description>Boleto ida y vuelta hacia Madrid from US$1,118</g:description>
+      <g:link>https://www.estropical.com/en/idea/53653183/boleto-ida-y-vuelta-hacia-madrid</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653183.jpg?v=3</g:image_link>
+      <g:price>1118.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Europa</g:product_type>
+      <g:item_group_id>VUELO-EUROPA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+      <g:custom_label_2>13 Mar 2027</g:custom_label_2>
+      <g:custom_label_3>21 Mar 2027</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53653075</g:id>
+      <title>Boleto Ida y Vuelta Hacia Miami</title>
+      <description>Boleto ida y vuelta hacia Miami from US$828</description>
+      <g:title>Boleto Ida y Vuelta Hacia Miami</g:title>
+      <g:description>Boleto ida y vuelta hacia Miami from US$828</g:description>
+      <g:link>https://www.estropical.com/en/idea/53653075/boleto-ida-y-vuelta-hacia-miami</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653075.jpg?v=3</g:image_link>
+      <g:price>828.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Norteamérica</g:product_type>
+      <g:item_group_id>VUELO-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>12 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53652730</g:id>
+      <title>Boleto Ida y Vuelta Hacia Sao Paulo</title>
+      <description>Boleto ida y vuelta hacia Sao Paulo from US$444</description>
+      <g:title>Boleto Ida y Vuelta Hacia Sao Paulo</g:title>
+      <g:description>Boleto ida y vuelta hacia Sao Paulo from US$444</g:description>
+      <g:link>https://www.estropical.com/en/idea/53652730/boleto-ida-y-vuelta-hacia-sao-paulo</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53652730.jpg?v=3</g:image_link>
+      <g:price>444.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>12 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>16 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53652628</g:id>
+      <title>Boleto Ida y Vuelta Hacia Buenos Aires</title>
+      <description>Boleto ida y vuelta  hacia Buenos Aires from US$412</description>
+      <g:title>Boleto Ida y Vuelta Hacia Buenos Aires</g:title>
+      <g:description>Boleto ida y vuelta  hacia Buenos Aires from US$412</g:description>
+      <g:link>https://www.estropical.com/en/idea/53652628/boleto-ida-y-vuelta-hacia-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53652628.jpg?v=3</g:image_link>
+      <g:price>412.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>23 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>30 Jun 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53647891</g:id>
+      <title>Destino para Cada Emoción: Diversión | Paquete a Rio de Janeiro</title>
+      <description>Destino para cada Emoción: DIVERSIÓN | Paquete a Rio de Janeiro from US$1,635</description>
+      <g:title>Destino para Cada Emoción: Diversión | Paquete a Rio de Janeiro</g:title>
+      <g:description>Destino para cada Emoción: DIVERSIÓN | Paquete a Rio de Janeiro from US$1,635</g:description>
+      <g:link>https://www.estropical.com/en/idea/53647891/destino-para-cada-emocion-diversion-paquete-a-rio-de-janeiro</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53647891.jpg?v=3</g:image_link>
+      <g:price>1635.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>21 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53645155</g:id>
+      <title>Destinos para Cada Emoción | Paquete a Medellin</title>
+      <description>Destinos para cada emoción | Paquete a Medellin from US$1,714</description>
+      <g:title>Destinos para Cada Emoción | Paquete a Medellin</g:title>
+      <g:description>Destinos para cada emoción | Paquete a Medellin from US$1,714</g:description>
+      <g:link>https://www.estropical.com/en/idea/53645155/destinos-para-cada-emocion-paquete-a-medellin</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53645155.jpg?v=3</g:image_link>
+      <g:price>1714.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>14 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53644438</g:id>
+      <title>Destinos para Cada Emoción | Paquete a Lima</title>
+      <description>Destinos para cada emoción | Paquete a Lima from US$957</description>
+      <g:title>Destinos para Cada Emoción | Paquete a Lima</g:title>
+      <g:description>Destinos para cada emoción | Paquete a Lima from US$957</g:description>
+      <g:link>https://www.estropical.com/en/idea/53644438/destinos-para-cada-emocion-paquete-a-lima</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53644438.jpg?v=3</g:image_link>
+      <g:price>957.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>20 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53643772</g:id>
+      <title>Destinos para Cada Emoción | Paquete a Buenos Aires</title>
+      <description>Destinos para cada emoción | Paquete a Buenos Aires from US$930</description>
+      <g:title>Destinos para Cada Emoción | Paquete a Buenos Aires</g:title>
+      <g:description>Destinos para cada emoción | Paquete a Buenos Aires from US$930</g:description>
+      <g:link>https://www.estropical.com/en/idea/53643772/destinos-para-cada-emocion-paquete-a-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53643772.jpg?v=3</g:image_link>
+      <g:price>930.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>17 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53643109</g:id>
+      <title>Paquete a Camboriú + Beto Carrero</title>
+      <description>Paquete a Camboriú + Beto Carrero from US$269</description>
+      <g:title>Paquete a Camboriú + Beto Carrero</g:title>
+      <g:description>Paquete a Camboriú + Beto Carrero from US$269</g:description>
+      <g:link>https://www.estropical.com/en/idea/53643109/paquete-a-camboriu-beto-carrero</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53643109.jpg?v=3</g:image_link>
+      <g:price>269.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>9 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>14 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53641846</g:id>
+      <title>Paquete a Ushuaia + Tren del Fin del Mundo</title>
+      <description>Paquete a Ushuaia + Tren del Fin del Mundo from US$783</description>
+      <g:title>Paquete a Ushuaia + Tren del Fin del Mundo</g:title>
+      <g:description>Paquete a Ushuaia + Tren del Fin del Mundo from US$783</g:description>
+      <g:link>https://www.estropical.com/en/idea/53641846/paquete-a-ushuaia-tren-del-fin-del-mundo</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53641846.jpg?v=3</g:image_link>
+      <g:price>783.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>13 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>17 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53641510</g:id>
+      <title>Paquete a Bogotá Desde Santa Cruz</title>
+      <description>Paquete a Bogotá desde Santa Cruz from US$1,107</description>
+      <g:title>Paquete a Bogotá Desde Santa Cruz</g:title>
+      <g:description>Paquete a Bogotá desde Santa Cruz from US$1,107</g:description>
+      <g:link>https://www.estropical.com/en/idea/53641510/paquete-a-bogota-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53641510.jpg?v=3</g:image_link>
+      <g:price>1107.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>7 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>12 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53640457</g:id>
+      <title>Paquete a Asunción Desde Santa Cruz</title>
+      <description>Paquete a Asunción desde Santa Cruz from US$1,114</description>
+      <g:title>Paquete a Asunción Desde Santa Cruz</g:title>
+      <g:description>Paquete a Asunción desde Santa Cruz from US$1,114</g:description>
+      <g:link>https://www.estropical.com/en/idea/53640457/paquete-a-asuncion-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53640457.jpg?v=3</g:image_link>
+      <g:price>1114.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>10 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>15 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53639803</g:id>
+      <title>Paquete a Lima Desde Santa Cruz</title>
+      <description>Paquete a Lima desde Santa Cruz from US$760</description>
+      <g:title>Paquete a Lima Desde Santa Cruz</g:title>
+      <g:description>Paquete a Lima desde Santa Cruz from US$760</g:description>
+      <g:link>https://www.estropical.com/en/idea/53639803/paquete-a-lima-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53639803.jpg?v=3</g:image_link>
+      <g:price>760.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>11 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>15 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53639344</g:id>
+      <title>Paquete a Buenos Aires Desde Santa Cruz</title>
+      <description>Paquete a Buenos Aires desde Santa Cruz from US$730</description>
+      <g:title>Paquete a Buenos Aires Desde Santa Cruz</g:title>
+      <g:description>Paquete a Buenos Aires desde Santa Cruz from US$730</g:description>
+      <g:link>https://www.estropical.com/en/idea/53639344/paquete-a-buenos-aires-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53639344.jpg?v=3</g:image_link>
+      <g:price>730.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>8 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>12 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53638897</g:id>
+      <title>Paquete a Sao Paulo Desde Santa Cruz</title>
+      <description>Paquete a Sao Paulo desde Santa Cruz from US$821</description>
+      <g:title>Paquete a Sao Paulo Desde Santa Cruz</g:title>
+      <g:description>Paquete a Sao Paulo desde Santa Cruz from US$821</g:description>
+      <g:link>https://www.estropical.com/en/idea/53638897/paquete-a-sao-paulo-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53638897.jpg?v=3</g:image_link>
+      <g:price>821.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>18 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
 
     <item>
       <g:id>53585263</g:id>
@@ -8457,429 +8989,6 @@
       <g:link>https://www.estropical.com/en/idea/44293080/japan-s-beauties-with-nagasaki-south-korea-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293080.jpg?v=3</g:image_link>
       <g:price>8311.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44056956</g:id>
-      <title>Corazón de Alemania y Chequia Al Completo (2026)</title>
-      <description>Corazón de Alemania y Chequia al completo (2026) from US$3,616</description>
-      <g:title>Corazón de Alemania y Chequia Al Completo (2026)</g:title>
-      <g:description>Corazón de Alemania y Chequia al completo (2026) from US$3,616</g:description>
-      <g:link>https://www.estropical.com/en/idea/44056956/corazon-de-alemania-y-chequia-al-completo-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44056956.jpg?v=3</g:image_link>
-      <g:price>3616.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44056947</g:id>
-      <title>Berlín y Chequia Al Completo (2026)</title>
-      <description>Berlín y Chequia al completo (2026) from US$2,519</description>
-      <g:title>Berlín y Chequia Al Completo (2026)</g:title>
-      <g:description>Berlín y Chequia al completo (2026) from US$2,519</g:description>
-      <g:link>https://www.estropical.com/en/idea/44056947/berlin-y-chequia-al-completo-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44056947.jpg?v=3</g:image_link>
-      <g:price>2519.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44056944</g:id>
-      <title>Baviera y Triángulo Checo Inicio Berlín (2026)</title>
-      <description>Baviera y Triángulo checo inicio Berlín (2026) from US$2,450</description>
-      <g:title>Baviera y Triángulo Checo Inicio Berlín (2026)</g:title>
-      <g:description>Baviera y Triángulo checo inicio Berlín (2026) from US$2,450</g:description>
-      <g:link>https://www.estropical.com/en/idea/44056944/baviera-y-triangulo-checo-inicio-berlin-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44056944.jpg?v=3</g:image_link>
-      <g:price>2450.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44056941</g:id>
-      <title>Austria, Bavaria &amp; Magical Czechia (2026)</title>
-      <description>Austria, Bavaria &amp; Magical Czechia (2026) from US$3,862</description>
-      <g:title>Austria, Bavaria &amp; Magical Czechia (2026)</g:title>
-      <g:description>Austria, Bavaria &amp; Magical Czechia (2026) from US$3,862</g:description>
-      <g:link>https://www.estropical.com/en/idea/44056941/austria-bavaria-magical-czechia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44056941.jpg?v=3</g:image_link>
-      <g:price>3862.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44026416</g:id>
-      <title>Buenos Aires Basico 4*</title>
-      <description>BUENOS AIRES BASICO 4* from US$342</description>
-      <g:title>Buenos Aires Basico 4*</g:title>
-      <g:description>BUENOS AIRES BASICO 4* from US$342</g:description>
-      <g:link>https://www.estropical.com/en/idea/44026416/buenos-aires-basico-4-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44026416.jpg?v=3</g:image_link>
-      <g:price>342.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>43600626</g:id>
-      <title>Dubai Horizons with Cruise (2026)</title>
-      <description>Dubai Horizons with cruise (2026) from US$6,823</description>
-      <g:title>Dubai Horizons with Cruise (2026)</g:title>
-      <g:description>Dubai Horizons with cruise (2026) from US$6,823</g:description>
-      <g:link>https://www.estropical.com/en/idea/43600626/dubai-horizons-with-cruise-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43600626.jpg?v=3</g:image_link>
-      <g:price>6823.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>43394448</g:id>
-      <title>Dubai and the Entire United Arab Emirates (2026)</title>
-      <description>Dubai and the entire United Arab Emirates (2026) from US$2,620</description>
-      <g:title>Dubai and the Entire United Arab Emirates (2026)</g:title>
-      <g:description>Dubai and the entire United Arab Emirates (2026) from US$2,620</g:description>
-      <g:link>https://www.estropical.com/en/idea/43394448/dubai-and-the-entire-united-arab-emirates-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43394448.jpg?v=3</g:image_link>
-      <g:price>2620.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>43068630</g:id>
-      <title>North To South India (2026)</title>
-      <description>North to South India (2026) from US$6,803</description>
-      <g:title>North To South India (2026)</g:title>
-      <g:description>North to South India (2026) from US$6,803</g:description>
-      <g:link>https://www.estropical.com/en/idea/43068630/north-to-south-india-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/43068630.jpg?v=3</g:image_link>
-      <g:price>6803.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>42504681</g:id>
-      <title>Visa India</title>
-      <description>Visa India from US$78</description>
-      <g:title>Visa India</g:title>
-      <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
-      <g:price>78.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>10 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>11 Dec 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
-      <g:price>78.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>10 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>10 Dec 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>42504159</g:id>
-      <title>Visa Americana</title>
-      <description>Visa Americana from US$60</description>
-      <g:title>Visa Americana</g:title>
-      <g:description>Visa Americana from US$60</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504159/visa-americana</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504159.jpg?v=3</g:image_link>
-      <g:price>60.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>10 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>10 Dec 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>41746086</g:id>
-      <title>Nepal and Bhutan Extension (2026)</title>
-      <description>Nepal and Bhutan Extension (2026) from US$6,323</description>
-      <g:title>Nepal and Bhutan Extension (2026)</g:title>
-      <g:description>Nepal and Bhutan Extension (2026) from US$6,323</g:description>
-      <g:link>https://www.estropical.com/en/idea/41746086/nepal-and-bhutan-extension-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41746086.jpg?v=3</g:image_link>
-      <g:price>6323.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41675483</g:id>
-      <title>Golden Triangle and Varanasi (2026)</title>
-      <description>Golden Triangle and Varanasi (2026) from US$2,549</description>
-      <g:title>Golden Triangle and Varanasi (2026)</g:title>
-      <g:description>Golden Triangle and Varanasi (2026) from US$2,549</g:description>
-      <g:link>https://www.estropical.com/en/idea/41675483/golden-triangle-and-varanasi-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41675483.jpg?v=3</g:image_link>
-      <g:price>2549.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41675477</g:id>
-      <title>Rajasthan with Khajuraho and Varanasi (2026)</title>
-      <description>Rajasthan with Khajuraho and Varanasi (2026) from US$4,296</description>
-      <g:title>Rajasthan with Khajuraho and Varanasi (2026)</g:title>
-      <g:description>Rajasthan with Khajuraho and Varanasi (2026) from US$4,296</g:description>
-      <g:link>https://www.estropical.com/en/idea/41675477/rajasthan-with-khajuraho-and-varanasi-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41675477.jpg?v=3</g:image_link>
-      <g:price>4296.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41675474</g:id>
-      <title>Fascinating India (2026)</title>
-      <description>Fascinating India (2026) from US$5,761</description>
-      <g:title>Fascinating India (2026)</g:title>
-      <g:description>Fascinating India (2026) from US$5,761</g:description>
-      <g:link>https://www.estropical.com/en/idea/41675474/fascinating-india-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41675474.jpg?v=3</g:image_link>
-      <g:price>5761.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41500025</g:id>
-      <title>Extension To White and Black Desert (2026)</title>
-      <description>Extension to white and black desert (2026) from US$1,688</description>
-      <g:title>Extension To White and Black Desert (2026)</g:title>
-      <g:description>Extension to white and black desert (2026) from US$1,688</g:description>
-      <g:link>https://www.estropical.com/en/idea/41500025/extension-to-white-and-black-desert-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41500025.jpg?v=3</g:image_link>
-      <g:price>1688.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>41029820</g:id>
-      <title>Hotel en Santa Cruz L Sirari Suites By Regina</title>
-      <description>Hotel en Santa Cruz l Sirari Suites by Regina from US$30</description>
-      <g:title>Hotel en Santa Cruz L Sirari Suites By Regina</g:title>
-      <g:description>Hotel en Santa Cruz l Sirari Suites by Regina from US$30</g:description>
-      <g:link>https://www.estropical.com/en/idea/41029820/hotel-en-santa-cruz-l-sirari-suites-by-regina</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/41029820.jpg?v=3</g:image_link>
-      <g:price>299.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>29 Jun 2026</g:custom_label_2>
-      <g:custom_label_3>30 Jun 2026</g:custom_label_3>
-      <g:custom_label_4>1 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>40397726</g:id>
-      <title>Wonders of Bulgaria (2026)</title>
-      <description>Wonders of Bulgaria (2026) from US$2,068</description>
-      <g:title>Wonders of Bulgaria (2026)</g:title>
-      <g:description>Wonders of Bulgaria (2026) from US$2,068</g:description>
-      <g:link>https://www.estropical.com/en/idea/40397726/wonders-of-bulgaria-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/40397726.jpg?v=3</g:image_link>
-      <g:price>2068.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305126</g:id>
-      <title>Balkan Tour Ends In Belgrade (2026)</title>
-      <description>Balkan Tour ends in Belgrade (2026) from US$5,329</description>
-      <g:title>Balkan Tour Ends In Belgrade (2026)</g:title>
-      <g:description>Balkan Tour ends in Belgrade (2026) from US$5,329</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305126/balkan-tour-ends-in-belgrade-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305126.jpg?v=3</g:image_link>
-      <g:price>5329.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305120</g:id>
-      <title>Viena con Historias y Castillos Checos (2026)</title>
-      <description>Viena con historias y castillos checos (2026) from US$1,698</description>
-      <g:title>Viena con Historias y Castillos Checos (2026)</g:title>
-      <g:description>Viena con historias y castillos checos (2026) from US$1,698</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305120/viena-con-historias-y-castillos-checos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305120.jpg?v=3</g:image_link>
-      <g:price>1698.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305117</g:id>
-      <title>Triángulo Checo (2026)</title>
-      <description>Triángulo Checo (2026) from US$1,715</description>
-      <g:title>Triángulo Checo (2026)</g:title>
-      <g:description>Triángulo Checo (2026) from US$1,715</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305117/triangulo-checo-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305117.jpg?v=3</g:image_link>
-      <g:price>1715.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305114</g:id>
-      <title>Todo Chequia y Polonia (2026)</title>
-      <description>Todo Chequia y Polonia (2026) from US$3,764</description>
-      <g:title>Todo Chequia y Polonia (2026)</g:title>
-      <g:description>Todo Chequia y Polonia (2026) from US$3,764</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305114/todo-chequia-y-polonia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305114.jpg?v=3</g:image_link>
-      <g:price>3764.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>38305105</g:id>
-      <title>Enchanted Routes of Austria, Germany &amp; Czechia (2026)</title>
-      <description>Enchanted Routes of Austria, Germany &amp; Czechia (2026) from US$4,698</description>
-      <g:title>Enchanted Routes of Austria, Germany &amp; Czechia (2026)</g:title>
-      <g:description>Enchanted Routes of Austria, Germany &amp; Czechia (2026) from US$4,698</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305105/enchanted-routes-of-austria-germany-czechia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305105.jpg?v=3</g:image_link>
-      <g:price>4698.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
