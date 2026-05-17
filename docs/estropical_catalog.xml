@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-05-16 11:14 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-05-16T11:14:06.223560Z)
+  Generated : 2026-05-17 11:17 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-05-17T11:16:29.740052Z)
   Total     : 490 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,752 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>53731420</g:id>
+      <title>Hotel en Santa Cruz | Hampton By Hilton 3*</title>
+      <description>Hotel en Santa Cruz | Hampton by Hilton 3* from US$44</description>
+      <g:title>Hotel en Santa Cruz | Hampton By Hilton 3*</g:title>
+      <g:description>Hotel en Santa Cruz | Hampton by Hilton 3* from US$44</g:description>
+      <g:link>https://www.estropical.com/en/idea/53731420/hotel-en-santa-cruz-hampton-by-hilton-3-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53731420.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>9 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>10 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53731318</g:id>
+      <title>Hotel en Santa Cruz | Swissotel 5*</title>
+      <description>Hotel en Santa Cruz | Swissotel 5* from US$41</description>
+      <g:title>Hotel en Santa Cruz | Swissotel 5*</g:title>
+      <g:description>Hotel en Santa Cruz | Swissotel 5* from US$41</g:description>
+      <g:link>https://www.estropical.com/en/idea/53731318/hotel-en-santa-cruz-swissotel-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53731318.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>3 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>4 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53731117</g:id>
+      <title>Hotel en Santa Cruz | Ibis 3*</title>
+      <description>Hotel en Santa Cruz | Ibis 3* from US$21</description>
+      <g:title>Hotel en Santa Cruz | Ibis 3*</g:title>
+      <g:description>Hotel en Santa Cruz | Ibis 3* from US$21</g:description>
+      <g:link>https://www.estropical.com/en/idea/53731117/hotel-en-santa-cruz-ibis-3-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53731117.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>11 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>12 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53730442</g:id>
+      <title>Hotel en Cochabamba | Gran Hotel Cochabamba 5*</title>
+      <description>Hotel en Cochabamba | Gran Hotel Cochabamba 5* from US$48</description>
+      <g:title>Hotel en Cochabamba | Gran Hotel Cochabamba 5*</g:title>
+      <g:description>Hotel en Cochabamba | Gran Hotel Cochabamba 5* from US$48</g:description>
+      <g:link>https://www.estropical.com/en/idea/53730442/hotel-en-cochabamba-gran-hotel-cochabamba-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53730442.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>11 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53728387</g:id>
+      <title>Hotel en Cochabamba L Toloma Gran Hotel 4*</title>
+      <description>Hotel en Cochabamba l Toloma Gran Hotel 4* from US$34</description>
+      <g:title>Hotel en Cochabamba L Toloma Gran Hotel 4*</g:title>
+      <g:description>Hotel en Cochabamba l Toloma Gran Hotel 4* from US$34</g:description>
+      <g:link>https://www.estropical.com/en/idea/53728387/hotel-en-cochabamba-l-toloma-gran-hotel-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53728387.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>20 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>21 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53728168</g:id>
+      <title>Actividad en Santa Cruz L Membresía Anual Terramia Resort 5*</title>
+      <description>Actividad en Santa Cruz l Membresía Anual Terramia Resort 5* from US$72</description>
+      <g:title>Actividad en Santa Cruz L Membresía Anual Terramia Resort 5*</g:title>
+      <g:description>Actividad en Santa Cruz l Membresía Anual Terramia Resort 5* from US$72</g:description>
+      <g:link>https://www.estropical.com/en/idea/53728168/actividad-en-santa-cruz-l-membresia-anual-terramia-resort-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53728168.jpg?v=3</g:image_link>
+      <g:price>72.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>13 May 2027</g:custom_label_2>
+      <g:custom_label_3>13 May 2027</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53728066</g:id>
+      <title>Hotel en Santa Cruz L Terramia Resort 5*</title>
+      <description>Hotel en Santa Cruz l Terramia Resort 5* from US$40</description>
+      <g:title>Hotel en Santa Cruz L Terramia Resort 5*</g:title>
+      <g:description>Hotel en Santa Cruz l Terramia Resort 5* from US$40</g:description>
+      <g:link>https://www.estropical.com/en/idea/53728066/hotel-en-santa-cruz-l-terramia-resort-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53728066.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>1 May 2027</g:custom_label_2>
+      <g:custom_label_3>2 May 2027</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53727595</g:id>
+      <title>De Fiesta por el Caribe en el Bahia Principe Escape Tequila 5*</title>
+      <description>De Fiesta Por El Caribe en el Bahia Principe Escape Tequila 5* from US$1,003</description>
+      <g:title>De Fiesta por el Caribe en el Bahia Principe Escape Tequila 5*</g:title>
+      <g:description>De Fiesta Por El Caribe en el Bahia Principe Escape Tequila 5* from US$1,003</g:description>
+      <g:link>https://www.estropical.com/en/idea/53727595/de-fiesta-por-el-caribe-en-el-bahia-principe-escape-tequila-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53727595.jpg?v=3</g:image_link>
+      <g:price>1003.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>7 Jun 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53727253</g:id>
+      <title>Montego Bay | Grand Palladium Lady Hamilton Resort &amp; Spa 5*</title>
+      <description>Montego Bay | Grand Palladium Lady Hamilton Resort &amp; Spa 5* from US$2,082</description>
+      <g:title>Montego Bay | Grand Palladium Lady Hamilton Resort &amp; Spa 5*</g:title>
+      <g:description>Montego Bay | Grand Palladium Lady Hamilton Resort &amp; Spa 5* from US$2,082</g:description>
+      <g:link>https://www.estropical.com/en/idea/53727253/montego-bay-grand-palladium-lady-hamilton-resort-spa-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53727253.jpg?v=3</g:image_link>
+      <g:price>2082.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>14 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>19 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53726722</g:id>
+      <title>Mundial 2026 Partido # 13 Arabia Saudí - Uruguay - Miami, Usa</title>
+      <description>Mundial 2026 Partido # 13 Arabia Saudí - Uruguay - Miami, USA from US$1,011</description>
+      <g:title>Mundial 2026 Partido # 13 Arabia Saudí - Uruguay - Miami, Usa</g:title>
+      <g:description>Mundial 2026 Partido # 13 Arabia Saudí - Uruguay - Miami, USA from US$1,011</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726722/mundial-2026-partido-13-arabia-saudi-uruguay-miami-usa</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726722.jpg?v=3</g:image_link>
+      <g:price>1011.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>13 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>16 Jun 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53726695</g:id>
+      <title>Moon Palace Cancún All Inclusive 5*</title>
+      <description>Moon Palace Cancún All Inclusive 5* from US$1,501</description>
+      <g:title>Moon Palace Cancún All Inclusive 5*</g:title>
+      <g:description>Moon Palace Cancún All Inclusive 5* from US$1,501</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726695/moon-palace-cancun-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726695.jpg?v=3</g:image_link>
+      <g:price>1501.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>21 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53726623</g:id>
+      <title>Oferta 7x6 en Grand Palladium Select Bávaro</title>
+      <description>Oferta 7x6 en Grand Palladium Select Bávaro from US$1,290</description>
+      <g:title>Oferta 7x6 en Grand Palladium Select Bávaro</g:title>
+      <g:description>Oferta 7x6 en Grand Palladium Select Bávaro from US$1,290</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726623/oferta-7x6-en-grand-palladium-select-bavaro</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726623.jpg?v=3</g:image_link>
+      <g:price>1290.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>14 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>21 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>7 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53726482</g:id>
+      <title>Caribe Familiar | Grand Oasis Palm 4</title>
+      <description>CARIBE FAMILIAR | Grand Oasis Palm 4 from US$757</description>
+      <g:title>Caribe Familiar | Grand Oasis Palm 4</g:title>
+      <g:description>CARIBE FAMILIAR | Grand Oasis Palm 4 from US$757</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726482/caribe-familiar-grand-oasis-palm-4</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726482.jpg?v=3</g:image_link>
+      <g:price>757.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>8 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>13 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53726386</g:id>
+      <title>Caribe Familiar | Vacaciones en Nickelodeon: Diversión Todo Incluido</title>
+      <description>CARIBE FAMILIAR | Vacaciones en Nickelodeon: Diversión Todo Incluido from US$1,115</description>
+      <g:title>Caribe Familiar | Vacaciones en Nickelodeon: Diversión Todo Incluido</g:title>
+      <g:description>CARIBE FAMILIAR | Vacaciones en Nickelodeon: Diversión Todo Incluido from US$1,115</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726386/caribe-familiar-vacaciones-en-nickelodeon-diversion-todo-incluido</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726386.jpg?v=3</g:image_link>
+      <g:price>1115.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>8 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>13 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53726239</g:id>
+      <title>Costa Mujeres | Planet Hollywood Cancun By Royalton 4* Sup</title>
+      <description>Costa Mujeres | Planet Hollywood Cancun by Royalton 4* Sup from US$1,095</description>
+      <g:title>Costa Mujeres | Planet Hollywood Cancun By Royalton 4* Sup</g:title>
+      <g:description>Costa Mujeres | Planet Hollywood Cancun by Royalton 4* Sup from US$1,095</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726239/costa-mujeres-planet-hollywood-cancun-by-royalton-4-sup</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726239.jpg?v=3</g:image_link>
+      <g:price>1095.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>19 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>24 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53726176</g:id>
+      <title>Caribe Familiar con Hospedaje Gratis para Niños | Hotel Xcaret Mexico</title>
+      <description>Caribe Familiar con Hospedaje Gratis Para Niños | Hotel Xcaret Mexico from US$2,719</description>
+      <g:title>Caribe Familiar con Hospedaje Gratis para Niños | Hotel Xcaret Mexico</g:title>
+      <g:description>Caribe Familiar con Hospedaje Gratis Para Niños | Hotel Xcaret Mexico from US$2,719</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726176/caribe-familiar-con-hospedaje-gratis-para-ninos-hotel-xcaret-mexico</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726176.jpg?v=3</g:image_link>
+      <g:price>2719.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>20 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>24 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53726101</g:id>
+      <title>Las Vegas + Michael Jackson One</title>
+      <description>LAS VEGAS + MICHAEL JACKSON ONE from US$774</description>
+      <g:title>Las Vegas + Michael Jackson One</g:title>
+      <g:description>LAS VEGAS + MICHAEL JACKSON ONE from US$774</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726101/las-vegas-michael-jackson-one</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726101.jpg?v=3</g:image_link>
+      <g:price>774.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>21 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53726056</g:id>
+      <title>Mi Primer Viaje a Varadero</title>
+      <description>Mi Primer Viaje a Varadero from US$1,827</description>
+      <g:title>Mi Primer Viaje a Varadero</g:title>
+      <g:description>Mi Primer Viaje a Varadero from US$1,827</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726056/mi-primer-viaje-a-varadero</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726056.jpg?v=3</g:image_link>
+      <g:price>1827.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>1 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>6 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53725951</g:id>
+      <title>Mi Primer Viaje a Punta Cana</title>
+      <description>Mi Primer Viaje a Punta Cana from US$1,654</description>
+      <g:title>Mi Primer Viaje a Punta Cana</g:title>
+      <g:description>Mi Primer Viaje a Punta Cana from US$1,654</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725951/mi-primer-viaje-a-punta-cana</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725951.jpg?v=3</g:image_link>
+      <g:price>1654.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>8 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53725942</g:id>
+      <title>Combo 2 Parques: Disfruta del Parque Xcaret Plus + Xoximilco</title>
+      <description>COMBO 2 PARQUES: Disfruta del Parque Xcaret Plus + Xoximilco from US$320</description>
+      <g:title>Combo 2 Parques: Disfruta del Parque Xcaret Plus + Xoximilco</g:title>
+      <g:description>COMBO 2 PARQUES: Disfruta del Parque Xcaret Plus + Xoximilco from US$320</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725942/combo-2-parques-disfruta-del-parque-xcaret-plus-xoximilco</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725942.jpg?v=3</g:image_link>
+      <g:price>320.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>11 Sep 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53725861</g:id>
+      <title>Mi Primer Viaje a Cancún</title>
+      <description>Mi Primer Viaje a Cancún from US$1,450</description>
+      <g:title>Mi Primer Viaje a Cancún</g:title>
+      <g:description>Mi Primer Viaje a Cancún from US$1,450</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725861/mi-primer-viaje-a-cancun</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725861.jpg?v=3</g:image_link>
+      <g:price>1450.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53725804</g:id>
+      <title>Combo 2 Parques: Disfruta de Xcaret Plus + Xichen Clasico Desde Riviera Maya</title>
+      <description>COMBO 2 PARQUES: Disfruta de Xcaret Plus + Xichen Clasico desde Riviera Maya from US$338</description>
+      <g:title>Combo 2 Parques: Disfruta de Xcaret Plus + Xichen Clasico Desde Riviera Maya</g:title>
+      <g:description>COMBO 2 PARQUES: Disfruta de Xcaret Plus + Xichen Clasico desde Riviera Maya from US$338</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725804/combo-2-parques-disfruta-de-xcaret-plus-xichen-clasico-desde-riviera-maya</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725804.jpg?v=3</g:image_link>
+      <g:price>338.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>17 Sep 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53725609</g:id>
+      <title>Colección de Lujo | Hard Rock Hotel los Cabos 5*</title>
+      <description>Colección de Lujo | Hard Rock Hotel Los Cabos 5* from US$1,471</description>
+      <g:title>Colección de Lujo | Hard Rock Hotel los Cabos 5*</g:title>
+      <g:description>Colección de Lujo | Hard Rock Hotel Los Cabos 5* from US$1,471</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725609/coleccion-de-lujo-hard-rock-hotel-los-cabos-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725609.jpg?v=3</g:image_link>
+      <g:price>1471.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>20 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>24 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53725342</g:id>
+      <title>Descubre el Parque Six Flags en Ciudad de México</title>
+      <description>Descubre el Parque SIX FLAGS en Ciudad de México from US$160</description>
+      <g:title>Descubre el Parque Six Flags en Ciudad de México</g:title>
+      <g:description>Descubre el Parque SIX FLAGS en Ciudad de México from US$160</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725342/descubre-el-parque-six-flags-en-ciudad-de-mexico</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725342.jpg?v=3</g:image_link>
+      <g:price>160.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Centroamérica</g:product_type>
+      <g:item_group_id>PAQUETE-CENTROAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Centroamérica</g:custom_label_1>
+      <g:custom_label_2>14 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>15 Aug 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53725261</g:id>
+      <title>Descubre el Parque Seaworld y Busch Gardens en Orlando</title>
+      <description>Descubre el Parque SEAWORLD Y BUSCH GARDENS en Orlando from US$195</description>
+      <g:title>Descubre el Parque Seaworld y Busch Gardens en Orlando</g:title>
+      <g:description>Descubre el Parque SEAWORLD Y BUSCH GARDENS en Orlando from US$195</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725261/descubre-el-parque-seaworld-y-busch-gardens-en-orlando</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725261.jpg?v=3</g:image_link>
+      <g:price>195.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>17 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>17 Sep 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53725168</g:id>
+      <title>Descubre el Parque Epic Universe en Orlando</title>
+      <description>Descubre el Parque Epic Universe en Orlando from US$342</description>
+      <g:title>Descubre el Parque Epic Universe en Orlando</g:title>
+      <g:description>Descubre el Parque Epic Universe en Orlando from US$342</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725168/descubre-el-parque-epic-universe-en-orlando</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725168.jpg?v=3</g:image_link>
+      <g:price>342.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>19 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>20 Jun 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53725126</g:id>
+      <title>Experiencia de 04 Parques de Disney en Orlando</title>
+      <description>Experiencia de 04 parques de Disney en Orlando from US$721</description>
+      <g:title>Experiencia de 04 Parques de Disney en Orlando</g:title>
+      <g:description>Experiencia de 04 parques de Disney en Orlando from US$721</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725126/experiencia-de-04-parques-de-disney-en-orlando</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725126.jpg?v=3</g:image_link>
+      <g:price>721.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>11 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>12 Jun 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53725057</g:id>
+      <title>Visita el Parque Xenses Desde Cancún</title>
+      <description>Visita el Parque Xenses desde Cancún from US$139</description>
+      <g:title>Visita el Parque Xenses Desde Cancún</g:title>
+      <g:description>Visita el Parque Xenses desde Cancún from US$139</g:description>
+      <g:link>https://www.estropical.com/en/idea/53725057/visita-el-parque-xenses-desde-cancun</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53725057.jpg?v=3</g:image_link>
+      <g:price>139.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>17 Sep 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53724979</g:id>
+      <title>Aloha Tropical en Hawai</title>
+      <description>Aloha Tropical en Hawai from US$1,042</description>
+      <g:title>Aloha Tropical en Hawai</g:title>
+      <g:description>Aloha Tropical en Hawai from US$1,042</g:description>
+      <g:link>https://www.estropical.com/en/idea/53724979/aloha-tropical-en-hawai</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53724979.jpg?v=3</g:image_link>
+      <g:price>1042.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>9 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>14 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53724820</g:id>
+      <title>Íconos de Washington en Invierno</title>
+      <description>Íconos de Washington en Invierno from US$913</description>
+      <g:title>Íconos de Washington en Invierno</g:title>
+      <g:description>Íconos de Washington en Invierno from US$913</g:description>
+      <g:link>https://www.estropical.com/en/idea/53724820/iconos-de-washington-en-invierno</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53724820.jpg?v=3</g:image_link>
+      <g:price>913.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>18 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>23 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53724688</g:id>
+      <title>Modo Verano | Miami Fly &amp; Drive</title>
+      <description>MODO VERANO | Miami Fly &amp; Drive from US$1,277</description>
+      <g:title>Modo Verano | Miami Fly &amp; Drive</g:title>
+      <g:description>MODO VERANO | Miami Fly &amp; Drive from US$1,277</g:description>
+      <g:link>https://www.estropical.com/en/idea/53724688/modo-verano-miami-fly-drive</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53724688.jpg?v=3</g:image_link>
+      <g:price>1277.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>11 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>17 Aug 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>53724457</g:id>
+      <title>Diversión en Parque de la Costa en Buenos Aires</title>
+      <description>Diversión en Parque de la Costa en Buenos Aires from US$561</description>
+      <g:title>Diversión en Parque de la Costa en Buenos Aires</g:title>
+      <g:description>Diversión en Parque de la Costa en Buenos Aires from US$561</g:description>
+      <g:link>https://www.estropical.com/en/idea/53724457/diversion-en-parque-de-la-costa-en-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53724457.jpg?v=3</g:image_link>
+      <g:price>561.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>14 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53723800</g:id>
+      <title>Foz Do Iguazú + Parque Dream Park</title>
+      <description>Foz do Iguazú + Parque Dream Park from US$283</description>
+      <g:title>Foz Do Iguazú + Parque Dream Park</g:title>
+      <g:description>Foz do Iguazú + Parque Dream Park from US$283</g:description>
+      <g:link>https://www.estropical.com/en/idea/53723800/foz-do-iguazu-parque-dream-park</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53723800.jpg?v=3</g:image_link>
+      <g:price>283.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>14 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53723674</g:id>
+      <title>Vacaciones en Hopi Hari &amp; Campos Do Jordao</title>
+      <description>Vacaciones en Hopi Hari &amp; Campos do Jordao from US$700</description>
+      <g:title>Vacaciones en Hopi Hari &amp; Campos Do Jordao</g:title>
+      <g:description>Vacaciones en Hopi Hari &amp; Campos do Jordao from US$700</g:description>
+      <g:link>https://www.estropical.com/en/idea/53723674/vacaciones-en-hopi-hari-campos-do-jordao</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53723674.jpg?v=3</g:image_link>
+      <g:price>700.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>20 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53723326</g:id>
+      <title>Destinos para Cada Emoción | Paquete a Cartagena</title>
+      <description>Destinos para cada emoción | Paquete a Cartagena from US$914</description>
+      <g:title>Destinos para Cada Emoción | Paquete a Cartagena</g:title>
+      <g:description>Destinos para cada emoción | Paquete a Cartagena from US$914</g:description>
+      <g:link>https://www.estropical.com/en/idea/53723326/destinos-para-cada-emocion-paquete-a-cartagena</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53723326.jpg?v=3</g:image_link>
+      <g:price>914.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>17 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>22 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53723302</g:id>
+      <title>Visita el Parque Xplor Fuego</title>
+      <description>Visita el Parque Xplor Fuego from US$194</description>
+      <g:title>Visita el Parque Xplor Fuego</g:title>
+      <g:description>Visita el Parque Xplor Fuego from US$194</g:description>
+      <g:link>https://www.estropical.com/en/idea/53723302/visita-el-parque-xplor-fuego</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53723302.jpg?v=3</g:image_link>
+      <g:price>194.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+    </item>
 
     <item>
       <g:id>53677216</g:id>
@@ -8341,654 +9087,6 @@
       <g:link>https://www.estropical.com/en/idea/44293287/balkan-tour-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293287.jpg?v=3</g:image_link>
       <g:price>2511.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293281</g:id>
-      <title>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026)</title>
-      <description>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026) from US$8,962</description>
-      <g:title>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026)</g:title>
-      <g:description>Volcanoes &amp; Sacred Mountains of Japan and Korea (2026) from US$8,962</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293281/volcanoes-sacred-mountains-of-japan-and-korea-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293281.jpg?v=3</g:image_link>
-      <g:price>8962.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293269</g:id>
-      <title>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026)</title>
-      <description>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026) from US$9,393</description>
-      <g:title>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026)</g:title>
-      <g:description>Tokyo, Mount Fuji, Kyoto, Nagasaki &amp; Korea (2026) from US$9,393</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293269/tokyo-mount-fuji-kyoto-nagasaki-korea-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293269.jpg?v=3</g:image_link>
-      <g:price>9393.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293266</g:id>
-      <title>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026)</title>
-      <description>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026) from US$5,652</description>
-      <g:title>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026)</g:title>
-      <g:description>Tokyo, Mount Fuji, Kyoto &amp; Treasures of Kyushu (2026) from US$5,652</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293266/tokyo-mount-fuji-kyoto-treasures-of-kyushu-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293266.jpg?v=3</g:image_link>
-      <g:price>5652.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293263</g:id>
-      <title>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026)</title>
-      <description>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026) from US$4,121</description>
-      <g:title>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026)</g:title>
-      <g:description>Tokyo, Mount Fuji, Kyoto &amp; Nagasaki (2026) from US$4,121</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293263/tokyo-mount-fuji-kyoto-nagasaki-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293263.jpg?v=3</g:image_link>
-      <g:price>4121.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293260</g:id>
-      <title>Tokyo, Kyoto, Southern Japan &amp; Korea (2026)</title>
-      <description>Tokyo, Kyoto, Southern Japan &amp; Korea (2026) from US$9,909</description>
-      <g:title>Tokyo, Kyoto, Southern Japan &amp; Korea (2026)</g:title>
-      <g:description>Tokyo, Kyoto, Southern Japan &amp; Korea (2026) from US$9,909</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293260/tokyo-kyoto-southern-japan-korea-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293260.jpg?v=3</g:image_link>
-      <g:price>9909.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293257</g:id>
-      <title>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026)</title>
-      <description>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026) from US$8,142</description>
-      <g:title>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026)</g:title>
-      <g:description>Tokyo, Kyoto, Kyushu Island &amp; Essential Korea (2026) from US$8,142</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293257/tokyo-kyoto-kyushu-island-essential-korea-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293257.jpg?v=3</g:image_link>
-      <g:price>8142.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293254</g:id>
-      <title>Tokyo, Kyoto &amp; the Land of Volcanoes (2026)</title>
-      <description>Tokyo, Kyoto &amp; the Land of Volcanoes (2026) from US$4,913</description>
-      <g:title>Tokyo, Kyoto &amp; the Land of Volcanoes (2026)</g:title>
-      <g:description>Tokyo, Kyoto &amp; the Land of Volcanoes (2026) from US$4,913</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293254/tokyo-kyoto-the-land-of-volcanoes-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293254.jpg?v=3</g:image_link>
-      <g:price>4913.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293251</g:id>
-      <title>Tokyo, Kyoto &amp; Nagasaki (2026)</title>
-      <description>Tokyo, Kyoto &amp; Nagasaki (2026) from US$3,359</description>
-      <g:title>Tokyo, Kyoto &amp; Nagasaki (2026)</g:title>
-      <g:description>Tokyo, Kyoto &amp; Nagasaki (2026) from US$3,359</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293251/tokyo-kyoto-nagasaki-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293251.jpg?v=3</g:image_link>
-      <g:price>3359.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293248</g:id>
-      <title>Tokyo, Kyoto &amp; Legends of Southern Japan (2026)</title>
-      <description>Tokyo, Kyoto &amp; Legends of Southern Japan (2026) from US$6,482</description>
-      <g:title>Tokyo, Kyoto &amp; Legends of Southern Japan (2026)</g:title>
-      <g:description>Tokyo, Kyoto &amp; Legends of Southern Japan (2026) from US$6,482</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293248/tokyo-kyoto-legends-of-southern-japan-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293248.jpg?v=3</g:image_link>
-      <g:price>6482.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293245</g:id>
-      <title>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026)</title>
-      <description>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026) from US$6,371</description>
-      <g:title>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026)</g:title>
-      <g:description>Lands of the Mekong: Thailand, Laos &amp; Cambodia (2026) from US$6,371</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293245/lands-of-the-mekong-thailand-laos-cambodia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293245.jpg?v=3</g:image_link>
-      <g:price>6371.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293242</g:id>
-      <title>Treasures of Kyushu (2026)</title>
-      <description>Treasures of Kyushu (2026) from US$2,643</description>
-      <g:title>Treasures of Kyushu (2026)</g:title>
-      <g:description>Treasures of Kyushu (2026) from US$2,643</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293242/treasures-of-kyushu-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293242.jpg?v=3</g:image_link>
-      <g:price>2643.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293224</g:id>
-      <title>Essential Thailand &amp; Mystical Laos with Cambodia (2026)</title>
-      <description>Essential Thailand &amp; Mystical Laos with Cambodia (2026) from US$6,308</description>
-      <g:title>Essential Thailand &amp; Mystical Laos with Cambodia (2026)</g:title>
-      <g:description>Essential Thailand &amp; Mystical Laos with Cambodia (2026) from US$6,308</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293224/essential-thailand-mystical-laos-with-cambodia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293224.jpg?v=3</g:image_link>
-      <g:price>6308.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293221</g:id>
-      <title>Classic Thailand, Laos &amp; Cambodia (2026)</title>
-      <description>Classic Thailand, Laos &amp; Cambodia (2026) from US$5,415</description>
-      <g:title>Classic Thailand, Laos &amp; Cambodia (2026)</g:title>
-      <g:description>Classic Thailand, Laos &amp; Cambodia (2026) from US$5,415</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293221/classic-thailand-laos-cambodia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293221.jpg?v=3</g:image_link>
-      <g:price>5415.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293215</g:id>
-      <title>Complete Thailand with Krabi (2026)</title>
-      <description>Complete Thailand with Krabi (2026) from US$3,845</description>
-      <g:title>Complete Thailand with Krabi (2026)</g:title>
-      <g:description>Complete Thailand with Krabi (2026) from US$3,845</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293215/complete-thailand-with-krabi-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293215.jpg?v=3</g:image_link>
-      <g:price>3845.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293212</g:id>
-      <title>Complete Thailand with Kanchanaburi – Ending In Chiang Rai (2026)</title>
-      <description>Complete Thailand with Kanchanaburi – Ending in Chiang Rai (2026) from US$2,401</description>
-      <g:title>Complete Thailand with Kanchanaburi – Ending In Chiang Rai (2026)</g:title>
-      <g:description>Complete Thailand with Kanchanaburi – Ending in Chiang Rai (2026) from US$2,401</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293212/complete-thailand-with-kanchanaburi-ending-in-chiang-rai-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293212.jpg?v=3</g:image_link>
-      <g:price>2401.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293209</g:id>
-      <title>Complete Thailand with Kanchanaburi – Ending In Bangkok (2026)</title>
-      <description>Complete Thailand with Kanchanaburi – Ending in Bangkok (2026) from US$2,807</description>
-      <g:title>Complete Thailand with Kanchanaburi – Ending In Bangkok (2026)</g:title>
-      <g:description>Complete Thailand with Kanchanaburi – Ending in Bangkok (2026) from US$2,807</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293209/complete-thailand-with-kanchanaburi-ending-in-bangkok-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293209.jpg?v=3</g:image_link>
-      <g:price>2807.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293206</g:id>
-      <title>Southern Japan with Hiroshima and Nagasaki (2026)</title>
-      <description>Southern Japan with Hiroshima and Nagasaki (2026) from US$4,240</description>
-      <g:title>Southern Japan with Hiroshima and Nagasaki (2026)</g:title>
-      <g:description>Southern Japan with Hiroshima and Nagasaki (2026) from US$4,240</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293206/southern-japan-with-hiroshima-and-nagasaki-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293206.jpg?v=3</g:image_link>
-      <g:price>4240.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293203</g:id>
-      <title>Singapore, Thailand, Laos &amp; Cambodia (2026)</title>
-      <description>Singapore, Thailand, Laos &amp; Cambodia (2026) from US$6,786</description>
-      <g:title>Singapore, Thailand, Laos &amp; Cambodia (2026)</g:title>
-      <g:description>Singapore, Thailand, Laos &amp; Cambodia (2026) from US$6,786</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293203/singapore-thailand-laos-cambodia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293203.jpg?v=3</g:image_link>
-      <g:price>6786.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293197</g:id>
-      <title>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026)</title>
-      <description>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026) from US$5,490</description>
-      <g:title>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026)</g:title>
-      <g:description>Singapore &amp; the Jewels of the Mekong with Thailand &amp; Laos (2026) from US$5,490</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293197/singapore-the-jewels-of-the-mekong-with-thailand-laos-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293197.jpg?v=3</g:image_link>
-      <g:price>5490.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293182</g:id>
-      <title>Northern Greece, Bulgaria and Romania (2026)</title>
-      <description>Northern Greece, Bulgaria and Romania (2026) from US$3,789</description>
-      <g:title>Northern Greece, Bulgaria and Romania (2026)</g:title>
-      <g:description>Northern Greece, Bulgaria and Romania (2026) from US$3,789</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293182/northern-greece-bulgaria-and-romania-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293182.jpg?v=3</g:image_link>
-      <g:price>3789.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293179</g:id>
-      <title>Wonders of Southeast Asia (2026)</title>
-      <description>Wonders of Southeast Asia (2026) from US$6,670</description>
-      <g:title>Wonders of Southeast Asia (2026)</g:title>
-      <g:description>Wonders of Southeast Asia (2026) from US$6,670</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293179/wonders-of-southeast-asia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293179.jpg?v=3</g:image_link>
-      <g:price>6670.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293170</g:id>
-      <title>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026)</title>
-      <description>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026) from US$7,013</description>
-      <g:title>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026)</g:title>
-      <g:description>Kyushu, Mount Koya, the Japanese Alps &amp; Tokyo (2026) from US$7,013</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293170/kyushu-mount-koya-the-japanese-alps-tokyo-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293170.jpg?v=3</g:image_link>
-      <g:price>7013.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293167</g:id>
-      <title>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026)</title>
-      <description>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026) from US$5,337</description>
-      <g:title>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026)</g:title>
-      <g:description>Jewels of Indochina: Thailand, Laos &amp; the Angkor Temples (2026) from US$5,337</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293167/jewels-of-indochina-thailand-laos-the-angkor-temples-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293167.jpg?v=3</g:image_link>
-      <g:price>5337.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293158</g:id>
-      <title>Dreamed Japan with Kyushu Island &amp; Express Korea (2026)</title>
-      <description>Dreamed Japan with Kyushu Island &amp; Express Korea (2026) from US$7,506</description>
-      <g:title>Dreamed Japan with Kyushu Island &amp; Express Korea (2026)</g:title>
-      <g:description>Dreamed Japan with Kyushu Island &amp; Express Korea (2026) from US$7,506</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293158/dreamed-japan-with-kyushu-island-express-korea-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293158.jpg?v=3</g:image_link>
-      <g:price>7506.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293155</g:id>
-      <title>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026)</title>
-      <description>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026) from US$8,553</description>
-      <g:title>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026)</g:title>
-      <g:description>Dreamed Japan with Kyushu Island &amp; Ancestral Korea (2026) from US$8,553</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293155/dreamed-japan-with-kyushu-island-ancestral-korea-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293155.jpg?v=3</g:image_link>
-      <g:price>8553.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293152</g:id>
-      <title>Deep Japan &amp; South Korea (2026)</title>
-      <description>Deep Japan &amp; South Korea (2026) from US$5,960</description>
-      <g:title>Deep Japan &amp; South Korea (2026)</g:title>
-      <g:description>Deep Japan &amp; South Korea (2026) from US$5,960</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293152/deep-japan-south-korea-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293152.jpg?v=3</g:image_link>
-      <g:price>5960.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293146</g:id>
-      <title>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026)</title>
-      <description>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026) from US$9,253</description>
-      <g:title>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026)</g:title>
-      <g:description>Unforgettable Japan with Kyushu &amp; Korean Tradition (2026) from US$9,253</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293146/unforgettable-japan-with-kyushu-korean-tradition-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293146.jpg?v=3</g:image_link>
-      <g:price>9253.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293143</g:id>
-      <title>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026)</title>
-      <description>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026) from US$10,335</description>
-      <g:title>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026)</g:title>
-      <g:description>Unforgettable Japan with Kyushu &amp; Korea’s Treasures (2026) from US$10,335</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293143/unforgettable-japan-with-kyushu-korea-s-treasures-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293143.jpg?v=3</g:image_link>
-      <g:price>10335.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293137</g:id>
-      <title>Essential Japan with Hiroshima and Nagasaki (2026)</title>
-      <description>Essential Japan with Hiroshima and Nagasaki (2026) from US$4,966</description>
-      <g:title>Essential Japan with Hiroshima and Nagasaki (2026)</g:title>
-      <g:description>Essential Japan with Hiroshima and Nagasaki (2026) from US$4,966</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293137/essential-japan-with-hiroshima-and-nagasaki-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293137.jpg?v=3</g:image_link>
-      <g:price>4966.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293134</g:id>
-      <title>Grand Tour of Japan: From Nagasaki To Sapporo (2026)</title>
-      <description>Grand Tour of Japan: From Nagasaki to Sapporo (2026) from US$10,973</description>
-      <g:title>Grand Tour of Japan: From Nagasaki To Sapporo (2026)</g:title>
-      <g:description>Grand Tour of Japan: From Nagasaki to Sapporo (2026) from US$10,973</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293134/grand-tour-of-japan-from-nagasaki-to-sapporo-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293134.jpg?v=3</g:image_link>
-      <g:price>10973.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293119</g:id>
-      <title>Essences of Thailand, Laos &amp; Cambodia (2026)</title>
-      <description>Essences of Thailand, Laos &amp; Cambodia (2026) from US$5,077</description>
-      <g:title>Essences of Thailand, Laos &amp; Cambodia (2026)</g:title>
-      <g:description>Essences of Thailand, Laos &amp; Cambodia (2026) from US$5,077</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293119/essences-of-thailand-laos-cambodia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293119.jpg?v=3</g:image_link>
-      <g:price>5077.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293116</g:id>
-      <title>Essence of Thailand – Ending In Chiang Rai (2026)</title>
-      <description>Essence of Thailand – Ending in Chiang Rai (2026) from US$2,046</description>
-      <g:title>Essence of Thailand – Ending In Chiang Rai (2026)</g:title>
-      <g:description>Essence of Thailand – Ending in Chiang Rai (2026) from US$2,046</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293116/essence-of-thailand-ending-in-chiang-rai-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293116.jpg?v=3</g:image_link>
-      <g:price>2046.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293113</g:id>
-      <title>Essence of Thailand – Ending In Bangkok (2026)</title>
-      <description>Essence of Thailand – Ending in Bangkok (2026) from US$2,312</description>
-      <g:title>Essence of Thailand – Ending In Bangkok (2026)</g:title>
-      <g:description>Essence of Thailand – Ending in Bangkok (2026) from US$2,312</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293113/essence-of-thailand-ending-in-bangkok-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293113.jpg?v=3</g:image_link>
-      <g:price>2312.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293101</g:id>
-      <title>Contrasts of Japan and Nagasaki (2026)</title>
-      <description>Contrasts of Japan and Nagasaki (2026) from US$5,849</description>
-      <g:title>Contrasts of Japan and Nagasaki (2026)</g:title>
-      <g:description>Contrasts of Japan and Nagasaki (2026) from US$5,849</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293101/contrasts-of-japan-and-nagasaki-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293101.jpg?v=3</g:image_link>
-      <g:price>5849.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293098</g:id>
-      <title>Contrasts of Japan and Kyushu Island (2026)</title>
-      <description>Contrasts of Japan and Kyushu Island (2026) from US$7,431</description>
-      <g:title>Contrasts of Japan and Kyushu Island (2026)</g:title>
-      <g:description>Contrasts of Japan and Kyushu Island (2026) from US$7,431</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293098/contrasts-of-japan-and-kyushu-island-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293098.jpg?v=3</g:image_link>
-      <g:price>7431.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293080</g:id>
-      <title>Japan’s Beauties with Nagasaki &amp; South Korea (2026)</title>
-      <description>Japan’s Beauties with Nagasaki &amp; South Korea (2026) from US$8,311</description>
-      <g:title>Japan’s Beauties with Nagasaki &amp; South Korea (2026)</g:title>
-      <g:description>Japan’s Beauties with Nagasaki &amp; South Korea (2026) from US$8,311</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293080/japan-s-beauties-with-nagasaki-south-korea-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293080.jpg?v=3</g:image_link>
-      <g:price>8311.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
