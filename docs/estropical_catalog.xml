@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-05-20 12:34 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-05-20T12:34:00.587312Z)
+  Generated : 2026-05-21 12:55 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-05-21T12:55:45.892225Z)
   Total     : 490 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,26 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>54018013</g:id>
+      <title>Boleto a Cartagena de Indias Desde Santa Cruz</title>
+      <description>Boleto a Cartagena de Indias desde Santa Cruz  from US$582</description>
+      <g:title>Boleto a Cartagena de Indias Desde Santa Cruz</g:title>
+      <g:description>Boleto a Cartagena de Indias desde Santa Cruz  from US$582</g:description>
+      <g:link>https://www.estropical.com/en/idea/54018013/boleto-a-cartagena-de-indias-desde-santa-cruz-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54018013.jpg?v=3</g:image_link>
+      <g:price>582.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>17 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>22 Oct 2026</g:custom_label_3>
+    </item>
 
     <item>
       <g:id>53731420</g:id>
@@ -922,12 +942,12 @@
     <item>
       <g:id>53653528</g:id>
       <title>Boleto Ida y Vuelta Hacia Washington Dc</title>
-      <description>Boleto ida y vuelta hacia Washington DC from US$1,330</description>
+      <description>Boleto ida y vuelta hacia Washington DC from US$986</description>
       <g:title>Boleto Ida y Vuelta Hacia Washington Dc</g:title>
-      <g:description>Boleto ida y vuelta hacia Washington DC from US$1,330</g:description>
+      <g:description>Boleto ida y vuelta hacia Washington DC from US$986</g:description>
       <g:link>https://www.estropical.com/en/idea/53653528/boleto-ida-y-vuelta-hacia-washington-dc</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653528.jpg?v=3</g:image_link>
-      <g:price>1330.00 USD</g:price>
+      <g:price>986.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -942,12 +962,12 @@
     <item>
       <g:id>53653417</g:id>
       <title>Boleto Ida y Vuelta Hacia Lima</title>
-      <description>Boleto ida y vuelta hacia Lima from US$492</description>
+      <description>Boleto ida y vuelta hacia Lima from US$548</description>
       <g:title>Boleto Ida y Vuelta Hacia Lima</g:title>
-      <g:description>Boleto ida y vuelta hacia Lima from US$492</g:description>
+      <g:description>Boleto ida y vuelta hacia Lima from US$548</g:description>
       <g:link>https://www.estropical.com/en/idea/53653417/boleto-ida-y-vuelta-hacia-lima</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53653417.jpg?v=3</g:image_link>
-      <g:price>492.00 USD</g:price>
+      <g:price>548.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1042,12 +1062,12 @@
     <item>
       <g:id>53652628</g:id>
       <title>Boleto Ida y Vuelta Hacia Buenos Aires</title>
-      <description>Boleto ida y vuelta  hacia Buenos Aires from US$412</description>
+      <description>Boleto ida y vuelta  hacia Buenos Aires from US$467</description>
       <g:title>Boleto Ida y Vuelta Hacia Buenos Aires</g:title>
-      <g:description>Boleto ida y vuelta  hacia Buenos Aires from US$412</g:description>
+      <g:description>Boleto ida y vuelta  hacia Buenos Aires from US$467</g:description>
       <g:link>https://www.estropical.com/en/idea/53652628/boleto-ida-y-vuelta-hacia-buenos-aires</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53652628.jpg?v=3</g:image_link>
-      <g:price>412.00 USD</g:price>
+      <g:price>467.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9069,24 +9089,6 @@
       <g:link>https://www.estropical.com/en/idea/44293290/balkan-tour-ending-in-dubrovnik-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293290.jpg?v=3</g:image_link>
       <g:price>4147.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293287</g:id>
-      <title>Balkan Tour (2026)</title>
-      <description>Balkan Tour (2026) from US$2,615</description>
-      <g:title>Balkan Tour (2026)</g:title>
-      <g:description>Balkan Tour (2026) from US$2,615</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293287/balkan-tour-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293287.jpg?v=3</g:image_link>
-      <g:price>2615.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
