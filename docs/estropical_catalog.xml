@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-05-24 11:26 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-05-24T11:26:44.848365Z)
-  Total     : 490 products
+  Generated : 2026-05-25 13:11 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-05-25T13:11:20.628091Z)
+  Total     : 491 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -9089,6 +9089,24 @@
       <g:link>https://www.estropical.com/en/idea/44293293/balkan-tour-ends-in-tirana-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293293.jpg?v=3</g:image_link>
       <g:price>4525.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>44293290</g:id>
+      <title>Balkan Tour Ending In Dubrovnik (2026)</title>
+      <description>Balkan Tour ending in Dubrovnik (2026) from US$4,147</description>
+      <g:title>Balkan Tour Ending In Dubrovnik (2026)</g:title>
+      <g:description>Balkan Tour ending in Dubrovnik (2026) from US$4,147</g:description>
+      <g:link>https://www.estropical.com/en/idea/44293290/balkan-tour-ending-in-dubrovnik-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293290.jpg?v=3</g:image_link>
+      <g:price>4147.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
