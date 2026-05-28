@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-05-27 13:03 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-05-27T13:03:05.570474Z)
+  Generated : 2026-05-28 13:58 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-05-28T13:58:42.099644Z)
   Total     : 491 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,27 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>54609764</g:id>
+      <title>Cartagena de Indias + Punta Arena</title>
+      <description>Cartagena de Indias + Punta Arena from US$897</description>
+      <g:title>Cartagena de Indias + Punta Arena</g:title>
+      <g:description>Cartagena de Indias + Punta Arena from US$897</g:description>
+      <g:link>https://www.estropical.com/en/idea/54609764/cartagena-de-indias-punta-arena</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54609764.jpg?v=3</g:image_link>
+      <g:price>897.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>17 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>22 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
 
     <item>
       <g:id>54387665</g:id>
@@ -801,12 +822,12 @@
     <item>
       <g:id>53724688</g:id>
       <title>Modo Verano | Miami Fly &amp; Drive</title>
-      <description>MODO VERANO | Miami Fly &amp; Drive from US$1,314</description>
+      <description>MODO VERANO | Miami Fly &amp; Drive from US$1,233</description>
       <g:title>Modo Verano | Miami Fly &amp; Drive</g:title>
-      <g:description>MODO VERANO | Miami Fly &amp; Drive from US$1,314</g:description>
+      <g:description>MODO VERANO | Miami Fly &amp; Drive from US$1,233</g:description>
       <g:link>https://www.estropical.com/en/idea/53724688/modo-verano-miami-fly-drive</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53724688.jpg?v=3</g:image_link>
-      <g:price>1314.00 USD</g:price>
+      <g:price>1233.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -1835,12 +1856,12 @@
     <item>
       <g:id>53585200</g:id>
       <title>Oc407 - Europa en Bandeja 26 Dias Mad/mad 26/27</title>
-      <description>OC407 - EUROPA EN BANDEJA 26 DIAS MAD/MAD 26/27 from US$7,045</description>
+      <description>OC407 - EUROPA EN BANDEJA 26 DIAS MAD/MAD 26/27 from US$7,056</description>
       <g:title>Oc407 - Europa en Bandeja 26 Dias Mad/mad 26/27</g:title>
-      <g:description>OC407 - EUROPA EN BANDEJA 26 DIAS MAD/MAD 26/27 from US$7,045</g:description>
+      <g:description>OC407 - EUROPA EN BANDEJA 26 DIAS MAD/MAD 26/27 from US$7,056</g:description>
       <g:link>https://www.estropical.com/en/idea/53585200/oc407-europa-en-bandeja-26-dias-mad-mad-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53585200.jpg?v=3</g:image_link>
-      <g:price>7045.00 USD</g:price>
+      <g:price>7056.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -2537,12 +2558,12 @@
     <item>
       <g:id>53585083</g:id>
       <title>Canada Magnifica con Nueva York 26/27</title>
-      <description>MM1009 CANADA MAGNIFICA CON NUEVA YORK 26/27 from US$5,879</description>
+      <description>MM1009 CANADA MAGNIFICA CON NUEVA YORK 26/27 from US$6,055</description>
       <g:title>Canada Magnifica con Nueva York 26/27</g:title>
-      <g:description>MM1009 CANADA MAGNIFICA CON NUEVA YORK 26/27 from US$5,879</g:description>
+      <g:description>MM1009 CANADA MAGNIFICA CON NUEVA YORK 26/27 from US$6,055</g:description>
       <g:link>https://www.estropical.com/en/idea/53585083/mm1009-canada-magnifica-con-nueva-york-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53585083.jpg?v=3</g:image_link>
-      <g:price>5879.00 USD</g:price>
+      <g:price>6055.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5507,12 +5528,12 @@
     <item>
       <g:id>53584582</g:id>
       <title>Singapur, Malasia y Bali 26/27</title>
-      <description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$3,141</description>
+      <description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$3,220</description>
       <g:title>Singapur, Malasia y Bali 26/27</g:title>
-      <g:description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$3,141</g:description>
+      <g:description>MM835 SINGAPUR, MALASIA Y BALI 26/27 from US$3,220</g:description>
       <g:link>https://www.estropical.com/en/idea/53584582/mm835-singapur-malasia-y-bali-26-27</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53584582.jpg?v=3</g:image_link>
-      <g:price>3141.00 USD</g:price>
+      <g:price>3220.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -7603,12 +7624,12 @@
     <item>
       <g:id>53083768</g:id>
       <title>Verano en South Beach Miami</title>
-      <description>Verano en South Beach Miami from US$1,381</description>
+      <description>Verano en South Beach Miami from US$1,247</description>
       <g:title>Verano en South Beach Miami</g:title>
-      <g:description>Verano en South Beach Miami from US$1,381</g:description>
+      <g:description>Verano en South Beach Miami from US$1,247</g:description>
       <g:link>https://www.estropical.com/en/idea/53083768/verano-en-south-beach-miami</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53083768.jpg?v=3</g:image_link>
-      <g:price>1381.00 USD</g:price>
+      <g:price>1247.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9077,24 +9098,6 @@
       <g:link>https://www.estropical.com/en/idea/44293290/balkan-tour-ending-in-dubrovnik-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293290.jpg?v=3</g:image_link>
       <g:price>4152.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293287</g:id>
-      <title>Balkan Tour (2026)</title>
-      <description>Balkan Tour (2026) from US$2,618</description>
-      <g:title>Balkan Tour (2026)</g:title>
-      <g:description>Balkan Tour (2026) from US$2,618</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293287/balkan-tour-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293287.jpg?v=3</g:image_link>
-      <g:price>2618.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
