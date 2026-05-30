@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-05-29 12:59 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-05-29T12:59:09.752946Z)
+  Generated : 2026-05-30 11:31 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-05-30T11:30:55.195219Z)
   Total     : 491 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,279 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>54779322</g:id>
+      <title>Hospedaje para Menores ¡gratis! | Hotel Xcaret Mexico 5*</title>
+      <description>Hospedaje para menores ¡GRATIS! | Hotel Xcaret Mexico 5* from US$1,596</description>
+      <g:title>Hospedaje para Menores ¡gratis! | Hotel Xcaret Mexico 5*</g:title>
+      <g:description>Hospedaje para menores ¡GRATIS! | Hotel Xcaret Mexico 5* from US$1,596</g:description>
+      <g:link>https://www.estropical.com/en/idea/54779322/hospedaje-para-menores-gratis-hotel-xcaret-mexico-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54779322.jpg?v=3</g:image_link>
+      <g:price>1596.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Centroamérica</g:product_type>
+      <g:item_group_id>HOTEL-CENTROAMERICA</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Centroamérica</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54775053</g:id>
+      <title>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5*</title>
+      <description>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5* from US$1,768</description>
+      <g:title>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5*</g:title>
+      <g:description>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5* from US$1,768</g:description>
+      <g:link>https://www.estropical.com/en/idea/54775053/paquete-a-playa-del-carmen-princess-family-club-riviera-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54775053.jpg?v=3</g:image_link>
+      <g:price>1768.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54772881</g:id>
+      <title>Paquete a Playa del Carmen | Grand Sunset Princess - All Inclusive 5*</title>
+      <description>Paquete a Playa del Carmen | Grand Sunset Princess - All Inclusive 5*  from US$1,725</description>
+      <g:title>Paquete a Playa del Carmen | Grand Sunset Princess - All Inclusive 5*</g:title>
+      <g:description>Paquete a Playa del Carmen | Grand Sunset Princess - All Inclusive 5*  from US$1,725</g:description>
+      <g:link>https://www.estropical.com/en/idea/54772881/paquete-a-playa-del-carmen-grand-sunset-princess-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54772881.jpg?v=3</g:image_link>
+      <g:price>1725.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>15 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>20 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54772266</g:id>
+      <title>Paquete a Playa del Carmen | Grand Riviera Princess 5*</title>
+      <description>Paquete a Playa del Carmen | Grand Riviera Princess 5* from US$1,618</description>
+      <g:title>Paquete a Playa del Carmen | Grand Riviera Princess 5*</g:title>
+      <g:description>Paquete a Playa del Carmen | Grand Riviera Princess 5* from US$1,618</g:description>
+      <g:link>https://www.estropical.com/en/idea/54772266/paquete-a-playa-del-carmen-grand-riviera-princess-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54772266.jpg?v=3</g:image_link>
+      <g:price>1618.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54762891</g:id>
+      <title>Viaja por Menos de 5100 Bs a Lima</title>
+      <description>Viaja por Menos de 5100 Bs a Lima from US$709</description>
+      <g:title>Viaja por Menos de 5100 Bs a Lima</g:title>
+      <g:description>Viaja por Menos de 5100 Bs a Lima from US$709</g:description>
+      <g:link>https://www.estropical.com/en/idea/54762891/viaja-por-menos-de-5100-bs-a-lima</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762891.jpg?v=3</g:image_link>
+      <g:price>709.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54762744</g:id>
+      <title>Viaja por Menos de 5100 Bs a Sao Paulo</title>
+      <description>Viaja por Menos de 5100 Bs a Sao Paulo from US$635</description>
+      <g:title>Viaja por Menos de 5100 Bs a Sao Paulo</g:title>
+      <g:description>Viaja por Menos de 5100 Bs a Sao Paulo from US$635</g:description>
+      <g:link>https://www.estropical.com/en/idea/54762744/viaja-por-menos-de-5100-bs-a-sao-paulo</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762744.jpg?v=3</g:image_link>
+      <g:price>635.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54761943</g:id>
+      <title>Viaja por Menos de 5100 Bs a Buenos Aires</title>
+      <description>Viaja por Menos de 5100 BS a Buenos Aires from US$650</description>
+      <g:title>Viaja por Menos de 5100 Bs a Buenos Aires</g:title>
+      <g:description>Viaja por Menos de 5100 BS a Buenos Aires from US$650</g:description>
+      <g:link>https://www.estropical.com/en/idea/54761943/viaja-por-menos-de-5100-bs-a-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54761943.jpg?v=3</g:image_link>
+      <g:price>650.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54757782</g:id>
+      <title>Paquete a Jamaica | Iberostar Waves Rose Hall Beach - All Inclusive 4*</title>
+      <description>Paquete a Jamaica | Iberostar Waves Rose Hall Beach - All Inclusive 4* from US$2,016</description>
+      <g:title>Paquete a Jamaica | Iberostar Waves Rose Hall Beach - All Inclusive 4*</g:title>
+      <g:description>Paquete a Jamaica | Iberostar Waves Rose Hall Beach - All Inclusive 4* from US$2,016</g:description>
+      <g:link>https://www.estropical.com/en/idea/54757782/paquete-a-jamaica-iberostar-waves-rose-hall-beach-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54757782.jpg?v=3</g:image_link>
+      <g:price>2016.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>14 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>19 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54757572</g:id>
+      <title>Paquete a Punta Cana | Iberostar Waves Punta Cana - All Inclusive 4*</title>
+      <description>Paquete a Punta Cana | Iberostar Waves Punta Cana - All Inclusive 4* from US$1,756</description>
+      <g:title>Paquete a Punta Cana | Iberostar Waves Punta Cana - All Inclusive 4*</g:title>
+      <g:description>Paquete a Punta Cana | Iberostar Waves Punta Cana - All Inclusive 4* from US$1,756</g:description>
+      <g:link>https://www.estropical.com/en/idea/54757572/paquete-a-punta-cana-iberostar-waves-punta-cana-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54757572.jpg?v=3</g:image_link>
+      <g:price>1756.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>8 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54757377</g:id>
+      <title>Paquete a Punta Cana | Iberostar Waves Dominicana All Inclusive 5*</title>
+      <description>Paquete a Punta Cana | Iberostar Waves Dominicana All Inclusive 5* from US$1,689</description>
+      <g:title>Paquete a Punta Cana | Iberostar Waves Dominicana All Inclusive 5*</g:title>
+      <g:description>Paquete a Punta Cana | Iberostar Waves Dominicana All Inclusive 5* from US$1,689</g:description>
+      <g:link>https://www.estropical.com/en/idea/54757377/paquete-a-punta-cana-iberostar-waves-dominicana-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54757377.jpg?v=3</g:image_link>
+      <g:price>1689.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>8 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54757167</g:id>
+      <title>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*</title>
+      <description>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*  from US$1,871</description>
+      <g:title>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*</g:title>
+      <g:description>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*  from US$1,871</g:description>
+      <g:link>https://www.estropical.com/en/idea/54757167/paquete-a-cancun-iberostar-selection-cancun-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54757167.jpg?v=3</g:image_link>
+      <g:price>1871.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54756849</g:id>
+      <title>Paquete a Riviera Maya | Iberostar Selection Paraíso Maya Suites 4*</title>
+      <description>Paquete a Riviera Maya | Iberostar Selection Paraíso Maya Suites 4* from US$2,054</description>
+      <g:title>Paquete a Riviera Maya | Iberostar Selection Paraíso Maya Suites 4*</g:title>
+      <g:description>Paquete a Riviera Maya | Iberostar Selection Paraíso Maya Suites 4* from US$2,054</g:description>
+      <g:link>https://www.estropical.com/en/idea/54756849/paquete-a-riviera-maya-iberostar-selection-paraiso-maya-suites-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54756849.jpg?v=3</g:image_link>
+      <g:price>2054.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54756522</g:id>
+      <title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</title>
+      <description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</description>
+      <g:title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</g:title>
+      <g:description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</g:description>
+      <g:link>https://www.estropical.com/en/idea/54756522/paquete-a-playa-del-carmen-joia-paraiso-by-iberostar-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54756522.jpg?v=3</g:image_link>
+      <g:price>2229.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
 
     <item>
       <g:id>54692277</g:id>
@@ -8910,244 +9183,6 @@
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_2>21 Dec 2026</g:custom_label_2>
       <g:custom_label_3>22 Dec 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>45409083</g:id>
-      <title>Mendoza Basico 3*</title>
-      <description>MENDOZA BASICO 3* from US$191</description>
-      <g:title>Mendoza Basico 3*</g:title>
-      <g:description>MENDOZA BASICO 3* from US$191</g:description>
-      <g:link>https://www.estropical.com/en/idea/45409083/mendoza-basico-3-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45409083.jpg?v=3</g:image_link>
-      <g:price>191.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>45409080</g:id>
-      <title>Mendoza Basico 4*</title>
-      <description>MENDOZA BASICO 4* from US$261</description>
-      <g:title>Mendoza Basico 4*</g:title>
-      <g:description>MENDOZA BASICO 4* from US$261</g:description>
-      <g:link>https://www.estropical.com/en/idea/45409080/mendoza-basico-4-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45409080.jpg?v=3</g:image_link>
-      <g:price>261.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>45409077</g:id>
-      <title>Mendoza Basico 5*</title>
-      <description>MENDOZA BASICO 5* from US$344</description>
-      <g:title>Mendoza Basico 5*</g:title>
-      <g:description>MENDOZA BASICO 5* from US$344</g:description>
-      <g:link>https://www.estropical.com/en/idea/45409077/mendoza-basico-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45409077.jpg?v=3</g:image_link>
-      <g:price>344.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>45341316</g:id>
-      <title>Qatar and Thailand (2026)</title>
-      <description>Qatar and Thailand (2026) from US$3,421</description>
-      <g:title>Qatar and Thailand (2026)</g:title>
-      <g:description>Qatar and Thailand (2026) from US$3,421</g:description>
-      <g:link>https://www.estropical.com/en/idea/45341316/qatar-and-thailand-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45341316.jpg?v=3</g:image_link>
-      <g:price>3421.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>45341274</g:id>
-      <title>Dubai and the Exotic East (2026)</title>
-      <description>Dubai and the Exotic East (2026) from US$3,586</description>
-      <g:title>Dubai and the Exotic East (2026)</g:title>
-      <g:description>Dubai and the Exotic East (2026) from US$3,586</g:description>
-      <g:link>https://www.estropical.com/en/idea/45341274/dubai-and-the-exotic-east-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45341274.jpg?v=3</g:image_link>
-      <g:price>3586.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>45301041</g:id>
-      <title>Iguazu Basico 3*</title>
-      <description>IGUAZU BASICO 3* from US$420</description>
-      <g:title>Iguazu Basico 3*</g:title>
-      <g:description>IGUAZU BASICO 3* from US$420</g:description>
-      <g:link>https://www.estropical.com/en/idea/45301041/iguazu-basico-3-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45301041.jpg?v=3</g:image_link>
-      <g:price>420.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>45301038</g:id>
-      <title>Iguazu Basico 4*</title>
-      <description>IGUAZU BASICO 4* from US$445</description>
-      <g:title>Iguazu Basico 4*</g:title>
-      <g:description>IGUAZU BASICO 4* from US$445</g:description>
-      <g:link>https://www.estropical.com/en/idea/45301038/iguazu-basico-4-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45301038.jpg?v=3</g:image_link>
-      <g:price>445.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>45301035</g:id>
-      <title>Iguazu Basico 5*</title>
-      <description>IGUAZU BASICO 5* from US$663</description>
-      <g:title>Iguazu Basico 5*</g:title>
-      <g:description>IGUAZU BASICO 5* from US$663</g:description>
-      <g:link>https://www.estropical.com/en/idea/45301035/iguazu-basico-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45301035.jpg?v=3</g:image_link>
-      <g:price>663.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44825835</g:id>
-      <title>Morocco, From Tangier To Rabat (2026)</title>
-      <description>Morocco, from Tangier to Rabat (2026) from US$2,443</description>
-      <g:title>Morocco, From Tangier To Rabat (2026)</g:title>
-      <g:description>Morocco, from Tangier to Rabat (2026) from US$2,443</g:description>
-      <g:link>https://www.estropical.com/en/idea/44825835/morocco-from-tangier-to-rabat-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44825835.jpg?v=3</g:image_link>
-      <g:price>2443.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44825832</g:id>
-      <title>Morocco, From Tangier To Marrakech (2026)</title>
-      <description>Morocco, from Tangier to Marrakech (2026) from US$1,676</description>
-      <g:title>Morocco, From Tangier To Marrakech (2026)</g:title>
-      <g:description>Morocco, from Tangier to Marrakech (2026) from US$1,676</g:description>
-      <g:link>https://www.estropical.com/en/idea/44825832/morocco-from-tangier-to-marrakech-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44825832.jpg?v=3</g:image_link>
-      <g:price>1676.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44825829</g:id>
-      <title>Surprising Morocco Ending In Casablanca (2026)</title>
-      <description>Surprising Morocco Ending in Casablanca (2026) from US$2,171</description>
-      <g:title>Surprising Morocco Ending In Casablanca (2026)</g:title>
-      <g:description>Surprising Morocco Ending in Casablanca (2026) from US$2,171</g:description>
-      <g:link>https://www.estropical.com/en/idea/44825829/surprising-morocco-ending-in-casablanca-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44825829.jpg?v=3</g:image_link>
-      <g:price>2171.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44731149</g:id>
-      <title>Concierto de Bruno Mars | París</title>
-      <description>Concierto de Bruno Mars | París from US$424</description>
-      <g:title>Concierto de Bruno Mars | París</g:title>
-      <g:description>Concierto de Bruno Mars | París from US$424</g:description>
-      <g:link>https://www.estropical.com/en/idea/44731149/concierto-de-bruno-mars-paris</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44731149.jpg?v=3</g:image_link>
-      <g:price>424.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-      <g:custom_label_2>18 Jun 2026</g:custom_label_2>
-      <g:custom_label_3>18 Jun 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>44717922</g:id>
-      <title>Concierto de Guns N' Roses | las Vegas</title>
-      <description>Concierto de Guns N' Roses | Las Vegas from US$259</description>
-      <g:title>Concierto de Guns N' Roses | las Vegas</g:title>
-      <g:description>Concierto de Guns N' Roses | Las Vegas from US$259</g:description>
-      <g:link>https://www.estropical.com/en/idea/44717922/concierto-de-guns-n-roses-las-vegas</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44717922.jpg?v=3</g:image_link>
-      <g:price>259.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>22 Aug 2026</g:custom_label_2>
-      <g:custom_label_3>22 Aug 2026</g:custom_label_3>
     </item>
 
   </channel>
