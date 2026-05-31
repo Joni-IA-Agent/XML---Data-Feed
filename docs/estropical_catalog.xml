@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-05-30 11:31 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-05-30T11:30:55.195219Z)
+  Generated : 2026-05-31 11:52 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-05-31T11:51:55.500131Z)
   Total     : 491 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -11,6 +11,90 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>54853062</g:id>
+      <title>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5*</title>
+      <description>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5* from US$1,726</description>
+      <g:title>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5*</g:title>
+      <g:description>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5* from US$1,726</g:description>
+      <g:link>https://www.estropical.com/en/idea/54853062/verano-en-costa-mujeres-catalonia-grand-costa-mujeres-all-suites-spa-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54853062.jpg?v=3</g:image_link>
+      <g:price>1726.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54852885</g:id>
+      <title>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4*</title>
+      <description>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4* from US$1,634</description>
+      <g:title>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4*</g:title>
+      <g:description>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4* from US$1,634</g:description>
+      <g:link>https://www.estropical.com/en/idea/54852885/verano-en-riviera-maya-catalonia-royal-tulum-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852885.jpg?v=3</g:image_link>
+      <g:price>1634.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54852717</g:id>
+      <title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</title>
+      <description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,524</description>
+      <g:title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</g:title>
+      <g:description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,524</g:description>
+      <g:link>https://www.estropical.com/en/idea/54852717/verano-en-riviera-maya-catalonia-playa-maroma-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852717.jpg?v=3</g:image_link>
+      <g:price>1524.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54852435</g:id>
+      <title>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3*</title>
+      <description>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3* from US$1,388</description>
+      <g:title>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3*</g:title>
+      <g:description>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3* from US$1,388</g:description>
+      <g:link>https://www.estropical.com/en/idea/54852435/verano-en-catalonia-2026-catalonia-yucatan-beach-all-inclusive-3-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852435.jpg?v=3</g:image_link>
+      <g:price>1388.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
 
     <item>
       <g:id>54779322</g:id>
@@ -9094,86 +9178,6 @@
       <g:link>https://www.estropical.com/en/idea/45566172/actividad-en-sucre-l-crater-de-maragua-privado</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45566172.jpg?v=3</g:image_link>
       <g:price>271.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>21 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>22 Dec 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>45489747</g:id>
-      <title>Actividad en Sucre L City Tour Full Day Tarabuco - Privado</title>
-      <description>Actividad en Sucre l City Tour Full Day Tarabuco - Privado from US$252</description>
-      <g:title>Actividad en Sucre L City Tour Full Day Tarabuco - Privado</g:title>
-      <g:description>Actividad en Sucre l City Tour Full Day Tarabuco - Privado from US$252</g:description>
-      <g:link>https://www.estropical.com/en/idea/45489747/actividad-en-sucre-l-city-tour-full-day-tarabuco-privado</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45489747.jpg?v=3</g:image_link>
-      <g:price>252.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>1 Nov 2026</g:custom_label_2>
-      <g:custom_label_3>1 Nov 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>45466137</g:id>
-      <title>Actividad en Sucre L Parque Cretácico - Privado</title>
-      <description>Actividad en Sucre l Parque Cretácico - Privado from US$85</description>
-      <g:title>Actividad en Sucre L Parque Cretácico - Privado</g:title>
-      <g:description>Actividad en Sucre l Parque Cretácico - Privado from US$85</g:description>
-      <g:link>https://www.estropical.com/en/idea/45466137/actividad-en-sucre-l-parque-cretacico-privado</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45466137.jpg?v=3</g:image_link>
-      <g:price>85.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>22 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>22 Dec 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>45463374</g:id>
-      <title>Actividad en Sucre L City Tour Full Day - Privado</title>
-      <description>Actividad en Sucre l City Tour Full Day - Privado from US$220</description>
-      <g:title>Actividad en Sucre L City Tour Full Day - Privado</g:title>
-      <g:description>Actividad en Sucre l City Tour Full Day - Privado from US$220</g:description>
-      <g:link>https://www.estropical.com/en/idea/45463374/actividad-en-sucre-l-city-tour-full-day-privado</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45463374.jpg?v=3</g:image_link>
-      <g:price>220.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>21 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>22 Dec 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>45460677</g:id>
-      <title>Actividad en Sucre L City Tour Medio Día - Privado</title>
-      <description>Actividad en Sucre l City Tour Medio Día - Privado from US$122</description>
-      <g:title>Actividad en Sucre L City Tour Medio Día - Privado</g:title>
-      <g:description>Actividad en Sucre l City Tour Medio Día - Privado from US$122</g:description>
-      <g:link>https://www.estropical.com/en/idea/45460677/actividad-en-sucre-l-city-tour-medio-dia-privado</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45460677.jpg?v=3</g:image_link>
-      <g:price>122.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
