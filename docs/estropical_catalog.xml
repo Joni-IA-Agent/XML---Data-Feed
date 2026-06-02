@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-06-01 16:06 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-06-01T16:06:34.194933Z)
-  Total     : 491 products
+  Generated : 2026-06-02 14:12 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-06-02T14:12:36.232227Z)
+  Total     : 492 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -11,6 +11,237 @@
     <title>Estropical — Vuelos, Hoteles y Paquetes</title>
     <link>https://www.estropical.com</link>
     <description>Catálogo oficial de vuelos, hoteles y paquetes turísticos de Estropical, agencia de viajes líder en Bolivia.</description>
+
+    <item>
+      <g:id>54762744</g:id>
+      <title>Viaja por Menos de 5100 Bs a Sao Paulo</title>
+      <description>Viaja por Menos de 5100 Bs a Sao Paulo from US$635</description>
+      <g:title>Viaja por Menos de 5100 Bs a Sao Paulo</g:title>
+      <g:description>Viaja por Menos de 5100 Bs a Sao Paulo from US$635</g:description>
+      <g:link>https://www.estropical.com/en/idea/54762744/viaja-por-menos-de-5100-bs-a-sao-paulo</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762744.jpg?v=3</g:image_link>
+      <g:price>635.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54761943</g:id>
+      <title>Viaja por Menos de 5100 Bs a Buenos Aires</title>
+      <description>Viaja por Menos de 5100 BS a Buenos Aires from US$650</description>
+      <g:title>Viaja por Menos de 5100 Bs a Buenos Aires</g:title>
+      <g:description>Viaja por Menos de 5100 BS a Buenos Aires from US$650</g:description>
+      <g:link>https://www.estropical.com/en/idea/54761943/viaja-por-menos-de-5100-bs-a-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54761943.jpg?v=3</g:image_link>
+      <g:price>650.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54762891</g:id>
+      <title>Viaja por Menos de 5100 Bs a Lima</title>
+      <description>Viaja por Menos de 5100 Bs a Lima from US$709</description>
+      <g:title>Viaja por Menos de 5100 Bs a Lima</g:title>
+      <g:description>Viaja por Menos de 5100 Bs a Lima from US$709</g:description>
+      <g:link>https://www.estropical.com/en/idea/54762891/viaja-por-menos-de-5100-bs-a-lima</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762891.jpg?v=3</g:image_link>
+      <g:price>709.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54692277</g:id>
+      <title>Feriado de Corpus Christi en Sao Paulo</title>
+      <description>Feriado de Corpus Christi en Sao Paulo  from US$874</description>
+      <g:title>Feriado de Corpus Christi en Sao Paulo</g:title>
+      <g:description>Feriado de Corpus Christi en Sao Paulo  from US$874</g:description>
+      <g:link>https://www.estropical.com/en/idea/54692277/feriado-de-corpus-christi-en-sao-paulo-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54692277.jpg?v=3</g:image_link>
+      <g:price>874.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>3 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>7 Jun 2026</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54691695</g:id>
+      <title>Feriado de Corpus Christi en Lima</title>
+      <description>Feriado de Corpus Christi en Lima from US$900</description>
+      <g:title>Feriado de Corpus Christi en Lima</g:title>
+      <g:description>Feriado de Corpus Christi en Lima from US$900</g:description>
+      <g:link>https://www.estropical.com/en/idea/54691695/feriado-de-corpus-christi-en-lima</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54691695.jpg?v=3</g:image_link>
+      <g:price>900.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>3 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>7 Jun 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54692001</g:id>
+      <title>Feriado de Corpus Christi en Buenos Aires</title>
+      <description>Feriado de Corpus Christi en Buenos Aires from US$948</description>
+      <g:title>Feriado de Corpus Christi en Buenos Aires</g:title>
+      <g:description>Feriado de Corpus Christi en Buenos Aires from US$948</g:description>
+      <g:link>https://www.estropical.com/en/idea/54692001/feriado-de-corpus-christi-en-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54692001.jpg?v=3</g:image_link>
+      <g:price>948.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>4 Jun 2026</g:custom_label_2>
+      <g:custom_label_3>7 Jun 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54609764</g:id>
+      <title>Cartagena de Indias + Punta Arena</title>
+      <description>Cartagena de Indias + Punta Arena from US$1,004</description>
+      <g:title>Cartagena de Indias + Punta Arena</g:title>
+      <g:description>Cartagena de Indias + Punta Arena from US$1,004</g:description>
+      <g:link>https://www.estropical.com/en/idea/54609764/cartagena-de-indias-punta-arena</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54609764.jpg?v=3</g:image_link>
+      <g:price>1004.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>17 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>22 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54852435</g:id>
+      <title>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3*</title>
+      <description>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3* from US$1,388</description>
+      <g:title>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3*</g:title>
+      <g:description>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3* from US$1,388</g:description>
+      <g:link>https://www.estropical.com/en/idea/54852435/verano-en-catalonia-2026-catalonia-yucatan-beach-all-inclusive-3-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852435.jpg?v=3</g:image_link>
+      <g:price>1388.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54852717</g:id>
+      <title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</title>
+      <description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,524</description>
+      <g:title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</g:title>
+      <g:description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,524</g:description>
+      <g:link>https://www.estropical.com/en/idea/54852717/verano-en-riviera-maya-catalonia-playa-maroma-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852717.jpg?v=3</g:image_link>
+      <g:price>1524.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>55058003</g:id>
+      <title>Hotel en Santa Cruz L Hotel Cortez 5*</title>
+      <description>Hotel en Santa Cruz l Hotel Cortez 5* from US$36</description>
+      <g:title>Hotel en Santa Cruz L Hotel Cortez 5*</g:title>
+      <g:description>Hotel en Santa Cruz l Hotel Cortez 5* from US$36</g:description>
+      <g:link>https://www.estropical.com/en/idea/55058003/hotel-en-santa-cruz-l-hotel-cortez-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55058003.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>30 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>31 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54957122</g:id>
+      <title>Buenos Aires en Cuotas | Salida Fija: 30 de Oct. Al 04 de Nov. 2026</title>
+      <description>Buenos Aires en Cuotas | Salida Fija: 30 de Oct. al 04 de Nov. 2026 from US$1,091</description>
+      <g:title>Buenos Aires en Cuotas | Salida Fija: 30 de Oct. Al 04 de Nov. 2026</g:title>
+      <g:description>Buenos Aires en Cuotas | Salida Fija: 30 de Oct. al 04 de Nov. 2026 from US$1,091</g:description>
+      <g:link>https://www.estropical.com/en/idea/54957122/buenos-aires-en-cuotas-salida-fija-30-de-oct-al-04-de-nov-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54957122.jpg?v=3</g:image_link>
+      <g:price>1091.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>30 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>4 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
 
     <item>
       <g:id>54853062</g:id>
@@ -51,48 +282,6 @@
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_2>10 Sep 2026</g:custom_label_2>
       <g:custom_label_3>15 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54852717</g:id>
-      <title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</title>
-      <description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,524</description>
-      <g:title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</g:title>
-      <g:description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,524</g:description>
-      <g:link>https://www.estropical.com/en/idea/54852717/verano-en-riviera-maya-catalonia-playa-maroma-all-inclusive-4-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852717.jpg?v=3</g:image_link>
-      <g:price>1524.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54852435</g:id>
-      <title>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3*</title>
-      <description>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3* from US$1,388</description>
-      <g:title>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3*</g:title>
-      <g:description>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3* from US$1,388</g:description>
-      <g:link>https://www.estropical.com/en/idea/54852435/verano-en-catalonia-2026-catalonia-yucatan-beach-all-inclusive-3-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852435.jpg?v=3</g:image_link>
-      <g:price>1388.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -178,69 +367,6 @@
       <g:custom_label_2>2 Oct 2026</g:custom_label_2>
       <g:custom_label_3>7 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54762891</g:id>
-      <title>Viaja por Menos de 5100 Bs a Lima</title>
-      <description>Viaja por Menos de 5100 Bs a Lima from US$709</description>
-      <g:title>Viaja por Menos de 5100 Bs a Lima</g:title>
-      <g:description>Viaja por Menos de 5100 Bs a Lima from US$709</g:description>
-      <g:link>https://www.estropical.com/en/idea/54762891/viaja-por-menos-de-5100-bs-a-lima</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762891.jpg?v=3</g:image_link>
-      <g:price>709.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>3 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54762744</g:id>
-      <title>Viaja por Menos de 5100 Bs a Sao Paulo</title>
-      <description>Viaja por Menos de 5100 Bs a Sao Paulo from US$635</description>
-      <g:title>Viaja por Menos de 5100 Bs a Sao Paulo</g:title>
-      <g:description>Viaja por Menos de 5100 Bs a Sao Paulo from US$635</g:description>
-      <g:link>https://www.estropical.com/en/idea/54762744/viaja-por-menos-de-5100-bs-a-sao-paulo</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762744.jpg?v=3</g:image_link>
-      <g:price>635.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>3 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54761943</g:id>
-      <title>Viaja por Menos de 5100 Bs a Buenos Aires</title>
-      <description>Viaja por Menos de 5100 BS a Buenos Aires from US$650</description>
-      <g:title>Viaja por Menos de 5100 Bs a Buenos Aires</g:title>
-      <g:description>Viaja por Menos de 5100 BS a Buenos Aires from US$650</g:description>
-      <g:link>https://www.estropical.com/en/idea/54761943/viaja-por-menos-de-5100-bs-a-buenos-aires</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54761943.jpg?v=3</g:image_link>
-      <g:price>650.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>3 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -370,69 +496,6 @@
     </item>
 
     <item>
-      <g:id>54692277</g:id>
-      <title>Feriado de Corpus Christi en Sao Paulo</title>
-      <description>Feriado de Corpus Christi en Sao Paulo  from US$874</description>
-      <g:title>Feriado de Corpus Christi en Sao Paulo</g:title>
-      <g:description>Feriado de Corpus Christi en Sao Paulo  from US$874</g:description>
-      <g:link>https://www.estropical.com/en/idea/54692277/feriado-de-corpus-christi-en-sao-paulo-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54692277.jpg?v=3</g:image_link>
-      <g:price>874.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>3 Jun 2026</g:custom_label_2>
-      <g:custom_label_3>7 Jun 2026</g:custom_label_3>
-      <g:custom_label_4>4 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54692001</g:id>
-      <title>Feriado de Corpus Christi en Buenos Aires</title>
-      <description>Feriado de Corpus Christi en Buenos Aires from US$948</description>
-      <g:title>Feriado de Corpus Christi en Buenos Aires</g:title>
-      <g:description>Feriado de Corpus Christi en Buenos Aires from US$948</g:description>
-      <g:link>https://www.estropical.com/en/idea/54692001/feriado-de-corpus-christi-en-buenos-aires</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54692001.jpg?v=3</g:image_link>
-      <g:price>948.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>4 Jun 2026</g:custom_label_2>
-      <g:custom_label_3>7 Jun 2026</g:custom_label_3>
-      <g:custom_label_4>3 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54691695</g:id>
-      <title>Feriado de Corpus Christi en Lima</title>
-      <description>Feriado de Corpus Christi en Lima from US$900</description>
-      <g:title>Feriado de Corpus Christi en Lima</g:title>
-      <g:description>Feriado de Corpus Christi en Lima from US$900</g:description>
-      <g:link>https://www.estropical.com/en/idea/54691695/feriado-de-corpus-christi-en-lima</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54691695.jpg?v=3</g:image_link>
-      <g:price>900.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>3 Jun 2026</g:custom_label_2>
-      <g:custom_label_3>7 Jun 2026</g:custom_label_3>
-      <g:custom_label_4>3 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>54690138</g:id>
       <title>Hotel en Santa Cruz L Swissotel 5*</title>
       <description>Hotel en Santa Cruz l Swissotel 5* from US$31</description>
@@ -451,27 +514,6 @@
       <g:custom_label_2>28 Nov 2026</g:custom_label_2>
       <g:custom_label_3>29 Nov 2026</g:custom_label_3>
       <g:custom_label_4>1 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54609764</g:id>
-      <title>Cartagena de Indias + Punta Arena</title>
-      <description>Cartagena de Indias + Punta Arena from US$1,004</description>
-      <g:title>Cartagena de Indias + Punta Arena</g:title>
-      <g:description>Cartagena de Indias + Punta Arena from US$1,004</g:description>
-      <g:link>https://www.estropical.com/en/idea/54609764/cartagena-de-indias-punta-arena</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54609764.jpg?v=3</g:image_link>
-      <g:price>1004.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>17 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>22 Oct 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -9167,26 +9209,6 @@
       <g:item_group_id>PAQUETE-CENTROAMERICA</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Centroamérica</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>45566172</g:id>
-      <title>Actividad en Sucre L Cráter de Maragua - Privado</title>
-      <description>Actividad en Sucre l Cráter de Maragua - Privado from US$271</description>
-      <g:title>Actividad en Sucre L Cráter de Maragua - Privado</g:title>
-      <g:description>Actividad en Sucre l Cráter de Maragua - Privado from US$271</g:description>
-      <g:link>https://www.estropical.com/en/idea/45566172/actividad-en-sucre-l-crater-de-maragua-privado</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45566172.jpg?v=3</g:image_link>
-      <g:price>271.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>21 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>22 Dec 2026</g:custom_label_3>
     </item>
 
   </channel>
