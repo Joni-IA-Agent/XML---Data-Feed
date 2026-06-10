@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-06-09 12:43 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-06-09T12:41:14.947964Z)
-  Total     : 264 products
+  Generated : 2026-06-10 13:02 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-06-10T13:02:31.828109Z)
+  Total     : 290 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -1231,7 +1231,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1247,11 +1247,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -5205,6 +5205,489 @@
       <g:link>https://www.estropical.com/en/idea/35273073/colors-of-morocco-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273073.jpg?v=3</g:image_link>
       <g:price>1770.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>53462230</g:id>
+      <title>Concierto Bts World Tour 2026 - la Plata - Argentina</title>
+      <description>Concierto BTS World Tour 2026 - La Plata - Argentina from US$1,822</description>
+      <g:title>Concierto Bts World Tour 2026 - la Plata - Argentina</g:title>
+      <g:description>Concierto BTS World Tour 2026 - La Plata - Argentina from US$1,822</g:description>
+      <g:link>https://www.estropical.com/en/idea/53462230/concierto-bts-world-tour-2026-la-plata-argentina</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53462230.jpg?v=3</g:image_link>
+      <g:price>1822.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>53726056</g:id>
+      <title>Mi Primer Viaje a Varadero</title>
+      <description>Mi Primer Viaje a Varadero from US$1,827</description>
+      <g:title>Mi Primer Viaje a Varadero</g:title>
+      <g:description>Mi Primer Viaje a Varadero from US$1,827</g:description>
+      <g:link>https://www.estropical.com/en/idea/53726056/mi-primer-viaje-a-varadero</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726056.jpg?v=3</g:image_link>
+      <g:price>1827.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>1 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>6 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>35272647</g:id>
+      <title>Atlas, Sahara (2026)</title>
+      <description>Atlas, Sahara (2026) from US$1,832</description>
+      <g:title>Atlas, Sahara (2026)</g:title>
+      <g:description>Atlas, Sahara (2026) from US$1,832</g:description>
+      <g:link>https://www.estropical.com/en/idea/35272647/atlas-sahara-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35272647.jpg?v=3</g:image_link>
+      <g:price>1832.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>45986357</g:id>
+      <title>Cuba Express (2026)</title>
+      <description>Cuba Express (2026) from US$1,834</description>
+      <g:title>Cuba Express (2026)</g:title>
+      <g:description>Cuba Express (2026) from US$1,834</g:description>
+      <g:link>https://www.estropical.com/en/idea/45986357/cuba-express-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986357.jpg?v=3</g:image_link>
+      <g:price>1834.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>54757167</g:id>
+      <title>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*</title>
+      <description>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*  from US$1,871</description>
+      <g:title>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*</g:title>
+      <g:description>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*  from US$1,871</g:description>
+      <g:link>https://www.estropical.com/en/idea/54757167/paquete-a-cancun-iberostar-selection-cancun-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54757167.jpg?v=3</g:image_link>
+      <g:price>1871.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>35274912</g:id>
+      <title>Madrid, Northern Spain and the Basque Country (2026)</title>
+      <description>Madrid, Northern Spain and the Basque Country (2026) from US$1,879</description>
+      <g:title>Madrid, Northern Spain and the Basque Country (2026)</g:title>
+      <g:description>Madrid, Northern Spain and the Basque Country (2026) from US$1,879</g:description>
+      <g:link>https://www.estropical.com/en/idea/35274912/madrid-northern-spain-and-the-basque-country-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35274912.jpg?v=3</g:image_link>
+      <g:price>1879.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35275605</g:id>
+      <title>Heading North End Stockholm (2026)</title>
+      <description>Heading North End Stockholm (2026) from US$1,906</description>
+      <g:title>Heading North End Stockholm (2026)</g:title>
+      <g:description>Heading North End Stockholm (2026) from US$1,906</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275605/heading-north-end-stockholm-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275605.jpg?v=3</g:image_link>
+      <g:price>1906.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35272878</g:id>
+      <title>Capitales Balticas de Estocolmo a Tallin (2026)</title>
+      <description>Capitales Balticas de Estocolmo a Tallin (2026) from US$1,912</description>
+      <g:title>Capitales Balticas de Estocolmo a Tallin (2026)</g:title>
+      <g:description>Capitales Balticas de Estocolmo a Tallin (2026) from US$1,912</g:description>
+      <g:link>https://www.estropical.com/en/idea/35272878/capitales-balticas-de-estocolmo-a-tallin-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35272878.jpg?v=3</g:image_link>
+      <g:price>1912.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35273319</g:id>
+      <title>From Madrid To Marrakech with Madrid (without Alhambra) (2026)</title>
+      <description>From Madrid to Marrakech with Madrid (Without Alhambra) (2026) from US$1,934</description>
+      <g:title>From Madrid To Marrakech with Madrid (without Alhambra) (2026)</g:title>
+      <g:description>From Madrid to Marrakech with Madrid (Without Alhambra) (2026) from US$1,934</g:description>
+      <g:link>https://www.estropical.com/en/idea/35273319/from-madrid-to-marrakech-with-madrid-without-alhambra-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273319.jpg?v=3</g:image_link>
+      <g:price>1934.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35275128</g:id>
+      <title>Oslo, Copenhagen and Poland (2026)</title>
+      <description>Oslo, Copenhagen and Poland (2026) from US$1,958</description>
+      <g:title>Oslo, Copenhagen and Poland (2026)</g:title>
+      <g:description>Oslo, Copenhagen and Poland (2026) from US$1,958</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275128/oslo-copenhagen-and-poland-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275128.jpg?v=3</g:image_link>
+      <g:price>1958.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>38304955</g:id>
+      <title>Berlín y Perlas Checas (2026)</title>
+      <description>Berlín y Perlas Checas (2026) from US$1,988</description>
+      <g:title>Berlín y Perlas Checas (2026)</g:title>
+      <g:description>Berlín y Perlas Checas (2026) from US$1,988</g:description>
+      <g:link>https://www.estropical.com/en/idea/38304955/berlin-y-perlas-checas-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304955.jpg?v=3</g:image_link>
+      <g:price>1988.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>54757782</g:id>
+      <title>Paquete a Jamaica | Iberostar Waves Rose Hall Beach - All Inclusive 4*</title>
+      <description>Paquete a Jamaica | Iberostar Waves Rose Hall Beach - All Inclusive 4* from US$2,016</description>
+      <g:title>Paquete a Jamaica | Iberostar Waves Rose Hall Beach - All Inclusive 4*</g:title>
+      <g:description>Paquete a Jamaica | Iberostar Waves Rose Hall Beach - All Inclusive 4* from US$2,016</g:description>
+      <g:link>https://www.estropical.com/en/idea/54757782/paquete-a-jamaica-iberostar-waves-rose-hall-beach-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54757782.jpg?v=3</g:image_link>
+      <g:price>2016.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>14 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>19 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>45986351</g:id>
+      <title>Cuba From West To East (2026)</title>
+      <description>Cuba from West to East (2026) from US$2,026</description>
+      <g:title>Cuba From West To East (2026)</g:title>
+      <g:description>Cuba from West to East (2026) from US$2,026</g:description>
+      <g:link>https://www.estropical.com/en/idea/45986351/cuba-from-west-to-east-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986351.jpg?v=3</g:image_link>
+      <g:price>2026.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35273316</g:id>
+      <title>From Madrid To Marrakech with Madrid (2026)</title>
+      <description>From Madrid to Marrakech with Madrid (2026) from US$2,026</description>
+      <g:title>From Madrid To Marrakech with Madrid (2026)</g:title>
+      <g:description>From Madrid to Marrakech with Madrid (2026) from US$2,026</g:description>
+      <g:link>https://www.estropical.com/en/idea/35273316/from-madrid-to-marrakech-with-madrid-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273316.jpg?v=3</g:image_link>
+      <g:price>2026.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35274369</g:id>
+      <title>Unique Greece (2026)</title>
+      <description>Unique Greece (2026) from US$2,029</description>
+      <g:title>Unique Greece (2026)</g:title>
+      <g:description>Unique Greece (2026) from US$2,029</g:description>
+      <g:link>https://www.estropical.com/en/idea/35274369/unique-greece-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35274369.jpg?v=3</g:image_link>
+      <g:price>2029.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>36467458</g:id>
+      <title>Tokio, Hakone y Monte Fuji (2026)</title>
+      <description>Tokio, Hakone y Monte Fuji (2026) from US$2,033</description>
+      <g:title>Tokio, Hakone y Monte Fuji (2026)</g:title>
+      <g:description>Tokio, Hakone y Monte Fuji (2026) from US$2,033</g:description>
+      <g:link>https://www.estropical.com/en/idea/36467458/tokio-hakone-y-monte-fuji-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/36467458.jpg?v=3</g:image_link>
+      <g:price>2033.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>37274053</g:id>
+      <title>Washington and New York (2026)</title>
+      <description>Washington and New York (2026) from US$2,036</description>
+      <g:title>Washington and New York (2026)</g:title>
+      <g:description>Washington and New York (2026) from US$2,036</g:description>
+      <g:link>https://www.estropical.com/en/idea/37274053/washington-and-new-york-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37274053.jpg?v=3</g:image_link>
+      <g:price>2036.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35272662</g:id>
+      <title>Austria, Baviera y Frankfurt (2026)</title>
+      <description>Austria, Baviera y Frankfurt (2026) from US$2,036</description>
+      <g:title>Austria, Baviera y Frankfurt (2026)</g:title>
+      <g:description>Austria, Baviera y Frankfurt (2026) from US$2,036</g:description>
+      <g:link>https://www.estropical.com/en/idea/35272662/austria-baviera-y-frankfurt-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35272662.jpg?v=3</g:image_link>
+      <g:price>2036.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35272815</g:id>
+      <title>Berlín, Copenhague, Estocolmo (2026)</title>
+      <description>Berlín, Copenhague, Estocolmo (2026) from US$2,052</description>
+      <g:title>Berlín, Copenhague, Estocolmo (2026)</g:title>
+      <g:description>Berlín, Copenhague, Estocolmo (2026) from US$2,052</g:description>
+      <g:link>https://www.estropical.com/en/idea/35272815/berlin-copenhague-estocolmo-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35272815.jpg?v=3</g:image_link>
+      <g:price>2052.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>54756849</g:id>
+      <title>Paquete a Riviera Maya | Iberostar Selection Paraíso Maya Suites 4*</title>
+      <description>Paquete a Riviera Maya | Iberostar Selection Paraíso Maya Suites 4* from US$2,054</description>
+      <g:title>Paquete a Riviera Maya | Iberostar Selection Paraíso Maya Suites 4*</g:title>
+      <g:description>Paquete a Riviera Maya | Iberostar Selection Paraíso Maya Suites 4* from US$2,054</g:description>
+      <g:link>https://www.estropical.com/en/idea/54756849/paquete-a-riviera-maya-iberostar-selection-paraiso-maya-suites-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54756849.jpg?v=3</g:image_link>
+      <g:price>2054.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>37831972</g:id>
+      <title>Chequia Al Completo (2026)</title>
+      <description>Chequia al completo (2026) from US$2,062</description>
+      <g:title>Chequia Al Completo (2026)</g:title>
+      <g:description>Chequia al completo (2026) from US$2,062</g:description>
+      <g:link>https://www.estropical.com/en/idea/37831972/chequia-al-completo-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37831972.jpg?v=3</g:image_link>
+      <g:price>2062.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>53727253</g:id>
+      <title>Montego Bay | Grand Palladium Lady Hamilton Resort &amp; Spa 5*</title>
+      <description>Montego Bay | Grand Palladium Lady Hamilton Resort &amp; Spa 5* from US$2,082</description>
+      <g:title>Montego Bay | Grand Palladium Lady Hamilton Resort &amp; Spa 5*</g:title>
+      <g:description>Montego Bay | Grand Palladium Lady Hamilton Resort &amp; Spa 5* from US$2,082</g:description>
+      <g:link>https://www.estropical.com/en/idea/53727253/montego-bay-grand-palladium-lady-hamilton-resort-spa-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53727253.jpg?v=3</g:image_link>
+      <g:price>2082.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>14 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>19 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>37831978</g:id>
+      <title>Chequia Mágica y Baviera (2026)</title>
+      <description>Chequia Mágica y Baviera (2026) from US$2,085</description>
+      <g:title>Chequia Mágica y Baviera (2026)</g:title>
+      <g:description>Chequia Mágica y Baviera (2026) from US$2,085</g:description>
+      <g:link>https://www.estropical.com/en/idea/37831978/chequia-magica-y-baviera-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37831978.jpg?v=3</g:image_link>
+      <g:price>2085.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>50585513</g:id>
+      <title>Thailand For Tourists (2026)</title>
+      <description>Thailand for Tourists (2026) from US$2,087</description>
+      <g:title>Thailand For Tourists (2026)</g:title>
+      <g:description>Thailand for Tourists (2026) from US$2,087</g:description>
+      <g:link>https://www.estropical.com/en/idea/50585513/thailand-for-tourists-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50585513.jpg?v=3</g:image_link>
+      <g:price>2087.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>44293116</g:id>
+      <title>Essence of Thailand – Ending In Chiang Rai (2026)</title>
+      <description>Essence of Thailand – Ending in Chiang Rai (2026) from US$2,106</description>
+      <g:title>Essence of Thailand – Ending In Chiang Rai (2026)</g:title>
+      <g:description>Essence of Thailand – Ending in Chiang Rai (2026) from US$2,106</g:description>
+      <g:link>https://www.estropical.com/en/idea/44293116/essence-of-thailand-ending-in-chiang-rai-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293116.jpg?v=3</g:image_link>
+      <g:price>2106.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>40397726</g:id>
+      <title>Wonders of Bulgaria (2026)</title>
+      <description>Wonders of Bulgaria (2026) from US$2,128</description>
+      <g:title>Wonders of Bulgaria (2026)</g:title>
+      <g:description>Wonders of Bulgaria (2026) from US$2,128</g:description>
+      <g:link>https://www.estropical.com/en/idea/40397726/wonders-of-bulgaria-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/40397726.jpg?v=3</g:image_link>
+      <g:price>2128.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
