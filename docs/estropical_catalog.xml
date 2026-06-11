@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-06-10 13:02 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-06-10T13:02:31.828109Z)
-  Total     : 290 products
+  Generated : 2026-06-11 14:05 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-06-11T14:04:59.647342Z)
+  Total     : 305 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -3670,6 +3670,27 @@
     </item>
 
     <item>
+      <g:id>55792103</g:id>
+      <title>Fiesta de Halloween Disney Mickey's Not So Scary en Orlando</title>
+      <description>Fiesta de Halloween Disney Mickey's Not So Scary en Orlando from US$836</description>
+      <g:title>Fiesta de Halloween Disney Mickey's Not So Scary en Orlando</g:title>
+      <g:description>Fiesta de Halloween Disney Mickey's Not So Scary en Orlando from US$836</g:description>
+      <g:link>https://www.estropical.com/en/idea/55792103/fiesta-de-halloween-disney-mickey-s-not-so-scary-en-orlando</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55792103.jpg?v=3</g:image_link>
+      <g:price>836.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>26 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>31 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>54692277</g:id>
       <title>Feriado de Corpus Christi en Sao Paulo</title>
       <description>Feriado de Corpus Christi en Sao Paulo  from US$874</description>
@@ -4885,6 +4906,27 @@
     </item>
 
     <item>
+      <g:id>55872095</g:id>
+      <title>Paquete a Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4*</title>
+      <description>Paquete a Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4* from US$1,624</description>
+      <g:title>Paquete a Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4*</g:title>
+      <g:description>Paquete a Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4* from US$1,624</g:description>
+      <g:link>https://www.estropical.com/en/idea/55872095/paquete-a-riviera-maya-bahia-principe-explore-coba-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55872095.jpg?v=3</g:image_link>
+      <g:price>1624.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>54852885</g:id>
       <title>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4*</title>
       <description>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4* from US$1,634</description>
@@ -5176,6 +5218,27 @@
     </item>
 
     <item>
+      <g:id>55871624</g:id>
+      <title>Paquete a Punta Cana | Bahia Principe Explore Punta Cana 5*</title>
+      <description>Paquete a Punta Cana | Bahia Principe Explore Punta Cana 5* from US$1,765</description>
+      <g:title>Paquete a Punta Cana | Bahia Principe Explore Punta Cana 5*</g:title>
+      <g:description>Paquete a Punta Cana | Bahia Principe Explore Punta Cana 5* from US$1,765</g:description>
+      <g:link>https://www.estropical.com/en/idea/55871624/paquete-a-punta-cana-bahia-principe-explore-punta-cana-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55871624.jpg?v=3</g:image_link>
+      <g:price>1765.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>8 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>54775053</g:id>
       <title>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5*</title>
       <description>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5* from US$1,768</description>
@@ -5212,6 +5275,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>55872365</g:id>
+      <title>Paquete a Riviera Maya | Bahia Principe Explore Tulum 5*</title>
+      <description>Paquete a Riviera Maya | Bahia Principe Explore Tulum 5* from US$1,804</description>
+      <g:title>Paquete a Riviera Maya | Bahia Principe Explore Tulum 5*</g:title>
+      <g:description>Paquete a Riviera Maya | Bahia Principe Explore Tulum 5* from US$1,804</g:description>
+      <g:link>https://www.estropical.com/en/idea/55872365/paquete-a-riviera-maya-bahia-principe-explore-tulum-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55872365.jpg?v=3</g:image_link>
+      <g:price>1804.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5365,6 +5449,27 @@
     </item>
 
     <item>
+      <g:id>55871840</g:id>
+      <title>Paquete a Punta Cana | Bahia Principe Explore Legend 5*</title>
+      <description>Paquete a Punta Cana | Bahia Principe Explore Legend 5* from US$1,919</description>
+      <g:title>Paquete a Punta Cana | Bahia Principe Explore Legend 5*</g:title>
+      <g:description>Paquete a Punta Cana | Bahia Principe Explore Legend 5* from US$1,919</g:description>
+      <g:link>https://www.estropical.com/en/idea/55871840/paquete-a-punta-cana-bahia-principe-explore-legend-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55871840.jpg?v=3</g:image_link>
+      <g:price>1919.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>8 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>35273319</g:id>
       <title>From Madrid To Marrakech with Madrid (without Alhambra) (2026)</title>
       <description>From Madrid to Marrakech with Madrid (Without Alhambra) (2026) from US$1,934</description>
@@ -5398,6 +5503,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>55871396</g:id>
+      <title>Paquete a Punta Cana | Bahia Principe Explore Esmeralda 5*</title>
+      <description>Paquete a Punta Cana | Bahia Principe EXPLORE Esmeralda 5* from US$1,961</description>
+      <g:title>Paquete a Punta Cana | Bahia Principe Explore Esmeralda 5*</g:title>
+      <g:description>Paquete a Punta Cana | Bahia Principe EXPLORE Esmeralda 5* from US$1,961</g:description>
+      <g:link>https://www.estropical.com/en/idea/55871396/paquete-a-punta-cana-bahia-principe-explore-esmeralda-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55871396.jpg?v=3</g:image_link>
+      <g:price>1961.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>8 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5688,6 +5814,171 @@
       <g:link>https://www.estropical.com/en/idea/40397726/wonders-of-bulgaria-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/40397726.jpg?v=3</g:image_link>
       <g:price>2128.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35273115</g:id>
+      <title>Copenhague, Estocolmo y Helsinki (2026)</title>
+      <description>Copenhague, Estocolmo y Helsinki (2026) from US$2,180</description>
+      <g:title>Copenhague, Estocolmo y Helsinki (2026)</g:title>
+      <g:description>Copenhague, Estocolmo y Helsinki (2026) from US$2,180</g:description>
+      <g:link>https://www.estropical.com/en/idea/35273115/copenhague-estocolmo-y-helsinki-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273115.jpg?v=3</g:image_link>
+      <g:price>2180.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35275038</g:id>
+      <title>Morocco, Tangier, Tangier Rot (2026)</title>
+      <description>Morocco, Tangier, Tangier ROT (2026) from US$2,185</description>
+      <g:title>Morocco, Tangier, Tangier Rot (2026)</g:title>
+      <g:description>Morocco, Tangier, Tangier ROT (2026) from US$2,185</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275038/morocco-tangier-tangier-rot-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275038.jpg?v=3</g:image_link>
+      <g:price>2185.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35275362</g:id>
+      <title>Peloponnese and Meteoras (2026)</title>
+      <description>Peloponnese and Meteoras (2026) from US$2,201</description>
+      <g:title>Peloponnese and Meteoras (2026)</g:title>
+      <g:description>Peloponnese and Meteoras (2026) from US$2,201</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275362/peloponnese-and-meteoras-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275362.jpg?v=3</g:image_link>
+      <g:price>2201.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>37149766</g:id>
+      <title>Dubai y Emiratos Arabes (2026)</title>
+      <description>Dubai y Emiratos arabes (2026) from US$2,218</description>
+      <g:title>Dubai y Emiratos Arabes (2026)</g:title>
+      <g:description>Dubai y Emiratos arabes (2026) from US$2,218</g:description>
+      <g:link>https://www.estropical.com/en/idea/37149766/dubai-y-emiratos-arabes-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37149766.jpg?v=3</g:image_link>
+      <g:price>2218.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>54756522</g:id>
+      <title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</title>
+      <description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</description>
+      <g:title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</g:title>
+      <g:description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</g:description>
+      <g:link>https://www.estropical.com/en/idea/54756522/paquete-a-playa-del-carmen-joia-paraiso-by-iberostar-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54756522.jpg?v=3</g:image_link>
+      <g:price>2229.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>35275017</g:id>
+      <title>Morocco, Sahara Desert Rot (2026)</title>
+      <description>Morocco, Sahara Desert ROT (2026) from US$2,244</description>
+      <g:title>Morocco, Sahara Desert Rot (2026)</g:title>
+      <g:description>Morocco, Sahara Desert ROT (2026) from US$2,244</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275017/morocco-sahara-desert-rot-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275017.jpg?v=3</g:image_link>
+      <g:price>2244.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>44825829</g:id>
+      <title>Surprising Morocco Ending In Casablanca (2026)</title>
+      <description>Surprising Morocco Ending in Casablanca (2026) from US$2,263</description>
+      <g:title>Surprising Morocco Ending In Casablanca (2026)</g:title>
+      <g:description>Surprising Morocco Ending in Casablanca (2026) from US$2,263</g:description>
+      <g:link>https://www.estropical.com/en/idea/44825829/surprising-morocco-ending-in-casablanca-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44825829.jpg?v=3</g:image_link>
+      <g:price>2263.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35273103</g:id>
+      <title>Moroccan Contrasts (2026)</title>
+      <description>Moroccan Contrasts (2026) from US$2,268</description>
+      <g:title>Moroccan Contrasts (2026)</g:title>
+      <g:description>Moroccan Contrasts (2026) from US$2,268</g:description>
+      <g:link>https://www.estropical.com/en/idea/35273103/moroccan-contrasts-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273103.jpg?v=3</g:image_link>
+      <g:price>2268.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35275035</g:id>
+      <title>Morocco, Tangier, Tangier (2026)</title>
+      <description>Morocco, Tangier, Tangier (2026) from US$2,272</description>
+      <g:title>Morocco, Tangier, Tangier (2026)</g:title>
+      <g:description>Morocco, Tangier, Tangier (2026) from US$2,272</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275035/morocco-tangier-tangier-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275035.jpg?v=3</g:image_link>
+      <g:price>2272.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
