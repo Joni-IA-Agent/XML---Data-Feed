@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-06-11 14:05 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-06-11T14:04:59.647342Z)
-  Total     : 305 products
+  Generated : 2026-06-12 13:01 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-06-12T13:00:59.439216Z)
+  Total     : 303 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -1231,7 +1231,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1247,11 +1247,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -3170,27 +3170,6 @@
     </item>
 
     <item>
-      <g:id>54762744</g:id>
-      <title>Viaja por Menos de 5100 Bs a Sao Paulo</title>
-      <description>Viaja por Menos de 5100 Bs a Sao Paulo from US$635</description>
-      <g:title>Viaja por Menos de 5100 Bs a Sao Paulo</g:title>
-      <g:description>Viaja por Menos de 5100 Bs a Sao Paulo from US$635</g:description>
-      <g:link>https://www.estropical.com/en/idea/54762744/viaja-por-menos-de-5100-bs-a-sao-paulo</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762744.jpg?v=3</g:image_link>
-      <g:price>635.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>3 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>29736242</g:id>
       <title>Boleto + Hotel Sao Paulo 4* Desde Santa Cruz</title>
       <description>Boleto + Hotel Sao Paulo 4* desde Santa Cruz from US$642</description>
@@ -3248,27 +3227,6 @@
     </item>
 
     <item>
-      <g:id>54761943</g:id>
-      <title>Viaja por Menos de 5100 Bs a Buenos Aires</title>
-      <description>Viaja por Menos de 5100 BS a Buenos Aires from US$650</description>
-      <g:title>Viaja por Menos de 5100 Bs a Buenos Aires</g:title>
-      <g:description>Viaja por Menos de 5100 BS a Buenos Aires from US$650</g:description>
-      <g:link>https://www.estropical.com/en/idea/54761943/viaja-por-menos-de-5100-bs-a-buenos-aires</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54761943.jpg?v=3</g:image_link>
-      <g:price>650.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>3 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>12743065</g:id>
       <title>Navidad en la Pequeña Suiza Brasileña</title>
       <description>Navidad en la pequeña Suiza Brasileña from US$668</description>
@@ -3284,6 +3242,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>54761943</g:id>
+      <title>Viaja por Menos de 5100 Bs a Buenos Aires</title>
+      <description>Viaja por Menos de 5100 BS a Buenos Aires from US$682</description>
+      <g:title>Viaja por Menos de 5100 Bs a Buenos Aires</g:title>
+      <g:description>Viaja por Menos de 5100 BS a Buenos Aires from US$682</g:description>
+      <g:link>https://www.estropical.com/en/idea/54761943/viaja-por-menos-de-5100-bs-a-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54761943.jpg?v=3</g:image_link>
+      <g:price>682.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -3341,6 +3320,27 @@
       <g:custom_label_2>16 Sep 2026</g:custom_label_2>
       <g:custom_label_3>20 Sep 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54762744</g:id>
+      <title>Viaja por Menos de 5100 Bs a Sao Paulo</title>
+      <description>Viaja por Menos de 5100 Bs a Sao Paulo from US$701</description>
+      <g:title>Viaja por Menos de 5100 Bs a Sao Paulo</g:title>
+      <g:description>Viaja por Menos de 5100 Bs a Sao Paulo from US$701</g:description>
+      <g:link>https://www.estropical.com/en/idea/54762744/viaja-por-menos-de-5100-bs-a-sao-paulo</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762744.jpg?v=3</g:image_link>
+      <g:price>701.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -4374,6 +4374,26 @@
     </item>
 
     <item>
+      <g:id>55907780</g:id>
+      <title>Boleto a Cancún | Salida 22 Al 28 de Septiembre 2026</title>
+      <description>Boleto a Cancún | Salida 22 al 28 de Septiembre 2026 from US$1,120</description>
+      <g:title>Boleto a Cancún | Salida 22 Al 28 de Septiembre 2026</g:title>
+      <g:description>Boleto a Cancún | Salida 22 al 28 de Septiembre 2026 from US$1,120</g:description>
+      <g:link>https://www.estropical.com/en/idea/55907780/boleto-a-cancun-salida-22-al-28-de-septiembre-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55907780.jpg?v=3</g:image_link>
+      <g:price>1120.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Caribe</g:product_type>
+      <g:item_group_id>VUELO-CARIBE</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>22 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>29 Sep 2026</g:custom_label_3>
+    </item>
+
+    <item>
       <g:id>35272587</g:id>
       <title>Athens and Northern Greece with Meteoras (2026)</title>
       <description>Athens and Northern Greece with Meteoras (2026) from US$1,139</description>
@@ -4389,6 +4409,26 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>55890551</g:id>
+      <title>Boleto a Punta Cana | Salida 20 Al 26 de Septiembre 2026</title>
+      <description>Boleto a Punta Cana | Salida 20 al 26 de Septiembre 2026 from US$1,141</description>
+      <g:title>Boleto a Punta Cana | Salida 20 Al 26 de Septiembre 2026</g:title>
+      <g:description>Boleto a Punta Cana | Salida 20 al 26 de Septiembre 2026 from US$1,141</g:description>
+      <g:link>https://www.estropical.com/en/idea/55890551/boleto-a-punta-cana-salida-20-al-26-de-septiembre-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55890551.jpg?v=3</g:image_link>
+      <g:price>1141.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Caribe</g:product_type>
+      <g:item_group_id>VUELO-CARIBE</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>20 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>27 Sep 2026</g:custom_label_3>
     </item>
 
     <item>
@@ -4472,6 +4512,26 @@
       <g:custom_label_2>5 Oct 2026</g:custom_label_2>
       <g:custom_label_3>9 Oct 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>55891640</g:id>
+      <title>Boleto a Punta Cana | Salida 10 Al 15 de Octubre 2026</title>
+      <description>Boleto a Punta Cana | Salida 10 al 15 de Octubre 2026 from US$1,210</description>
+      <g:title>Boleto a Punta Cana | Salida 10 Al 15 de Octubre 2026</g:title>
+      <g:description>Boleto a Punta Cana | Salida 10 al 15 de Octubre 2026 from US$1,210</g:description>
+      <g:link>https://www.estropical.com/en/idea/55891640/boleto-a-punta-cana-salida-10-al-15-de-octubre-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55891640.jpg?v=3</g:image_link>
+      <g:price>1210.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Caribe</g:product_type>
+      <g:item_group_id>VUELO-CARIBE</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>10 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>16 Oct 2026</g:custom_label_3>
     </item>
 
     <item>
@@ -5299,24 +5359,6 @@
     </item>
 
     <item>
-      <g:id>53462230</g:id>
-      <title>Concierto Bts World Tour 2026 - la Plata - Argentina</title>
-      <description>Concierto BTS World Tour 2026 - La Plata - Argentina from US$1,822</description>
-      <g:title>Concierto Bts World Tour 2026 - la Plata - Argentina</g:title>
-      <g:description>Concierto BTS World Tour 2026 - La Plata - Argentina from US$1,822</g:description>
-      <g:link>https://www.estropical.com/en/idea/53462230/concierto-bts-world-tour-2026-la-plata-argentina</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53462230.jpg?v=3</g:image_link>
-      <g:price>1822.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>53726056</g:id>
       <title>Mi Primer Viaje a Varadero</title>
       <description>Mi Primer Viaje a Varadero from US$1,827</description>
@@ -5335,6 +5377,24 @@
       <g:custom_label_2>1 Sep 2026</g:custom_label_2>
       <g:custom_label_3>6 Sep 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>53462230</g:id>
+      <title>Concierto Bts World Tour 2026 - Buenos Aires - Argentina</title>
+      <description>Concierto BTS World Tour 2026 - Buenos Aires - Argentina from US$1,829</description>
+      <g:title>Concierto Bts World Tour 2026 - Buenos Aires - Argentina</g:title>
+      <g:description>Concierto BTS World Tour 2026 - Buenos Aires - Argentina from US$1,829</g:description>
+      <g:link>https://www.estropical.com/en/idea/53462230/concierto-bts-world-tour-2026-buenos-aires-argentina</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53462230.jpg?v=3</g:image_link>
+      <g:price>1829.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
     </item>
 
     <item>
@@ -5374,6 +5434,27 @@
     </item>
 
     <item>
+      <g:id>55888019</g:id>
+      <title>Paquete a Cancún | Salida 22 Al 28 de Septiembre 2026</title>
+      <description>Paquete a Cancún | Salida 22 al 28 de Septiembre 2026 from US$1,839</description>
+      <g:title>Paquete a Cancún | Salida 22 Al 28 de Septiembre 2026</g:title>
+      <g:description>Paquete a Cancún | Salida 22 al 28 de Septiembre 2026 from US$1,839</g:description>
+      <g:link>https://www.estropical.com/en/idea/55888019/paquete-a-cancun-salida-22-al-28-de-septiembre-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55888019.jpg?v=3</g:image_link>
+      <g:price>1839.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>22 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>29 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>6 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>54757167</g:id>
       <title>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*</title>
       <description>Paquete a Cancun | Iberostar Selection Cancún - All Inclusive 4*  from US$1,871</description>
@@ -5410,6 +5491,27 @@
       <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>55886495</g:id>
+      <title>Paquete a Punta Cana | Salida 20 Al 26 de Septiembre 2026</title>
+      <description>Paquete a Punta Cana | Salida 20 al 26 de Septiembre 2026 from US$1,882</description>
+      <g:title>Paquete a Punta Cana | Salida 20 Al 26 de Septiembre 2026</g:title>
+      <g:description>Paquete a Punta Cana | Salida 20 al 26 de Septiembre 2026 from US$1,882</g:description>
+      <g:link>https://www.estropical.com/en/idea/55886495/paquete-a-punta-cana-salida-20-al-26-de-septiembre-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55886495.jpg?v=3</g:image_link>
+      <g:price>1882.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>20 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>27 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>6 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5527,6 +5629,27 @@
     </item>
 
     <item>
+      <g:id>55879511</g:id>
+      <title>Paquete a Punta Cana | Salida 19 Al 25 de Septiembre 2026</title>
+      <description>Paquete a Punta Cana | Salida 19 al 25 de Septiembre 2026 from US$1,977</description>
+      <g:title>Paquete a Punta Cana | Salida 19 Al 25 de Septiembre 2026</g:title>
+      <g:description>Paquete a Punta Cana | Salida 19 al 25 de Septiembre 2026 from US$1,977</g:description>
+      <g:link>https://www.estropical.com/en/idea/55879511/paquete-a-punta-cana-salida-19-al-25-de-septiembre-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55879511.jpg?v=3</g:image_link>
+      <g:price>1977.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>19 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>26 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>6 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>38304955</g:id>
       <title>Berlín y Perlas Checas (2026)</title>
       <description>Berlín y Perlas Checas (2026) from US$1,988</description>
@@ -5542,6 +5665,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>55887722</g:id>
+      <title>Paquete a Punta Cana | Salida 10 Al 15 de Octubre 2026</title>
+      <description>Paquete a Punta Cana | Salida 10 al 15 de Octubre 2026 from US$1,989</description>
+      <g:title>Paquete a Punta Cana | Salida 10 Al 15 de Octubre 2026</g:title>
+      <g:description>Paquete a Punta Cana | Salida 10 al 15 de Octubre 2026 from US$1,989</g:description>
+      <g:link>https://www.estropical.com/en/idea/55887722/paquete-a-punta-cana-salida-10-al-15-de-octubre-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55887722.jpg?v=3</g:image_link>
+      <g:price>1989.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>10 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>16 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5814,171 +5958,6 @@
       <g:link>https://www.estropical.com/en/idea/40397726/wonders-of-bulgaria-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/40397726.jpg?v=3</g:image_link>
       <g:price>2128.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>35273115</g:id>
-      <title>Copenhague, Estocolmo y Helsinki (2026)</title>
-      <description>Copenhague, Estocolmo y Helsinki (2026) from US$2,180</description>
-      <g:title>Copenhague, Estocolmo y Helsinki (2026)</g:title>
-      <g:description>Copenhague, Estocolmo y Helsinki (2026) from US$2,180</g:description>
-      <g:link>https://www.estropical.com/en/idea/35273115/copenhague-estocolmo-y-helsinki-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273115.jpg?v=3</g:image_link>
-      <g:price>2180.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>35275038</g:id>
-      <title>Morocco, Tangier, Tangier Rot (2026)</title>
-      <description>Morocco, Tangier, Tangier ROT (2026) from US$2,185</description>
-      <g:title>Morocco, Tangier, Tangier Rot (2026)</g:title>
-      <g:description>Morocco, Tangier, Tangier ROT (2026) from US$2,185</g:description>
-      <g:link>https://www.estropical.com/en/idea/35275038/morocco-tangier-tangier-rot-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275038.jpg?v=3</g:image_link>
-      <g:price>2185.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>35275362</g:id>
-      <title>Peloponnese and Meteoras (2026)</title>
-      <description>Peloponnese and Meteoras (2026) from US$2,201</description>
-      <g:title>Peloponnese and Meteoras (2026)</g:title>
-      <g:description>Peloponnese and Meteoras (2026) from US$2,201</g:description>
-      <g:link>https://www.estropical.com/en/idea/35275362/peloponnese-and-meteoras-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275362.jpg?v=3</g:image_link>
-      <g:price>2201.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>37149766</g:id>
-      <title>Dubai y Emiratos Arabes (2026)</title>
-      <description>Dubai y Emiratos arabes (2026) from US$2,218</description>
-      <g:title>Dubai y Emiratos Arabes (2026)</g:title>
-      <g:description>Dubai y Emiratos arabes (2026) from US$2,218</g:description>
-      <g:link>https://www.estropical.com/en/idea/37149766/dubai-y-emiratos-arabes-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37149766.jpg?v=3</g:image_link>
-      <g:price>2218.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>54756522</g:id>
-      <title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</title>
-      <description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</description>
-      <g:title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</g:title>
-      <g:description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</g:description>
-      <g:link>https://www.estropical.com/en/idea/54756522/paquete-a-playa-del-carmen-joia-paraiso-by-iberostar-all-inclusive-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54756522.jpg?v=3</g:image_link>
-      <g:price>2229.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>35275017</g:id>
-      <title>Morocco, Sahara Desert Rot (2026)</title>
-      <description>Morocco, Sahara Desert ROT (2026) from US$2,244</description>
-      <g:title>Morocco, Sahara Desert Rot (2026)</g:title>
-      <g:description>Morocco, Sahara Desert ROT (2026) from US$2,244</g:description>
-      <g:link>https://www.estropical.com/en/idea/35275017/morocco-sahara-desert-rot-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275017.jpg?v=3</g:image_link>
-      <g:price>2244.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44825829</g:id>
-      <title>Surprising Morocco Ending In Casablanca (2026)</title>
-      <description>Surprising Morocco Ending in Casablanca (2026) from US$2,263</description>
-      <g:title>Surprising Morocco Ending In Casablanca (2026)</g:title>
-      <g:description>Surprising Morocco Ending in Casablanca (2026) from US$2,263</g:description>
-      <g:link>https://www.estropical.com/en/idea/44825829/surprising-morocco-ending-in-casablanca-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44825829.jpg?v=3</g:image_link>
-      <g:price>2263.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>35273103</g:id>
-      <title>Moroccan Contrasts (2026)</title>
-      <description>Moroccan Contrasts (2026) from US$2,268</description>
-      <g:title>Moroccan Contrasts (2026)</g:title>
-      <g:description>Moroccan Contrasts (2026) from US$2,268</g:description>
-      <g:link>https://www.estropical.com/en/idea/35273103/moroccan-contrasts-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273103.jpg?v=3</g:image_link>
-      <g:price>2268.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>35275035</g:id>
-      <title>Morocco, Tangier, Tangier (2026)</title>
-      <description>Morocco, Tangier, Tangier (2026) from US$2,272</description>
-      <g:title>Morocco, Tangier, Tangier (2026)</g:title>
-      <g:description>Morocco, Tangier, Tangier (2026) from US$2,272</g:description>
-      <g:link>https://www.estropical.com/en/idea/35275035/morocco-tangier-tangier-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275035.jpg?v=3</g:image_link>
-      <g:price>2272.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
