@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-06-15 15:51 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-06-15T15:51:25.252820Z)
-  Total     : 301 products
+  Generated : 2026-06-17 13:48 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-06-17T13:47:55.959829Z)
+  Total     : 314 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -238,27 +238,6 @@
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_2>16 Oct 2025</g:custom_label_2>
       <g:custom_label_3>17 Oct 2025</g:custom_label_3>
-      <g:custom_label_4>1 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>30679683</g:id>
-      <title>Hotel en San Jose de Chiquitos L la Villa Chiquitana 5*</title>
-      <description>Hotel en San Jose de Chiquitos l La Villa Chiquitana 5* from US$33</description>
-      <g:title>Hotel en San Jose de Chiquitos L la Villa Chiquitana 5*</g:title>
-      <g:description>Hotel en San Jose de Chiquitos l La Villa Chiquitana 5* from US$33</g:description>
-      <g:link>https://www.estropical.com/en/idea/30679683/hotel-en-san-jose-de-chiquitos-l-la-villa-chiquitana-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/30679683.jpg?v=3</g:image_link>
-      <g:price>299.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>25 Oct 2025</g:custom_label_2>
-      <g:custom_label_3>26 Oct 2025</g:custom_label_3>
       <g:custom_label_4>1 noches</g:custom_label_4>
     </item>
 
@@ -1231,7 +1210,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1247,11 +1226,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -3691,6 +3670,69 @@
     </item>
 
     <item>
+      <g:id>56253811</g:id>
+      <title>Royal Solaris los Cabos &amp; Spa - All Inclusive</title>
+      <description>Royal Solaris Los Cabos &amp; Spa - All Inclusive from US$862</description>
+      <g:title>Royal Solaris los Cabos &amp; Spa - All Inclusive</g:title>
+      <g:description>Royal Solaris Los Cabos &amp; Spa - All Inclusive from US$862</g:description>
+      <g:link>https://www.estropical.com/en/idea/56253811/royal-solaris-los-cabos-spa-all-inclusive</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56253811.jpg?v=3</g:image_link>
+      <g:price>862.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>19 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>56253058</g:id>
+      <title>Royal Solaris Cancun - All Inclusive</title>
+      <description>Royal Solaris Cancun - All Inclusive from US$862</description>
+      <g:title>Royal Solaris Cancun - All Inclusive</g:title>
+      <g:description>Royal Solaris Cancun - All Inclusive from US$862</g:description>
+      <g:link>https://www.estropical.com/en/idea/56253058/royal-solaris-cancun-all-inclusive</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56253058.jpg?v=3</g:image_link>
+      <g:price>862.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>19 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>56252278</g:id>
+      <title>Gr Solaris Cancun &amp; Spa - All Inclusive</title>
+      <description>GR Solaris Cancun &amp; Spa - All Inclusive from US$862</description>
+      <g:title>Gr Solaris Cancun &amp; Spa - All Inclusive</g:title>
+      <g:description>GR Solaris Cancun &amp; Spa - All Inclusive from US$862</g:description>
+      <g:link>https://www.estropical.com/en/idea/56252278/gr-solaris-cancun-spa-all-inclusive</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56252278.jpg?v=3</g:image_link>
+      <g:price>862.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>19 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>52631568</g:id>
       <title>Paquete a Cusco - Aventura de Colores, Vinicunca y Humantay 5d/4n</title>
       <description>PAQUETE A CUSCO - AVENTURA DE COLORES, VINICUNCA Y HUMANTAY 5D/4N from US$895</description>
@@ -3726,6 +3768,48 @@
       <g:custom_label_1>Norteamérica</g:custom_label_1>
       <g:custom_label_2>18 Nov 2026</g:custom_label_2>
       <g:custom_label_3>23 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>56254165</g:id>
+      <title>Gr Solaris Lighthouse los Cabos</title>
+      <description>GR Solaris Lighthouse Los Cabos from US$904</description>
+      <g:title>Gr Solaris Lighthouse los Cabos</g:title>
+      <g:description>GR Solaris Lighthouse Los Cabos from US$904</g:description>
+      <g:link>https://www.estropical.com/en/idea/56254165/gr-solaris-lighthouse-los-cabos</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56254165.jpg?v=3</g:image_link>
+      <g:price>904.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>19 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>56253373</g:id>
+      <title>Gr Solaris Caribe Adults Only - All Inclusive</title>
+      <description>GR Solaris Caribe Adults Only - All Inclusive from US$904</description>
+      <g:title>Gr Solaris Caribe Adults Only - All Inclusive</g:title>
+      <g:description>GR Solaris Caribe Adults Only - All Inclusive from US$904</g:description>
+      <g:link>https://www.estropical.com/en/idea/56253373/gr-solaris-caribe-adults-only-all-inclusive</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56253373.jpg?v=3</g:image_link>
+      <g:price>904.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>19 Sep 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -4611,27 +4695,6 @@
     </item>
 
     <item>
-      <g:id>54852435</g:id>
-      <title>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3*</title>
-      <description>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3* from US$1,388</description>
-      <g:title>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3*</g:title>
-      <g:description>Verano en Catalonia 2026 | Catalonia Yucatan Beach - All Inclusive 3* from US$1,388</g:description>
-      <g:link>https://www.estropical.com/en/idea/54852435/verano-en-catalonia-2026-catalonia-yucatan-beach-all-inclusive-3-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852435.jpg?v=3</g:image_link>
-      <g:price>1388.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>35273313</g:id>
       <title>From Madrid To Marrakech (without Alhambra) (2026)</title>
       <description>From Madrid to Marrakech (Without Alhambra) (2026) from US$1,394</description>
@@ -4845,27 +4908,6 @@
     </item>
 
     <item>
-      <g:id>54852717</g:id>
-      <title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</title>
-      <description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,524</description>
-      <g:title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</g:title>
-      <g:description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,524</g:description>
-      <g:link>https://www.estropical.com/en/idea/54852717/verano-en-riviera-maya-catalonia-playa-maroma-all-inclusive-4-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852717.jpg?v=3</g:image_link>
-      <g:price>1524.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>35275131</g:id>
       <title>Oslo, Estocolmo y Helsinki (2026)</title>
       <description>Oslo, Estocolmo y Helsinki (2026) from US$1,536</description>
@@ -4884,14 +4926,14 @@
     </item>
 
     <item>
-      <g:id>35273220</g:id>
-      <title>From Athens To Sofia (2026)</title>
-      <description>From Athens to Sofia (2026) from US$1,555</description>
-      <g:title>From Athens To Sofia (2026)</g:title>
-      <g:description>From Athens to Sofia (2026) from US$1,555</g:description>
-      <g:link>https://www.estropical.com/en/idea/35273220/from-athens-to-sofia-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273220.jpg?v=3</g:image_link>
-      <g:price>1555.00 USD</g:price>
+      <g:id>56175115</g:id>
+      <title>Verano en Riviera Maya | Catalonia Yucatan Beach - All Inclusive 3*</title>
+      <description>Verano en Riviera Maya | Catalonia Yucatan Beach - All Inclusive 3* from US$1,559</description>
+      <g:title>Verano en Riviera Maya | Catalonia Yucatan Beach - All Inclusive 3*</g:title>
+      <g:description>Verano en Riviera Maya | Catalonia Yucatan Beach - All Inclusive 3* from US$1,559</g:description>
+      <g:link>https://www.estropical.com/en/idea/56175115/verano-en-riviera-maya-catalonia-yucatan-beach-all-inclusive-3-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56175115.jpg?v=3</g:image_link>
+      <g:price>1559.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -4899,6 +4941,9 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -4919,27 +4964,6 @@
       <g:custom_label_1>Centroamérica</g:custom_label_1>
       <g:custom_label_2>10 Sep 2026</g:custom_label_2>
       <g:custom_label_3>15 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54772266</g:id>
-      <title>Paquete a Playa del Carmen | Grand Riviera Princess 5*</title>
-      <description>Paquete a Playa del Carmen | Grand Riviera Princess 5* from US$1,618</description>
-      <g:title>Paquete a Playa del Carmen | Grand Riviera Princess 5*</g:title>
-      <g:description>Paquete a Playa del Carmen | Grand Riviera Princess 5* from US$1,618</g:description>
-      <g:link>https://www.estropical.com/en/idea/54772266/paquete-a-playa-del-carmen-grand-riviera-princess-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54772266.jpg?v=3</g:image_link>
-      <g:price>1618.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -4965,23 +4989,23 @@
     </item>
 
     <item>
-      <g:id>54852885</g:id>
-      <title>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4*</title>
-      <description>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4* from US$1,634</description>
-      <g:title>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4*</g:title>
-      <g:description>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4* from US$1,634</g:description>
-      <g:link>https://www.estropical.com/en/idea/54852885/verano-en-riviera-maya-catalonia-royal-tulum-all-inclusive-4-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54852885.jpg?v=3</g:image_link>
-      <g:price>1634.00 USD</g:price>
+      <g:id>56233036</g:id>
+      <title>Paquete a Punta Cana | Punta Cana Princess Adults Only - All Inclusive 5*</title>
+      <description>Paquete a Punta Cana | Punta Cana Princess Adults Only - All Inclusive 5* from US$1,633</description>
+      <g:title>Paquete a Punta Cana | Punta Cana Princess Adults Only - All Inclusive 5*</g:title>
+      <g:description>Paquete a Punta Cana | Punta Cana Princess Adults Only - All Inclusive 5* from US$1,633</g:description>
+      <g:link>https://www.estropical.com/en/idea/56233036/paquete-a-punta-cana-punta-cana-princess-adults-only-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56233036.jpg?v=3</g:image_link>
+      <g:price>1633.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -5046,6 +5070,27 @@
     </item>
 
     <item>
+      <g:id>56231776</g:id>
+      <title>Paquete a Punta Cana | Grand Bavaro Princess All Inclusive 5*</title>
+      <description>Paquete a Punta Cana | Grand Bavaro Princess All Inclusive 5* from US$1,703</description>
+      <g:title>Paquete a Punta Cana | Grand Bavaro Princess All Inclusive 5*</g:title>
+      <g:description>Paquete a Punta Cana | Grand Bavaro Princess All Inclusive 5* from US$1,703</g:description>
+      <g:link>https://www.estropical.com/en/idea/56231776/paquete-a-punta-cana-grand-bavaro-princess-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56231776.jpg?v=3</g:image_link>
+      <g:price>1703.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>53645155</g:id>
       <title>Destinos para Cada Emoción | Paquete a Medellin</title>
       <description>Destinos para cada emoción | Paquete a Medellin from US$1,714</description>
@@ -5064,48 +5109,6 @@
       <g:custom_label_2>10 Sep 2026</g:custom_label_2>
       <g:custom_label_3>14 Sep 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54772881</g:id>
-      <title>Paquete a Playa del Carmen | Grand Sunset Princess - All Inclusive 5*</title>
-      <description>Paquete a Playa del Carmen | Grand Sunset Princess - All Inclusive 5*  from US$1,725</description>
-      <g:title>Paquete a Playa del Carmen | Grand Sunset Princess - All Inclusive 5*</g:title>
-      <g:description>Paquete a Playa del Carmen | Grand Sunset Princess - All Inclusive 5*  from US$1,725</g:description>
-      <g:link>https://www.estropical.com/en/idea/54772881/paquete-a-playa-del-carmen-grand-sunset-princess-all-inclusive-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54772881.jpg?v=3</g:image_link>
-      <g:price>1725.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>15 Aug 2026</g:custom_label_2>
-      <g:custom_label_3>20 Aug 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54853062</g:id>
-      <title>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5*</title>
-      <description>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5* from US$1,726</description>
-      <g:title>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5*</g:title>
-      <g:description>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5* from US$1,726</g:description>
-      <g:link>https://www.estropical.com/en/idea/54853062/verano-en-costa-mujeres-catalonia-grand-costa-mujeres-all-suites-spa-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54853062.jpg?v=3</g:image_link>
-      <g:price>1726.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5256,6 +5259,27 @@
     </item>
 
     <item>
+      <g:id>56175355</g:id>
+      <title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</title>
+      <description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,765</description>
+      <g:title>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</g:title>
+      <g:description>Verano en Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,765</g:description>
+      <g:link>https://www.estropical.com/en/idea/56175355/verano-en-riviera-maya-catalonia-playa-maroma-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56175355.jpg?v=3</g:image_link>
+      <g:price>1765.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>55871624</g:id>
       <title>Paquete a Punta Cana | Bahia Principe Explore Punta Cana 5*</title>
       <description>Paquete a Punta Cana | Bahia Principe Explore Punta Cana 5* from US$1,765</description>
@@ -5277,27 +5301,6 @@
     </item>
 
     <item>
-      <g:id>54775053</g:id>
-      <title>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5*</title>
-      <description>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5* from US$1,768</description>
-      <g:title>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5*</g:title>
-      <g:description>Paquete a Playa del Carmen | Princess Family Club Riviera - All Inclusive 5* from US$1,768</g:description>
-      <g:link>https://www.estropical.com/en/idea/54775053/paquete-a-playa-del-carmen-princess-family-club-riviera-all-inclusive-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54775053.jpg?v=3</g:image_link>
-      <g:price>1768.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>35273073</g:id>
       <title>Colors of Morocco (2026)</title>
       <description>Colors of Morocco (2026) from US$1,770</description>
@@ -5306,6 +5309,24 @@
       <g:link>https://www.estropical.com/en/idea/35273073/colors-of-morocco-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273073.jpg?v=3</g:image_link>
       <g:price>1770.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35273220</g:id>
+      <title>From Athens To Sofia (2026)</title>
+      <description>From Athens to Sofia (2026) from US$1,801</description>
+      <g:title>From Athens To Sofia (2026)</g:title>
+      <g:description>From Athens to Sofia (2026) from US$1,801</g:description>
+      <g:link>https://www.estropical.com/en/idea/35273220/from-athens-to-sofia-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273220.jpg?v=3</g:image_link>
+      <g:price>1801.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -5337,6 +5358,27 @@
     </item>
 
     <item>
+      <g:id>56175613</g:id>
+      <title>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4*</title>
+      <description>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4* from US$1,815</description>
+      <g:title>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4*</g:title>
+      <g:description>Verano en Riviera Maya | Catalonia Royal Tulum All Inclusive 4* from US$1,815</g:description>
+      <g:link>https://www.estropical.com/en/idea/56175613/verano-en-riviera-maya-catalonia-royal-tulum-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56175613.jpg?v=3</g:image_link>
+      <g:price>1815.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>53726056</g:id>
       <title>Mi Primer Viaje a Varadero</title>
       <description>Mi Primer Viaje a Varadero from US$1,827</description>
@@ -5354,6 +5396,27 @@
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_2>1 Sep 2026</g:custom_label_2>
       <g:custom_label_3>6 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>56232541</g:id>
+      <title>Paquete a Punta Cana | Princess Family Club Bavaro - All Inclusive 5*</title>
+      <description>Paquete a Punta Cana | Princess Family Club Bavaro - All Inclusive 5* from US$1,830</description>
+      <g:title>Paquete a Punta Cana | Princess Family Club Bavaro - All Inclusive 5*</g:title>
+      <g:description>Paquete a Punta Cana | Princess Family Club Bavaro - All Inclusive 5* from US$1,830</g:description>
+      <g:link>https://www.estropical.com/en/idea/56232541/paquete-a-punta-cana-princess-family-club-bavaro-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56232541.jpg?v=3</g:image_link>
+      <g:price>1830.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -5585,6 +5648,27 @@
       <g:custom_label_1>Caribe</g:custom_label_1>
       <g:custom_label_2>2 Oct 2026</g:custom_label_2>
       <g:custom_label_3>8 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>56175859</g:id>
+      <title>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5*</title>
+      <description>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5* from US$1,977</description>
+      <g:title>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5*</g:title>
+      <g:description>Verano en Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5* from US$1,977</g:description>
+      <g:link>https://www.estropical.com/en/idea/56175859/verano-en-costa-mujeres-catalonia-grand-costa-mujeres-all-suites-spa-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56175859.jpg?v=3</g:image_link>
+      <g:price>1977.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -5918,6 +6002,171 @@
       <g:link>https://www.estropical.com/en/idea/40397726/wonders-of-bulgaria-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/40397726.jpg?v=3</g:image_link>
       <g:price>2128.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35273115</g:id>
+      <title>Copenhague, Estocolmo y Helsinki (2026)</title>
+      <description>Copenhague, Estocolmo y Helsinki (2026) from US$2,180</description>
+      <g:title>Copenhague, Estocolmo y Helsinki (2026)</g:title>
+      <g:description>Copenhague, Estocolmo y Helsinki (2026) from US$2,180</g:description>
+      <g:link>https://www.estropical.com/en/idea/35273115/copenhague-estocolmo-y-helsinki-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273115.jpg?v=3</g:image_link>
+      <g:price>2180.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35275038</g:id>
+      <title>Morocco, Tangier, Tangier Rot (2026)</title>
+      <description>Morocco, Tangier, Tangier ROT (2026) from US$2,185</description>
+      <g:title>Morocco, Tangier, Tangier Rot (2026)</g:title>
+      <g:description>Morocco, Tangier, Tangier ROT (2026) from US$2,185</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275038/morocco-tangier-tangier-rot-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275038.jpg?v=3</g:image_link>
+      <g:price>2185.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35275362</g:id>
+      <title>Peloponnese and Meteoras (2026)</title>
+      <description>Peloponnese and Meteoras (2026) from US$2,201</description>
+      <g:title>Peloponnese and Meteoras (2026)</g:title>
+      <g:description>Peloponnese and Meteoras (2026) from US$2,201</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275362/peloponnese-and-meteoras-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275362.jpg?v=3</g:image_link>
+      <g:price>2201.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>37149766</g:id>
+      <title>Dubai y Emiratos Arabes (2026)</title>
+      <description>Dubai y Emiratos arabes (2026) from US$2,218</description>
+      <g:title>Dubai y Emiratos Arabes (2026)</g:title>
+      <g:description>Dubai y Emiratos arabes (2026) from US$2,218</g:description>
+      <g:link>https://www.estropical.com/en/idea/37149766/dubai-y-emiratos-arabes-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37149766.jpg?v=3</g:image_link>
+      <g:price>2218.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>54756522</g:id>
+      <title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</title>
+      <description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</description>
+      <g:title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</g:title>
+      <g:description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</g:description>
+      <g:link>https://www.estropical.com/en/idea/54756522/paquete-a-playa-del-carmen-joia-paraiso-by-iberostar-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54756522.jpg?v=3</g:image_link>
+      <g:price>2229.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>35275017</g:id>
+      <title>Morocco, Sahara Desert Rot (2026)</title>
+      <description>Morocco, Sahara Desert ROT (2026) from US$2,244</description>
+      <g:title>Morocco, Sahara Desert Rot (2026)</g:title>
+      <g:description>Morocco, Sahara Desert ROT (2026) from US$2,244</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275017/morocco-sahara-desert-rot-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275017.jpg?v=3</g:image_link>
+      <g:price>2244.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>44825829</g:id>
+      <title>Surprising Morocco Ending In Casablanca (2026)</title>
+      <description>Surprising Morocco Ending in Casablanca (2026) from US$2,263</description>
+      <g:title>Surprising Morocco Ending In Casablanca (2026)</g:title>
+      <g:description>Surprising Morocco Ending in Casablanca (2026) from US$2,263</g:description>
+      <g:link>https://www.estropical.com/en/idea/44825829/surprising-morocco-ending-in-casablanca-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44825829.jpg?v=3</g:image_link>
+      <g:price>2263.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35273103</g:id>
+      <title>Moroccan Contrasts (2026)</title>
+      <description>Moroccan Contrasts (2026) from US$2,268</description>
+      <g:title>Moroccan Contrasts (2026)</g:title>
+      <g:description>Moroccan Contrasts (2026) from US$2,268</g:description>
+      <g:link>https://www.estropical.com/en/idea/35273103/moroccan-contrasts-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273103.jpg?v=3</g:image_link>
+      <g:price>2268.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35275035</g:id>
+      <title>Morocco, Tangier, Tangier (2026)</title>
+      <description>Morocco, Tangier, Tangier (2026) from US$2,272</description>
+      <g:title>Morocco, Tangier, Tangier (2026)</g:title>
+      <g:description>Morocco, Tangier, Tangier (2026) from US$2,272</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275035/morocco-tangier-tangier-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275035.jpg?v=3</g:image_link>
+      <g:price>2272.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
