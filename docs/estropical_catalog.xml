@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-07-01 12:38 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-07-01T12:38:02.520601Z)
-  Total     : 252 products
+  Generated : 2026-07-02 12:15 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-07-02T12:14:54.420006Z)
+  Total     : 262 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -1210,7 +1210,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1226,11 +1226,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -2642,6 +2642,27 @@
     </item>
 
     <item>
+      <g:id>57444614</g:id>
+      <title>Hotel en Punta Cana | Bahia Principe Explore Punta Cana 5*</title>
+      <description>Hotel en Punta Cana | Bahia Principe Explore Punta Cana 5* from US$467</description>
+      <g:title>Hotel en Punta Cana | Bahia Principe Explore Punta Cana 5*</g:title>
+      <g:description>Hotel en Punta Cana | Bahia Principe Explore Punta Cana 5* from US$467</g:description>
+      <g:link>https://www.estropical.com/en/idea/57444614/hotel-en-punta-cana-bahia-principe-explore-punta-cana-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57444614.jpg?v=3</g:image_link>
+      <g:price>467.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>11264269</g:id>
       <title>Ruta de Vino Premium en Tarija</title>
       <description>Ruta de Vino Premium en Tarija  from US$478</description>
@@ -2768,6 +2789,27 @@
     </item>
 
     <item>
+      <g:id>57444422</g:id>
+      <title>Hotel en Punta Cana | Bahia Principe Explore Turquesa 5*</title>
+      <description>Hotel en Punta Cana | Bahia Principe Explore Turquesa 5* from US$507</description>
+      <g:title>Hotel en Punta Cana | Bahia Principe Explore Turquesa 5*</g:title>
+      <g:description>Hotel en Punta Cana | Bahia Principe Explore Turquesa 5* from US$507</g:description>
+      <g:link>https://www.estropical.com/en/idea/57444422/hotel-en-punta-cana-bahia-principe-explore-turquesa-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57444422.jpg?v=3</g:image_link>
+      <g:price>507.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>10 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>15 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>53653993</g:id>
       <title>Boleto a Montevideo Desde Santa Cruz</title>
       <description>Boleto a Montevideo desde Santa Cruz from US$524</description>
@@ -2828,6 +2870,27 @@
     </item>
 
     <item>
+      <g:id>57443945</g:id>
+      <title>Hotel en Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4*</title>
+      <description>Hotel en Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4* from US$528</description>
+      <g:title>Hotel en Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4*</g:title>
+      <g:description>Hotel en Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4* from US$528</g:description>
+      <g:link>https://www.estropical.com/en/idea/57443945/hotel-en-riviera-maya-bahia-principe-explore-coba-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57443945.jpg?v=3</g:image_link>
+      <g:price>528.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>53091202</g:id>
       <title>Boleto a Sao Paulo Desde la Paz</title>
       <description>Boleto a Sao Paulo desde La Paz from US$532</description>
@@ -2845,6 +2908,27 @@
       <g:custom_label_1>Sudamérica</g:custom_label_1>
       <g:custom_label_2>10 Oct 2026</g:custom_label_2>
       <g:custom_label_3>14 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>57444983</g:id>
+      <title>Hotel en la Romana | Bahia Principe Explore la Romana 5*</title>
+      <description>Hotel en La Romana | Bahia Principe Explore La Romana 5* from US$537</description>
+      <g:title>Hotel en la Romana | Bahia Principe Explore la Romana 5*</g:title>
+      <g:description>Hotel en La Romana | Bahia Principe Explore La Romana 5* from US$537</g:description>
+      <g:link>https://www.estropical.com/en/idea/57444983/hotel-en-la-romana-bahia-principe-explore-la-romana-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57444983.jpg?v=3</g:image_link>
+      <g:price>537.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -2906,6 +2990,27 @@
       <g:custom_label_2>10 Sep 2026</g:custom_label_2>
       <g:custom_label_3>14 Sep 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>57444794</g:id>
+      <title>Hotel en Punta Cana | Bahia Principe Explore Legend 5*</title>
+      <description>Hotel en Punta Cana | Bahia Principe Explore Legend 5* from US$577</description>
+      <g:title>Hotel en Punta Cana | Bahia Principe Explore Legend 5*</g:title>
+      <g:description>Hotel en Punta Cana | Bahia Principe Explore Legend 5* from US$577</g:description>
+      <g:link>https://www.estropical.com/en/idea/57444794/hotel-en-punta-cana-bahia-principe-explore-legend-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57444794.jpg?v=3</g:image_link>
+      <g:price>577.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>10 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>15 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -2987,6 +3092,27 @@
     </item>
 
     <item>
+      <g:id>57444224</g:id>
+      <title>Hotel en Punta Cana | Bahia Principe Explore Esmeralda 5*</title>
+      <description>Hotel en Punta Cana | Bahia Principe Explore Esmeralda 5* from US$607</description>
+      <g:title>Hotel en Punta Cana | Bahia Principe Explore Esmeralda 5*</g:title>
+      <g:description>Hotel en Punta Cana | Bahia Principe Explore Esmeralda 5* from US$607</g:description>
+      <g:link>https://www.estropical.com/en/idea/57444224/hotel-en-punta-cana-bahia-principe-explore-esmeralda-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57444224.jpg?v=3</g:image_link>
+      <g:price>607.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>52631568</g:id>
       <title>Paquete a Cusco - Aventura de Colores, Vinicunca y Humantay 5d/4n</title>
       <description>PAQUETE A CUSCO - AVENTURA DE COLORES, VINICUNCA Y HUMANTAY 5D/4N from US$637</description>
@@ -3059,6 +3185,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57443636</g:id>
+      <title>Hotel en Riviera Maya | Bahia Principe Explore Tulum 5*</title>
+      <description>Hotel en Riviera Maya | Bahia Principe Explore Tulum 5* from US$656</description>
+      <g:title>Hotel en Riviera Maya | Bahia Principe Explore Tulum 5*</g:title>
+      <g:description>Hotel en Riviera Maya | Bahia Principe Explore Tulum 5* from US$656</g:description>
+      <g:link>https://www.estropical.com/en/idea/57443636/hotel-en-riviera-maya-bahia-principe-explore-tulum-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57443636.jpg?v=3</g:image_link>
+      <g:price>656.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -3537,27 +3684,6 @@
     </item>
 
     <item>
-      <g:id>56432221</g:id>
-      <title>Hotel en Riviera Maya | Iberostar Waves Paraiso Beach All Inclusive 5*</title>
-      <description>Hotel en Riviera Maya | Iberostar Waves Paraiso Beach All Inclusive 5* from US$824</description>
-      <g:title>Hotel en Riviera Maya | Iberostar Waves Paraiso Beach All Inclusive 5*</g:title>
-      <g:description>Hotel en Riviera Maya | Iberostar Waves Paraiso Beach All Inclusive 5* from US$824</g:description>
-      <g:link>https://www.estropical.com/en/idea/56432221/hotel-en-riviera-maya-iberostar-waves-paraiso-beach-all-inclusive-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56432221.jpg?v=3</g:image_link>
-      <g:price>824.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>53653075</g:id>
       <title>Boleto Ida y Vuelta Hacia Miami</title>
       <description>Boleto ida y vuelta hacia Miami from US$828</description>
@@ -3988,27 +4114,6 @@
     </item>
 
     <item>
-      <g:id>56433988</g:id>
-      <title>Hotel en Cancun | Iberostar Selection Cancún - All Inclusive 4*</title>
-      <description>Hotel en Cancun | Iberostar Selection Cancún - All Inclusive 4* from US$970</description>
-      <g:title>Hotel en Cancun | Iberostar Selection Cancún - All Inclusive 4*</g:title>
-      <g:description>Hotel en Cancun | Iberostar Selection Cancún - All Inclusive 4* from US$970</g:description>
-      <g:link>https://www.estropical.com/en/idea/56433988/hotel-en-cancun-iberostar-selection-cancun-all-inclusive-4-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56433988.jpg?v=3</g:image_link>
-      <g:price>970.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
-      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>26828783</g:id>
       <title>Concierto Bad Bunny - Sao Paulo</title>
       <description>CONCIERTO BAD BUNNY - SAO PAULO from US$985</description>
@@ -4146,11 +4251,11 @@
 
     <item>
       <g:id>35272875</g:id>
-      <title>Capitales Balticas de Estocolmo a Helsinki (2026)</title>
-      <description>Capitales Balticas de Estocolmo a Helsinki (2026) from US$1,004</description>
-      <g:title>Capitales Balticas de Estocolmo a Helsinki (2026)</g:title>
-      <g:description>Capitales Balticas de Estocolmo a Helsinki (2026) from US$1,004</g:description>
-      <g:link>https://www.estropical.com/en/idea/35272875/capitales-balticas-de-estocolmo-a-helsinki-2026-</g:link>
+      <title>Baltic Capitals: From Stockholm To Helsinki (2026)</title>
+      <description>Baltic Capitals: From Stockholm to Helsinki (2026) from US$1,004</description>
+      <g:title>Baltic Capitals: From Stockholm To Helsinki (2026)</g:title>
+      <g:description>Baltic Capitals: From Stockholm to Helsinki (2026) from US$1,004</g:description>
+      <g:link>https://www.estropical.com/en/idea/35272875/baltic-capitals-from-stockholm-to-helsinki-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35272875.jpg?v=3</g:image_link>
       <g:price>1004.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -4248,11 +4353,11 @@
 
     <item>
       <g:id>35273112</g:id>
-      <title>Copenhague, Estocolmo (2026)</title>
-      <description>Copenhague, Estocolmo (2026) from US$1,051</description>
-      <g:title>Copenhague, Estocolmo (2026)</g:title>
-      <g:description>Copenhague, Estocolmo (2026) from US$1,051</g:description>
-      <g:link>https://www.estropical.com/en/idea/35273112/copenhague-estocolmo-2026-</g:link>
+      <title>Copenhagen, Stockholm (2026)</title>
+      <description>Copenhagen, Stockholm (2026) from US$1,051</description>
+      <g:title>Copenhagen, Stockholm (2026)</g:title>
+      <g:description>Copenhagen, Stockholm (2026) from US$1,051</g:description>
+      <g:link>https://www.estropical.com/en/idea/35273112/copenhagen-stockholm-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273112.jpg?v=3</g:image_link>
       <g:price>1051.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -4283,27 +4388,6 @@
     </item>
 
     <item>
-      <g:id>56432947</g:id>
-      <title>Hotel en Riviera Maya | Iberostar Selection Paraíso Lindo - All Inclusive 4*</title>
-      <description>Hotel en Riviera Maya | Iberostar Selection Paraíso Lindo - All Inclusive 4* from US$1,057</description>
-      <g:title>Hotel en Riviera Maya | Iberostar Selection Paraíso Lindo - All Inclusive 4*</g:title>
-      <g:description>Hotel en Riviera Maya | Iberostar Selection Paraíso Lindo - All Inclusive 4* from US$1,057</g:description>
-      <g:link>https://www.estropical.com/en/idea/56432947/hotel-en-riviera-maya-iberostar-selection-paraiso-lindo-all-inclusive-4-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56432947.jpg?v=3</g:image_link>
-      <g:price>1057.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>35273310</g:id>
       <title>From Madrid To Marrakech (2026)</title>
       <description>From Madrid to Marrakech (2026) from US$1,062</description>
@@ -4319,6 +4403,27 @@
       <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57445301</g:id>
+      <title>Hotel en Riviera Maya | Hard Rock Hotel Riviera Maya - All Inclusive 4*</title>
+      <description>Hotel en Riviera Maya | Hard Rock Hotel Riviera Maya - All Inclusive 4* from US$1,090</description>
+      <g:title>Hotel en Riviera Maya | Hard Rock Hotel Riviera Maya - All Inclusive 4*</g:title>
+      <g:description>Hotel en Riviera Maya | Hard Rock Hotel Riviera Maya - All Inclusive 4* from US$1,090</g:description>
+      <g:link>https://www.estropical.com/en/idea/57445301/hotel-en-riviera-maya-hard-rock-hotel-riviera-maya-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57445301.jpg?v=3</g:image_link>
+      <g:price>1090.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -4344,11 +4449,11 @@
 
     <item>
       <g:id>35275131</g:id>
-      <title>Oslo, Estocolmo y Helsinki (2026)</title>
-      <description>Oslo, Estocolmo y Helsinki (2026) from US$1,093</description>
-      <g:title>Oslo, Estocolmo y Helsinki (2026)</g:title>
-      <g:description>Oslo, Estocolmo y Helsinki (2026) from US$1,093</g:description>
-      <g:link>https://www.estropical.com/en/idea/35275131/oslo-estocolmo-y-helsinki-2026-</g:link>
+      <title>Oslo, Stockholm and Helsinki (2026)</title>
+      <description>Oslo, Stockholm and Helsinki (2026) from US$1,093</description>
+      <g:title>Oslo, Stockholm and Helsinki (2026)</g:title>
+      <g:description>Oslo, Stockholm and Helsinki (2026) from US$1,093</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275131/oslo-stockholm-and-helsinki-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275131.jpg?v=3</g:image_link>
       <g:price>1093.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -4358,6 +4463,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57445769</g:id>
+      <title>Hotel en Punata Cana | Hard Rock Hotel &amp; Casino Punta Cana 5*</title>
+      <description>Hotel en Punata Cana | Hard Rock Hotel &amp; Casino Punta Cana 5* from US$1,094</description>
+      <g:title>Hotel en Punata Cana | Hard Rock Hotel &amp; Casino Punta Cana 5*</g:title>
+      <g:description>Hotel en Punata Cana | Hard Rock Hotel &amp; Casino Punta Cana 5* from US$1,094</g:description>
+      <g:link>https://www.estropical.com/en/idea/57445769/hotel-en-punata-cana-hard-rock-hotel-casino-punta-cana-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57445769.jpg?v=3</g:image_link>
+      <g:price>1094.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -4525,6 +4651,48 @@
     </item>
 
     <item>
+      <g:id>57445916</g:id>
+      <title>Hotel en Cancún | Ava Resort Cancun All Inclusive 5*</title>
+      <description>Hotel en Cancún | AVA Resort Cancun All Inclusive 5* from US$1,146</description>
+      <g:title>Hotel en Cancún | Ava Resort Cancun All Inclusive 5*</g:title>
+      <g:description>Hotel en Cancún | AVA Resort Cancun All Inclusive 5* from US$1,146</g:description>
+      <g:link>https://www.estropical.com/en/idea/57445916/hotel-en-cancun-ava-resort-cancun-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57445916.jpg?v=3</g:image_link>
+      <g:price>1146.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>57350879</g:id>
+      <title>Paquete a Riviera Maya | Catalonia Yucatan Beach - All Inclusive 3*</title>
+      <description>Paquete a Riviera Maya | Catalonia Yucatan Beach - All Inclusive 3* from US$1,152</description>
+      <g:title>Paquete a Riviera Maya | Catalonia Yucatan Beach - All Inclusive 3*</g:title>
+      <g:description>Paquete a Riviera Maya | Catalonia Yucatan Beach - All Inclusive 3* from US$1,152</g:description>
+      <g:link>https://www.estropical.com/en/idea/57350879/paquete-a-riviera-maya-catalonia-yucatan-beach-all-inclusive-3-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57350879.jpg?v=3</g:image_link>
+      <g:price>1152.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>55969975</g:id>
       <title>Paquete a Punta Cana | Grand Palladium Select Bávaro 5*</title>
       <description>Paquete a Punta Cana | Grand Palladium Select Bávaro 5* from US$1,168</description>
@@ -4667,6 +4835,27 @@
     </item>
 
     <item>
+      <g:id>57445643</g:id>
+      <title>Hotel en los Cabos | Hard Rock Hotel los Cabos All Inclusive 4*</title>
+      <description>Hotel en Los Cabos | Hard Rock Hotel Los Cabos All Inclusive 4* from US$1,194</description>
+      <g:title>Hotel en los Cabos | Hard Rock Hotel los Cabos All Inclusive 4*</g:title>
+      <g:description>Hotel en Los Cabos | Hard Rock Hotel Los Cabos All Inclusive 4* from US$1,194</g:description>
+      <g:link>https://www.estropical.com/en/idea/57445643/hotel-en-los-cabos-hard-rock-hotel-los-cabos-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57445643.jpg?v=3</g:image_link>
+      <g:price>1194.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>56367286</g:id>
       <title>Hotel en Riviera Maya | Hotel Riu Palace Riviera Maya - All Inclusive 4*</title>
       <description>Hotel en Riviera Maya | Hotel Riu Palace Riviera Maya - All Inclusive 4* from US$1,207</description>
@@ -4726,6 +4915,24 @@
       <g:custom_label_1>Caribe</g:custom_label_1>
       <g:custom_label_2>10 Oct 2026</g:custom_label_2>
       <g:custom_label_3>16 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>45986357</g:id>
+      <title>Cuba Express (2026)</title>
+      <description>Cuba Express (2026) from US$1,215</description>
+      <g:title>Cuba Express (2026)</g:title>
+      <g:description>Cuba Express (2026) from US$1,215</g:description>
+      <g:link>https://www.estropical.com/en/idea/45986357/cuba-express-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986357.jpg?v=3</g:image_link>
+      <g:price>1215.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
@@ -4800,6 +5007,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57351095</g:id>
+      <title>Paquete a Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</title>
+      <description>Paquete a Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,247</description>
+      <g:title>Paquete a Riviera Maya | Catalonia Playa Maroma All Inclusive 4*</g:title>
+      <g:description>Paquete a Riviera Maya | Catalonia Playa Maroma All Inclusive 4* from US$1,247</g:description>
+      <g:link>https://www.estropical.com/en/idea/57351095/paquete-a-riviera-maya-catalonia-playa-maroma-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57351095.jpg?v=3</g:image_link>
+      <g:price>1247.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -4961,24 +5189,6 @@
       <g:link>https://www.estropical.com/en/idea/35272647/atlas-sahara-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35272647.jpg?v=3</g:image_link>
       <g:price>1303.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>45986357</g:id>
-      <title>Cuba Express (2026)</title>
-      <description>Cuba Express (2026) from US$1,305</description>
-      <g:title>Cuba Express (2026)</g:title>
-      <g:description>Cuba Express (2026) from US$1,305</g:description>
-      <g:link>https://www.estropical.com/en/idea/45986357/cuba-express-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986357.jpg?v=3</g:image_link>
-      <g:price>1305.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
