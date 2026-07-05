@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-07-03 12:14 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-07-03T12:14:02.707529Z)
-  Total     : 262 products
+  Generated : 2026-07-05 11:34 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-07-05T11:34:52.303131Z)
+  Total     : 266 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -1210,7 +1210,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1226,11 +1226,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -2528,6 +2528,26 @@
     </item>
 
     <item>
+      <g:id>57681725</g:id>
+      <title>Boleto Ida y Vuelta Desde Santa Cruz a Rio de Janeiro</title>
+      <description>Boleto ida y vuelta desde Santa Cruz a Rio de Janeiro  from US$430</description>
+      <g:title>Boleto Ida y Vuelta Desde Santa Cruz a Rio de Janeiro</g:title>
+      <g:description>Boleto ida y vuelta desde Santa Cruz a Rio de Janeiro  from US$430</g:description>
+      <g:link>https://www.estropical.com/en/idea/57681725/boleto-ida-y-vuelta-desde-santa-cruz-a-rio-de-janeiro-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57681725.jpg?v=3</g:image_link>
+      <g:price>430.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>18 Sep 2026</g:custom_label_3>
+    </item>
+
+    <item>
       <g:id>54387665</g:id>
       <title>Feriado Solsticio de Invierno L la Chura Tarija 3d/2n (servicio Compartido)</title>
       <description>Feriado Solsticio de Invierno l La Chura Tarija 3D/2N (SERVICIO COMPARTIDO) from US$434</description>
@@ -2619,6 +2639,26 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57689594</g:id>
+      <title>Boleto Ida y Vuelta Desde Santa Cruz a Lima</title>
+      <description>Boleto ida y vuelta desde Santa Cruz a Lima from US$456</description>
+      <g:title>Boleto Ida y Vuelta Desde Santa Cruz a Lima</g:title>
+      <g:description>Boleto ida y vuelta desde Santa Cruz a Lima from US$456</g:description>
+      <g:link>https://www.estropical.com/en/idea/57689594/boleto-ida-y-vuelta-desde-santa-cruz-a-lima</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57689594.jpg?v=3</g:image_link>
+      <g:price>456.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>7 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>15 Oct 2026</g:custom_label_3>
     </item>
 
     <item>
@@ -3281,6 +3321,26 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57680999</g:id>
+      <title>Boleto Ida y Vuelta Desde Santa Cruz a Miami</title>
+      <description>Boleto ida y vuelta desde Santa Cruz a Miami  from US$686</description>
+      <g:title>Boleto Ida y Vuelta Desde Santa Cruz a Miami</g:title>
+      <g:description>Boleto ida y vuelta desde Santa Cruz a Miami  from US$686</g:description>
+      <g:link>https://www.estropical.com/en/idea/57680999/boleto-ida-y-vuelta-desde-santa-cruz-a-miami-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57680999.jpg?v=3</g:image_link>
+      <g:price>686.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Norteamérica</g:product_type>
+      <g:item_group_id>VUELO-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>5 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>13 Oct 2026</g:custom_label_3>
     </item>
 
     <item>
@@ -4111,6 +4171,26 @@
       <g:custom_label_2>29 Oct 2026</g:custom_label_2>
       <g:custom_label_3>3 Nov 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>57692717</g:id>
+      <title>Boleto Ida y Vuelta Desde Santa Cruz a Madrid</title>
+      <description>Boleto ida y vuelta desde Santa Cruz a Madrid  from US$976</description>
+      <g:title>Boleto Ida y Vuelta Desde Santa Cruz a Madrid</g:title>
+      <g:description>Boleto ida y vuelta desde Santa Cruz a Madrid  from US$976</g:description>
+      <g:link>https://www.estropical.com/en/idea/57692717/boleto-ida-y-vuelta-desde-santa-cruz-a-madrid-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57692717.jpg?v=3</g:image_link>
+      <g:price>976.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Europa</g:product_type>
+      <g:item_group_id>VUELO-EUROPA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+      <g:custom_label_2>10 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>19 Nov 2026</g:custom_label_3>
     </item>
 
     <item>
@@ -5107,11 +5187,11 @@
 
     <item>
       <g:id>38305117</g:id>
-      <title>Triángulo Checo (2026)</title>
-      <description>Triángulo Checo (2026) from US$1,255</description>
-      <g:title>Triángulo Checo (2026)</g:title>
-      <g:description>Triángulo Checo (2026) from US$1,255</g:description>
-      <g:link>https://www.estropical.com/en/idea/38305117/triangulo-checo-2026-</g:link>
+      <title>Czech Triangle (2026)</title>
+      <description>Czech Triangle (2026) from US$1,255</description>
+      <g:title>Czech Triangle (2026)</g:title>
+      <g:description>Czech Triangle (2026) from US$1,255</g:description>
+      <g:link>https://www.estropical.com/en/idea/38305117/czech-triangle-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38305117.jpg?v=3</g:image_link>
       <g:price>1255.00 USD</g:price>
       <g:availability>in stock</g:availability>
