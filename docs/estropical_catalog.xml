@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-07-07 12:33 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-07-07T12:33:18.454867Z)
-  Total     : 292 products
+  Generated : 2026-07-08 11:53 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-07-08T11:53:23.886331Z)
+  Total     : 301 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -1210,7 +1210,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1226,11 +1226,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -2931,6 +2931,27 @@
     </item>
 
     <item>
+      <g:id>54762744</g:id>
+      <title>Viaja por Menos de 5500 Bs a Sao Paulo</title>
+      <description>Viaja por Menos de 5500 Bs a Sao Paulo from US$532</description>
+      <g:title>Viaja por Menos de 5500 Bs a Sao Paulo</g:title>
+      <g:description>Viaja por Menos de 5500 Bs a Sao Paulo from US$532</g:description>
+      <g:link>https://www.estropical.com/en/idea/54762744/viaja-por-menos-de-5500-bs-a-sao-paulo</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762744.jpg?v=3</g:image_link>
+      <g:price>532.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>53091202</g:id>
       <title>Boleto a Sao Paulo Desde la Paz</title>
       <description>Boleto a Sao Paulo desde La Paz from US$532</description>
@@ -3114,6 +3135,27 @@
     </item>
 
     <item>
+      <g:id>54761943</g:id>
+      <title>Viaja por Menos de 6000 Bs a Buenos Aires</title>
+      <description>Viaja por Menos de 6000 BS a Buenos Aires from US$603</description>
+      <g:title>Viaja por Menos de 6000 Bs a Buenos Aires</g:title>
+      <g:description>Viaja por Menos de 6000 BS a Buenos Aires from US$603</g:description>
+      <g:link>https://www.estropical.com/en/idea/54761943/viaja-por-menos-de-6000-bs-a-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54761943.jpg?v=3</g:image_link>
+      <g:price>603.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>36467128</g:id>
       <title>Discovering Kamakura and Mount Fuji (2026)</title>
       <description>Discovering Kamakura and Mount Fuji (2026) from US$605</description>
@@ -3171,6 +3213,27 @@
       <g:custom_label_2>6 Aug 2025</g:custom_label_2>
       <g:custom_label_3>9 Aug 2025</g:custom_label_3>
       <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>56252278</g:id>
+      <title>Gr Solaris Cancun &amp; Spa - All Inclusive</title>
+      <description>GR Solaris Cancun &amp; Spa - All Inclusive from US$646</description>
+      <g:title>Gr Solaris Cancun &amp; Spa - All Inclusive</g:title>
+      <g:description>GR Solaris Cancun &amp; Spa - All Inclusive from US$646</g:description>
+      <g:link>https://www.estropical.com/en/idea/56252278/gr-solaris-cancun-spa-all-inclusive</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56252278.jpg?v=3</g:image_link>
+      <g:price>646.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>19 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -3267,24 +3330,24 @@
     </item>
 
     <item>
-      <g:id>54761943</g:id>
-      <title>Viaja por Menos de 5100 Bs a Buenos Aires</title>
-      <description>Viaja por Menos de 5100 BS a Buenos Aires from US$682</description>
-      <g:title>Viaja por Menos de 5100 Bs a Buenos Aires</g:title>
-      <g:description>Viaja por Menos de 5100 BS a Buenos Aires from US$682</g:description>
-      <g:link>https://www.estropical.com/en/idea/54761943/viaja-por-menos-de-5100-bs-a-buenos-aires</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54761943.jpg?v=3</g:image_link>
-      <g:price>682.00 USD</g:price>
+      <g:id>56367652</g:id>
+      <title>Hotel en Playa del Carmen | Riu Yucatan - All Inclusive 5*</title>
+      <description>Hotel en Playa del Carmen | Riu Yucatan - All Inclusive 5* from US$678</description>
+      <g:title>Hotel en Playa del Carmen | Riu Yucatan - All Inclusive 5*</g:title>
+      <g:description>Hotel en Playa del Carmen | Riu Yucatan - All Inclusive 5* from US$678</g:description>
+      <g:link>https://www.estropical.com/en/idea/56367652/hotel-en-playa-del-carmen-riu-yucatan-all-inclusive-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56367652.jpg?v=3</g:image_link>
+      <g:price>678.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>3 noches</g:custom_label_4>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -3365,27 +3428,6 @@
     </item>
 
     <item>
-      <g:id>54762744</g:id>
-      <title>Viaja por Menos de 5100 Bs a Sao Paulo</title>
-      <description>Viaja por Menos de 5100 Bs a Sao Paulo from US$701</description>
-      <g:title>Viaja por Menos de 5100 Bs a Sao Paulo</g:title>
-      <g:description>Viaja por Menos de 5100 Bs a Sao Paulo from US$701</g:description>
-      <g:link>https://www.estropical.com/en/idea/54762744/viaja-por-menos-de-5100-bs-a-sao-paulo</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54762744.jpg?v=3</g:image_link>
-      <g:price>701.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>13 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>16 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>3 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>54762891</g:id>
       <title>Viaja por Menos de 5100 Bs a Lima</title>
       <description>Viaja por Menos de 5100 Bs a Lima from US$709</description>
@@ -3404,6 +3446,27 @@
       <g:custom_label_2>13 Sep 2026</g:custom_label_2>
       <g:custom_label_3>16 Sep 2026</g:custom_label_3>
       <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>57852701</g:id>
+      <title>Año Nuevo a Medida en Buenos Aires</title>
+      <description>Año Nuevo a Medida en Buenos Aires from US$712</description>
+      <g:title>Año Nuevo a Medida en Buenos Aires</g:title>
+      <g:description>Año Nuevo a Medida en Buenos Aires from US$712</g:description>
+      <g:link>https://www.estropical.com/en/idea/57852701/ano-nuevo-a-medida-en-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57852701.jpg?v=3</g:image_link>
+      <g:price>712.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>29 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>4 Jan 2027</g:custom_label_3>
+      <g:custom_label_4>6 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -3766,6 +3829,27 @@
     </item>
 
     <item>
+      <g:id>55969975</g:id>
+      <title>Paquete a Punta Cana | Grand Palladium Select Bávaro 5*</title>
+      <description>Paquete a Punta Cana | Grand Palladium Select Bávaro 5* from US$833</description>
+      <g:title>Paquete a Punta Cana | Grand Palladium Select Bávaro 5*</g:title>
+      <g:description>Paquete a Punta Cana | Grand Palladium Select Bávaro 5* from US$833</g:description>
+      <g:link>https://www.estropical.com/en/idea/55969975/paquete-a-punta-cana-grand-palladium-select-bavaro-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55969975.jpg?v=3</g:image_link>
+      <g:price>833.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>22 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>7 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>54387113</g:id>
       <title>Feriado Solsticio de Invierno L Potosí + Salar + Sucre 3d/2n con Aéreo Desde Santa Cruz (servicio Compartido)</title>
       <description>Feriado Solsticio de Invierno l Potosí + Salar + Sucre 3D/2N Con Aéreo desde Santa Cruz (SERVICIO COMPARTIDO)  from US$833</description>
@@ -3865,23 +3949,23 @@
     </item>
 
     <item>
-      <g:id>56252278</g:id>
-      <title>Gr Solaris Cancun &amp; Spa - All Inclusive</title>
-      <description>GR Solaris Cancun &amp; Spa - All Inclusive from US$862</description>
-      <g:title>Gr Solaris Cancun &amp; Spa - All Inclusive</g:title>
-      <g:description>GR Solaris Cancun &amp; Spa - All Inclusive from US$862</g:description>
-      <g:link>https://www.estropical.com/en/idea/56252278/gr-solaris-cancun-spa-all-inclusive</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56252278.jpg?v=3</g:image_link>
-      <g:price>862.00 USD</g:price>
+      <g:id>57851954</g:id>
+      <title>Año Nuevo en Cartagena</title>
+      <description>Año Nuevo en Cartagena from US$894</description>
+      <g:title>Año Nuevo en Cartagena</g:title>
+      <g:description>Año Nuevo en Cartagena from US$894</g:description>
+      <g:link>https://www.estropical.com/en/idea/57851954/ano-nuevo-en-cartagena</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57851954.jpg?v=3</g:image_link>
+      <g:price>894.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
-      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>19 Sep 2026</g:custom_label_3>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>29 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>4 Jan 2027</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -3903,27 +3987,6 @@
       <g:custom_label_1>Norteamérica</g:custom_label_1>
       <g:custom_label_2>18 Nov 2026</g:custom_label_2>
       <g:custom_label_3>23 Nov 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>56367652</g:id>
-      <title>Hotel en Playa del Carmen | Riu Yucatan - All Inclusive 5*</title>
-      <description>Hotel en Playa del Carmen | Riu Yucatan - All Inclusive 5* from US$904</description>
-      <g:title>Hotel en Playa del Carmen | Riu Yucatan - All Inclusive 5*</g:title>
-      <g:description>Hotel en Playa del Carmen | Riu Yucatan - All Inclusive 5* from US$904</g:description>
-      <g:link>https://www.estropical.com/en/idea/56367652/hotel-en-playa-del-carmen-riu-yucatan-all-inclusive-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56367652.jpg?v=3</g:image_link>
-      <g:price>904.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -4069,6 +4132,27 @@
       <g:custom_label_2>14 Sep 2026</g:custom_label_2>
       <g:custom_label_3>18 Sep 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>57849815</g:id>
+      <title>Año Nuevo en Sao Paulo</title>
+      <description>Año Nuevo en Sao Paulo from US$928</description>
+      <g:title>Año Nuevo en Sao Paulo</g:title>
+      <g:description>Año Nuevo en Sao Paulo from US$928</g:description>
+      <g:link>https://www.estropical.com/en/idea/57849815/ano-nuevo-en-sao-paulo</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57849815.jpg?v=3</g:image_link>
+      <g:price>928.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>30 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>4 Jan 2027</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -4773,27 +4857,6 @@
     </item>
 
     <item>
-      <g:id>55969975</g:id>
-      <title>Paquete a Punta Cana | Grand Palladium Select Bávaro 5*</title>
-      <description>Paquete a Punta Cana | Grand Palladium Select Bávaro 5* from US$1,168</description>
-      <g:title>Paquete a Punta Cana | Grand Palladium Select Bávaro 5*</g:title>
-      <g:description>Paquete a Punta Cana | Grand Palladium Select Bávaro 5* from US$1,168</g:description>
-      <g:link>https://www.estropical.com/en/idea/55969975/paquete-a-punta-cana-grand-palladium-select-bavaro-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55969975.jpg?v=3</g:image_link>
-      <g:price>1168.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
-      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>22 Oct 2026</g:custom_label_3>
-      <g:custom_label_4>7 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>56366971</g:id>
       <title>Hotel en Cancun | Riu Palace Peninsula - All Inclusive 5*</title>
       <description>Hotel en Cancun | Riu Palace Peninsula - All Inclusive 5* from US$1,169</description>
@@ -4915,6 +4978,27 @@
       <g:custom_label_2>10 Sep 2026</g:custom_label_2>
       <g:custom_label_3>15 Sep 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>57854579</g:id>
+      <title>Año Nuevo a Medida en Panamá</title>
+      <description>Año Nuevo a Medida en Panamá from US$1,195</description>
+      <g:title>Año Nuevo a Medida en Panamá</g:title>
+      <g:description>Año Nuevo a Medida en Panamá from US$1,195</g:description>
+      <g:link>https://www.estropical.com/en/idea/57854579/ano-nuevo-a-medida-en-panama</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57854579.jpg?v=3</g:image_link>
+      <g:price>1195.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Centroamérica</g:product_type>
+      <g:item_group_id>PAQUETE-CENTROAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Centroamérica</g:custom_label_1>
+      <g:custom_label_2>28 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>3 Jan 2027</g:custom_label_3>
+      <g:custom_label_4>6 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5168,6 +5252,27 @@
     </item>
 
     <item>
+      <g:id>57854372</g:id>
+      <title>Año Nuevo a Medida en Cartagena</title>
+      <description>Año Nuevo a Medida en Cartagena from US$1,290</description>
+      <g:title>Año Nuevo a Medida en Cartagena</g:title>
+      <g:description>Año Nuevo a Medida en Cartagena from US$1,290</g:description>
+      <g:link>https://www.estropical.com/en/idea/57854372/ano-nuevo-a-medida-en-cartagena</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57854372.jpg?v=3</g:image_link>
+      <g:price>1290.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>28 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>4 Jan 2027</g:custom_label_3>
+      <g:custom_label_4>6 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>53726623</g:id>
       <title>Oferta 7x6 en Grand Palladium Select Bávaro</title>
       <description>Oferta 7x6 en Grand Palladium Select Bávaro from US$1,290</description>
@@ -5240,6 +5345,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57856577</g:id>
+      <title>Año Nuevo a Medida en Camboriú</title>
+      <description>Año Nuevo a Medida en Camboriú from US$1,314</description>
+      <g:title>Año Nuevo a Medida en Camboriú</g:title>
+      <g:description>Año Nuevo a Medida en Camboriú from US$1,314</g:description>
+      <g:link>https://www.estropical.com/en/idea/57856577/ano-nuevo-a-medida-en-camboriu</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57856577.jpg?v=3</g:image_link>
+      <g:price>1314.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>30 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>4 Jan 2027</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5371,6 +5497,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57850109</g:id>
+      <title>Año Nuevo en Guaruja</title>
+      <description>Año Nuevo en Guaruja from US$1,412</description>
+      <g:title>Año Nuevo en Guaruja</g:title>
+      <g:description>Año Nuevo en Guaruja from US$1,412</g:description>
+      <g:link>https://www.estropical.com/en/idea/57850109/ano-nuevo-en-guaruja</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57850109.jpg?v=3</g:image_link>
+      <g:price>1412.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>30 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>4 Jan 2027</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5657,6 +5804,27 @@
     </item>
 
     <item>
+      <g:id>57849494</g:id>
+      <title>Año Nuevo en Rio de Janeiro</title>
+      <description>Año Nuevo en Rio de Janeiro from US$1,505</description>
+      <g:title>Año Nuevo en Rio de Janeiro</g:title>
+      <g:description>Año Nuevo en Rio de Janeiro from US$1,505</g:description>
+      <g:link>https://www.estropical.com/en/idea/57849494/ano-nuevo-en-rio-de-janeiro</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57849494.jpg?v=3</g:image_link>
+      <g:price>1505.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>27 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>3 Jan 2027</g:custom_label_3>
+      <g:custom_label_4>7 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>35272815</g:id>
       <title>Berlin, Copenhagen, Stockholm (2026)</title>
       <description>Berlin, Copenhagen, Stockholm (2026) from US$1,505</description>
@@ -5762,6 +5930,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57854855</g:id>
+      <title>Año Nuevo a Medida en Miami</title>
+      <description>Año Nuevo a Medida en Miami from US$1,574</description>
+      <g:title>Año Nuevo a Medida en Miami</g:title>
+      <g:description>Año Nuevo a Medida en Miami from US$1,574</g:description>
+      <g:link>https://www.estropical.com/en/idea/57854855/ano-nuevo-a-medida-en-miami</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57854855.jpg?v=3</g:image_link>
+      <g:price>1574.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+      <g:custom_label_2>30 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>4 Jan 2027</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
   </channel>
