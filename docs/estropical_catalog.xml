@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-07-21 11:58 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-07-21T11:58:23.729223Z)
+  Generated : 2026-07-22 11:58 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-07-22T11:58:05.472585Z)
   Total     : 493 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -4448,26 +4448,6 @@
       <g:custom_label_1>Norteamérica</g:custom_label_1>
       <g:custom_label_2>5 Oct 2026</g:custom_label_2>
       <g:custom_label_3>13 Oct 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>44650566</g:id>
-      <title>Concierto de Bad Bunny en Paris</title>
-      <description>Concierto de Bad Bunny en Paris from US$990</description>
-      <g:title>Concierto de Bad Bunny en Paris</g:title>
-      <g:description>Concierto de Bad Bunny en Paris from US$990</g:description>
-      <g:link>https://www.estropical.com/en/idea/44650566/concierto-de-bad-bunny-en-paris</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44650566.jpg?v=3</g:image_link>
-      <g:price>990.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
-      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Europa</g:custom_label_1>
-      <g:custom_label_2>5 Jul 2026</g:custom_label_2>
-      <g:custom_label_3>5 Jul 2026</g:custom_label_3>
     </item>
 
     <item>
@@ -9524,6 +9504,24 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>58169178</g:id>
+      <title>Lo Mejor de Tailandia con Rio Kwai e Isla Ph 2026</title>
+      <description>MM805 LO MEJOR DE TAILANDIA CON RIO KWAI E ISLA PH 2026 from US$2,257</description>
+      <g:title>Lo Mejor de Tailandia con Rio Kwai e Isla Ph 2026</g:title>
+      <g:description>MM805 LO MEJOR DE TAILANDIA CON RIO KWAI E ISLA PH 2026 from US$2,257</g:description>
+      <g:link>https://www.estropical.com/en/idea/58169178/mm805-lo-mejor-de-tailandia-con-rio-kwai-e-isla-ph-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169178.jpg?v=3</g:image_link>
+      <g:price>2257.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
     </item>
 
   </channel>
