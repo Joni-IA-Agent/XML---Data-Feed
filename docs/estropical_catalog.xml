@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-07-30 12:02 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-07-30T12:02:12.225603Z)
+  Generated : 2026-07-31 12:10 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-07-31T12:10:28.653476Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -1210,7 +1210,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1226,11 +1226,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -3064,6 +3064,24 @@
       <g:custom_label_1>Sudamérica</g:custom_label_1>
       <g:custom_label_2>11 Oct 2026</g:custom_label_2>
       <g:custom_label_3>15 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>59884922</g:id>
+      <title>Carnaval de Oruro 2027 | 2 Días / 1 Noche</title>
+      <description>Carnaval de Oruro 2027 | 2 Días / 1 Noche from US$555</description>
+      <g:title>Carnaval de Oruro 2027 | 2 Días / 1 Noche</g:title>
+      <g:description>Carnaval de Oruro 2027 | 2 Días / 1 Noche from US$555</g:description>
+      <g:link>https://www.estropical.com/en/idea/59884922/carnaval-de-oruro-2027-2-dias-1-noche</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/59884922.jpg?v=3</g:image_link>
+      <g:price>555.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
@@ -9533,27 +9551,6 @@
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_2>10 Sep 2026</g:custom_label_2>
       <g:custom_label_3>15 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>54756522</g:id>
-      <title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</title>
-      <description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</description>
-      <g:title>Paquete a Playa del Carmen | Joia Paraiso By Iberostar All Inclusive 5*</g:title>
-      <g:description>Paquete a Playa del Carmen | JOIA Paraiso by Iberostar All Inclusive 5* from US$2,229</g:description>
-      <g:link>https://www.estropical.com/en/idea/54756522/paquete-a-playa-del-carmen-joia-paraiso-by-iberostar-all-inclusive-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54756522.jpg?v=3</g:image_link>
-      <g:price>2229.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
