@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-08-06 12:11 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-08-06T12:11:11.632669Z)
+  Generated : 2026-08-07 10:59 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-08-07T10:59:58.351008Z)
   Total     : 404 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -7540,24 +7540,6 @@
     </item>
 
     <item>
-      <g:id>45986351</g:id>
-      <title>Cuba From West To East (2026)</title>
-      <description>Cuba from West to East (2026) from US$1,471</description>
-      <g:title>Cuba From West To East (2026)</g:title>
-      <g:description>Cuba from West to East (2026) from US$1,471</g:description>
-      <g:link>https://www.estropical.com/en/idea/45986351/cuba-from-west-to-east-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986351.jpg?v=3</g:image_link>
-      <g:price>1471.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>35273316</g:id>
       <title>From Madrid To Marrakech with Madrid (2026)</title>
       <description>From Madrid to Marrakech with Madrid (2026) from US$1,471</description>
@@ -7573,6 +7555,24 @@
       <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>45986351</g:id>
+      <title>Cuba From West To East (2026)</title>
+      <description>Cuba from West to East (2026) from US$1,473</description>
+      <g:title>Cuba From West To East (2026)</g:title>
+      <g:description>Cuba from West to East (2026) from US$1,473</g:description>
+      <g:link>https://www.estropical.com/en/idea/45986351/cuba-from-west-to-east-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986351.jpg?v=3</g:image_link>
+      <g:price>1473.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
