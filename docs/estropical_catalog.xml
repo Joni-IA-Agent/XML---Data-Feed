@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-08-15 10:31 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-08-15T10:30:57.714188Z)
-  Total     : 484 products
+  Generated : 2026-08-16 10:32 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-08-16T10:32:13.305965Z)
+  Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -258,6 +258,27 @@
       <g:custom_label_2>28 Nov 2026</g:custom_label_2>
       <g:custom_label_3>29 Nov 2026</g:custom_label_3>
       <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>61028261</g:id>
+      <title>Paquete a Buenos Aires Desde la Paz</title>
+      <description>Paquete a Buenos Aires desde La Paz from US$889</description>
+      <g:title>Paquete a Buenos Aires Desde la Paz</g:title>
+      <g:description>Paquete a Buenos Aires desde La Paz from US$889</g:description>
+      <g:link>https://www.estropical.com/en/idea/61028261/paquete-a-buenos-aires-desde-la-paz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61028261.jpg?v=3</g:image_link>
+      <g:price>889.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
+      <g:custom_label_3>19 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5652,27 +5673,6 @@
     </item>
 
     <item>
-      <g:id>61028261</g:id>
-      <title>Paquete a Buenos Aires Desde la Paz</title>
-      <description>Paquete a Buenos Aires desde La Paz from US$889</description>
-      <g:title>Paquete a Buenos Aires Desde la Paz</g:title>
-      <g:description>Paquete a Buenos Aires desde La Paz from US$889</g:description>
-      <g:link>https://www.estropical.com/en/idea/61028261/paquete-a-buenos-aires-desde-la-paz</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61028261.jpg?v=3</g:image_link>
-      <g:price>889.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>14 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>19 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>57851954</g:id>
       <title>Año Nuevo en Cartagena</title>
       <description>Año Nuevo en Cartagena from US$894</description>
@@ -5940,6 +5940,27 @@
       <g:custom_label_2>13 Aug 2026</g:custom_label_2>
       <g:custom_label_3>17 Aug 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>61121504</g:id>
+      <title>Paquete a Río de Janeiro Desde la Paz</title>
+      <description>Paquete a Río de Janeiro desde La Paz from US$939</description>
+      <g:title>Paquete a Río de Janeiro Desde la Paz</g:title>
+      <g:description>Paquete a Río de Janeiro desde La Paz from US$939</g:description>
+      <g:link>https://www.estropical.com/en/idea/61121504/paquete-a-rio-de-janeiro-desde-la-paz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61121504.jpg?v=3</g:image_link>
+      <g:price>939.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>21 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -9558,6 +9579,195 @@
       <g:custom_label_2>2 Oct 2026</g:custom_label_2>
       <g:custom_label_3>8 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>44293212</g:id>
+      <title>Complete Thailand with Kanchanaburi – Ending In Chiang Rai (2026)</title>
+      <description>Complete Thailand with Kanchanaburi – Ending in Chiang Rai (2026) from US$1,794</description>
+      <g:title>Complete Thailand with Kanchanaburi – Ending In Chiang Rai (2026)</g:title>
+      <g:description>Complete Thailand with Kanchanaburi – Ending in Chiang Rai (2026) from US$1,794</g:description>
+      <g:link>https://www.estropical.com/en/idea/44293212/complete-thailand-with-kanchanaburi-ending-in-chiang-rai-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293212.jpg?v=3</g:image_link>
+      <g:price>1794.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>35275773</g:id>
+      <title>Tyrol and Bavaria End Paris (2026)</title>
+      <description>Tyrol and Bavaria End Paris (2026) from US$1,794</description>
+      <g:title>Tyrol and Bavaria End Paris (2026)</g:title>
+      <g:description>Tyrol and Bavaria End Paris (2026) from US$1,794</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275773/tyrol-and-bavaria-end-paris-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275773.jpg?v=3</g:image_link>
+      <g:price>1794.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Europa</g:product_type>
+      <g:item_group_id>PAQUETE-EUROPA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Europa</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>37273984</g:id>
+      <title>New York and Washington (2026)</title>
+      <description>New York and Washington (2026) from US$1,799</description>
+      <g:title>New York and Washington (2026)</g:title>
+      <g:description>New York and Washington (2026) from US$1,799</g:description>
+      <g:link>https://www.estropical.com/en/idea/37273984/new-york-and-washington-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37273984.jpg?v=3</g:image_link>
+      <g:price>1799.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Norteamérica</g:product_type>
+      <g:item_group_id>PAQUETE-NORTEAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Norteamérica</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>58169073</g:id>
+      <title>Ib104 - España Fascinante 10 Dias 26/27</title>
+      <description>IB104 - ESPAÑA FASCINANTE 10 DIAS 26/27 from US$1,804</description>
+      <g:title>Ib104 - España Fascinante 10 Dias 26/27</g:title>
+      <g:description>IB104 - ESPAÑA FASCINANTE 10 DIAS 26/27 from US$1,804</g:description>
+      <g:link>https://www.estropical.com/en/idea/58169073/ib104-espana-fascinante-10-dias-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169073.jpg?v=3</g:image_link>
+      <g:price>1804.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>55872365</g:id>
+      <title>Paquete a Riviera Maya | Bahia Principe Explore Tulum 5*</title>
+      <description>Paquete a Riviera Maya | Bahia Principe Explore Tulum 5* from US$1,804</description>
+      <g:title>Paquete a Riviera Maya | Bahia Principe Explore Tulum 5*</g:title>
+      <g:description>Paquete a Riviera Maya | Bahia Principe Explore Tulum 5* from US$1,804</g:description>
+      <g:link>https://www.estropical.com/en/idea/55872365/paquete-a-riviera-maya-bahia-principe-explore-tulum-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55872365.jpg?v=3</g:image_link>
+      <g:price>1804.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>56348560</g:id>
+      <title>Paquete a Punta Cana | Impressive Punta Cana 4*</title>
+      <description>Paquete a Punta Cana | Impressive Punta Cana 4* from US$1,807</description>
+      <g:title>Paquete a Punta Cana | Impressive Punta Cana 4*</g:title>
+      <g:description>Paquete a Punta Cana | Impressive Punta Cana 4* from US$1,807</g:description>
+      <g:link>https://www.estropical.com/en/idea/56348560/paquete-a-punta-cana-impressive-punta-cana-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56348560.jpg?v=3</g:image_link>
+      <g:price>1807.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>25 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>30 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>35275011</g:id>
+      <title>Surprising Morocco (2026)</title>
+      <description>Surprising Morocco (2026) from US$1,808</description>
+      <g:title>Surprising Morocco (2026)</g:title>
+      <g:description>Surprising Morocco (2026) from US$1,808</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275011/surprising-morocco-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275011.jpg?v=3</g:image_link>
+      <g:price>1808.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>56347135</g:id>
+      <title>Paquete a Punta Cana | Impressive Premium Punta Cana 5*</title>
+      <description>Paquete a Punta Cana | Impressive Premium Punta Cana 5* from US$1,812</description>
+      <g:title>Paquete a Punta Cana | Impressive Premium Punta Cana 5*</g:title>
+      <g:description>Paquete a Punta Cana | Impressive Premium Punta Cana 5* from US$1,812</g:description>
+      <g:link>https://www.estropical.com/en/idea/56347135/paquete-a-punta-cana-impressive-premium-punta-cana-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/56347135.jpg?v=3</g:image_link>
+      <g:price>1812.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
+      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>25 Aug 2026</g:custom_label_2>
+      <g:custom_label_3>30 Aug 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>38304919</g:id>
+      <title>Complete Austria (2026)</title>
+      <description>Complete Austria (2026) from US$1,813</description>
+      <g:title>Complete Austria (2026)</g:title>
+      <g:description>Complete Austria (2026) from US$1,813</g:description>
+      <g:link>https://www.estropical.com/en/idea/38304919/complete-austria-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304919.jpg?v=3</g:image_link>
+      <g:price>1813.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>58169076</g:id>
+      <title>Ib172 - Marruecos Desde la Costa del Sol 26/27</title>
+      <description>IB172 - MARRUECOS DESDE LA COSTA DEL SOL 26/27 from US$1,817</description>
+      <g:title>Ib172 - Marruecos Desde la Costa del Sol 26/27</g:title>
+      <g:description>IB172 - MARRUECOS DESDE LA COSTA DEL SOL 26/27 from US$1,817</g:description>
+      <g:link>https://www.estropical.com/en/idea/58169076/ib172-marruecos-desde-la-costa-del-sol-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169076.jpg?v=3</g:image_link>
+      <g:price>1817.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
   </channel>
