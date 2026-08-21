@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-08-19 10:37 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-08-19T10:37:02.281551Z)
+  Generated : 2026-08-21 10:39 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-08-21T10:39:17.444525Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -2264,24 +2264,6 @@
     </item>
 
     <item>
-      <g:id>59805161</g:id>
-      <title>Paquete 3 Días 2 Noches en Atarisi Lodge</title>
-      <description>Paquete 3 días 2 noches en Atarisi Lodge from US$205</description>
-      <g:title>Paquete 3 Días 2 Noches en Atarisi Lodge</g:title>
-      <g:description>Paquete 3 días 2 noches en Atarisi Lodge from US$205</g:description>
-      <g:link>https://www.estropical.com/en/idea/59805161/paquete-3-dias-2-noches-en-atarisi-lodge</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/59805161.jpg?v=3</g:image_link>
-      <g:price>205.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>53561941</g:id>
       <title>Terramia Resort Experience – 4d/3n</title>
       <description>TERRAMIA RESORT EXPERIENCE –  4D/3N  from US$207</description>
@@ -3697,27 +3679,6 @@
     </item>
 
     <item>
-      <g:id>57444422</g:id>
-      <title>Hotel en Punta Cana | Bahia Principe Explore Turquesa 5*</title>
-      <description>Hotel en Punta Cana | Bahia Principe Explore Turquesa 5* from US$507</description>
-      <g:title>Hotel en Punta Cana | Bahia Principe Explore Turquesa 5*</g:title>
-      <g:description>Hotel en Punta Cana | Bahia Principe Explore Turquesa 5* from US$507</g:description>
-      <g:link>https://www.estropical.com/en/idea/57444422/hotel-en-punta-cana-bahia-principe-explore-turquesa-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57444422.jpg?v=3</g:image_link>
-      <g:price>507.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
-      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>10 Aug 2026</g:custom_label_2>
-      <g:custom_label_3>15 Aug 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>59981120</g:id>
       <title>Porto de Galinhas + Excursión de Playa de los Carneiros</title>
       <description>Porto de Galinhas + Excursión de Playa de los Carneiros from US$511</description>
@@ -3858,27 +3819,6 @@
       <g:custom_label_1>Sudamérica</g:custom_label_1>
       <g:custom_label_2>10 Oct 2026</g:custom_label_2>
       <g:custom_label_3>14 Oct 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>57444983</g:id>
-      <title>Hotel en la Romana | Bahia Principe Explore la Romana 5*</title>
-      <description>Hotel en La Romana | Bahia Principe Explore La Romana 5* from US$537</description>
-      <g:title>Hotel en la Romana | Bahia Principe Explore la Romana 5*</g:title>
-      <g:description>Hotel en La Romana | Bahia Principe Explore La Romana 5* from US$537</g:description>
-      <g:link>https://www.estropical.com/en/idea/57444983/hotel-en-la-romana-bahia-principe-explore-la-romana-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57444983.jpg?v=3</g:image_link>
-      <g:price>537.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>10 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>15 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -5483,24 +5423,6 @@
     </item>
 
     <item>
-      <g:id>61480523</g:id>
-      <title>Peloponnese and Saronic Islands (2027)</title>
-      <description>Peloponnese and Saronic Islands (2027) from US$805</description>
-      <g:title>Peloponnese and Saronic Islands (2027)</g:title>
-      <g:description>Peloponnese and Saronic Islands (2027) from US$805</g:description>
-      <g:link>https://www.estropical.com/en/idea/61480523/peloponnese-and-saronic-islands-2027-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61480523.jpg?v=3</g:image_link>
-      <g:price>805.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>35275356</g:id>
       <title>Peloponnese and Saronic Islands (2026)</title>
       <description>Peloponnese and Saronic Islands (2026) from US$805</description>
@@ -5618,24 +5540,6 @@
       <g:custom_label_2>10 Oct 2026</g:custom_label_2>
       <g:custom_label_3>15 Oct 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>61478630</g:id>
-      <title>Athens and Northern Greece with Meteoras (2027)</title>
-      <description>Athens and Northern Greece with Meteoras (2027) from US$827</description>
-      <g:title>Athens and Northern Greece with Meteoras (2027)</g:title>
-      <g:description>Athens and Northern Greece with Meteoras (2027) from US$827</g:description>
-      <g:link>https://www.estropical.com/en/idea/61478630/athens-and-northern-greece-with-meteoras-2027-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61478630.jpg?v=3</g:image_link>
-      <g:price>827.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
@@ -7157,24 +7061,6 @@
     </item>
 
     <item>
-      <g:id>61479218</g:id>
-      <title>From Athens To Sofia (2027)</title>
-      <description>From Athens to Sofia (2027) from US$1,129</description>
-      <g:title>From Athens To Sofia (2027)</g:title>
-      <g:description>From Athens to Sofia (2027) from US$1,129</g:description>
-      <g:link>https://www.estropical.com/en/idea/61479218/from-athens-to-sofia-2027-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61479218.jpg?v=3</g:image_link>
-      <g:price>1129.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>61199267</g:id>
       <title>Ib130 - Oporto y Lisboa 2027</title>
       <description>IB130 - OPORTO Y LISBOA 2027 from US$1,132</description>
@@ -8523,24 +8409,6 @@
     </item>
 
     <item>
-      <g:id>35275605</g:id>
-      <title>Heading North End Stockholm (2026)</title>
-      <description>Heading North End Stockholm (2026) from US$1,384</description>
-      <g:title>Heading North End Stockholm (2026)</g:title>
-      <g:description>Heading North End Stockholm (2026) from US$1,384</g:description>
-      <g:link>https://www.estropical.com/en/idea/35275605/heading-north-end-stockholm-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275605.jpg?v=3</g:image_link>
-      <g:price>1384.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>61478822</g:id>
       <title>Baltic Capitals: From Stockholm To Tallinn (2027)</title>
       <description>Baltic Capitals: from Stockholm to Tallinn (2027) from US$1,388</description>
@@ -8753,24 +8621,6 @@
     </item>
 
     <item>
-      <g:id>38304955</g:id>
-      <title>Berlin and Czech Pearls (2026)</title>
-      <description>Berlin and Czech Pearls (2026) from US$1,443</description>
-      <g:title>Berlin and Czech Pearls (2026)</g:title>
-      <g:description>Berlin and Czech Pearls (2026) from US$1,443</g:description>
-      <g:link>https://www.estropical.com/en/idea/38304955/berlin-and-czech-pearls-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304955.jpg?v=3</g:image_link>
-      <g:price>1443.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>58169010</g:id>
       <title>Colores de Mexico 2026</title>
       <description>MM1024 COLORES DE MEXICO 2026 from US$1,446</description>
@@ -8847,6 +8697,24 @@
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>35275605</g:id>
+      <title>Heading North End Stockholm (2026)</title>
+      <description>Heading North End Stockholm (2026) from US$1,462</description>
+      <g:title>Heading North End Stockholm (2026)</g:title>
+      <g:description>Heading North End Stockholm (2026) from US$1,462</g:description>
+      <g:link>https://www.estropical.com/en/idea/35275605/heading-north-end-stockholm-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35275605.jpg?v=3</g:image_link>
+      <g:price>1462.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
@@ -9273,14 +9141,14 @@
     </item>
 
     <item>
-      <g:id>37831972</g:id>
-      <title>The Whole of the Czech Republic (2026)</title>
-      <description>The whole of the Czech Republic (2026) from US$1,497</description>
-      <g:title>The Whole of the Czech Republic (2026)</g:title>
-      <g:description>The whole of the Czech Republic (2026) from US$1,497</g:description>
-      <g:link>https://www.estropical.com/en/idea/37831972/the-whole-of-the-czech-republic-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37831972.jpg?v=3</g:image_link>
-      <g:price>1497.00 USD</g:price>
+      <g:id>38304955</g:id>
+      <title>Berlin and Czech Pearls (2026)</title>
+      <description>Berlin and Czech Pearls (2026) from US$1,500</description>
+      <g:title>Berlin and Czech Pearls (2026)</g:title>
+      <g:description>Berlin and Czech Pearls (2026) from US$1,500</g:description>
+      <g:link>https://www.estropical.com/en/idea/38304955/berlin-and-czech-pearls-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/38304955.jpg?v=3</g:image_link>
+      <g:price>1500.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9366,24 +9234,6 @@
       <g:custom_label_2>27 Dec 2026</g:custom_label_2>
       <g:custom_label_3>3 Jan 2027</g:custom_label_3>
       <g:custom_label_4>7 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>37831978</g:id>
-      <title>Magical Czechia and Bavaria (2026)</title>
-      <description>Magical Czechia and Bavaria (2026) from US$1,514</description>
-      <g:title>Magical Czechia and Bavaria (2026)</g:title>
-      <g:description>Magical Czechia and Bavaria (2026) from US$1,514</g:description>
-      <g:link>https://www.estropical.com/en/idea/37831978/magical-czechia-and-bavaria-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37831978.jpg?v=3</g:image_link>
-      <g:price>1514.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
@@ -9555,6 +9405,24 @@
     </item>
 
     <item>
+      <g:id>37831972</g:id>
+      <title>The Whole of the Czech Republic (2026)</title>
+      <description>The whole of the Czech Republic (2026) from US$1,554</description>
+      <g:title>The Whole of the Czech Republic (2026)</g:title>
+      <g:description>The whole of the Czech Republic (2026) from US$1,554</g:description>
+      <g:link>https://www.estropical.com/en/idea/37831972/the-whole-of-the-czech-republic-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37831972.jpg?v=3</g:image_link>
+      <g:price>1554.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
       <g:id>61034981</g:id>
       <title>Paquete a las Vegas Desde la Paz</title>
       <description>Paquete a Las Vegas desde La Paz from US$1,556</description>
@@ -9630,6 +9498,24 @@
       <g:custom_label_2>30 Dec 2026</g:custom_label_2>
       <g:custom_label_3>4 Jan 2027</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>37831978</g:id>
+      <title>Magical Czechia and Bavaria (2026)</title>
+      <description>Magical Czechia and Bavaria (2026) from US$1,577</description>
+      <g:title>Magical Czechia and Bavaria (2026)</g:title>
+      <g:description>Magical Czechia and Bavaria (2026) from US$1,577</g:description>
+      <g:link>https://www.estropical.com/en/idea/37831978/magical-czechia-and-bavaria-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37831978.jpg?v=3</g:image_link>
+      <g:price>1577.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
@@ -9741,6 +9627,120 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>58169040</g:id>
+      <title>Ib102 - España Color 9 Dias 26/27</title>
+      <description>IB102 - ESPAÑA COLOR 9 DIAS 26/27 from US$1,600</description>
+      <g:title>Ib102 - España Color 9 Dias 26/27</g:title>
+      <g:description>IB102 - ESPAÑA COLOR 9 DIAS 26/27 from US$1,600</g:description>
+      <g:link>https://www.estropical.com/en/idea/58169040/ib102-espana-color-9-dias-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169040.jpg?v=3</g:image_link>
+      <g:price>1600.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>58169043</g:id>
+      <title>Md643 - Ext Peloponeso (arg/oly/del/met) 5d/4n 26/27</title>
+      <description>MD643 - EXT PELOPONESO (ARG/OLY/DEL/MET) 5D/4N 26/27 from US$1,603</description>
+      <g:title>Md643 - Ext Peloponeso (arg/oly/del/met) 5d/4n 26/27</g:title>
+      <g:description>MD643 - EXT PELOPONESO (ARG/OLY/DEL/MET) 5D/4N 26/27 from US$1,603</g:description>
+      <g:link>https://www.estropical.com/en/idea/58169043/md643-ext-peloponeso-arg-oly-del-met-5d-4n-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169043.jpg?v=3</g:image_link>
+      <g:price>1603.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>37149766</g:id>
+      <title>Dubai and the United Arab Emirates (2026)</title>
+      <description>Dubai and the United Arab Emirates (2026) from US$1,611</description>
+      <g:title>Dubai and the United Arab Emirates (2026)</g:title>
+      <g:description>Dubai and the United Arab Emirates (2026) from US$1,611</g:description>
+      <g:link>https://www.estropical.com/en/idea/37149766/dubai-and-the-united-arab-emirates-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37149766.jpg?v=3</g:image_link>
+      <g:price>1611.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>61248986</g:id>
+      <title>Paquete a Riviera Maya | Catalonia Royal Tulum All Inclusive 4*</title>
+      <description>Paquete a Riviera Maya | Catalonia Royal Tulum All Inclusive 4* from US$1,615</description>
+      <g:title>Paquete a Riviera Maya | Catalonia Royal Tulum All Inclusive 4*</g:title>
+      <g:description>Paquete a Riviera Maya | Catalonia Royal Tulum All Inclusive 4* from US$1,615</g:description>
+      <g:link>https://www.estropical.com/en/idea/61248986/paquete-a-riviera-maya-catalonia-royal-tulum-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61248986.jpg?v=3</g:image_link>
+      <g:price>1615.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>18 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>23 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>58169046</g:id>
+      <title>Triangulo del Norte y Nepal 26/27</title>
+      <description>MM803 TRIANGULO DEL NORTE Y NEPAL 26/27 from US$1,616</description>
+      <g:title>Triangulo del Norte y Nepal 26/27</g:title>
+      <g:description>MM803 TRIANGULO DEL NORTE Y NEPAL 26/27 from US$1,616</g:description>
+      <g:link>https://www.estropical.com/en/idea/58169046/mm803-triangulo-del-norte-y-nepal-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169046.jpg?v=3</g:image_link>
+      <g:price>1616.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>55872095</g:id>
+      <title>Paquete a Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4*</title>
+      <description>Paquete a Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4* from US$1,624</description>
+      <g:title>Paquete a Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4*</g:title>
+      <g:description>Paquete a Riviera Maya | Bahia Principe Explore Coba - All Inclusive 4* from US$1,624</g:description>
+      <g:link>https://www.estropical.com/en/idea/55872095/paquete-a-riviera-maya-bahia-principe-explore-coba-all-inclusive-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55872095.jpg?v=3</g:image_link>
+      <g:price>1624.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>2 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>7 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
   </channel>
