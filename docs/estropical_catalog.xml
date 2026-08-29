@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-08-28 21:16 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-08-28T21:16:42.086298Z)
+  Generated : 2026-08-29 15:08 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-08-29T15:08:28.638512Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -7224,24 +7224,6 @@
     </item>
 
     <item>
-      <g:id>58168962</g:id>
-      <title>Or705 - Jordania Fascinante 26/27</title>
-      <description>OR705 - JORDANIA FASCINANTE 26/27 from US$1,163</description>
-      <g:title>Or705 - Jordania Fascinante 26/27</g:title>
-      <g:description>OR705 - JORDANIA FASCINANTE 26/27 from US$1,163</g:description>
-      <g:link>https://www.estropical.com/en/idea/58168962/or705-jordania-fascinante-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168962.jpg?v=3</g:image_link>
-      <g:price>1163.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>56366971</g:id>
       <title>Hotel en Cancun | Riu Palace Peninsula - All Inclusive 5*</title>
       <description>Hotel en Cancun | Riu Palace Peninsula - All Inclusive 5* from US$1,169</description>
@@ -7673,6 +7655,24 @@
       <g:custom_label_1>Norteamérica</g:custom_label_1>
       <g:custom_label_2>11 Aug 2026</g:custom_label_2>
       <g:custom_label_3>17 Aug 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>58168962</g:id>
+      <title>Or705 - Jordania Fascinante 26/27</title>
+      <description>OR705 - JORDANIA FASCINANTE 26/27 from US$1,238</description>
+      <g:title>Or705 - Jordania Fascinante 26/27</g:title>
+      <g:description>OR705 - JORDANIA FASCINANTE 26/27 from US$1,238</g:description>
+      <g:link>https://www.estropical.com/en/idea/58168962/or705-jordania-fascinante-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168962.jpg?v=3</g:image_link>
+      <g:price>1238.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
@@ -8252,24 +8252,6 @@
     </item>
 
     <item>
-      <g:id>58168995</g:id>
-      <title>Or706 - Jordania, Dunas y Nabateos 26/27</title>
-      <description>OR706 - JORDANIA, DUNAS Y NABATEOS 26/27 from US$1,320</description>
-      <g:title>Or706 - Jordania, Dunas y Nabateos 26/27</g:title>
-      <g:description>OR706 - JORDANIA, DUNAS Y NABATEOS 26/27 from US$1,320</g:description>
-      <g:link>https://www.estropical.com/en/idea/58168995/or706-jordania-dunas-y-nabateos-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168995.jpg?v=3</g:image_link>
-      <g:price>1320.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>61478639</g:id>
       <title>Atlas, Sahara (2027)</title>
       <description>Atlas, Sahara (2027) from US$1,330</description>
@@ -8477,6 +8459,24 @@
       <g:custom_label_2>13 Oct 2026</g:custom_label_2>
       <g:custom_label_3>18 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>58168995</g:id>
+      <title>Or706 - Jordania, Dunas y Nabateos 26/27</title>
+      <description>OR706 - JORDANIA, DUNAS Y NABATEOS 26/27 from US$1,364</description>
+      <g:title>Or706 - Jordania, Dunas y Nabateos 26/27</g:title>
+      <g:description>OR706 - JORDANIA, DUNAS Y NABATEOS 26/27 from US$1,364</g:description>
+      <g:link>https://www.estropical.com/en/idea/58168995/or706-jordania-dunas-y-nabateos-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168995.jpg?v=3</g:image_link>
+      <g:price>1364.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
