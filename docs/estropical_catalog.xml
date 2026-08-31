@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-08-30 14:51 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-08-30T14:51:58.337167Z)
+  Generated : 2026-08-31 17:36 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-08-31T17:36:19.878311Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -1515,7 +1515,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1531,11 +1531,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -6595,6 +6595,27 @@
     </item>
 
     <item>
+      <g:id>62451881</g:id>
+      <title>Hotel en Imbassaí | Grand Palladium Imbassaí 5*</title>
+      <description>Hotel en Imbassaí | Grand Palladium Imbassaí 5* from US$1,038</description>
+      <g:title>Hotel en Imbassaí | Grand Palladium Imbassaí 5*</g:title>
+      <g:description>Hotel en Imbassaí | Grand Palladium Imbassaí 5* from US$1,038</g:description>
+      <g:link>https://www.estropical.com/en/idea/62451881/hotel-en-imbassai-grand-palladium-imbassai-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/62451881.jpg?v=3</g:image_link>
+      <g:price>1038.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>3 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>8 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>53724979</g:id>
       <title>Aloha Tropical en Hawai</title>
       <description>Aloha Tropical en Hawai from US$1,042</description>
@@ -6672,6 +6693,27 @@
       <g:custom_label_1>Norteamérica</g:custom_label_1>
       <g:custom_label_2>10 Sep 2026</g:custom_label_2>
       <g:custom_label_3>16 Sep 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>62452979</g:id>
+      <title>Hotel en Costa Mujeres | Grand Palladium Select Costa Mujeres 5*</title>
+      <description>Hotel en Costa Mujeres | Grand Palladium Select Costa Mujeres 5* from US$1,072</description>
+      <g:title>Hotel en Costa Mujeres | Grand Palladium Select Costa Mujeres 5*</g:title>
+      <g:description>Hotel en Costa Mujeres | Grand Palladium Select Costa Mujeres 5* from US$1,072</g:description>
+      <g:link>https://www.estropical.com/en/idea/62452979/hotel-en-costa-mujeres-grand-palladium-select-costa-mujeres-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/62452979.jpg?v=3</g:image_link>
+      <g:price>1072.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>20 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>25 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -9737,42 +9779,6 @@
       <g:custom_label_2>14 Oct 2026</g:custom_label_2>
       <g:custom_label_3>20 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>61199294</g:id>
-      <title>Ce406 - el Triangulo Magico 2027</title>
-      <description>CE406 - EL TRIANGULO MAGICO 2027 from US$1,567</description>
-      <g:title>Ce406 - el Triangulo Magico 2027</g:title>
-      <g:description>CE406 - EL TRIANGULO MAGICO 2027 from US$1,567</g:description>
-      <g:link>https://www.estropical.com/en/idea/61199294/ce406-el-triangulo-magico-2027</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61199294.jpg?v=3</g:image_link>
-      <g:price>1567.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>58169037</g:id>
-      <title>Md637 - Grecia y Sus Islas: Santorini 2026</title>
-      <description>MD637 - GRECIA Y SUS ISLAS: SANTORINI 2026 from US$1,572</description>
-      <g:title>Md637 - Grecia y Sus Islas: Santorini 2026</g:title>
-      <g:description>MD637 - GRECIA Y SUS ISLAS: SANTORINI 2026 from US$1,572</g:description>
-      <g:link>https://www.estropical.com/en/idea/58169037/md637-grecia-y-sus-islas-santorini-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169037.jpg?v=3</g:image_link>
-      <g:price>1572.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
   </channel>
