@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-03 14:19 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-03T14:19:53.594963Z)
+  Generated : 2026-09-04 14:12 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-04T14:12:11.632460Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -92,6 +92,27 @@
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_2>11 Nov 2026</g:custom_label_2>
       <g:custom_label_3>12 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>62771020</g:id>
+      <title>Hotel en Sucre L Monasterio 4*</title>
+      <description>Hotel en Sucre l Monasterio 4* from US$21</description>
+      <g:title>Hotel en Sucre L Monasterio 4*</g:title>
+      <g:description>Hotel en Sucre l Monasterio 4* from US$21</g:description>
+      <g:link>https://www.estropical.com/en/idea/62771020/hotel-en-sucre-l-monasterio-4-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/62771020.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>10 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>11 Dec 2026</g:custom_label_3>
       <g:custom_label_4>1 noches</g:custom_label_4>
     </item>
 
@@ -240,27 +261,6 @@
     </item>
 
     <item>
-      <g:id>54690138</g:id>
-      <title>Hotel en Santa Cruz L Swissotel 5*</title>
-      <description>Hotel en Santa Cruz l Swissotel 5* from US$31</description>
-      <g:title>Hotel en Santa Cruz L Swissotel 5*</g:title>
-      <g:description>Hotel en Santa Cruz l Swissotel 5* from US$31</g:description>
-      <g:link>https://www.estropical.com/en/idea/54690138/hotel-en-santa-cruz-l-swissotel-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54690138.jpg?v=3</g:image_link>
-      <g:price>299.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>28 Nov 2026</g:custom_label_2>
-      <g:custom_label_3>29 Nov 2026</g:custom_label_3>
-      <g:custom_label_4>1 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>61028261</g:id>
       <title>Paquete a Buenos Aires Desde la Paz</title>
       <description>Paquete a Buenos Aires desde La Paz from US$889</description>
@@ -279,6 +279,27 @@
       <g:custom_label_2>14 Sep 2026</g:custom_label_2>
       <g:custom_label_3>19 Sep 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>54690138</g:id>
+      <title>Hotel en Santa Cruz L Swissotel 5*</title>
+      <description>Hotel en Santa Cruz l Swissotel 5* from US$31</description>
+      <g:title>Hotel en Santa Cruz L Swissotel 5*</g:title>
+      <g:description>Hotel en Santa Cruz l Swissotel 5* from US$31</g:description>
+      <g:link>https://www.estropical.com/en/idea/54690138/hotel-en-santa-cruz-l-swissotel-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/54690138.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>28 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>29 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -383,6 +404,27 @@
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_2>27 Dec 2025</g:custom_label_2>
       <g:custom_label_3>28 Dec 2025</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>62773129</g:id>
+      <title>Hotel en Sucre L Roles Hotel 5*</title>
+      <description>Hotel en Sucre l Roles Hotel 5* from US$35</description>
+      <g:title>Hotel en Sucre L Roles Hotel 5*</g:title>
+      <g:description>Hotel en Sucre l Roles Hotel 5* from US$35</g:description>
+      <g:link>https://www.estropical.com/en/idea/62773129/hotel-en-sucre-l-roles-hotel-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/62773129.jpg?v=3</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>18 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>19 Dec 2026</g:custom_label_3>
+      <g:custom_label_4>1 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -1515,7 +1557,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1531,11 +1573,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -9724,45 +9766,6 @@
       <g:link>https://www.estropical.com/en/idea/61199294/ce406-el-triangulo-magico-2027</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61199294.jpg?v=3</g:image_link>
       <g:price>1530.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>60238361</g:id>
-      <title>Paquete a Punta Cana | Hotel Riu Palace Bavaro 4*</title>
-      <description>Paquete a Punta Cana | Hotel Riu Palace Bavaro 4* from US$1,531</description>
-      <g:title>Paquete a Punta Cana | Hotel Riu Palace Bavaro 4*</g:title>
-      <g:description>Paquete a Punta Cana | Hotel Riu Palace Bavaro 4* from US$1,531</g:description>
-      <g:link>https://www.estropical.com/en/idea/60238361/paquete-a-punta-cana-hotel-riu-palace-bavaro-4-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/60238361.jpg?v=3</g:image_link>
-      <g:price>1531.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
-      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>16 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>22 Oct 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>58169037</g:id>
-      <title>Md637 - Grecia y Sus Islas: Santorini 2026</title>
-      <description>MD637 - GRECIA Y SUS ISLAS: SANTORINI 2026 from US$1,535</description>
-      <g:title>Md637 - Grecia y Sus Islas: Santorini 2026</g:title>
-      <g:description>MD637 - GRECIA Y SUS ISLAS: SANTORINI 2026 from US$1,535</g:description>
-      <g:link>https://www.estropical.com/en/idea/58169037/md637-grecia-y-sus-islas-santorini-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169037.jpg?v=3</g:image_link>
-      <g:price>1535.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
