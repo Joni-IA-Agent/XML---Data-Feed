@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-04 14:12 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-04T14:12:11.632460Z)
+  Generated : 2026-09-05 13:26 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-05T13:26:06.489603Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -1557,7 +1557,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1573,11 +1573,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -4641,6 +4641,24 @@
       <g:link>https://www.estropical.com/en/idea/12743065/navidad-en-la-pequena-suiza-brasilena</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/12743065.jpg?v=3</g:image_link>
       <g:price>668.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>62868775</g:id>
+      <title>Cochabamba 3 Días / 2 Noches - Servicio Privado</title>
+      <description>Cochabamba 3 Días / 2 Noches - Servicio Privado from US$671</description>
+      <g:title>Cochabamba 3 Días / 2 Noches - Servicio Privado</g:title>
+      <g:description>Cochabamba 3 Días / 2 Noches - Servicio Privado from US$671</g:description>
+      <g:link>https://www.estropical.com/en/idea/62868775/cochabamba-3-dias-2-noches-servicio-privado</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/62868775.jpg?v=3</g:image_link>
+      <g:price>671.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
@@ -9755,24 +9773,6 @@
       <g:custom_label_2>16 Jan 2027</g:custom_label_2>
       <g:custom_label_3>23 Jan 2027</g:custom_label_3>
       <g:custom_label_4>6 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>61199294</g:id>
-      <title>Ce406 - el Triangulo Magico 2027</title>
-      <description>CE406 - EL TRIANGULO MAGICO 2027 from US$1,530</description>
-      <g:title>Ce406 - el Triangulo Magico 2027</g:title>
-      <g:description>CE406 - EL TRIANGULO MAGICO 2027 from US$1,530</g:description>
-      <g:link>https://www.estropical.com/en/idea/61199294/ce406-el-triangulo-magico-2027</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61199294.jpg?v=3</g:image_link>
-      <g:price>1530.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
   </channel>
