@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-05 13:26 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-05T13:26:06.489603Z)
+  Generated : 2026-09-06 13:35 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-06T13:35:23.458777Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -9506,24 +9506,6 @@
     </item>
 
     <item>
-      <g:id>50585513</g:id>
-      <title>Thailand For Tourists (2026)</title>
-      <description>Thailand for Tourists (2026) from US$1,479</description>
-      <g:title>Thailand For Tourists (2026)</g:title>
-      <g:description>Thailand for Tourists (2026) from US$1,479</g:description>
-      <g:link>https://www.estropical.com/en/idea/50585513/thailand-for-tourists-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/50585513.jpg?v=3</g:image_link>
-      <g:price>1479.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>53647891</g:id>
       <title>Destino para Cada Emoción: Diversión | Paquete a Rio de Janeiro</title>
       <description>Destino para cada Emoción: DIVERSIÓN | Paquete a Rio de Janeiro from US$1,484</description>
@@ -9773,6 +9755,24 @@
       <g:custom_label_2>16 Jan 2027</g:custom_label_2>
       <g:custom_label_3>23 Jan 2027</g:custom_label_3>
       <g:custom_label_4>6 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>61199294</g:id>
+      <title>Ce406 - el Triangulo Magico 2027</title>
+      <description>CE406 - EL TRIANGULO MAGICO 2027 from US$1,530</description>
+      <g:title>Ce406 - el Triangulo Magico 2027</g:title>
+      <g:description>CE406 - EL TRIANGULO MAGICO 2027 from US$1,530</g:description>
+      <g:link>https://www.estropical.com/en/idea/61199294/ce406-el-triangulo-magico-2027</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61199294.jpg?v=3</g:image_link>
+      <g:price>1530.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
   </channel>
