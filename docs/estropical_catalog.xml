@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-06 13:35 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-06T13:35:23.458777Z)
+  Generated : 2026-09-07 15:43 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-07T15:43:01.869928Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -1557,7 +1557,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1573,11 +1573,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -3534,6 +3534,24 @@
     </item>
 
     <item>
+      <g:id>63037618</g:id>
+      <title>Copacabana + Lago Titicaca + Isla del Sol L 2 Días / 1 Noche - Servicio Privado</title>
+      <description>Copacabana + Lago TIticaca + Isla del Sol l 2 Días / 1 Noche - Servicio Privado from US$479</description>
+      <g:title>Copacabana + Lago Titicaca + Isla del Sol L 2 Días / 1 Noche - Servicio Privado</g:title>
+      <g:description>Copacabana + Lago TIticaca + Isla del Sol l 2 Días / 1 Noche - Servicio Privado from US$479</g:description>
+      <g:link>https://www.estropical.com/en/idea/63037618/copacabana-lago-titicaca-isla-del-sol-l-2-dias-1-noche-servicio-privado</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63037618.jpg?v=3</g:image_link>
+      <g:price>479.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
       <g:id>61034078</g:id>
       <title>Boleto a Río de Janeiro Desde la Paz</title>
       <description>Boleto a Río de Janeiro desde La Paz from US$483</description>
@@ -4630,6 +4648,26 @@
       <g:custom_label_2>15 Oct 2026</g:custom_label_2>
       <g:custom_label_3>20 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>63003589</g:id>
+      <title>Boleto a Cartagena | Salida Fija: 29 de Octubre Al 03 de Noviembre 2026</title>
+      <description>Boleto a Cartagena | Salida Fija: 29 de Octubre al 03 de Noviembre 2026 from US$667</description>
+      <g:title>Boleto a Cartagena | Salida Fija: 29 de Octubre Al 03 de Noviembre 2026</g:title>
+      <g:description>Boleto a Cartagena | Salida Fija: 29 de Octubre al 03 de Noviembre 2026 from US$667</g:description>
+      <g:link>https://www.estropical.com/en/idea/63003589/boleto-a-cartagena-salida-fija-29-de-octubre-al-03-de-noviembre-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63003589.jpg?v=3</g:image_link>
+      <g:price>667.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>29 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>4 Nov 2026</g:custom_label_3>
     </item>
 
     <item>
@@ -6215,6 +6253,24 @@
     </item>
 
     <item>
+      <g:id>63034723</g:id>
+      <title>La Paz + Lago Titicaca L 3 Días / 2 Noches - Servicio Privado</title>
+      <description>La Paz + Lago Titicaca l 3 Días / 2 Noches - Servicio Privado from US$959</description>
+      <g:title>La Paz + Lago Titicaca L 3 Días / 2 Noches - Servicio Privado</g:title>
+      <g:description>La Paz + Lago Titicaca l 3 Días / 2 Noches - Servicio Privado from US$959</g:description>
+      <g:link>https://www.estropical.com/en/idea/63034723/la-paz-lago-titicaca-l-3-dias-2-noches-servicio-privado</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63034723.jpg?v=3</g:image_link>
+      <g:price>959.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
       <g:id>56368651</g:id>
       <title>Hotel en Playa del Carmen | Hotel Riu Playacar - All Inclusive 3*</title>
       <description>Hotel en Playa del Carmen | Hotel Riu Playacar - All Inclusive 3* from US$965</description>
@@ -6608,6 +6664,27 @@
       <g:custom_label_2>13 Jun 2026</g:custom_label_2>
       <g:custom_label_3>16 Jun 2026</g:custom_label_3>
       <g:custom_label_4>3 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>63003937</g:id>
+      <title>Paquete a Cartagena | Salida Fija: 29 de Octubre Al 03 de Noviembre 2026</title>
+      <description>Paquete a Cartagena | Salida Fija: 29 de Octubre al 03 de Noviembre 2026 from US$1,019</description>
+      <g:title>Paquete a Cartagena | Salida Fija: 29 de Octubre Al 03 de Noviembre 2026</g:title>
+      <g:description>Paquete a Cartagena | Salida Fija: 29 de Octubre al 03 de Noviembre 2026 from US$1,019</g:description>
+      <g:link>https://www.estropical.com/en/idea/63003937/paquete-a-cartagena-salida-fija-29-de-octubre-al-03-de-noviembre-2026</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63003937.jpg?v=3</g:image_link>
+      <g:price>1019.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>29 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>4 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -9688,84 +9765,6 @@
       <g:link>https://www.estropical.com/en/idea/40397726/wonders-of-bulgaria-2026-</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/40397726.jpg?v=3</g:image_link>
       <g:price>1509.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>37831972</g:id>
-      <title>The Whole of the Czech Republic (2026)</title>
-      <description>The whole of the Czech Republic (2026) from US$1,517</description>
-      <g:title>The Whole of the Czech Republic (2026)</g:title>
-      <g:description>The whole of the Czech Republic (2026) from US$1,517</g:description>
-      <g:link>https://www.estropical.com/en/idea/37831972/the-whole-of-the-czech-republic-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/37831972.jpg?v=3</g:image_link>
-      <g:price>1517.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>60155351</g:id>
-      <title>Año Nuevo en Cartagena de Indias</title>
-      <description>Año Nuevo en Cartagena de Indias  from US$1,521</description>
-      <g:title>Año Nuevo en Cartagena de Indias</g:title>
-      <g:description>Año Nuevo en Cartagena de Indias  from US$1,521</g:description>
-      <g:link>https://www.estropical.com/en/idea/60155351/ano-nuevo-en-cartagena-de-indias-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/60155351.jpg?v=3</g:image_link>
-      <g:price>1521.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>30 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>5 Jan 2027</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>62148638</g:id>
-      <title>Vacaciones en Cancún</title>
-      <description>Vacaciones en Cancún from US$1,527</description>
-      <g:title>Vacaciones en Cancún</g:title>
-      <g:description>Vacaciones en Cancún from US$1,527</g:description>
-      <g:link>https://www.estropical.com/en/idea/62148638/vacaciones-en-cancun</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/62148638.jpg?v=3</g:image_link>
-      <g:price>1527.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Caribe</g:product_type>
-      <g:item_group_id>PAQUETE-CARIBE</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>16 Jan 2027</g:custom_label_2>
-      <g:custom_label_3>23 Jan 2027</g:custom_label_3>
-      <g:custom_label_4>6 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>61199294</g:id>
-      <title>Ce406 - el Triangulo Magico 2027</title>
-      <description>CE406 - EL TRIANGULO MAGICO 2027 from US$1,530</description>
-      <g:title>Ce406 - el Triangulo Magico 2027</g:title>
-      <g:description>CE406 - EL TRIANGULO MAGICO 2027 from US$1,530</g:description>
-      <g:link>https://www.estropical.com/en/idea/61199294/ce406-el-triangulo-magico-2027</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61199294.jpg?v=3</g:image_link>
-      <g:price>1530.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
