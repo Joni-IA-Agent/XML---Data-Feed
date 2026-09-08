@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-07 15:43 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-07T15:43:01.869928Z)
+  Generated : 2026-09-08 14:19 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-08T14:18:54.840402Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -1994,6 +1994,25 @@
     </item>
 
     <item>
+      <g:id>63100036</g:id>
+      <title>San Javier + Concepcion 2d/1n ( September 24th Package)</title>
+      <description>SAN JAVIER + CONCEPCION 2D/1N ( September 24th Package) from US$121</description>
+      <g:title>San Javier + Concepcion 2d/1n ( September 24th Package)</g:title>
+      <g:description>SAN JAVIER + CONCEPCION 2D/1N ( September 24th Package) from US$121</g:description>
+      <g:link>https://www.estropical.com/en/idea/63100036/san-javier-concepcion-2d-1n-september-24th-package-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63100036.jpg?v=3</g:image_link>
+      <g:price>121.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>45460677</g:id>
       <title>Actividad en Sucre L City Tour Medio Día - Privado</title>
       <description>Actividad en Sucre l City Tour Medio Día - Privado from US$122</description>
@@ -3742,6 +3761,27 @@
     </item>
 
     <item>
+      <g:id>63047224</g:id>
+      <title>Hotel en Samaná | Bahia Principe Escape Samana 5*</title>
+      <description>Hotel en Samaná | Bahia Principe Escape Samana 5* from US$522</description>
+      <g:title>Hotel en Samaná | Bahia Principe Escape Samana 5*</g:title>
+      <g:description>Hotel en Samaná | Bahia Principe Escape Samana 5* from US$522</g:description>
+      <g:link>https://www.estropical.com/en/idea/63047224/hotel-en-samana-bahia-principe-escape-samana-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63047224.jpg?v=3</g:image_link>
+      <g:price>522.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>9 Nov 2026</g:custom_label_2>
+      <g:custom_label_3>14 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>53653993</g:id>
       <title>Boleto a Montevideo Desde Santa Cruz</title>
       <description>Boleto a Montevideo desde Santa Cruz from US$524</description>
@@ -4312,6 +4352,27 @@
     </item>
 
     <item>
+      <g:id>63044167</g:id>
+      <title>Hotel en Punta Cana | Bahia Principe Explore Legend 5*</title>
+      <description>Hotel en Punta Cana | Bahia Principe Explore Legend 5* from US$615</description>
+      <g:title>Hotel en Punta Cana | Bahia Principe Explore Legend 5*</g:title>
+      <g:description>Hotel en Punta Cana | Bahia Principe Explore Legend 5* from US$615</g:description>
+      <g:link>https://www.estropical.com/en/idea/63044167/hotel-en-punta-cana-bahia-principe-explore-legend-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63044167.jpg?v=3</g:image_link>
+      <g:price>615.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
+      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Caribe</g:custom_label_1>
+      <g:custom_label_2>20 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>25 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>58154958</g:id>
       <title>Hospedaje en Riviera Maya | Grand Sunset Princess - All Inclusive 5*</title>
       <description>Hospedaje en Riviera Maya | Grand Sunset Princess - All Inclusive 5* from US$617</description>
@@ -4548,6 +4609,27 @@
       <g:custom_label_1>Caribe</g:custom_label_1>
       <g:custom_label_2>15 Oct 2026</g:custom_label_2>
       <g:custom_label_3>20 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>63052363</g:id>
+      <title>Hotel en Riviera Maya | Bahia Principe Escape Tequila 5*</title>
+      <description>Hotel en Riviera Maya | Bahia Principe Escape Tequila 5* from US$655</description>
+      <g:title>Hotel en Riviera Maya | Bahia Principe Escape Tequila 5*</g:title>
+      <g:description>Hotel en Riviera Maya | Bahia Principe Escape Tequila 5* from US$655</g:description>
+      <g:link>https://www.estropical.com/en/idea/63052363/hotel-en-riviera-maya-bahia-principe-escape-tequila-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63052363.jpg?v=3</g:image_link>
+      <g:price>655.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>20 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>25 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -4867,6 +4949,24 @@
       <g:custom_label_2>16 Sep 2026</g:custom_label_2>
       <g:custom_label_3>20 Sep 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>63039091</g:id>
+      <title>Copacabana + Lago Titicaca + Isla del Sol + Isla de la Luna L 3 Días / 2 Noches - Servicio Privado</title>
+      <description>Copacabana + Lago TIticaca + Isla del Sol + Isla de la Luna l 3 Días / 2 Noches - Servicio Privado from US$700</description>
+      <g:title>Copacabana + Lago Titicaca + Isla del Sol + Isla de la Luna L 3 Días / 2 Noches - Servicio Privado</g:title>
+      <g:description>Copacabana + Lago TIticaca + Isla del Sol + Isla de la Luna l 3 Días / 2 Noches - Servicio Privado from US$700</g:description>
+      <g:link>https://www.estropical.com/en/idea/63039091/copacabana-lago-titicaca-isla-del-sol-isla-de-la-luna-l-3-dias-2-noches-servicio-privado</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63039091.jpg?v=3</g:image_link>
+      <g:price>700.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
@@ -6028,6 +6128,27 @@
       <g:custom_label_1>Norteamérica</g:custom_label_1>
       <g:custom_label_2>18 Nov 2026</g:custom_label_2>
       <g:custom_label_3>23 Nov 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>63052882</g:id>
+      <title>Hotel en Jamaica | Bahia Principe Escape Runaway Bay 5*</title>
+      <description>Hotel en Jamaica | Bahia Principe Escape Runaway Bay 5* from US$913</description>
+      <g:title>Hotel en Jamaica | Bahia Principe Escape Runaway Bay 5*</g:title>
+      <g:description>Hotel en Jamaica | Bahia Principe Escape Runaway Bay 5* from US$913</g:description>
+      <g:link>https://www.estropical.com/en/idea/63052882/hotel-en-jamaica-bahia-principe-escape-runaway-bay-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63052882.jpg?v=3</g:image_link>
+      <g:price>913.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
+      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Hotel</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
@@ -8650,6 +8771,27 @@
     </item>
 
     <item>
+      <g:id>63042328</g:id>
+      <title>Paquete a Tulum | Bahia Principe Explore Tulum 5*</title>
+      <description>Paquete a Tulum | Bahia Principe Explore Tulum 5* from US$1,343</description>
+      <g:title>Paquete a Tulum | Bahia Principe Explore Tulum 5*</g:title>
+      <g:description>Paquete a Tulum | Bahia Principe Explore Tulum 5* from US$1,343</g:description>
+      <g:link>https://www.estropical.com/en/idea/63042328/paquete-a-tulum-bahia-principe-explore-tulum-5-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63042328.jpg?v=3</g:image_link>
+      <g:price>1343.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
+      <g:custom_label_3>20 Oct 2026</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>62075906</g:id>
       <title>Carnaval en Rio de Janeiro</title>
       <description>Carnaval en Rio de Janeiro from US$1,344</description>
@@ -9630,141 +9772,6 @@
       <g:link>https://www.estropical.com/en/idea/58169034/mm893-safari-sudafricano-ii-2026</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169034.jpg?v=3</g:image_link>
       <g:price>1486.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>61479473</g:id>
-      <title>Essence of Thailand – Ending In Chiang Rai (2027)</title>
-      <description>Essence of Thailand – Ending in Chiang Rai (2027) from US$1,493</description>
-      <g:title>Essence of Thailand – Ending In Chiang Rai (2027)</g:title>
-      <g:description>Essence of Thailand – Ending in Chiang Rai (2027) from US$1,493</g:description>
-      <g:link>https://www.estropical.com/en/idea/61479473/essence-of-thailand-ending-in-chiang-rai-2027-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61479473.jpg?v=3</g:image_link>
-      <g:price>1493.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>44293116</g:id>
-      <title>Essence of Thailand – Ending In Chiang Rai (2026)</title>
-      <description>Essence of Thailand – Ending in Chiang Rai (2026) from US$1,493</description>
-      <g:title>Essence of Thailand – Ending In Chiang Rai (2026)</g:title>
-      <g:description>Essence of Thailand – Ending in Chiang Rai (2026) from US$1,493</g:description>
-      <g:link>https://www.estropical.com/en/idea/44293116/essence-of-thailand-ending-in-chiang-rai-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/44293116.jpg?v=3</g:image_link>
-      <g:price>1493.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>61856354</g:id>
-      <title>Paquete a Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5*</title>
-      <description>Paquete a Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5* from US$1,494</description>
-      <g:title>Paquete a Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5*</g:title>
-      <g:description>Paquete a Costa Mujeres | Catalonia Grand Costa Mujeres All Suites &amp; Spa 5* from US$1,494</g:description>
-      <g:link>https://www.estropical.com/en/idea/61856354/paquete-a-costa-mujeres-catalonia-grand-costa-mujeres-all-suites-spa-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61856354.jpg?v=3</g:image_link>
-      <g:price>1494.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Internacional</g:product_type>
-      <g:item_group_id>HOTEL-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>15 Oct 2026</g:custom_label_2>
-      <g:custom_label_3>21 Oct 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>53726695</g:id>
-      <title>Moon Palace Cancún All Inclusive 5*</title>
-      <description>Moon Palace Cancún All Inclusive 5* from US$1,501</description>
-      <g:title>Moon Palace Cancún All Inclusive 5*</g:title>
-      <g:description>Moon Palace Cancún All Inclusive 5* from US$1,501</g:description>
-      <g:link>https://www.estropical.com/en/idea/53726695/moon-palace-cancun-all-inclusive-5-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/53726695.jpg?v=3</g:image_link>
-      <g:price>1501.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Hoteles &gt; Caribe</g:product_type>
-      <g:item_group_id>HOTEL-CARIBE</g:item_group_id>
-      <g:custom_label_0>Hotel</g:custom_label_0>
-      <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>16 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>21 Sep 2026</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>57849494</g:id>
-      <title>Año Nuevo en Rio de Janeiro</title>
-      <description>Año Nuevo en Rio de Janeiro from US$1,505</description>
-      <g:title>Año Nuevo en Rio de Janeiro</g:title>
-      <g:description>Año Nuevo en Rio de Janeiro from US$1,505</g:description>
-      <g:link>https://www.estropical.com/en/idea/57849494/ano-nuevo-en-rio-de-janeiro</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57849494.jpg?v=3</g:image_link>
-      <g:price>1505.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
-      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Sudamérica</g:custom_label_1>
-      <g:custom_label_2>27 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>3 Jan 2027</g:custom_label_3>
-      <g:custom_label_4>7 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>61480232</g:id>
-      <title>Wonders of Bulgaria (2027)</title>
-      <description>Wonders of Bulgaria (2027) from US$1,509</description>
-      <g:title>Wonders of Bulgaria (2027)</g:title>
-      <g:description>Wonders of Bulgaria (2027) from US$1,509</g:description>
-      <g:link>https://www.estropical.com/en/idea/61480232/wonders-of-bulgaria-2027-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/61480232.jpg?v=3</g:image_link>
-      <g:price>1509.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>40397726</g:id>
-      <title>Wonders of Bulgaria (2026)</title>
-      <description>Wonders of Bulgaria (2026) from US$1,509</description>
-      <g:title>Wonders of Bulgaria (2026)</g:title>
-      <g:description>Wonders of Bulgaria (2026) from US$1,509</g:description>
-      <g:link>https://www.estropical.com/en/idea/40397726/wonders-of-bulgaria-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/40397726.jpg?v=3</g:image_link>
-      <g:price>1509.00 USD</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Estropical</g:brand>
