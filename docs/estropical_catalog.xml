@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-08 14:19 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-08T14:18:54.840402Z)
+  Generated : 2026-09-09 14:21 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-09T14:21:00.398848Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -1557,7 +1557,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1573,11 +1573,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -3535,24 +3535,6 @@
     </item>
 
     <item>
-      <g:id>58168926</g:id>
-      <title>Or714 - Dubai 4 Dias 26/27</title>
-      <description>OR714 - DUBAI 4 DIAS 26/27 from US$479</description>
-      <g:title>Or714 - Dubai 4 Dias 26/27</g:title>
-      <g:description>OR714 - DUBAI 4 DIAS 26/27 from US$479</g:description>
-      <g:link>https://www.estropical.com/en/idea/58168926/or714-dubai-4-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168926.jpg?v=3</g:image_link>
-      <g:price>479.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>63037618</g:id>
       <title>Copacabana + Lago Titicaca + Isla del Sol L 2 Días / 1 Noche - Servicio Privado</title>
       <description>Copacabana + Lago TIticaca + Isla del Sol l 2 Días / 1 Noche - Servicio Privado from US$479</description>
@@ -3984,6 +3966,24 @@
       <g:custom_label_2>15 Oct 2026</g:custom_label_2>
       <g:custom_label_3>20 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>58168926</g:id>
+      <title>Or714 - Dubai 4 Dias 26/27</title>
+      <description>OR714 - DUBAI 4 DIAS 26/27 from US$552</description>
+      <g:title>Or714 - Dubai 4 Dias 26/27</g:title>
+      <g:description>OR714 - DUBAI 4 DIAS 26/27 from US$552</g:description>
+      <g:link>https://www.estropical.com/en/idea/58168926/or714-dubai-4-dias-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168926.jpg?v=3</g:image_link>
+      <g:price>552.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
     </item>
 
     <item>
@@ -4490,24 +4490,6 @@
       <g:custom_label_2>23 Sep 2026</g:custom_label_2>
       <g:custom_label_3>28 Sep 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>58168932</g:id>
-      <title>Or715 - Dubai 5 Dias 26/27</title>
-      <description>OR715 - DUBAI 5 DIAS 26/27 from US$645</description>
-      <g:title>Or715 - Dubai 5 Dias 26/27</g:title>
-      <g:description>OR715 - DUBAI 5 DIAS 26/27 from US$645</g:description>
-      <g:link>https://www.estropical.com/en/idea/58168932/or715-dubai-5-dias-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168932.jpg?v=3</g:image_link>
-      <g:price>645.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
     </item>
 
     <item>
@@ -5261,6 +5243,24 @@
       <g:custom_label_1>Caribe</g:custom_label_1>
       <g:custom_label_2>9 Oct 2026</g:custom_label_2>
       <g:custom_label_3>14 Oct 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>58168932</g:id>
+      <title>Or715 - Dubai 5 Dias 26/27</title>
+      <description>OR715 - DUBAI 5 DIAS 26/27 from US$749</description>
+      <g:title>Or715 - Dubai 5 Dias 26/27</g:title>
+      <g:description>OR715 - DUBAI 5 DIAS 26/27 from US$749</g:description>
+      <g:link>https://www.estropical.com/en/idea/58168932/or715-dubai-5-dias-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168932.jpg?v=3</g:image_link>
+      <g:price>749.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
     </item>
 
     <item>
@@ -6236,24 +6236,6 @@
     </item>
 
     <item>
-      <g:id>58168941</g:id>
-      <title>Or711 - Combinado Dubai - Abu Dhabi 26/27</title>
-      <description>OR711 - COMBINADO DUBAI - ABU DHABI 26/27 from US$921</description>
-      <g:title>Or711 - Combinado Dubai - Abu Dhabi 26/27</g:title>
-      <g:description>OR711 - COMBINADO DUBAI - ABU DHABI 26/27 from US$921</g:description>
-      <g:link>https://www.estropical.com/en/idea/58168941/or711-combinado-dubai-abu-dhabi-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168941.jpg?v=3</g:image_link>
-      <g:price>921.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>57849815</g:id>
       <title>Año Nuevo en Sao Paulo</title>
       <description>Año Nuevo en Sao Paulo from US$928</description>
@@ -6913,6 +6895,24 @@
     </item>
 
     <item>
+      <g:id>58168941</g:id>
+      <title>Or711 - Combinado Dubai - Abu Dhabi 26/27</title>
+      <description>OR711 - COMBINADO DUBAI - ABU DHABI 26/27 from US$1,044</description>
+      <g:title>Or711 - Combinado Dubai - Abu Dhabi 26/27</g:title>
+      <g:description>OR711 - COMBINADO DUBAI - ABU DHABI 26/27 from US$1,044</g:description>
+      <g:link>https://www.estropical.com/en/idea/58168941/or711-combinado-dubai-abu-dhabi-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168941.jpg?v=3</g:image_link>
+      <g:price>1044.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
+    </item>
+
+    <item>
       <g:id>61479086</g:id>
       <title>Copenhagen, Stockholm (2027)</title>
       <description>Copenhagen, Stockholm (2027) from US$1,047</description>
@@ -7300,24 +7300,6 @@
       <g:custom_label_2>19 Aug 2026</g:custom_label_2>
       <g:custom_label_3>24 Aug 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>58168959</g:id>
-      <title>Or709 - Emiratos Arabes Unidos Dubai 26/27</title>
-      <description>OR709 - EMIRATOS ARABES UNIDOS DUBAI 26/27 from US$1,099</description>
-      <g:title>Or709 - Emiratos Arabes Unidos Dubai 26/27</g:title>
-      <g:description>OR709 - EMIRATOS ARABES UNIDOS DUBAI 26/27 from US$1,099</g:description>
-      <g:link>https://www.estropical.com/en/idea/58168959/or709-emiratos-arabes-unidos-dubai-26-27</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168959.jpg?v=3</g:image_link>
-      <g:price>1099.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
-      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Asia</g:custom_label_1>
     </item>
 
     <item>
@@ -8483,6 +8465,24 @@
       <g:custom_label_2>10 Oct 2026</g:custom_label_2>
       <g:custom_label_3>15 Oct 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>58168959</g:id>
+      <title>Or709 - Emiratos Arabes Unidos Dubai 26/27</title>
+      <description>OR709 - EMIRATOS ARABES UNIDOS DUBAI 26/27 from US$1,289</description>
+      <g:title>Or709 - Emiratos Arabes Unidos Dubai 26/27</g:title>
+      <g:description>OR709 - EMIRATOS ARABES UNIDOS DUBAI 26/27 from US$1,289</g:description>
+      <g:link>https://www.estropical.com/en/idea/58168959/or709-emiratos-arabes-unidos-dubai-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58168959.jpg?v=3</g:image_link>
+      <g:price>1289.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Asia</g:product_type>
+      <g:item_group_id>PAQUETE-ASIA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Asia</g:custom_label_1>
     </item>
 
     <item>
