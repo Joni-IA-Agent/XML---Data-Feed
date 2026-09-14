@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-13 14:15 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-13T14:15:21.384948Z)
+  Generated : 2026-09-14 16:21 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-14T16:21:38.955292Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -1557,7 +1557,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1573,11 +1573,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa Indonesia</title>
-      <description>Visa Indonesia from US$78</description>
-      <g:title>Visa Indonesia</g:title>
-      <g:description>Visa Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
+      <title>Visa a Indonesia</title>
+      <description>Visa a Indonesia from US$78</description>
+      <g:title>Visa a Indonesia</g:title>
+      <g:description>Visa a Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -9406,24 +9406,6 @@
     </item>
 
     <item>
-      <g:id>58169019</g:id>
-      <title>Lo Mejor de India 2026</title>
-      <description>MM801 LO MEJOR DE INDIA 2026 from US$1,443</description>
-      <g:title>Lo Mejor de India 2026</g:title>
-      <g:description>MM801 LO MEJOR DE INDIA 2026 from US$1,443</g:description>
-      <g:link>https://www.estropical.com/en/idea/58169019/mm801-lo-mejor-de-india-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169019.jpg?v=3</g:image_link>
-      <g:price>1443.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>61480997</g:id>
       <title>Washington and New York (2027)</title>
       <description>Washington and New York (2027) from US$1,444</description>
@@ -9779,6 +9761,27 @@
       <g:custom_label_2>20 Aug 2026</g:custom_label_2>
       <g:custom_label_3>24 Aug 2026</g:custom_label_3>
       <g:custom_label_4>4 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>62076533</g:id>
+      <title>Carnaval en San Andrés</title>
+      <description>Carnaval en San Andrés from US$1,476</description>
+      <g:title>Carnaval en San Andrés</g:title>
+      <g:description>Carnaval en San Andrés from US$1,476</g:description>
+      <g:link>https://www.estropical.com/en/idea/62076533/carnaval-en-san-andres</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/62076533.jpg?v=3</g:image_link>
+      <g:price>1476.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>4 Feb 2027</g:custom_label_2>
+      <g:custom_label_3>10 Feb 2027</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
   </channel>
