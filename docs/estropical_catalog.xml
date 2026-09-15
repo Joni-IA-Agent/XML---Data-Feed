@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-14 16:21 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-14T16:21:38.955292Z)
+  Generated : 2026-09-15 14:51 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-15T14:51:21.599085Z)
   Total     : 495 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -2014,25 +2014,6 @@
     </item>
 
     <item>
-      <g:id>63100036</g:id>
-      <title>San Javier + Concepcion 2d/1n ( September 26th Package)</title>
-      <description>SAN JAVIER + CONCEPCION 2D/1N ( September 26th Package) from US$133</description>
-      <g:title>San Javier + Concepcion 2d/1n ( September 26th Package)</g:title>
-      <g:description>SAN JAVIER + CONCEPCION 2D/1N ( September 26th Package) from US$133</g:description>
-      <g:link>https://www.estropical.com/en/idea/63100036/san-javier-concepcion-2d-1n-september-26th-package-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63100036.jpg?v=3</g:image_link>
-      <g:price>133.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_4>1 noches</g:custom_label_4>
-    </item>
-
-    <item>
       <g:id>53469148</g:id>
       <title>Visita el Parque Xenses Desde Cancún</title>
       <description>Visita el Parque Xenses desde Cancún from US$139</description>
@@ -2050,6 +2031,25 @@
       <g:custom_label_1>Caribe</g:custom_label_1>
       <g:custom_label_2>16 Sep 2026</g:custom_label_2>
       <g:custom_label_3>17 Sep 2026</g:custom_label_3>
+    </item>
+
+    <item>
+      <g:id>63100036</g:id>
+      <title>San Javier + Concepcion 2d/1n ( September 26th Package)</title>
+      <description>SAN JAVIER + CONCEPCION 2D/1N ( September 26th Package) from US$139</description>
+      <g:title>San Javier + Concepcion 2d/1n ( September 26th Package)</g:title>
+      <g:description>SAN JAVIER + CONCEPCION 2D/1N ( September 26th Package) from US$139</g:description>
+      <g:link>https://www.estropical.com/en/idea/63100036/san-javier-concepcion-2d-1n-september-26th-package-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63100036.jpg?v=3</g:image_link>
+      <g:price>139.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_4>1 noches</g:custom_label_4>
     </item>
 
     <item>
