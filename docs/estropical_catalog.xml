@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-18 14:16 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-18T14:16:24.597333Z)
-  Total     : 427 products
+  Generated : 2026-09-19 13:51 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-19T13:51:26.970264Z)
+  Total     : 430 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
@@ -1557,7 +1557,7 @@
       <description>Visa India from US$78</description>
       <g:title>Visa India</g:title>
       <g:description>Visa India from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504681/visa-india</g:link>
+      <g:link>https://www.estropical.com/en/idea/42504681/-visa-india</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504681.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -1573,11 +1573,11 @@
 
     <item>
       <g:id>42504588</g:id>
-      <title>Visa a Indonesia</title>
-      <description>Visa a Indonesia from US$78</description>
-      <g:title>Visa a Indonesia</g:title>
-      <g:description>Visa a Indonesia from US$78</g:description>
-      <g:link>https://www.estropical.com/en/idea/42504588/visa-a-indonesia</g:link>
+      <title>Visa Indonesia</title>
+      <description>Visa Indonesia from US$78</description>
+      <g:title>Visa Indonesia</g:title>
+      <g:description>Visa Indonesia from US$78</g:description>
+      <g:link>https://www.estropical.com/en/idea/42504588/-visa-indonesia</g:link>
       <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/42504588.jpg?v=3</g:image_link>
       <g:price>78.00 USD</g:price>
       <g:availability>in stock</g:availability>
@@ -2034,6 +2034,25 @@
     </item>
 
     <item>
+      <g:id>63100036</g:id>
+      <title>San Javier + Concepcion 2d/1n ( September 26th Package)</title>
+      <description>SAN JAVIER + CONCEPCION 2D/1N ( September 26th Package) from US$139</description>
+      <g:title>San Javier + Concepcion 2d/1n ( September 26th Package)</g:title>
+      <g:description>SAN JAVIER + CONCEPCION 2D/1N ( September 26th Package) from US$139</g:description>
+      <g:link>https://www.estropical.com/en/idea/63100036/san-javier-concepcion-2d-1n-september-26th-package-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63100036.jpg?v=3</g:image_link>
+      <g:price>139.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_4>1 noches</g:custom_label_4>
+    </item>
+
+    <item>
       <g:id>32447946</g:id>
       <title>Actividad en la Paz | Excursión Copacabana e Isla del Sol</title>
       <description>Actividad en la  Paz | Excursión Copacabana e Isla del Sol from US$144</description>
@@ -2071,25 +2090,6 @@
       <g:custom_label_1>Internacional</g:custom_label_1>
       <g:custom_label_2>16 Sep 2026</g:custom_label_2>
       <g:custom_label_3>16 Sep 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>63100036</g:id>
-      <title>San Javier + Concepcion 2d/1n ( September 26th Package)</title>
-      <description>SAN JAVIER + CONCEPCION 2D/1N ( September 26th Package) from US$153</description>
-      <g:title>San Javier + Concepcion 2d/1n ( September 26th Package)</g:title>
-      <g:description>SAN JAVIER + CONCEPCION 2D/1N ( September 26th Package) from US$153</g:description>
-      <g:link>https://www.estropical.com/en/idea/63100036/san-javier-concepcion-2d-1n-september-26th-package-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/63100036.jpg?v=3</g:image_link>
-      <g:price>153.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_4>1 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -7261,6 +7261,24 @@
     </item>
 
     <item>
+      <g:id>64110454</g:id>
+      <title>Oslo, Stockholm and Helsinki (2027)</title>
+      <description>Oslo, Stockholm and Helsinki (2027) from US$1,089</description>
+      <g:title>Oslo, Stockholm and Helsinki (2027)</g:title>
+      <g:description>Oslo, Stockholm and Helsinki (2027) from US$1,089</g:description>
+      <g:link>https://www.estropical.com/en/idea/64110454/oslo-stockholm-and-helsinki-2027-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/64110454.jpg?v=3</g:image_link>
+      <g:price>1089.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
       <g:id>35275131</g:id>
       <title>Oslo, Stockholm and Helsinki (2026)</title>
       <description>Oslo, Stockholm and Helsinki (2026) from US$1,089</description>
@@ -7815,26 +7833,6 @@
     </item>
 
     <item>
-      <g:id>55954744</g:id>
-      <title>Boleto a Punta Cana | Salida 19 Al 25 de Septiembre 2026</title>
-      <description>Boleto a Punta Cana | Salida 19 al 25 de Septiembre 2026 from US$1,180</description>
-      <g:title>Boleto a Punta Cana | Salida 19 Al 25 de Septiembre 2026</g:title>
-      <g:description>Boleto a Punta Cana | Salida 19 al 25 de Septiembre 2026 from US$1,180</g:description>
-      <g:link>https://www.estropical.com/en/idea/55954744/boleto-a-punta-cana-salida-19-al-25-de-septiembre-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55954744.jpg?v=3</g:image_link>
-      <g:price>1180.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Vuelos &gt; Caribe</g:product_type>
-      <g:item_group_id>VUELO-CARIBE</g:item_group_id>
-      <g:custom_label_0>Vuelo</g:custom_label_0>
-      <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>19 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>26 Sep 2026</g:custom_label_3>
-    </item>
-
-    <item>
       <g:id>53083420</g:id>
       <title>Paquete a Rio de Janeiro Desde la Paz</title>
       <description>Paquete a Rio de Janeiro desde La Paz from US$1,183</description>
@@ -8168,6 +8166,24 @@
     </item>
 
     <item>
+      <g:id>64110715</g:id>
+      <title>Vienna, with Its Czech Stories and Castles (2027)</title>
+      <description>Vienna, with its Czech stories and castles (2027) from US$1,239</description>
+      <g:title>Vienna, with Its Czech Stories and Castles (2027)</g:title>
+      <g:description>Vienna, with its Czech stories and castles (2027) from US$1,239</g:description>
+      <g:link>https://www.estropical.com/en/idea/64110715/vienna-with-its-czech-stories-and-castles-2027-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/64110715.jpg?v=3</g:image_link>
+      <g:price>1239.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
       <g:id>61480262</g:id>
       <title>Morocco, From Tangier To Marrakech (2027)</title>
       <description>Morocco, from Tangier to Marrakech (2027) from US$1,239</description>
@@ -8375,6 +8391,42 @@
       <g:custom_label_2>17 Jun 2026</g:custom_label_2>
       <g:custom_label_3>22 Jun 2026</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
+    </item>
+
+    <item>
+      <g:id>64109821</g:id>
+      <title>Bohemia and Moravia (2027)</title>
+      <description>Bohemia and Moravia (2027) from US$1,250</description>
+      <g:title>Bohemia and Moravia (2027)</g:title>
+      <g:description>Bohemia and Moravia (2027) from US$1,250</g:description>
+      <g:link>https://www.estropical.com/en/idea/64109821/bohemia-and-moravia-2027-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/64109821.jpg?v=3</g:image_link>
+      <g:price>1250.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>64110685</g:id>
+      <title>Czech Triangle (2027)</title>
+      <description>Czech Triangle (2027) from US$1,251</description>
+      <g:title>Czech Triangle (2027)</g:title>
+      <g:description>Czech Triangle (2027) from US$1,251</g:description>
+      <g:link>https://www.estropical.com/en/idea/64110685/czech-triangle-2027-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/64110685.jpg?v=3</g:image_link>
+      <g:price>1251.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
     </item>
 
     <item>
