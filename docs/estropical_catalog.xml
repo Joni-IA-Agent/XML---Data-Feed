@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-09-19 13:51 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-09-19T13:51:26.970264Z)
+  Generated : 2026-09-20 14:06 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-09-20T14:06:37.310255Z)
   Total     : 430 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -7441,6 +7441,24 @@
     </item>
 
     <item>
+      <g:id>35273220</g:id>
+      <title>From Athens To Sofia (2026)</title>
+      <description>From Athens to Sofia (2026) from US$1,103</description>
+      <g:title>From Athens To Sofia (2026)</g:title>
+      <g:description>From Athens to Sofia (2026) from US$1,103</g:description>
+      <g:link>https://www.estropical.com/en/idea/35273220/from-athens-to-sofia-2026-</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/35273220.jpg?v=3</g:image_link>
+      <g:price>1103.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
       <g:id>61199267</g:id>
       <title>Ib130 - Oporto y Lisboa 2027</title>
       <description>IB130 - OPORTO Y LISBOA 2027 from US$1,105</description>
@@ -7597,26 +7615,6 @@
       <g:custom_label_1>Caribe</g:custom_label_1>
       <g:custom_label_2>22 Sep 2026</g:custom_label_2>
       <g:custom_label_3>29 Sep 2026</g:custom_label_3>
-    </item>
-
-    <item>
-      <g:id>55890551</g:id>
-      <title>Boleto a Punta Cana | Salida 20 Al 26 de Septiembre 2026</title>
-      <description>Boleto a Punta Cana | Salida 20 al 26 de Septiembre 2026 from US$1,141</description>
-      <g:title>Boleto a Punta Cana | Salida 20 Al 26 de Septiembre 2026</g:title>
-      <g:description>Boleto a Punta Cana | Salida 20 al 26 de Septiembre 2026 from US$1,141</g:description>
-      <g:link>https://www.estropical.com/en/idea/55890551/boleto-a-punta-cana-salida-20-al-26-de-septiembre-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/55890551.jpg?v=3</g:image_link>
-      <g:price>1141.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Vuelos &gt; Caribe</g:product_type>
-      <g:item_group_id>VUELO-CARIBE</g:item_group_id>
-      <g:custom_label_0>Vuelo</g:custom_label_0>
-      <g:custom_label_1>Caribe</g:custom_label_1>
-      <g:custom_label_2>20 Sep 2026</g:custom_label_2>
-      <g:custom_label_3>27 Sep 2026</g:custom_label_3>
     </item>
 
     <item>
