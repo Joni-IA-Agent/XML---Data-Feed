@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-10-06 16:42 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-10-06T16:42:42.928279Z)
+  Generated : 2026-10-07 17:26 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-10-07T17:26:59.150540Z)
   Total     : 499 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -4831,24 +4831,6 @@
     </item>
 
     <item>
-      <g:id>62548555</g:id>
-      <title>Visita Papal</title>
-      <description>VISITA PAPAL  from US$712</description>
-      <g:title>Visita Papal</g:title>
-      <g:description>VISITA PAPAL  from US$712</g:description>
-      <g:link>https://www.estropical.com/en/idea/62548555/visita-papal</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/62548555.jpg?v=3</g:image_link>
-      <g:price>712.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>61479509</g:id>
       <title>Special Washington End Ny (2027)</title>
       <description>Special Washington end NY (2027) from US$713</description>
@@ -8371,24 +8353,6 @@
     </item>
 
     <item>
-      <g:id>45986357</g:id>
-      <title>Cuba Express (2026)</title>
-      <description>Cuba Express (2026) from US$1,211</description>
-      <g:title>Cuba Express (2026)</g:title>
-      <g:description>Cuba Express (2026) from US$1,211</g:description>
-      <g:link>https://www.estropical.com/en/idea/45986357/cuba-express-2026-</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/45986357.jpg?v=3</g:image_link>
-      <g:price>1211.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-    </item>
-
-    <item>
       <g:id>58168983</g:id>
       <title>Ib170 - Marruecos Espectacular 1 26/27</title>
       <description>IB170 - MARRUECOS ESPECTACULAR 1 26/27 from US$1,215</description>
@@ -9325,6 +9289,24 @@
     </item>
 
     <item>
+      <g:id>58169004</g:id>
+      <title>Safari Sudafricano 26/27</title>
+      <description>MM889 SAFARI SUDAFRICANO 26/27 from US$1,320</description>
+      <g:title>Safari Sudafricano 26/27</g:title>
+      <g:description>MM889 SAFARI SUDAFRICANO 26/27 from US$1,320</g:description>
+      <g:link>https://www.estropical.com/en/idea/58169004/mm889-safari-sudafricano-26-27</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169004.jpg?v=3</g:image_link>
+      <g:price>1320.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
       <g:id>58168971</g:id>
       <title>Or700 - Egipto Karnak 26/27</title>
       <description>OR700 - EGIPTO KARNAK 26/27 from US$1,320</description>
@@ -9885,6 +9867,27 @@
       <g:item_group_id>PAQUETE-CENTROAMERICA</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Centroamérica</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>57850109</g:id>
+      <title>Año Nuevo en Guaruja</title>
+      <description>Año Nuevo en Guaruja from US$1,412</description>
+      <g:title>Año Nuevo en Guaruja</g:title>
+      <g:description>Año Nuevo en Guaruja from US$1,412</g:description>
+      <g:link>https://www.estropical.com/en/idea/57850109/ano-nuevo-en-guaruja</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57850109.jpg?v=3</g:image_link>
+      <g:price>1412.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
+      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Internacional</g:custom_label_1>
+      <g:custom_label_2>30 Dec 2026</g:custom_label_2>
+      <g:custom_label_3>4 Jan 2027</g:custom_label_3>
+      <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
   </channel>
