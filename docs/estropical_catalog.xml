@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Estropical.com Product Catalog
-  Generated : 2026-10-08 17:24 UTC
-  Source    : .tmp/products_raw.json (scraped 2026-10-08T17:24:18.036107Z)
+  Generated : 2026-10-09 17:00 UTC
+  Source    : .tmp/products_raw.json (scraped 2026-10-09T17:00:40.329653Z)
   Total     : 499 products
   Platforms : Google Merchant Center, Meta Ads, TikTok Ads
 -->
@@ -2955,6 +2955,26 @@
     </item>
 
     <item>
+      <g:id>65818335</g:id>
+      <title>Boleto Ida y Vuelta a Río de Janeiro Desde Santa Cruz</title>
+      <description>Boleto ida y vuelta a Río de Janeiro desde Santa Cruz from US$423</description>
+      <g:title>Boleto Ida y Vuelta a Río de Janeiro Desde Santa Cruz</g:title>
+      <g:description>Boleto ida y vuelta a Río de Janeiro desde Santa Cruz from US$423</g:description>
+      <g:link>https://www.estropical.com/en/idea/65818335/boleto-ida-y-vuelta-a-rio-de-janeiro-desde-santa-cruz</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/65818335.jpg?v=3</g:image_link>
+      <g:price>423.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Vuelos &gt; Sudamérica</g:product_type>
+      <g:item_group_id>VUELO-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Vuelo</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>14 Mar 2027</g:custom_label_2>
+      <g:custom_label_3>19 Mar 2027</g:custom_label_3>
+    </item>
+
+    <item>
       <g:id>44731149</g:id>
       <title>Concierto de Bruno Mars | París</title>
       <description>Concierto de Bruno Mars | París from US$424</description>
@@ -4247,6 +4267,27 @@
       <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
       <g:custom_label_0>Paquete</g:custom_label_0>
       <g:custom_label_1>Internacional</g:custom_label_1>
+    </item>
+
+    <item>
+      <g:id>65804238</g:id>
+      <title>Viaja por Menos de Usd 627 a Buenos Aires</title>
+      <description>Viaja por menos de USD 627 a Buenos Aires from US$632</description>
+      <g:title>Viaja por Menos de Usd 627 a Buenos Aires</g:title>
+      <g:description>Viaja por menos de USD 627 a Buenos Aires from US$632</g:description>
+      <g:link>https://www.estropical.com/en/idea/65804238/viaja-por-menos-de-usd-627-a-buenos-aires</g:link>
+      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/65804238.jpg?v=3</g:image_link>
+      <g:price>632.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Estropical</g:brand>
+      <g:product_type>Viajes &gt; Paquetes &gt; Sudamérica</g:product_type>
+      <g:item_group_id>PAQUETE-SUDAMERICA</g:item_group_id>
+      <g:custom_label_0>Paquete</g:custom_label_0>
+      <g:custom_label_1>Sudamérica</g:custom_label_1>
+      <g:custom_label_2>19 Mar 2027</g:custom_label_2>
+      <g:custom_label_3>23 Mar 2027</g:custom_label_3>
+      <g:custom_label_4>4 noches</g:custom_label_4>
     </item>
 
     <item>
@@ -9848,45 +9889,6 @@
       <g:custom_label_1>Caribe</g:custom_label_1>
       <g:custom_label_2>17 Apr 2027</g:custom_label_2>
       <g:custom_label_3>23 Apr 2027</g:custom_label_3>
-      <g:custom_label_4>5 noches</g:custom_label_4>
-    </item>
-
-    <item>
-      <g:id>58169010</g:id>
-      <title>Colores de Mexico 2026</title>
-      <description>MM1024 COLORES DE MEXICO 2026 from US$1,412</description>
-      <g:title>Colores de Mexico 2026</g:title>
-      <g:description>MM1024 COLORES DE MEXICO 2026 from US$1,412</g:description>
-      <g:link>https://www.estropical.com/en/idea/58169010/mm1024-colores-de-mexico-2026</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/58169010.jpg?v=3</g:image_link>
-      <g:price>1412.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Centroamérica</g:product_type>
-      <g:item_group_id>PAQUETE-CENTROAMERICA</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Centroamérica</g:custom_label_1>
-    </item>
-
-    <item>
-      <g:id>57850109</g:id>
-      <title>Año Nuevo en Guaruja</title>
-      <description>Año Nuevo en Guaruja from US$1,412</description>
-      <g:title>Año Nuevo en Guaruja</g:title>
-      <g:description>Año Nuevo en Guaruja from US$1,412</g:description>
-      <g:link>https://www.estropical.com/en/idea/57850109/ano-nuevo-en-guaruja</g:link>
-      <g:image_link>https://joni-ia-agent.github.io/XML---Data-Feed/images/57850109.jpg?v=3</g:image_link>
-      <g:price>1412.00 USD</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Estropical</g:brand>
-      <g:product_type>Viajes &gt; Paquetes &gt; Internacional</g:product_type>
-      <g:item_group_id>PAQUETE-INTERNACIONAL</g:item_group_id>
-      <g:custom_label_0>Paquete</g:custom_label_0>
-      <g:custom_label_1>Internacional</g:custom_label_1>
-      <g:custom_label_2>30 Dec 2026</g:custom_label_2>
-      <g:custom_label_3>4 Jan 2027</g:custom_label_3>
       <g:custom_label_4>5 noches</g:custom_label_4>
     </item>
 
